@@ -1,0 +1,8 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "buildCommand": "node build.mjs",
+  "installCommand": "echo skip",
+  "outputDirectory": "public",
+  "framework": null,
+  "ignoreCommand": "git diff --quiet HEAD^ HEAD -- . ':(exclude)data' ':(exclude)README.md'"
+}
