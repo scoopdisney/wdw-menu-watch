@@ -1,0 +1,69 @@
+name: Daily WDW menu scan
+
+on:
+  schedule:
+    # Every 3 hours, anchored on 11:00 UTC (7am Eastern daylight / 6am standard).
+    - cron: '0 2,5,8,11,14,17,20,23 * * *'
+  workflow_dispatch:
+  push:
+    paths-ignore:
+      - 'data/**'
+      - 'README.md'
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: wdw-menu-scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Sweep WDW menus and diff
+        run: node scan.mjs
+
+      - name: Commit snapshot
+        run: |
+          git config user.name "wdw-menu-watch"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --staged --quiet; then
+            echo "Nothing changed in data/"
+          else
+            git commit -m "WDW menu snapshot $(date -u +%Y-%m-%d)"
+            git pull --rebase --autostash
+            git push
+          fi
+
+      - name: Post summary
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ ! -f POST_COMMENT ]; then
+            echo "Quiet run and daily summary already posted today — skipping comment."
+            exit 0
+          fi
+          ISSUE=$(gh issue list --label daily-log --state open --limit 1 --json number --jq '.[0].number // empty')
+          if [ -z "$ISSUE" ]; then
+            gh label create daily-log --color 0e8a16 --description "WDW menu price alerts" || true
+            URL=$(gh issue create \
+              --title "Walt Disney World menu price watch - daily log" \
+              --label daily-log \
+              --body "One summary every day, plus an immediate comment whenever a scan finds a price change, a new/removed item, or a venue failure.")
+            ISSUE=$(basename "$URL")
+          fi
+          {
+            echo "@scoopdisney"
+            echo ""
+            cat summary.md
+          } > comment-body.md
+          gh issue comment "$ISSUE" --body-file comment-body.md

@@ -1,0 +1,8 @@
+{
+  "name": "wdw-menu-watch",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Walt Disney World menu price watch — separate from disney-menu-watch (Disneyland)",
+  "scripts": { "scan": "node scan.mjs", "build": "node build.mjs" }
+}
