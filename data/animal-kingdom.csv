@@ -127,7 +127,7 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-09-08,Flame Tree Barbecue,Disney's Animal Kingdom,"Black Garlic, Truffle, and Parmesan Fries",Sides,Lunch And Dinner,French Fries topped with Black Garlic-Truffle Aïoli and Parmesan,6.99,animal-kingdom/flame-tree-barbecue
 2026-09-08,Flame Tree Barbecue,Disney's Animal Kingdom,French Fries,Sides,Lunch And Dinner,,5.49,animal-kingdom/flame-tree-barbecue
 2026-09-08,Flame Tree Barbecue,Disney's Animal Kingdom,Cornbread,Sides,Lunch And Dinner,,5.49,animal-kingdom/flame-tree-barbecue
-2026-09-08,Flame Tree Barbecue,Disney's Animal Kingdom,Broccoli Salad,Sides,Lunch And Dinner,,4.99,animal-kingdom/flame-tree-barbecue
+2026-09-08,Flame Tree Barbecue,Disney's Animal Kingdom,Broccoli Salad,Sides,Lunch And Dinner,"with Cheddar, Golden Raisins, Bacon, and Alabama White Barbecue Sauce",4.99,animal-kingdom/flame-tree-barbecue
 2026-09-08,Flame Tree Barbecue,Disney's Animal Kingdom,Bug-shaped Graham Crackers,Sides,Lunch And Dinner,,2.29,animal-kingdom/flame-tree-barbecue
 2026-09-08,Flame Tree Barbecue,Disney's Animal Kingdom,A Cuties® Mandarin,Sides,Lunch And Dinner,,1.99,animal-kingdom/flame-tree-barbecue
 2026-09-08,Flame Tree Barbecue,Disney's Animal Kingdom,Baked Chicken Drumstick,Kids' Disney Check Meals,Lunch And Dinner,Served with choice of two Sides and choice of Small Lowfat Milk or Small DASANI® Bottled Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions,8.29,animal-kingdom/flame-tree-barbecue
@@ -624,7 +624,7 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-09-08,Tiffins Restaurant,Disney's Animal Kingdom,Shrimp & Grits,Main Courses,Lunch; Dinner,"Peri Peri Shrimp, South African Mealie Pap with Roasted Corn, Goat Cheese, Green Apple Chutney",42.00,animal-kingdom/tiffins
 2026-09-08,Tiffins Restaurant,Disney's Animal Kingdom,Butter Chicken,Main Courses,Lunch; Dinner,"Samosa, English Peas, Young Squash, Pickled Red Onion",43.00,animal-kingdom/tiffins
 2026-09-08,Tiffins Restaurant,Disney's Animal Kingdom,Oaxacan Pork Duo*,Main Courses,Lunch; Dinner,"Grilled Pork Chop, Peanut Salsa Macha, Sweet Plantain-Chipotle Sauce, Corn Tamal, Smoked Pork Shoulder, Salsa Verde, Cabbage Slaw",52.00,animal-kingdom/tiffins
-2026-09-08,Tiffins Restaurant,Disney's Animal Kingdom,African Pot de Crème,Desserts,Lunch; Dinner,"Chocolate Pot de Crème, Ethiopian Coffee, Ras el Hanout Pineapple, Pistachio, Chocolate Cookie",13.00,animal-kingdom/tiffins
+2026-09-08,Tiffins Restaurant,Disney's Animal Kingdom,Chocolate Travel Cake,Desserts,Lunch; Dinner,"Chocolate-Olive Oil Cake, Fig-Apricot Jam, Milk Chocolate Mousse, Pistachio Praline, Yogurt Kulfi, Basil Sugar",14.00,animal-kingdom/tiffins
 2026-09-08,Tiffins Restaurant,Disney's Animal Kingdom,Caramel Flan,Desserts,Lunch; Dinner,"Cardamom-scented Caramel, Vanilla Chantilly",14.00,animal-kingdom/tiffins
 2026-09-08,Tiffins Restaurant,Disney's Animal Kingdom,Seasonal Sorbet Trio,Desserts,Lunch; Dinner,Tiffins Signature Sorbet Trio (Plant Based),11.00,animal-kingdom/tiffins
 2026-09-08,Tiffins Restaurant,Disney's Animal Kingdom,Fresh Seasonal Fruit,Kid's Appetizers (à la carte),Lunch; Dinner,,5.00,animal-kingdom/tiffins
