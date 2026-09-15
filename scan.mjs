@@ -8,8 +8,7 @@ const current = [];
 const failures = [];
 const counts = new Map();
 
-// WDW has ~300 venues, so fetch a few at a time instead of strictly one by one.
-const CONCURRENCY = Number(process.env.CONCURRENCY || 4);
+const CONCURRENCY = Number(process.env.CONCURRENCY || 3);
 const results = new Array(VENUES.length);
 let next = 0;
 async function worker() {
@@ -89,7 +88,6 @@ for (const [venue, n] of counts) {
 }
 
 await fs.writeFile('data/current.csv', toCsv(current, HEADER));
-// Also split by area so the park files stay a manageable size.
 const PARK_FILES = {
   'magic-kingdom': 'magic-kingdom.csv', 'epcot': 'epcot.csv', 'hollywood-studios': 'hollywood-studios.csv',
   'animal-kingdom': 'animal-kingdom.csv', 'disney-springs': 'disney-springs.csv',
@@ -111,9 +109,6 @@ if (changes.length) {
 
 const money = (c) => `- **${c.Restaurant}** — ${c.Item}: $${c['Old Price']} → $${c['New Price']} (${c.Change > 0 ? '+' : ''}${c.Change}, ${c.Percent})`;
 const lines = [];
-
-// Daily summary marker: post one summary per calendar day regardless of which
-// scheduled slot actually ran (GitHub drifts cron runs), then record the date.
 const lastDaily = ((await readIfExists('data/last-daily.txt')) || '').trim();
 const isDailySlot = lastDaily !== TODAY;
 
