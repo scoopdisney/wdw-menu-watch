@@ -1,15 +1,9 @@
-// Walt Disney World Resort menu price watch (separate from the Disneyland tracker).
-// Sweeps every priced venue Disney's WDW menu API serves (parks, Disney Springs, water parks, resort hotels),
-// diffs against the committed snapshot,
-// appends real price moves to data/price-changes.csv, writes summary.md.
-
 import fs from 'node:fs/promises';
 
 const API = 'https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=';
 
 import { AREA_NAMES, VENUE_LIST } from './venues.mjs';
 
-// Expand the compact list into [slug, parkName, areaSlug] triples.
 export const VENUES = VENUE_LIST.trim().split('\n').flatMap((line) => {
   const [area, slugs] = line.split(':');
   return slugs.trim().split(/\s+/).map((slug) => [slug, AREA_NAMES[area.trim()], area.trim()]);
@@ -69,8 +63,18 @@ export async function readIfExists(p) {
   try { return await fs.readFile(p, 'utf8'); } catch { return null; }
 }
 
+const GAP_MS = Number(process.env.MENU_GAP_MS || 400);
+let nextSlot = 0;
+async function gate() {
+  const now = Date.now();
+  const slot = Math.max(now, nextSlot);
+  nextSlot = slot + GAP_MS;
+  if (slot > now) await new Promise((r) => setTimeout(r, slot - now));
+}
+
 export async function getMenu(slug) {
-  for (let attempt = 1; attempt <= 3; attempt++) {
+  for (let attempt = 1; attempt <= 4; attempt++) {
+    await gate();
     try {
       const res = await fetch(API + slug, {
         headers: {
@@ -79,11 +83,14 @@ export async function getMenu(slug) {
           'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36',
         },
       });
+      if (res.status === 404) throw Object.assign(new Error('HTTP 404'), { fatal: true });
       if (!res.ok) throw new Error('HTTP ' + res.status);
-      return await res.json();
+      const body = await res.text();
+      if (body.trimStart().startsWith('<')) throw new Error('HTML challenge instead of JSON');
+      return JSON.parse(body);
     } catch (err) {
-      if (attempt === 3) throw err;
-      await new Promise((r) => setTimeout(r, 1200 * attempt));
+      if (err.fatal || attempt === 4) throw err;
+      await new Promise((r) => setTimeout(r, 2000 * attempt * attempt));
     }
   }
 }
