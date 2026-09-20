@@ -32,7 +32,7 @@ for (const r of results) {
 const MIN_ROWS = Number(process.env.MIN_ROWS || 12000);
 if (failures.length > 15 || current.length < MIN_ROWS) {
   await fs.mkdir('.', { recursive: true });
-  await fs.writeFile('summary.md', `## Menu scan ${NOW} UTC — ABORTED\n\nOnly ${current.length} rows and ${failures.length} venue failures. Snapshot left untouched.\n\n${failures.map((f) => '- ' + f).join('\n')}\n`);
+  await fs.writeFile('summary.md', `## Menu scan ${new Date().toLocaleString('en-US', { timeZone: 'America/Los_Angeles', weekday: 'short', month: 'short', day: 'numeric', year: 'numeric', hour: 'numeric', minute: '2-digit', timeZoneName: 'short' })} — ABORTED\n\nOnly ${current.length} rows and ${failures.length} venue failures. Snapshot left untouched.\n\n${failures.map((f) => '- ' + f).join('\n')}\n`);
   await fs.writeFile('POST_COMMENT', '1');
   console.log('Aborted: incomplete pull');
   process.exit(0);
@@ -112,7 +112,7 @@ const lines = [];
 const lastDaily = ((await readIfExists('data/last-daily.txt')) || '').trim();
 const isDailySlot = lastDaily !== TODAY;
 
-lines.push(`## Menu scan ${NOW} UTC`);
+lines.push(`## Menu scan ${new Date().toLocaleString('en-US', { timeZone: 'America/Los_Angeles', weekday: 'short', month: 'short', day: 'numeric', year: 'numeric', hour: 'numeric', minute: '2-digit', timeZoneName: 'short' })}`);
 lines.push('');
 lines.push(`${current.length} rows across ${VENUES.length} WDW venues${failures.length ? `, ${failures.length} venue failure(s)` : ', 0 failures'}.`);
 lines.push('');
