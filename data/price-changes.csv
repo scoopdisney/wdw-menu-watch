@@ -63,3 +63,39 @@ Detected,Restaurant,Park,Item,Category,Old Price,New Price,Change,Percent,Source
 2026-09-22 22:45,Rainforest Cafe® at Disney's Animal Kingdom,Disney's Animal Kingdom,Grit Cakes,Sides & Small Plates,5.29,4.99,-0.30,-5.7%,animal-kingdom/rainforest-cafe-animal-kingdom
 2026-09-22 22:45,Rainforest Cafe® at Disney's Animal Kingdom,Disney's Animal Kingdom,Toast,Sides & Small Plates,4.29,3.99,-0.30,-7.0%,animal-kingdom/rainforest-cafe-animal-kingdom
 2026-09-22 22:45,Rainforest Cafe® at Disney's Animal Kingdom,Disney's Animal Kingdom,Two Eggs Your Way*,Sides & Small Plates,5.99,6.29,0.30,5.0%,animal-kingdom/rainforest-cafe-animal-kingdom
+2026-09-23 18:16,Chefs de France,EPCOT,"Blinis de Saumon fumé,sauce à l’aneth *",Appetizers,18.95,19.95,1.00,5.3%,epcot/chefs-de-france
+2026-09-23 18:16,Paddlefish,Disney Springs,Crab Cake,Starters,20.00,21.00,1.00,5.0%,disney-springs/paddlefish
+2026-09-23 18:16,Paddlefish,Disney Springs,Calamari,Starters,19.00,20.00,1.00,5.3%,disney-springs/paddlefish
+2026-09-23 18:16,Paddlefish,Disney Springs,Hokkaido Scallops,Starters,21.00,24.00,3.00,14.3%,disney-springs/paddlefish
+2026-09-23 18:16,Paddlefish,Disney Springs,New England Clam Chowder,Soup & Salad,10.00,12.00,2.00,20.0%,disney-springs/paddlefish
+2026-09-23 18:16,Paddlefish,Disney Springs,Burrata Panzanella,Soup & Salad,20.00,21.00,1.00,5.0%,disney-springs/paddlefish
+2026-09-23 18:16,Paddlefish,Disney Springs,Ahi Poke,Chilled & Raw Seafood,19.00,21.00,2.00,10.5%,disney-springs/paddlefish
+2026-09-23 18:16,Paddlefish,Disney Springs,Crab Ceviche (GF),Chilled & Raw Seafood,19.00,21.00,2.00,10.5%,disney-springs/paddlefish
+2026-09-23 18:16,Paddlefish,Disney Springs,Shrimp Po-Boy,Sandwiches,22.00,23.00,1.00,4.5%,disney-springs/paddlefish
+2026-09-23 18:16,Paddlefish,Disney Springs,Herbed Parmesan Fries,Sides to Share,10.00,12.00,2.00,20.0%,disney-springs/paddlefish
+2026-09-23 18:16,Paddlefish,Disney Springs,Paddlefish - Blonde,Draft,9.00,10.00,1.00,11.1%,disney-springs/paddlefish
+2026-09-23 18:16,Paddlefish,Disney Springs,Stone Delicious - IPA,Draft,9.00,10.00,1.00,11.1%,disney-springs/paddlefish
+2026-09-23 18:16,Paddlefish,Disney Springs,BitBurger - German Pilsner,Draft,9.00,10.00,1.00,11.1%,disney-springs/paddlefish
+2026-09-23 18:16,Paddlefish,Disney Springs,Fat Tire - Belgian-style Ale,American Craft Beers,9.00,11.00,2.00,22.2%,disney-springs/paddlefish
+2026-09-23 18:16,Paddlefish,Disney Springs,Sierra Nevada Hazy Little Thing IPA,American Craft Beers,9.00,11.00,2.00,22.2%,disney-springs/paddlefish
+2026-09-23 18:16,Paddlefish,Disney Springs,Islamorada - Citrus Ale,American Craft Beers,9.00,11.00,2.00,22.2%,disney-springs/paddlefish
+2026-09-23 18:16,Paddlefish,Disney Springs,Lagunitas - IPA,American Craft Beers,9.00,11.00,2.00,22.2%,disney-springs/paddlefish
+2026-09-23 18:16,Paddlefish,Disney Springs,Lost Coast PB Chocolate Milk Stout,American Craft Beers,9.00,11.00,2.00,22.2%,disney-springs/paddlefish
+2026-09-23 18:16,Paddlefish,Disney Springs,Corona,Imported & Domestic,9.00,10.00,1.00,11.1%,disney-springs/paddlefish
+2026-09-23 18:16,Paddlefish,Disney Springs,Guinness,Imported & Domestic,9.00,10.00,1.00,11.1%,disney-springs/paddlefish
+2026-09-23 18:16,Paddlefish,Disney Springs,Heineken,Imported & Domestic,9.00,10.00,1.00,11.1%,disney-springs/paddlefish
+2026-09-23 18:16,Paddlefish,Disney Springs,Modelo Especial,Imported & Domestic,9.00,10.00,1.00,11.1%,disney-springs/paddlefish
+2026-09-23 18:16,Paddlefish,Disney Springs,Stella Artois – Pilsner,Imported & Domestic,9.00,10.00,1.00,11.1%,disney-springs/paddlefish
+2026-09-23 18:16,Paddlefish,Disney Springs,Mahi,From the Port,32.00,35.00,3.00,9.4%,disney-springs/paddlefish
+2026-09-23 18:16,The Basket at Wine Bar George,Disney Springs,House-made Hummus,Bites To-Go,14.00,15.00,1.00,7.1%,disney-springs/the-basket
+2026-09-23 18:16,The Basket at Wine Bar George,Disney Springs,House-Made Meatballs,Bites To-Go,16.00,17.00,1.00,6.3%,disney-springs/the-basket
+2026-09-23 18:16,Wine Bar George – A Restaurant & Bar,Disney Springs,Yogurt Parfait,Wine Country Brunch Small Plates (Available Saturday & Sunday 10:30am - 2pm),10.00,12.00,2.00,20.0%,disney-springs/wine-bar-george
+2026-09-23 18:16,Wine Bar George – A Restaurant & Bar,Disney Springs,Seasonal Puff Tart,Wine Country Brunch Small Plates (Available Saturday & Sunday 10:30am - 2pm),11.00,12.00,1.00,9.1%,disney-springs/wine-bar-george
+2026-09-23 18:16,Wine Bar George – A Restaurant & Bar,Disney Springs,Sausage Gravy and Biscuits,Wine Country Brunch Main Plates (Available Saturday & Sunday 10:30am - 2pm),18.00,19.00,1.00,5.6%,disney-springs/wine-bar-george
+2026-09-23 18:16,Wine Bar George – A Restaurant & Bar,Disney Springs,Steak and Eggs*,Wine Country Brunch Main Plates (Available Saturday & Sunday 10:30am - 2pm),26.00,28.00,2.00,7.7%,disney-springs/wine-bar-george
+2026-09-23 18:16,Wine Bar George – A Restaurant & Bar,Disney Springs,Pork Belly,Small Plates,18.00,19.00,1.00,5.6%,disney-springs/wine-bar-george
+2026-09-23 18:16,Wine Bar George – A Restaurant & Bar,Disney Springs,Five-Onion Dip,Small Plates,8.00,9.00,1.00,12.5%,disney-springs/wine-bar-george
+2026-09-23 18:16,Wine Bar George – A Restaurant & Bar,Disney Springs,Steak Frites*,Main Plates (Available Monday - Friday 12:00pm - 3:00pm),24.00,26.00,2.00,8.3%,disney-springs/wine-bar-george
+2026-09-23 18:16,Wine Bar George – A Restaurant & Bar,Disney Springs,Smash Burger,Main Plates (Available Monday - Friday 12:00pm - 3:00pm),18.00,20.00,2.00,11.1%,disney-springs/wine-bar-george
+2026-09-23 18:16,Wine Bar George – A Restaurant & Bar,Disney Springs,Lamb Chops*,Small Plates,34.00,42.00,8.00,23.5%,disney-springs/wine-bar-george
+2026-09-23 18:16,Wine Bar George – A Restaurant & Bar,Disney Springs,Grilled Ribeye* (16 oz),Main Plates,64.00,68.00,4.00,6.3%,disney-springs/wine-bar-george

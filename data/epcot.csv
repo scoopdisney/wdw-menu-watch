@@ -55,8 +55,6 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-09-23,Connections Eatery,EPCOT,BBQ Braai Chicken Pizza,Food and Wine Festival Offerings,Lunch And Dinner,"with Tamarind BBQ, Arugula, Onions, and Piri Piri Sauce",12.29,epcot/connections-eatery
 2026-09-23,Connections Eatery,EPCOT,Caramel-Apple Cheesecake Baumkuchen,Food and Wine Festival Offerings,Lunch And Dinner,,6.49,epcot/connections-eatery
 2026-09-23,Connections Eatery,EPCOT,Frozen Waffle Old Fashioned,Food and Wine Festival Offerings with Alcohol,Lunch And Dinner,"A frozen blend of Maker’s Mark Kentucky Straight Bourbon Whisky, Maple Syrup, Butterscotch Syrup, and Angostura Bitters topped with a Liege Waffle and Cherry",17.50,epcot/connections-eatery
-2026-09-23,Connections Eatery,EPCOT,Supernova Sip,Featured Offerings,Lunch And Dinner,"Spicy Hot Honey Syrup, Lemon Juice, Edible Glitter topped with Orange Cotton Candy and Maker's Mark Kentucky Straight Bourbon",17.00,epcot/connections-eatery
-2026-09-23,Connections Eatery,EPCOT,Supernova Sip,Featured Offerings,Lunch And Dinner,"Spicy Hot Honey Syrup, Lemon Juice, Edible Glitter topped with Orange Cotton Candy",6.49,epcot/connections-eatery
 2026-09-23,Connections Eatery,EPCOT,Annual Passholder Tumbler,Annual Passholder Exclusive,Lunch And Dinner,Served with choice of Fountain Beverage. Not valid for refills.,14.79,epcot/connections-eatery
 2026-09-23,Connections Eatery,EPCOT,American Classic Cheeseburger,Burgers and Chicken,Lunch And Dinner,"Gourmet Beef Blend, Lettuce, Pickle, Tomato, Applewood-smoked Bacon, Cheddar",14.99,epcot/connections-eatery
 2026-09-23,Connections Eatery,EPCOT,Hand-breaded Chicken Sandwich,Burgers and Chicken,Lunch And Dinner,Pickles and Zesty Sauce,13.19,epcot/connections-eatery
@@ -216,15 +214,15 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-09-23,Chefs de France,EPCOT,Soupe à l’oignon gratinée (French Onion Soup),Appetizers,Lunch; Dinner,French Onion Soup topped with Gruyère cheese,13.95,epcot/chefs-de-france
 2026-09-23,Chefs de France,EPCOT,Salade de Saison,Appetizers,Lunch; Dinner,"Mixed Greens, house vinaigrette, cherry tomatoes, cucumbers, croutons",12.95,epcot/chefs-de-france
 2026-09-23,Chefs de France,EPCOT,Salade de betteraves et chévre frais,Appetizers,Lunch; Dinner,"Beets, arugula, goat cheese, balsamic vinaigrette, lemon zest, croutons",15.95,epcot/chefs-de-france
-2026-09-23,Chefs de France,EPCOT,"Blinis de Saumon fumé,sauce à l’aneth *",Appetizers,Lunch; Dinner,"Smoked salmon, house made blini, mixed greens, dill cream",18.95,epcot/chefs-de-france
+2026-09-23,Chefs de France,EPCOT,"Blinis de Saumon fumé,sauce à l’aneth *",Appetizers,Lunch; Dinner,"Smoked salmon, house made blini, mixed greens, dill cream",19.95,epcot/chefs-de-france
 2026-09-23,Chefs de France,EPCOT,"Fruits de la Mer, tarte aux èpinard, sauce au homard",Entrées,Lunch; Dinner,"Gulf shrimp, sea scallops, spinach pastry, creamy lobster sauce",39.95,epcot/chefs-de-france
 2026-09-23,Chefs de France,EPCOT,"Filet de saumon, riz pilaf, sauce beurre blanc",Entrées,Lunch; Dinner,"Seared Salmon, rice pilaf, sweet peas and carrots, beurre blanc sauce",38.95,epcot/chefs-de-france
 2026-09-23,Chefs de France,EPCOT,Gratin de macaroni,Entrées,Lunch; Dinner,Macaroni baked with cream and Gruyère cheese,26.95,epcot/chefs-de-france
 2026-09-23,Chefs de France,EPCOT,Ratatouille Provençale,Entrées,Lunch; Dinner,"Ratatouille, olive vinaigrette, basil, tomato sauce (Plant-based)",28.95,epcot/chefs-de-france
-2026-09-23,Chefs de France,EPCOT,"Jarret de Proc Braise, ragout de lentilles de puy, petit oignons",Entrées,Lunch; Dinner,"Braised heritage pork shank, lentil ragu, pearl onions",39.95,epcot/chefs-de-france
-2026-09-23,Chefs de France,EPCOT,Poulet au Vinaigre,Entrées,Lunch; Dinner,"Airline chicken breast, shallot and red vinegar sauce, tarragon, potato puree",39.95,epcot/chefs-de-france
+2026-09-23,Chefs de France,EPCOT,Le Croissant du Boucher*,Entrées,Lunch; Dinner,"Angus ground beef, alpine cheese, onion con t, mustard aioli, croissant bun",29.95,epcot/chefs-de-france
+2026-09-23,Chefs de France,EPCOT,Supreme de poulet rôti,Entrées,Lunch; Dinner,"Roasted Chicken supreme, shallot & Merlot vinegar reduction, potato purée",39.95,epcot/chefs-de-france
 2026-09-23,Chefs de France,EPCOT,Boeuf Bourguignon,Entrées,Lunch; Dinner,"Braised beef in Cabernet, pearl onions, carrots, mushrooms, linguine pasta",39.95,epcot/chefs-de-france
-2026-09-23,Chefs de France,EPCOT,"Steak Frites, entrecote grillé, pommes frites, sauce bérnaise *",Entrées,Lunch; Dinner,"Grilled Strip Loin, french fries, béarnaise sauce",55.95,epcot/chefs-de-france
+2026-09-23,Chefs de France,EPCOT,"Filet de Boeuf, Sauce Au poivre *",Entrées,Lunch; Dinner,"Filet Mignon, bacon wrapped asparagus, potato au gratin, peppercorn sauce",58.95,epcot/chefs-de-france
 2026-09-23,Chefs de France,EPCOT,Plateau de fromages et charcuteries,Entrées,Lunch; Dinner,"Imported cheeses, charcuteries, house made walnut currant bread",40.95,epcot/chefs-de-france
 2026-09-23,Chefs de France,EPCOT,Crème Brûlée,Desserts,Lunch; Dinner,Vanilla Crème Brûlée,13.95,epcot/chefs-de-france
 2026-09-23,Chefs de France,EPCOT,"Gateau aux 3 chocolats, glace a la vanille",Desserts,Lunch; Dinner,"Three layered chocolate mousse cake, vanilla ice cream",14.95,epcot/chefs-de-france
