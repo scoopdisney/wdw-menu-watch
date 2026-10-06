@@ -1,7 +1,7 @@
 Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-10-06,Connections Café,EPCOT,Pistachio-Chocolate Mochi Doughnut,Food & Wine Festival Food Offerings,Coffee – Bakery,,5.29,epcot/connections-cafe
 2026-10-06,Connections Café,EPCOT,Caramel Frappuccino® - Grande,Frappuccino®,Coffee – Bakery,,6.75,epcot/connections-cafe
-2026-10-06,Connections Café,EPCOT,Caramel Ribbon Crunch Frappuccino® - Grande,Frappuccino®,Coffee – Bakery,,6.75,epcot/connections-cafe
+2026-10-06,Connections Café,EPCOT,Caramel Ribbon Crunch Frappuccino® - Grande,Frappuccino®,Coffee – Bakery,,6.95,epcot/connections-cafe
 2026-10-06,Connections Café,EPCOT,Mocha Frappuccino® - Grande,Frappuccino®,Coffee – Bakery,,6.95,epcot/connections-cafe
 2026-10-06,Connections Café,EPCOT,Coffee Frappuccino® - Grande,Frappuccino®,Coffee – Bakery,,6.95,epcot/connections-cafe
 2026-10-06,Connections Café,EPCOT,Vanilla Bean Crème Frappuccino® - Grande,Frappuccino®,Coffee – Bakery,,6.95,epcot/connections-cafe
@@ -13,7 +13,7 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-10-06,Connections Café,EPCOT,Frozen Starbucks Refreshers™ with Lemonade - Grande,Starbucks Refreshers™,Coffee – Bakery,Strawberry Açai or Mango Dragonfruit,6.45,epcot/connections-cafe
 2026-10-06,Connections Café,EPCOT,Pink Drink - Grande,Starbucks Refreshers™,Coffee – Bakery,,5.95,epcot/connections-cafe
 2026-10-06,Connections Café,EPCOT,Starbucks Refreshers™,Starbucks Refreshers™,Coffee – Bakery,Strawberry Acai or Mango Dragonfruit,5.45,epcot/connections-cafe
-2026-10-06,Connections Café,EPCOT,Caramel Macchiato - Grande,Specialty Coffee Beverages,Coffee – Bakery,,6.25,epcot/connections-cafe
+2026-10-06,Connections Café,EPCOT,Caramel Macchiato - Grande,Specialty Coffee Beverages,Coffee – Bakery,,6.45,epcot/connections-cafe
 2026-10-06,Connections Café,EPCOT,Iced White Chocolate Mocha - Grande,Specialty Coffee Beverages,Coffee – Bakery,,6.45,epcot/connections-cafe
 2026-10-06,Connections Café,EPCOT,Caffè Latte - Grande,Specialty Coffee Beverages,Coffee – Bakery,,5.75,epcot/connections-cafe
 2026-10-06,Connections Café,EPCOT,Caffè Mocha - Grande,Specialty Coffee Beverages,Coffee – Bakery,,6.25,epcot/connections-cafe
@@ -26,8 +26,8 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-10-06,Connections Café,EPCOT,Nitro Cold Brew - Grande,Nitro & Cold Brew,Coffee – Bakery,,5.49,epcot/connections-cafe
 2026-10-06,Connections Café,EPCOT,Vanilla Sweet Cream Nitro Cold Brew - Grande,Nitro & Cold Brew,Coffee – Bakery,,5.99,epcot/connections-cafe
 2026-10-06,Connections Café,EPCOT,Salted Caramel Cream Cold Brew - Grande,Nitro & Cold Brew,Coffee – Bakery,,5.85,epcot/connections-cafe
-2026-10-06,Connections Café,EPCOT,Teavana® Shaken Iced Tea - Grande,Tea & Refreshment,Coffee – Bakery,"Black, Green or Passion Tango™",4.85,epcot/connections-cafe
-2026-10-06,Connections Café,EPCOT,Teavana® Shaken Iced Tea Lemonade - Grande,Tea & Refreshment,Coffee – Bakery,"Black, Green or Passion Tango™",5.85,epcot/connections-cafe
+2026-10-06,Connections Café,EPCOT,Teavana® Shaken Iced Tea - Grande,Tea & Refreshment,Coffee – Bakery,"Black, Green or Passion Tango™",5.05,epcot/connections-cafe
+2026-10-06,Connections Café,EPCOT,Teavana® Shaken Iced Tea Lemonade - Grande,Tea & Refreshment,Coffee – Bakery,"Black, Green or Passion Tango™",6.25,epcot/connections-cafe
 2026-10-06,Connections Café,EPCOT,Lemonade - Grande,Tea & Refreshment,Coffee – Bakery,,4.95,epcot/connections-cafe
 2026-10-06,Connections Café,EPCOT,Teavana® Chai Tea Latte - Grande,Tea & Refreshment,Coffee – Bakery,,5.95,epcot/connections-cafe
 2026-10-06,Connections Café,EPCOT,Teavana® Iced Matcha Green Tea Latte – Grande,Tea & Refreshment,Coffee – Bakery,,5.95,epcot/connections-cafe
@@ -57,41 +57,42 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-10-06,Connections Eatery,EPCOT,Frozen Waffle Old Fashioned,Food and Wine Festival Offerings with Alcohol,Lunch And Dinner,"A frozen blend of Maker’s Mark Kentucky Straight Bourbon Whisky, Maple Syrup, Butterscotch Syrup, and Angostura Bitters topped with a Liege Waffle and Cherry",17.50,epcot/connections-eatery
 2026-10-06,Connections Eatery,EPCOT,Annual Passholder Tumbler,Annual Passholder Exclusive,Lunch And Dinner,Served with choice of Fountain Beverage. Not valid for refills.,14.79,epcot/connections-eatery
 2026-10-06,Connections Eatery,EPCOT,American Classic Cheeseburger,Burgers and Chicken,Lunch And Dinner,"Gourmet Beef Blend, Lettuce, Pickle, Tomato, Applewood-smoked Bacon, Cheddar",14.99,epcot/connections-eatery
-2026-10-06,Connections Eatery,EPCOT,Hand-breaded Chicken Sandwich,Burgers and Chicken,Lunch And Dinner,Pickles and Zesty Sauce,13.19,epcot/connections-eatery
-2026-10-06,Connections Eatery,EPCOT,House-made Pepperoni Pizza,Pizza,Lunch And Dinner,,11.79,epcot/connections-eatery
-2026-10-06,Connections Eatery,EPCOT,House-made Cheese Pizza,Pizza,Lunch And Dinner,,11.29,epcot/connections-eatery
+2026-10-06,Connections Eatery,EPCOT,Fried Chicken Sandwich,Burgers and Chicken,Lunch And Dinner,Pickles and Zesty Sauce,13.99,epcot/connections-eatery
+2026-10-06,Connections Eatery,EPCOT,House-made Pepperoni Pizza,Pizza,Lunch And Dinner,,12.49,epcot/connections-eatery
+2026-10-06,Connections Eatery,EPCOT,House-made Cheese Pizza,Pizza,Lunch And Dinner,,11.99,epcot/connections-eatery
 2026-10-06,Connections Eatery,EPCOT,General Tso Chicken Salad,Salad,Lunch And Dinner,"Petite Kale Blend, Romaine, Broccoli Slaw, Red Bell Pepper, Mandarin Oranges, Edamame, Crispy Wontons, Warm Fried Chicken, General Tso’s Dressing",12.49,epcot/connections-eatery
 2026-10-06,Connections Eatery,EPCOT,General Tso Tofu Salad,Salad,Lunch And Dinner,"Petite Kale Blend, Romaine, Broccoli Slaw, Red Bell Pepper, Mandarin Oranges, Edamame, Crispy Wontons, Warm Fried Tofu, General Tso’s Dressing",12.49,epcot/connections-eatery
 2026-10-06,Connections Eatery,EPCOT,"Black Garlic, Truffle, and Parmesan Fries",Sides,Lunch And Dinner,French Fries topped with Black Garlic-Truffle Aïoli and Parmesan,6.99,epcot/connections-eatery
 2026-10-06,Connections Eatery,EPCOT,French Fries,Sides,Lunch And Dinner,,5.49,epcot/connections-eatery
 2026-10-06,Connections Eatery,EPCOT,A Cuties® Mandarin,Sides,Lunch And Dinner,,1.99,epcot/connections-eatery
 2026-10-06,Connections Eatery,EPCOT,Applesauce,Sides,Lunch And Dinner,(Plant-based),1.49,epcot/connections-eatery
-2026-10-06,Connections Eatery,EPCOT,Cheeseburger,Kids' Disney Check Meals,Lunch And Dinner,Served with choice of two Sides and choice of Small Lowfat Milk or Small DASANI® Bottled Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions.,8.99,epcot/connections-eatery
+2026-10-06,Connections Eatery,EPCOT,Cheeseburger,Kids' Disney Check Meals,Lunch And Dinner,Served with choice of two Sides and choice of Small Lowfat Milk or Small DASANI® Bottled Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions.,9.49,epcot/connections-eatery
 2026-10-06,Connections Eatery,EPCOT,Cheese Pizza,Kids' Meals,Lunch And Dinner,Served with choice of two Sides and choice of Small Lowfat Milk or Small DASANI® Bottled Water,8.29,epcot/connections-eatery
-2026-10-06,Connections Eatery,EPCOT,Chicken Strips,Kids' Meals,Lunch And Dinner,Served with choice of two Sides and choice of Small Lowfat Milk or Small DASANI® Bottled Water,8.99,epcot/connections-eatery
+2026-10-06,Connections Eatery,EPCOT,Chicken Strips,Kids' Meals,Lunch And Dinner,Served with choice of two Sides and choice of Small Lowfat Milk or Small DASANI® Bottled Water,9.49,epcot/connections-eatery
 2026-10-06,Connections Eatery,EPCOT,PB&J Uncrustable,Kids' Meals,Lunch And Dinner,Served with choice of two (2) Sides and choice of Small Lowfat Milk or Small DASANI® Bottled Water,7.29,epcot/connections-eatery
 2026-10-06,Connections Eatery,EPCOT,Chocolate Baumkuchen,Dessert,Lunch And Dinner,with Chocolate Ganache and Whipped Cream,6.49,epcot/connections-eatery
 2026-10-06,Connections Eatery,EPCOT,Liege Waffle,Dessert,Lunch And Dinner,"Brioche Dough with Pearl Sugar, Strawberries, Whipped Cream, Chocolate Sauce",5.99,epcot/connections-eatery
+2026-10-06,Connections Eatery,EPCOT,S’mores Gelato Milkshake,Shakes ,Lunch And Dinner,"S’mores Milkshake with Belgian Chocolate & French Vanilla Gelato, Toasted Marshmallow, Chocolate Bar, and Graham Cracker",8.49,epcot/connections-eatery
 2026-10-06,Connections Eatery,EPCOT,Belgian Chocolate Gelato Shake,Shakes ,Lunch And Dinner,,7.99,epcot/connections-eatery
-2026-10-06,Connections Eatery,EPCOT,Mango-Coconut Milk Shake,Shakes ,Lunch And Dinner,Topped with Pomegranate-Molasses Drizzle (Plant-based),7.99,epcot/connections-eatery
+2026-10-06,Connections Eatery,EPCOT,Mango-Coconut Milkshake,Shakes ,Lunch And Dinner,Topped with Pomegranate-Molasses Drizzle (Plant-based),7.99,epcot/connections-eatery
 2026-10-06,Connections Eatery,EPCOT,Madagascar Vanilla Gelato Shake,Shakes ,Lunch And Dinner,,7.99,epcot/connections-eatery
-2026-10-06,Connections Eatery,EPCOT,Assorted Fountain Beverages,Beverages,Lunch And Dinner,Assorted Coca-Cola® Offerings,4.79,epcot/connections-eatery
+2026-10-06,Connections Eatery,EPCOT,Assorted Fountain Beverages,Beverages,Lunch And Dinner,Assorted Coca-Cola® Offerings,4.99,epcot/connections-eatery
 2026-10-06,Connections Eatery,EPCOT,DASANI® Bottled Water,Beverages,Lunch And Dinner,,4.25,epcot/connections-eatery
 2026-10-06,Connections Eatery,EPCOT,smartwater®,Beverages,Lunch And Dinner,,6.25,epcot/connections-eatery
 2026-10-06,Connections Eatery,EPCOT,Watermelon-Mint Agua Fresca,Beverages,Lunch And Dinner,,6.29,epcot/connections-eatery
 2026-10-06,Connections Eatery,EPCOT,Lowfat Milk,Beverages,Lunch And Dinner,,2.59,epcot/connections-eatery
 2026-10-06,Connections Eatery,EPCOT,Small Chocolate Milk,Beverages,Lunch And Dinner,,2.29,epcot/connections-eatery
-2026-10-06,Connections Eatery,EPCOT,Freshly Brewed Joffrey's Coffee™ Regular,Hot Beverages,Lunch And Dinner,,4.79,epcot/connections-eatery
-2026-10-06,Connections Eatery,EPCOT,Freshly Brewed Joffrey's Coffee™ Decaf,Hot Beverages,Lunch And Dinner,,4.79,epcot/connections-eatery
-2026-10-06,Connections Eatery,EPCOT,Twinings® Hot Tea,Hot Beverages,Lunch And Dinner,,4.79,epcot/connections-eatery
-2026-10-06,Connections Eatery,EPCOT,Hot Cocoa by Joffrey's™,Hot Beverages,Lunch And Dinner,,4.79,epcot/connections-eatery
-2026-10-06,Connections Eatery,EPCOT,"Yuengling Traditional Lager – Pottsville, PA",Beer,Lunch And Dinner,20-oz Draft - Fuller flavored with a higher malt presence than Pale Lagers,10.50,epcot/connections-eatery
-2026-10-06,Connections Eatery,EPCOT,"Bud Light Lager – St. Louis, MO",Beer,Lunch And Dinner,"20-oz Draft - Golden colored with flavors that are dry, clean, crisp and refreshing with subtle bitterness",10.00,epcot/connections-eatery
-2026-10-06,Connections Eatery,EPCOT,"Cigar City Jai Alai IPA - Tampa, FL",Beer,Lunch And Dinner,20-oz Draft - This bigger brother to the Pale Ale employs a significant amount of Hops with high bitterness and Citrus and Floral aromas,12.50,epcot/connections-eatery
-2026-10-06,Connections Eatery,EPCOT,"Angry Orchard Crisp Apple Hard Cider - Cincinnati, OH",Beer,Lunch And Dinner,"20-oz Draft - Sweet and refreshing, a favorite since Colonial times",11.00,epcot/connections-eatery
+2026-10-06,Connections Eatery,EPCOT,Freshly Brewed Joffrey's Coffee™ Regular,Hot Beverages,Lunch And Dinner,,4.99,epcot/connections-eatery
+2026-10-06,Connections Eatery,EPCOT,Freshly Brewed Joffrey's Coffee™ Decaf,Hot Beverages,Lunch And Dinner,,4.99,epcot/connections-eatery
+2026-10-06,Connections Eatery,EPCOT,Twinings® Hot Tea,Hot Beverages,Lunch And Dinner,,4.99,epcot/connections-eatery
+2026-10-06,Connections Eatery,EPCOT,Hot Cocoa by Joffrey's™,Hot Beverages,Lunch And Dinner,,4.99,epcot/connections-eatery
+2026-10-06,Connections Eatery,EPCOT,"Yuengling Traditional Lager – Pottsville, PA",Beer,Lunch And Dinner,20-oz Draft - Fuller flavored with a higher malt presence than Pale Lagers,11.25,epcot/connections-eatery
+2026-10-06,Connections Eatery,EPCOT,"Bud Light Lager – St. Louis, MO",Beer,Lunch And Dinner,"20-oz Draft - Golden colored with flavors that are dry, clean, crisp and refreshing with subtle bitterness",10.75,epcot/connections-eatery
+2026-10-06,Connections Eatery,EPCOT,"Cigar City Jai Alai IPA - Tampa, FL",Beer,Lunch And Dinner,20-oz Draft - This bigger brother to the Pale Ale employs a significant amount of Hops with high bitterness and Citrus and Floral aromas,13.25,epcot/connections-eatery
+2026-10-06,Connections Eatery,EPCOT,"Angry Orchard Crisp Apple Hard Cider - Cincinnati, OH",Beer,Lunch And Dinner,"20-oz Draft - Sweet and refreshing, a favorite since Colonial times",11.50,epcot/connections-eatery
 2026-10-06,Connections Eatery,EPCOT,"Hess Shirtail Creek Chardonnay, California",Wine,Lunch And Dinner,5-oz Glass of Chardonnay - Crisp acidity with notes of green apple and tropical fruit,14.00,epcot/connections-eatery
 2026-10-06,Connections Eatery,EPCOT,"Acrobat Pinot Noir, Oregon",Wine,Lunch And Dinner,"5-oz Glass of Pinot Noir - Flavors of ripe strawberry and dark chocolate, with notes of cherry, cinnamon, and vanilla on the nose",16.00,epcot/connections-eatery
-2026-10-06,Connections Eatery,EPCOT,Mango Mai Tai,Beverages with Alcohol,Lunch And Dinner,"Bacardí Superior Rum, Myers's Original Dark Rum, Orgeat (Almond), Mango, Pineapple, and Lime Juices, and Grenadine",16.50,epcot/connections-eatery
+2026-10-06,Connections Eatery,EPCOT,Mango Mai Tai,Beverages with Alcohol,Lunch And Dinner,"Bacardí Superior Rum, Myers's Original Dark Rum, Orgeat (Almond), Mango, Pineapple, and Lime Juices, and Grenadine",17.00,epcot/connections-eatery
 2026-10-06,Refreshment Outpost,EPCOT,Berbere-spiced Beef Stew,Food & Wine Festival Food Offerings,Snack,with Sweet Potato Mealie Pap and Kachumbari Slaw,6.79,epcot/refreshment-outpost
 2026-10-06,Refreshment Outpost,EPCOT,Sweet Potato Mealie Pap,Food & Wine Festival Food Offerings,Snack,"with a Stew of Beans, Peppers, Carrots, and Tomatoes (plant-based) (30th Anniversary Legacy Item)",5.79,epcot/refreshment-outpost
 2026-10-06,Refreshment Outpost,EPCOT,South African Cream Liqueur Chocolate Mousse,Food & Wine Festival Food Offerings,Snack,with White Chocolate Ganache and Chocolate-covered Popping Candy,6.29,epcot/refreshment-outpost
@@ -101,40 +102,40 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-10-06,Refreshment Outpost,EPCOT,Midnight Safari,Food & Wine Festival Alcoholic Beverage Offerings,Snack,"Mansas African Whisky, G.E. Massenez Crème de Cassis de Dijon Liqueur, and Sour Mix garnished with Blackberry and Mint",17.50,epcot/refreshment-outpost
 2026-10-06,Refreshment Outpost,EPCOT,DOLE Whip® in a Cone,Desserts,Snack,"DOLE Whip® Pineapple, DOLE Whip® Watermelon, or Swirl",6.29,epcot/refreshment-outpost
 2026-10-06,Refreshment Outpost,EPCOT,Frozen Slushy,Beverages,Snack,Coca-Cola® or Minute Maid® Premium Lemonade (non-alcoholic),6.29,epcot/refreshment-outpost
-2026-10-06,Refreshment Outpost,EPCOT,Assorted Fountain Beverage - Regular,Beverages,Snack,,4.79,epcot/refreshment-outpost
+2026-10-06,Refreshment Outpost,EPCOT,Assorted Fountain Beverage - Regular,Beverages,Snack,,4.99,epcot/refreshment-outpost
 2026-10-06,Refreshment Outpost,EPCOT,Assorted Fountain Beverage - Large,Beverages,Snack,,5.59,epcot/refreshment-outpost
 2026-10-06,Refreshment Outpost,EPCOT,DASANI® Bottled Water,Beverages,Snack,,4.25,epcot/refreshment-outpost
-2026-10-06,Refreshment Outpost,EPCOT,"Bud Light Lager Draft, St. Louis, MO",Alcoholic Beverages,Snack,,10.00,epcot/refreshment-outpost
-2026-10-06,Refreshment Outpost,EPCOT,Mango Rum Freeze,Alcoholic Beverages,Snack,Mango Purée and STARR African Rum,16.50,epcot/refreshment-outpost
-2026-10-06,Refreshment Outpost,EPCOT,Frozen Brown Elephant,Alcoholic Beverages,Snack,Frozen Coca-Cola® with Amarula Cream Liqueur,16.50,epcot/refreshment-outpost
-2026-10-06,Refreshment Outpost,EPCOT,Outpost Lemonade,Alcoholic Beverages,Snack,Frozen Minute Maid® Lemonade and Absolut Vodka,16.50,epcot/refreshment-outpost
+2026-10-06,Refreshment Outpost,EPCOT,"Bud Light Lager Draft, St. Louis, MO",Alcoholic Beverages,Snack,,10.75,epcot/refreshment-outpost
+2026-10-06,Refreshment Outpost,EPCOT,Mango Rum Freeze,Alcoholic Beverages,Snack,Mango Purée and STARR African Rum,17.00,epcot/refreshment-outpost
+2026-10-06,Refreshment Outpost,EPCOT,Frozen Brown Elephant,Alcoholic Beverages,Snack,Frozen Coca-Cola® with Amarula Cream Liqueur,17.00,epcot/refreshment-outpost
+2026-10-06,Refreshment Outpost,EPCOT,Outpost Lemonade,Alcoholic Beverages,Snack,Frozen Minute Maid® Lemonade and Absolut Vodka,17.00,epcot/refreshment-outpost
 2026-10-06,Akershus Royal Banquet Hall,EPCOT,So Many Wishes,Non-Alcoholic Beverages,Breakfast,"Pomegranate Green Tea, Hibiscus, Lemon, and a dash of Stardust",6.79,epcot/akershus-royal-banquet-hall
 2026-10-06,Akershus Royal Banquet Hall,EPCOT,Joffrey’s™ Cold Brew Coffee,Non-Alcoholic Beverages,Breakfast,,5.49,epcot/akershus-royal-banquet-hall
 2026-10-06,Akershus Royal Banquet Hall,EPCOT,Enchanted Grove Lime Splash,Non-Alcoholic Beverages,Breakfast,Minute Maid® Limeade paired with the revitalizing flavors of Cucumber and Mint,6.29,epcot/akershus-royal-banquet-hall
 2026-10-06,Akershus Royal Banquet Hall,EPCOT,Royal Berry Spritzer,Non-Alcoholic Beverages,Breakfast,"Blackberry, Pomegranate, and Lime blended with Topo Chico® Blueberry Hibiscus Sparkling Water",6.59,epcot/akershus-royal-banquet-hall
-2026-10-06,Akershus Royal Banquet Hall,EPCOT,Viking Coffee,Specialty Cocktails,Breakfast,"Featuring Joffrey's Coffee™. A robust combination of Colombian Coffee, Kamora Coffee Liqueur, and Baileys Original Irish Cream Liqueur.",16.50,epcot/akershus-royal-banquet-hall
-2026-10-06,Akershus Royal Banquet Hall,EPCOT,Midnight Sun,Specialty Cocktails,Breakfast,Perfect blend of LINIE Aquavit Liqueur and Minute Maid® Orange Juice with a splash of Grenadine that will take you to the place where sunset merges into sunrise,16.50,epcot/akershus-royal-banquet-hall
-2026-10-06,Akershus Royal Banquet Hall,EPCOT,Blackberry-Orange Spritz,Specialty Cocktails,Breakfast,"Ketel One Botanical Peach & Orange Blossom Vodka, Rockey’s Botanical Liqueur, Kim Crawford Sauvignon Blanc, and Blackberry",17.50,epcot/akershus-royal-banquet-hall
+2026-10-06,Akershus Royal Banquet Hall,EPCOT,Viking Coffee,Specialty Cocktails,Breakfast,"Featuring Joffrey's Coffee™. A robust combination of Colombian Coffee, Kamora Coffee Liqueur, and Baileys Original Irish Cream Liqueur.",17.00,epcot/akershus-royal-banquet-hall
+2026-10-06,Akershus Royal Banquet Hall,EPCOT,Midnight Sun,Specialty Cocktails,Breakfast,Perfect blend of LINIE Aquavit Liqueur and Minute Maid® Orange Juice with a splash of Grenadine that will take you to the place where sunset merges into sunrise,17.00,epcot/akershus-royal-banquet-hall
+2026-10-06,Akershus Royal Banquet Hall,EPCOT,Blackberry-Orange Spritz,Specialty Cocktails,Breakfast,"Ketel One Botanical Peach & Orange Blossom Vodka, Rockey’s Botanical Liqueur, Kim Crawford Sauvignon Blanc, and Blackberry",18.00,epcot/akershus-royal-banquet-hall
 2026-10-06,Akershus Royal Banquet Hall,EPCOT,Legacy Mimosa,Specialty Cocktails,Breakfast,"Uncle Nearest 1884 Small Batch Tennessee Whiskey, Grand Marnier Liqueur, Chateau Ste. Michelle Sparkling Wine, and Minute Maid® Orange Juice",20.50,epcot/akershus-royal-banquet-hall
-2026-10-06,Akershus Royal Banquet Hall,EPCOT,Viking Bloody Mary,Specialty Cocktails,Breakfast,Blend of Helix7 Vodka with Bloody Mary Mix,18.50,epcot/akershus-royal-banquet-hall
+2026-10-06,Akershus Royal Banquet Hall,EPCOT,Viking Bloody Mary,Specialty Cocktails,Breakfast,Blend of Helix7 Vodka with Bloody Mary Mix,19.00,epcot/akershus-royal-banquet-hall
 2026-10-06,Akershus Royal Banquet Hall,EPCOT,Royal Berry Spritzer,Non-Alcoholic Specialty Beverages,Lunch; Dinner,"Blackberry, Pomegranate, and Lime blended with Topo Chico® Blueberry Hibiscus Sparkling Water",6.59,epcot/akershus-royal-banquet-hall
 2026-10-06,Akershus Royal Banquet Hall,EPCOT,Enchanted Grove Lime Splash,Non-Alcoholic Specialty Beverages,Lunch; Dinner,Minute Maid® Limeade paired with the revitalizing flavors of Cucumber and Mint,6.29,epcot/akershus-royal-banquet-hall
 2026-10-06,Akershus Royal Banquet Hall,EPCOT,So Many Wishes,Non-Alcoholic Specialty Beverages,Lunch; Dinner,"Pomegranate Green Tea, Hibiscus, Lemon, and a dash of Stardust",6.79,epcot/akershus-royal-banquet-hall
 2026-10-06,Akershus Royal Banquet Hall,EPCOT,Joffrey’s™ Cold Brew Coffee,Non-Alcoholic Specialty Beverages,Lunch; Dinner,,5.49,epcot/akershus-royal-banquet-hall
-2026-10-06,Akershus Royal Banquet Hall,EPCOT,Northern Lights Cocktail,Specialty Drinks,Lunch; Dinner,"Helix7 Vodka, Bols Blue Curaçao Liqueur, Blueberry, Desert Pear, and Sprite® with a souvenir Glow Cube",21.50,epcot/akershus-royal-banquet-hall
-2026-10-06,Akershus Royal Banquet Hall,EPCOT,Blue Viking,Specialty Drinks,Lunch; Dinner,"This blend of Helix7 Vodka, Don Q Cristal Rum, El Jimador Blanco Tequila, Askur Gin, and Bols Blue Curaçao Liqueur will tame even the mightiest of Norse God thirst",18.50,epcot/akershus-royal-banquet-hall
-2026-10-06,Akershus Royal Banquet Hall,EPCOT,The Bifröst,Specialty Drinks,Lunch; Dinner,This blend of LINIE Aquavit Liqueur and Orange Cream with a splash of Grenadine will bring you along the journey between Midgard and Asgard,18.50,epcot/akershus-royal-banquet-hall
-2026-10-06,Akershus Royal Banquet Hall,EPCOT,The Stavanger,Specialty Drinks,Lunch; Dinner,"A refreshing frozen blend of Helix7 Vodka, LINIE Aquavit Liqueur, and Raspberry",18.50,epcot/akershus-royal-banquet-hall
-2026-10-06,Akershus Royal Banquet Hall,EPCOT,The Oslo,Specialty Drinks,Lunch; Dinner,"A creation from the capital city, this frozen favorite combines Helix7 Vodka, LINIE Aquavit Liqueur, Bols Crème de Banana Liqueur, and Strawberries",18.50,epcot/akershus-royal-banquet-hall
-2026-10-06,Akershus Royal Banquet Hall,EPCOT,Linie Aquavit Glacier Shot,Specialty Drinks,Lunch; Dinner,"Tradisjonell Norsk Spirit produced from potatoes and flavored with caraway, aniseed, and orange peel then matured in Oloroso Sherry casks that give the Norwegian Aquavit a golden color and soft notes of vanilla (Product of Norway 41.5% ABV)",16.50,epcot/akershus-royal-banquet-hall
-2026-10-06,Akershus Royal Banquet Hall,EPCOT,Kornøl Norwegian Farmhouse Ale Draft,Beer and Hard Cider,Lunch; Dinner,,11.75,epcot/akershus-royal-banquet-hall
+2026-10-06,Akershus Royal Banquet Hall,EPCOT,Northern Lights Cocktail,Specialty Drinks,Lunch; Dinner,"Helix7 Vodka, Bols Blue Curaçao Liqueur, Blueberry, Desert Pear, and Sprite® with a souvenir Glow Cube",22.00,epcot/akershus-royal-banquet-hall
+2026-10-06,Akershus Royal Banquet Hall,EPCOT,Blue Viking,Specialty Drinks,Lunch; Dinner,"This blend of Helix7 Vodka, Don Q Cristal Rum, El Jimador Blanco Tequila, Askur Gin, and Bols Blue Curaçao Liqueur will tame even the mightiest of Norse God thirst",19.00,epcot/akershus-royal-banquet-hall
+2026-10-06,Akershus Royal Banquet Hall,EPCOT,The Bifröst,Specialty Drinks,Lunch; Dinner,This blend of LINIE Aquavit Liqueur and Orange Cream with a splash of Grenadine will bring you along the journey between Midgard and Asgard,19.00,epcot/akershus-royal-banquet-hall
+2026-10-06,Akershus Royal Banquet Hall,EPCOT,The Stavanger,Specialty Drinks,Lunch; Dinner,"A refreshing frozen blend of Helix7 Vodka, LINIE Aquavit Liqueur, and Raspberry",19.00,epcot/akershus-royal-banquet-hall
+2026-10-06,Akershus Royal Banquet Hall,EPCOT,The Oslo,Specialty Drinks,Lunch; Dinner,"A creation from the capital city, this frozen favorite combines Helix7 Vodka, LINIE Aquavit Liqueur, Bols Crème de Banana Liqueur, and Strawberries",19.00,epcot/akershus-royal-banquet-hall
+2026-10-06,Akershus Royal Banquet Hall,EPCOT,Linie Aquavit Glacier Shot,Specialty Drinks,Lunch; Dinner,"Tradisjonell Norsk Spirit produced from potatoes and flavored with caraway, aniseed, and orange peel then matured in Oloroso Sherry casks that give the Norwegian Aquavit a golden color and soft notes of vanilla (Product of Norway 41.5% ABV)",17.00,epcot/akershus-royal-banquet-hall
+2026-10-06,Akershus Royal Banquet Hall,EPCOT,Kornøl Norwegian Farmhouse Ale Draft,Beer and Hard Cider,Lunch; Dinner,,12.50,epcot/akershus-royal-banquet-hall
 2026-10-06,Akershus Royal Banquet Hall,EPCOT,Einstok White Ale,Beer and Hard Cider,Lunch; Dinner,,12.25,epcot/akershus-royal-banquet-hall
 2026-10-06,Akershus Royal Banquet Hall,EPCOT,Bud Light Lager,Beer and Hard Cider,Lunch; Dinner,,9.75,epcot/akershus-royal-banquet-hall
 2026-10-06,Akershus Royal Banquet Hall,EPCOT,Bell's Two Hearted IPA,Beer and Hard Cider,Lunch; Dinner,,12.50,epcot/akershus-royal-banquet-hall
-2026-10-06,Akershus Royal Banquet Hall,EPCOT,Stella Artois Lager,Beer and Hard Cider,Lunch; Dinner,,12.25,epcot/akershus-royal-banquet-hall
-2026-10-06,Akershus Royal Banquet Hall,EPCOT,Breckenridge Brewery Vanilla Porter,Beer and Hard Cider,Lunch; Dinner,,11.25,epcot/akershus-royal-banquet-hall
-2026-10-06,Akershus Royal Banquet Hall,EPCOT,Rekorderlig Strawberry & Lime Hard Cider,Beer and Hard Cider,Lunch; Dinner,,12.75,epcot/akershus-royal-banquet-hall
-2026-10-06,Akershus Royal Banquet Hall,EPCOT,Rekorderlig Pear Hard Cider,Beer and Hard Cider,Lunch; Dinner,,12.75,epcot/akershus-royal-banquet-hall
+2026-10-06,Akershus Royal Banquet Hall,EPCOT,Stella Artois Lager,Beer and Hard Cider,Lunch; Dinner,,12.00,epcot/akershus-royal-banquet-hall
+2026-10-06,Akershus Royal Banquet Hall,EPCOT,Breckenridge Brewery Vanilla Porter,Beer and Hard Cider,Lunch; Dinner,,11.50,epcot/akershus-royal-banquet-hall
+2026-10-06,Akershus Royal Banquet Hall,EPCOT,Rekorderlig Strawberry & Lime Hard Cider,Beer and Hard Cider,Lunch; Dinner,,12.25,epcot/akershus-royal-banquet-hall
+2026-10-06,Akershus Royal Banquet Hall,EPCOT,Rekorderlig Pear Hard Cider,Beer and Hard Cider,Lunch; Dinner,,12.25,epcot/akershus-royal-banquet-hall
 2026-10-06,Akershus Royal Banquet Hall,EPCOT,Heineken 0.0 Non-Alcoholic Lager,Beer and Hard Cider,Lunch; Dinner,,10.00,epcot/akershus-royal-banquet-hall
 2026-10-06,Akershus Royal Banquet Hall,EPCOT,"Simi Cabernet Sauvignon, Alexander Valley",Red Wine Selections,Lunch; Dinner,,79.00,epcot/akershus-royal-banquet-hall
 2026-10-06,Akershus Royal Banquet Hall,EPCOT,"Fess Parker Pinot Noir, Sta. Rita Hills",Red Wine Selections,Lunch; Dinner,,74.00,epcot/akershus-royal-banquet-hall
@@ -144,7 +145,7 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-10-06,Akershus Royal Banquet Hall,EPCOT,"Fess Parker Riesling, Santa Barbara County",White Wine Selections,Lunch; Dinner,,56.00,epcot/akershus-royal-banquet-hall
 2026-10-06,Akershus Royal Banquet Hall,EPCOT,"Domaine Ste. Michelle Brut, Columbia Valley",Sparkling Wine Selections,Lunch; Dinner,,56.00,epcot/akershus-royal-banquet-hall
 2026-10-06,Akershus Royal Banquet Hall,EPCOT,"Banfi Rosa Regale Sparkling Red, Piedmont",Sparkling Wine Selections,Lunch; Dinner,,67.00,epcot/akershus-royal-banquet-hall
-2026-10-06,Biergarten Restaurant,EPCOT,German Beer Flight (Four Pours - 5 oz each),Beer Selection,Lunch; Dinner,"Bitburger Premium Pilsner, Warsteiner Dunkel, König Ludwig Weissbier, and Schöfferhofer Grapefruit Hefeweizen",18.00,epcot/biergarten-restaurant
+2026-10-06,Biergarten Restaurant,EPCOT,German Beer Flight (Four Pours - 5 oz each),Beer Selection,Lunch; Dinner,"Bitburger Premium Pilsner, Warsteiner Dunkel, König Ludwig Weissbier, and Schöfferhofer Grapefruit Hefeweizen",18.50,epcot/biergarten-restaurant
 2026-10-06,Biergarten Restaurant,EPCOT,German White Wine Flight (Three Pours 2-oz each),White Wines,Lunch; Dinner,"Villa Wolf Pinot Gris, J.H. Selbach Blue Label Riesling, and Valckenberg 'Madonna' Riesling Spätlese",20.00,epcot/biergarten-restaurant
 2026-10-06,Biergarten Restaurant,EPCOT,"Villa Wolf Pinot Gris, Pfalz",White Wines,Lunch; Dinner,"full-bodied and dry with refreshing, unoaked fruit and a crisp texture",56.00,epcot/biergarten-restaurant
 2026-10-06,Biergarten Restaurant,EPCOT,"J.H. Selbach Blue Label Riesling, Mosel",White Wines,Lunch; Dinner,"crisp aromas of lemon, white peach, and melon with a hint of mineral on the palate",79.00,epcot/biergarten-restaurant
@@ -153,19 +154,17 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-10-06,Biergarten Restaurant,EPCOT,"August Kesseler 'Spätburgunder' Pinot Noir, Rheingau",Red Wines,Lunch; Dinner,"delicate, fine, light in style, and well structured with nice cherry flavors, a hint of black currant, and plenty of spice",62.00,epcot/biergarten-restaurant
 2026-10-06,Biergarten Restaurant,EPCOT,"Heinz Eifel 'Shine' Dornfelder, Rheinhessen",Red Wines,Lunch; Dinner,full-bodied with flavors of dark red fruits with a well-balanced sweetness,56.00,epcot/biergarten-restaurant
 2026-10-06,Biergarten Restaurant,EPCOT,Jägermeister,Schnapps and Shots,Lunch; Dinner,,15.50,epcot/biergarten-restaurant
-2026-10-06,Biergarten Restaurant,EPCOT,Bärenjäger Honey & Bourbon,Schnapps and Shots,Lunch; Dinner,,15.50,epcot/biergarten-restaurant
+2026-10-06,Biergarten Restaurant,EPCOT,Bärenjäger Honey & Bourbon,Schnapps and Shots,Lunch; Dinner,,17.50,epcot/biergarten-restaurant
 2026-10-06,Block & Hans,EPCOT,Spicy Strawberry-Mango Smoothie,Food and Wine Festival Beverage Offering,Bar – Lounge,Minute Maid® Strawberry Smoothie Mix with Spicy Mango Syrup (non-alcoholic),6.29,epcot/block-hans
 2026-10-06,Block & Hans,EPCOT,Spicy Strawberry-Mango Smoothie,Food and Wine Festival Alcoholic Beverage Offering,Bar – Lounge,Minute Maid® Strawberry Smoothie Mix with Spicy Mango Syrup with Ole Smoky Strawberry Moonshine,16.50,epcot/block-hans
 2026-10-06,Block & Hans,EPCOT,Pretzel Nuggets,Snacks,Bar – Lounge,with House-made Beer-Cheese Sauce,8.79,epcot/block-hans
-2026-10-06,Block & Hans,EPCOT,Spicy Strawberry-Mango Smoothie,Beverages,Bar – Lounge,Minute Maid® Strawberry Smoothie Mix with Spicy Mango Syrup (non-alcoholic),6.29,epcot/block-hans
 2026-10-06,Block & Hans,EPCOT,DASANI® Bottled Water,Beverages,Bar – Lounge,,4.25,epcot/block-hans
-2026-10-06,Block & Hans,EPCOT,"Kentucky Bourbon Barrel Ale - Lexington, KY",Alcoholic Beverages,Bar – Lounge,,13.00,epcot/block-hans
+2026-10-06,Block & Hans,EPCOT,"Kentucky Bourbon Barrel Ale - Lexington, KY",Alcoholic Beverages,Bar – Lounge,,13.25,epcot/block-hans
 2026-10-06,Block & Hans,EPCOT,"Sierra Nevada Hazy Little Thing IPA - Chico, CA",Alcoholic Beverages,Bar – Lounge,,12.50,epcot/block-hans
-2026-10-06,Block & Hans,EPCOT,"Orange Blossom Brewing Orange Blossom Pilsner - Orlando, FL",Alcoholic Beverages,Bar – Lounge,,13.00,epcot/block-hans
+2026-10-06,Block & Hans,EPCOT,"Orange Blossom Brewing Orange Blossom Pilsner - Orlando, FL",Alcoholic Beverages,Bar – Lounge,,13.25,epcot/block-hans
 2026-10-06,Block & Hans,EPCOT,"Golden Road Brewing Mango Cart Wheat Ale- - Los Angeles, CA",Alcoholic Beverages,Bar – Lounge,,13.25,epcot/block-hans
 2026-10-06,Block & Hans,EPCOT,"Ciderboys Strawberry Magic Hard Cider - Steven's Point, WI",Alcoholic Beverages,Bar – Lounge,,14.00,epcot/block-hans
 2026-10-06,Block & Hans,EPCOT,"Owl's Brew Black Tea & Pineapple Hard Tea - New York, NY",Alcoholic Beverages,Bar – Lounge,,13.00,epcot/block-hans
-2026-10-06,Block & Hans,EPCOT,Spicy Strawberry-Mango Smoothie,Alcoholic Beverages,Bar – Lounge,Minute Maid® Strawberry Smoothie Mix with Spicy Mango Syrup with Ole Smoky Strawberry Moonshine,16.50,epcot/block-hans
 2026-10-06,La Cantina de San Angel,EPCOT,Arroz Bowl with Marinated Grilled Chicken,Entrées,Lunch And Dinner,"Rice bowl topped with grilled chicken, corn, spicy tomato salsa, pickled onions, queso fresco and cilantro",15.00,epcot/cantina-de-san-angel
 2026-10-06,La Cantina de San Angel,EPCOT,Arroz Bowl with Barbacoa Beef or Shrimp,Entrées,Lunch And Dinner,"Rice bowl topped with barbacoa beef, corn, spicy tomato salsa, pickled onions, queso fresco and cilantro or Rice bowl topped with Mexican corn breaded shrimp, corn, shredded cabbage, salsa verde, and a mango relish",15.75,epcot/cantina-de-san-angel
 2026-10-06,La Cantina de San Angel,EPCOT,Tacos de Barbacoa,Entrées,Lunch And Dinner,Shredded Beef on homemade Corn Tortillas topped with Red Salsa and Cilantro. Served with Rice and Black Beans with Queso Fresco,16.50,epcot/cantina-de-san-angel
@@ -319,7 +318,7 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-10-06,Coral Reef Restaurant,EPCOT,Coastal Palm Cakes,Entrées,Dinner,"Hearts of Palm, Quinoa, Kale, Pearl Peppers, Toy Box Tomatoes, Red Onions, Roasted Corn (plant-based)",28.00,epcot/coral-reef-restaurant
 2026-10-06,Coral Reef Restaurant,EPCOT,Mojo Chicken,Entrées,Dinner,"Caribbean Rice, Black-eyed Peas, Crispy Garlic Plantains",32.00,epcot/coral-reef-restaurant
 2026-10-06,Coral Reef Restaurant,EPCOT,Shrimp Fettuccine,Entrées,Dinner,"Garlic, Chardonnay-Cream Sauce, Lemon, Parsley",38.00,epcot/coral-reef-restaurant
-2026-10-06,Coral Reef Restaurant,EPCOT,Surf and Turf*,Entrées,Dinner,"Filet Mignon, Grilled Shrimp, Garlic Mashed Potatoes, Key Lime Chimichurri",45.00,epcot/coral-reef-restaurant
+2026-10-06,Coral Reef Restaurant,EPCOT,Surf and Turf*,Entrées,Dinner,"Filet Mignon, Grilled Shrimp, Garlic Mashed Potatoes, Key Lime Chimichurri",46.00,epcot/coral-reef-restaurant
 2026-10-06,Coral Reef Restaurant,EPCOT,Grilled Snapper,Entrées,Dinner,"Coconut-Lime Rice, Mango Salsa, Avocado, Toasted Coconut, Chili-Lime Seasoning",35.00,epcot/coral-reef-restaurant
 2026-10-06,Coral Reef Restaurant,EPCOT,Guava-braised Short Rib,Entrées,Dinner,"Garlic Mashed Potatoes, Field Greens, Florida Citrus",39.00,epcot/coral-reef-restaurant
 2026-10-06,Coral Reef Restaurant,EPCOT,Key West Sunset,Desserts,Dinner,"Key Lime Tart, Chantilly, Raspberries",10.00,epcot/coral-reef-restaurant
@@ -327,25 +326,27 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-10-06,Coral Reef Restaurant,EPCOT,Chocolate Mousse Bar,Desserts,Dinner,"Jack Daniel's Tennessee Whiskey, Chocolate Ganache, Almonds, Orange Coral (plant-based)",11.00,epcot/coral-reef-restaurant
 2026-10-06,Coral Reef Restaurant,EPCOT,Jr. Garden Salad,Kids' Appetizers (à la carte),Dinner,with Ranch Dressing,3.25,epcot/coral-reef-restaurant
 2026-10-06,Coral Reef Restaurant,EPCOT,Chicken Noodle Soup,Kids' Appetizers (à la carte),Dinner,,3.25,epcot/coral-reef-restaurant
-2026-10-06,Coral Reef Restaurant,EPCOT,Fish of the Day,Kids' Create-Your-Own Entrées (choose one),Dinner,"Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Water, or Small Minute Maid® Apple Juice",14.00,epcot/coral-reef-restaurant
-2026-10-06,Coral Reef Restaurant,EPCOT,Grilled Chicken with Barbecue Sauce,Kids' Create-Your-Own Entrées (choose one),Dinner,"Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Water, or Small Minute Maid® Apple Juice. Meets Disney Nutrition Guidelines for Complete Meals without substitutions.",13.00,epcot/coral-reef-restaurant
-2026-10-06,Coral Reef Restaurant,EPCOT,Grilled Shrimp,Kids' Create-Your-Own Entrées (choose one),Dinner,"Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI Water, or Small Minute Maid Apple Juice",14.00,epcot/coral-reef-restaurant
+2026-10-06,Coral Reef Restaurant,EPCOT,Fish of the Day,Kids' Create-Your-Own Entrées (choose one),Dinner,"Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Water, or Small Minute Maid® Apple Juice",15.00,epcot/coral-reef-restaurant
+2026-10-06,Coral Reef Restaurant,EPCOT,Grilled Chicken with Barbecue Sauce,Kids' Create-Your-Own Entrées (choose one),Dinner,"Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Water, or Small Minute Maid® Apple Juice. Meets Disney Nutrition Guidelines for Complete Meals without substitutions.",14.00,epcot/coral-reef-restaurant
+2026-10-06,Coral Reef Restaurant,EPCOT,Grilled Shrimp,Kids' Create-Your-Own Entrées (choose one),Dinner,"Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI Water, or Small Minute Maid Apple Juice",15.00,epcot/coral-reef-restaurant
 2026-10-06,Coral Reef Restaurant,EPCOT,Braised Short Rib,Kids' Create-Your-Own Entrées (choose one),Dinner,"Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Water, or Small Minute Maid® Apple Juice",16.00,epcot/coral-reef-restaurant
-2026-10-06,Coral Reef Restaurant,EPCOT,Macaroni & Cheese,Kids' Create-Your-Own Entrées (choose one),Dinner,"Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Water, or Small Minute Maid® Apple Juice",13.00,epcot/coral-reef-restaurant
+2026-10-06,Coral Reef Restaurant,EPCOT,Macaroni & Cheese,Kids' Create-Your-Own Entrées (choose one),Dinner,"Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Water, or Small Minute Maid® Apple Juice",14.00,epcot/coral-reef-restaurant
+2026-10-06,Coral Reef Restaurant,EPCOT,Chicken Strips,Kids' Create-Your-Own Entrées (choose one),Dinner,"Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Water, or Small Minute Maid® Apple Juice",14.00,epcot/coral-reef-restaurant
+2026-10-06,Coral Reef Restaurant,EPCOT,The Fishbowl,Kids' Create-Your-Own Selections (choose two),Dinner,,3.25,epcot/coral-reef-restaurant
 2026-10-06,Coral Reef Restaurant,EPCOT,Specialty Character Drink,Non-Alcoholic Specialty Beverages,Dinner,Minute Maid® Zero Sugar Lemonade with flavors of Cotton Candy served in a Souvenir Character Cup. Not included in the Dining Plan.,7.00,epcot/coral-reef-restaurant
 2026-10-06,Coral Reef Restaurant,EPCOT,Pineapple Sunset,Non-Alcoholic Specialty Beverages,Dinner,"A mixture of tropical flavors with Minute Maid® Orange Juice, Ginger Beer, and a splash of Sprite®",5.99,epcot/coral-reef-restaurant
 2026-10-06,Coral Reef Restaurant,EPCOT,The Shark Tank,Non-Alcoholic Specialty Beverages,Dinner,A refreshing lemonade inspired by the underwater sea life as seen in the aquarium. Not included in the Dining Plan.,9.29,epcot/coral-reef-restaurant
-2026-10-06,Coral Reef Restaurant,EPCOT,Piña CoLAVA,Cocktails,Dinner,"Bacardí Raspberry Rum blended with flavors of Coconut, Pineapple, and Raspberry Purée",17.50,epcot/coral-reef-restaurant
+2026-10-06,Coral Reef Restaurant,EPCOT,Piña CoLAVA,Cocktails,Dinner,Bacardí Raspberry Rum blended with Piña Colada Mix and Raspberry Purée,17.50,epcot/coral-reef-restaurant
 2026-10-06,Coral Reef Restaurant,EPCOT,Rum Swizzle,Cocktails,Dinner,Mount Gay Eclipse Rum with Tropical Juices and flavors of Guava and Mango,16.50,epcot/coral-reef-restaurant
-2026-10-06,Coral Reef Restaurant,EPCOT,Blood Orange Margarita,Cocktails,Dinner,"Lunazul Añejo Tequila, Cointreau Liqueur, Lime Juice, and Blood Orange Sour",17.50,epcot/coral-reef-restaurant
-2026-10-06,Coral Reef Restaurant,EPCOT,Indigo Hibiscus,Cocktails,Dinner,"Empress 1908 Gin, Bols Blue Curaçao Liqueur, Minute Maid® Premium Lemonade, Orgeat (Almond), Lemon, and Hibiscus Grenadine",17.50,epcot/coral-reef-restaurant
-2026-10-06,Coral Reef Restaurant,EPCOT,Raspberry Mojito,Cocktails,Dinner,"Bacardí Raspberry Rum, Mount Gay Eclipse Rum, Lime Juice, Mint, and Raspberry Purée topped with Soda Water. Also available without Alcohol.",16.50,epcot/coral-reef-restaurant
-2026-10-06,Coral Reef Restaurant,EPCOT,The Abyss,Cocktails,Dinner,"WÓDKA Vodka, Bacardí Superior Rum, Bols Blue Curaçao Liqueur, and Pineapple Juice",16.50,epcot/coral-reef-restaurant
-2026-10-06,Coral Reef Restaurant,EPCOT,Captain's Rum Runner,Cocktails,Dinner,"Captain Morgan Original Spiced Rum, Bols Blackberry Brandy, Bols Créme de Banana Liqueur, and Tropical Juices topped with a float of Myers's Original Dark Rum",17.50,epcot/coral-reef-restaurant
-2026-10-06,Coral Reef Restaurant,EPCOT,Old Fashioned,Cocktails,Dinner,"Michter’s Small Batch Bourbon, Demerara Syrup, and Hella Cocktail Co. Aromatic & Orange Bitters",17.50,epcot/coral-reef-restaurant
-2026-10-06,Coral Reef Restaurant,EPCOT,Spanish Coffee,Specialty Coffee,Dinner,Kahlúa Liqueur and E&J Brandy,15.50,epcot/coral-reef-restaurant
-2026-10-06,Coral Reef Restaurant,EPCOT,Nutty Fisherman,Specialty Coffee,Dinner,Frangelico Liqueur and Baileys Original Irish Cream Liqueur,17.50,epcot/coral-reef-restaurant
-2026-10-06,Coral Reef Restaurant,EPCOT,Irish Coffee,Specialty Coffee,Dinner,Jameson Irish Whiskey with Whipped Cream,15.50,epcot/coral-reef-restaurant
+2026-10-06,Coral Reef Restaurant,EPCOT,Blood Orange Margarita,Cocktails,Dinner,"Lunazul Añejo Tequila, Cointreau Liqueur, Lime Juice, and Blood Orange Sour",18.00,epcot/coral-reef-restaurant
+2026-10-06,Coral Reef Restaurant,EPCOT,Indigo Hibiscus,Cocktails,Dinner,"Empress 1908 Gin, Bols Blue Curaçao Liqueur, Minute Maid® Premium Lemonade, Orgeat, Lemon, and Hibiscus Grenadine",18.00,epcot/coral-reef-restaurant
+2026-10-06,Coral Reef Restaurant,EPCOT,Raspberry Mojito,Cocktails,Dinner,"Bacardí Raspberry Rum, Mount Gay Eclipse Rum, Lime Juice, Mint, and Raspberry Purée topped with Soda Water. Also available without Alcohol.",17.00,epcot/coral-reef-restaurant
+2026-10-06,Coral Reef Restaurant,EPCOT,The Abyss,Cocktails,Dinner,"WÓDKA Vodka, Bacardí Superior Rum, Bols Blue Curaçao Liqueur, and Pineapple Juice",17.00,epcot/coral-reef-restaurant
+2026-10-06,Coral Reef Restaurant,EPCOT,Captain's Rum Runner,Cocktails,Dinner,"Captain Morgan Original Spiced Rum, Bols Blackberry Brandy, Bols Créme de Banana Liqueur, and Tropical Juices topped with a float of Myers's Original Dark Rum",18.00,epcot/coral-reef-restaurant
+2026-10-06,Coral Reef Restaurant,EPCOT,Old Fashioned,Cocktails,Dinner,"Michter’s Small Batch Bourbon, Demerara Syrup, and Hella Cocktail Co. Aromatic & Orange Bitters",18.00,epcot/coral-reef-restaurant
+2026-10-06,Coral Reef Restaurant,EPCOT,Spanish Coffee,Specialty Coffee,Dinner,Kahlúa Liqueur and E&J Brandy,17.00,epcot/coral-reef-restaurant
+2026-10-06,Coral Reef Restaurant,EPCOT,Nutty Fisherman,Specialty Coffee,Dinner,Frangelico Liqueur and Baileys Original Irish Cream Liqueur,18.00,epcot/coral-reef-restaurant
+2026-10-06,Coral Reef Restaurant,EPCOT,Irish Coffee,Specialty Coffee,Dinner,Jameson Irish Whiskey with Whipped Cream,17.00,epcot/coral-reef-restaurant
 2026-10-06,Coral Reef Restaurant,EPCOT,"Paul Chaneau 'Lady of Spain' Cava Brut, Spain",Sparkling Wine,Dinner,,56.00,epcot/coral-reef-restaurant
 2026-10-06,Coral Reef Restaurant,EPCOT,"Fess Parker Riesling, Santa Barbara County",White Wines,Dinner,,56.00,epcot/coral-reef-restaurant
 2026-10-06,Coral Reef Restaurant,EPCOT,"Benvolio Pinot Grigio, Friuli",White Wines,Dinner,,44.00,epcot/coral-reef-restaurant
@@ -359,8 +360,8 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-10-06,Coral Reef Restaurant,EPCOT,"Catena 'Vista Flores' Malbec, Mendoza",Rosé and Red Wines,Dinner,,74.00,epcot/coral-reef-restaurant
 2026-10-06,Coral Reef Restaurant,EPCOT,"Robert Mondavi Cabernet Sauvignon, Napa Valley",Rosé and Red Wines,Dinner,,98.00,epcot/coral-reef-restaurant
 2026-10-06,Fife & Drum Tavern,EPCOT,Popcorn - Souvenir Bucket,Featured,Snack,(Plant-based),14.29,epcot/fife-and-drum-tavern
-2026-10-06,Fife & Drum Tavern,EPCOT,Popcorn Bucket Refill,Featured,Snack,Valid for Length of Stay,2.49,epcot/fife-and-drum-tavern
-2026-10-06,Fife & Drum Tavern,EPCOT,Popcorn,Featured,Snack,(Plant-based),5.99,epcot/fife-and-drum-tavern
+2026-10-06,Fife & Drum Tavern,EPCOT,Popcorn Bucket Refill,Featured,Snack,Valid for Length of Stay,2.79,epcot/fife-and-drum-tavern
+2026-10-06,Fife & Drum Tavern,EPCOT,Popcorn,Featured,Snack,(Plant-based),6.29,epcot/fife-and-drum-tavern
 2026-10-06,Fife & Drum Tavern,EPCOT,Jumbo Turkey Leg,Featured,Snack,,14.99,epcot/fife-and-drum-tavern
 2026-10-06,Fife & Drum Tavern,EPCOT,Mickey-shaped Pretzel,Featured,Snack,Served with Cheese Sauce,8.49,epcot/fife-and-drum-tavern
 2026-10-06,Fife & Drum Tavern,EPCOT,Hot Dog,Featured,Snack,Served with Chips,11.29,epcot/fife-and-drum-tavern
@@ -368,13 +369,13 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-10-06,Fife & Drum Tavern,EPCOT,The American Dream,Beverages,Snack,"Frozen Fanta® Wild Cherry, Vanilla Ice Cream, and Frozen Fanta® Blue Raspberry",6.99,epcot/fife-and-drum-tavern
 2026-10-06,Fife & Drum Tavern,EPCOT,Frozen Slushy,Beverages,Snack,"Minute Maid® Premium Lemonade, Fanta® Wild Cherry, or Fanta® Blue Raspberry",6.29,epcot/fife-and-drum-tavern
 2026-10-06,Fife & Drum Tavern,EPCOT,Barq's® Root Beer Float,Beverages,Snack,Barq's® Root Beer Float with Vanilla Ice Cream,6.79,epcot/fife-and-drum-tavern
-2026-10-06,Fife & Drum Tavern,EPCOT,Assorted Fountain Beverages,Beverages,Snack,,4.79,epcot/fife-and-drum-tavern
+2026-10-06,Fife & Drum Tavern,EPCOT,Assorted Fountain Beverages,Beverages,Snack,,4.99,epcot/fife-and-drum-tavern
 2026-10-06,Fife & Drum Tavern,EPCOT,DASANI® Bottled Water,Beverages,Snack,,4.25,epcot/fife-and-drum-tavern
-2026-10-06,Fife & Drum Tavern,EPCOT,Bud Light Lager Draft,Alcoholic Beverages,Snack,,10.00,epcot/fife-and-drum-tavern
-2026-10-06,Fife & Drum Tavern,EPCOT,Yuengling Traditional Lager,Alcoholic Beverages,Snack,,10.50,epcot/fife-and-drum-tavern
-2026-10-06,Fife & Drum Tavern,EPCOT,Samuel Adams Seasonal,Alcoholic Beverages,Snack,,13.00,epcot/fife-and-drum-tavern
-2026-10-06,Fife & Drum Tavern,EPCOT,Blue Moon Belgian White Ale,Alcoholic Beverages,Snack,,10.50,epcot/fife-and-drum-tavern
-2026-10-06,Fife & Drum Tavern,EPCOT,Frozen Black Cherry Bourbon Lemonade,Alcoholic Beverages,Snack,Jim Beam Red Stag Black Cherry Bourbon with Frozen Minute Maid® Lemonade,16.50,epcot/fife-and-drum-tavern
+2026-10-06,Fife & Drum Tavern,EPCOT,Bud Light Lager Draft,Alcoholic Beverages,Snack,,10.75,epcot/fife-and-drum-tavern
+2026-10-06,Fife & Drum Tavern,EPCOT,Yuengling Traditional Lager,Alcoholic Beverages,Snack,,11.25,epcot/fife-and-drum-tavern
+2026-10-06,Fife & Drum Tavern,EPCOT,Samuel Adams Seasonal,Alcoholic Beverages,Snack,,13.25,epcot/fife-and-drum-tavern
+2026-10-06,Fife & Drum Tavern,EPCOT,Blue Moon Belgian White Ale,Alcoholic Beverages,Snack,,13.25,epcot/fife-and-drum-tavern
+2026-10-06,Fife & Drum Tavern,EPCOT,Frozen Black Cherry Bourbon Lemonade,Alcoholic Beverages,Snack,Jim Beam Red Stag Black Cherry Bourbon with Frozen Minute Maid® Lemonade,17.00,epcot/fife-and-drum-tavern
 2026-10-06,Funnel Cake,EPCOT,Pumpkin Pie Funnel Cake,Food & Wine Festival Food Offering,Snack,"Funnel Cake with Pumpkin Pie Ice Cream, Whipped Cream, Dark Chocolate Sauce, Cinnamon Streusel, and Powdered Sugar",12.50,epcot/funnel-cake
 2026-10-06,Funnel Cake,EPCOT,Funnel Cake with Sugar,Desserts,Snack,,10.00,epcot/funnel-cake
 2026-10-06,Funnel Cake,EPCOT,Funnel Cake with Chocolate Sauce,Desserts,Snack,,11.50,epcot/funnel-cake
@@ -383,13 +384,13 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-10-06,Funnel Cake,EPCOT,Cookies ‘n Cream Funnel Cake,Desserts,Snack,"with Sugar, Vanilla Ice Cream, Crushed Cookies, and Chocolate Sauce",15.00,epcot/funnel-cake
 2026-10-06,Funnel Cake,EPCOT,DASANI® Bottled Water,Beverage,Snack,,3.50,epcot/funnel-cake
 2026-10-06,Funnel Cake,EPCOT,Funnel Cake Gift Kit,Funnel Cake Kit,Snack,,21.00,epcot/funnel-cake
-2026-10-06,Garden Grill Restaurant,EPCOT,Specialty Character Drink,Non-Alcoholic Beverages,Breakfast; Lunch; Dinner,Minute Maid® Zero Sugar Lemonade with flavors of Cotton Candy served in a souvenir Character Cup. Not included in the Dining Plan.,7.00,epcot/garden-grill-restaurant
+2026-10-06,Garden Grill Restaurant,EPCOT,Specialty Character Drink,Non-Alcoholic Beverages,Breakfast,Minute Maid® Zero Sugar Lemonade with flavors of Cotton Candy served in a souvenir Character Cup. Not included in the Dining Plan.,7.00,epcot/garden-grill-restaurant
 2026-10-06,Garden Grill Restaurant,EPCOT,Legacy Mimosa,Alcoholic Beverages,Breakfast,"Uncle Nearest 1884 Small Batch Tennessee Whiskey, Grand Marnier Liqueur, Chateau Ste. Michelle Sparkling Wine, and Minute Maid® Orange Juice",20.50,epcot/garden-grill-restaurant
 2026-10-06,Garden Grill Restaurant,EPCOT,Bloody Mary,Alcoholic Beverages,Breakfast,"Tito’s Handmade Vodka, House-made Bloody Mary Mix",17.00,epcot/garden-grill-restaurant
 2026-10-06,Garden Grill Restaurant,EPCOT,Cold Brew Martini,Alcoholic Beverages,Breakfast,"Kōloa Kauaʻi Cacao Rum, Tia Maria Liqueur, Joffrey’s™ Cold Brew Coffee",17.50,epcot/garden-grill-restaurant
 2026-10-06,Garden Grill Restaurant,EPCOT,So Many Wishes,Non-Alcoholic Beverages,Lunch; Dinner,"Pomegranate Green Tea, Hibiscus, Lemon, a dash of Star Dust",6.79,epcot/garden-grill-restaurant
-2026-10-06,Garden Grill Restaurant,EPCOT,Legacy Mimosa,Specialty Cocktails,Lunch; Dinner,"Uncle Nearest 1884 Small Batch Tennessee Whiskey, Grand Marnier Liqueur, Chateau Ste. Michelle Sparkling Wine, Minute Maid® Orange Juice",20.50,epcot/garden-grill-restaurant
-2026-10-06,Garden Grill Restaurant,EPCOT,Bloody Mary,Specialty Cocktails,Lunch; Dinner,"Tito’s Handmade Vodka, House-made Bloody Mary Mix",17.50,epcot/garden-grill-restaurant
+2026-10-06,Garden Grill Restaurant,EPCOT,Legacy Mimosa,Specialty Cocktails,Lunch; Dinner,"Uncle Nearest 1884 Small Batch Tennessee Whiskey, Grand Marnier Liqueur, Chateau Ste. Michelle Sparkling Wine, Minute Maid® Orange Juice",21.00,epcot/garden-grill-restaurant
+2026-10-06,Garden Grill Restaurant,EPCOT,Bloody Mary,Specialty Cocktails,Lunch; Dinner,"Tito’s Handmade Vodka, House-made Bloody Mary Mix",18.00,epcot/garden-grill-restaurant
 2026-10-06,Garden Grill Restaurant,EPCOT,Cold Brew Martini,Specialty Cocktails,Lunch; Dinner,"Kōloa Kauaʻi Cacao Rum, Tia Maria Liqueur, Joffrey’s™ Cold Brew Coffee",17.50,epcot/garden-grill-restaurant
 2026-10-06,Garden Grill Restaurant,EPCOT,"Nino Franco Rustico Prosecco, Veneto",Wine Selections,Lunch; Dinner,,56.00,epcot/garden-grill-restaurant
 2026-10-06,Garden Grill Restaurant,EPCOT,"Coppo Moncalvina Moscato d'Asti, Piedmont",Wine Selections,Lunch; Dinner,,56.00,epcot/garden-grill-restaurant
@@ -399,16 +400,16 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-10-06,Garden Grill Restaurant,EPCOT,"MacMurray Estate Vineyards Pinot Noir, Central Coast",Wine Selections,Lunch; Dinner,,74.00,epcot/garden-grill-restaurant
 2026-10-06,Garden Grill Restaurant,EPCOT,"Columbia Crest H3 Merlot, Horse Heaven Hills",Wine Selections,Lunch; Dinner,,52.00,epcot/garden-grill-restaurant
 2026-10-06,Garden Grill Restaurant,EPCOT,"Excelsior Cabernet Sauvignon, Robertson Valley",Wine Selections,Lunch; Dinner,,56.00,epcot/garden-grill-restaurant
-2026-10-06,Garden Grill Restaurant,EPCOT,Bud Light Lager Draft,Bottle and Draft Beer,Lunch; Dinner,,9.25,epcot/garden-grill-restaurant
-2026-10-06,Garden Grill Restaurant,EPCOT,Blue Moon Belgian White Ale Draft,Bottle and Draft Beer,Lunch; Dinner,,9.75,epcot/garden-grill-restaurant
-2026-10-06,Garden Grill Restaurant,EPCOT,Goose Island IPA Draft,Bottle and Draft Beer,Lunch; Dinner,,11.75,epcot/garden-grill-restaurant
+2026-10-06,Garden Grill Restaurant,EPCOT,Bud Light Lager Draft,Bottle and Draft Beer,Lunch; Dinner,,9.75,epcot/garden-grill-restaurant
+2026-10-06,Garden Grill Restaurant,EPCOT,Blue Moon Belgian White Ale Draft,Bottle and Draft Beer,Lunch; Dinner,,10.25,epcot/garden-grill-restaurant
+2026-10-06,Garden Grill Restaurant,EPCOT,Goose Island IPA Draft,Bottle and Draft Beer,Lunch; Dinner,,13.25,epcot/garden-grill-restaurant
 2026-10-06,Garden Grill Restaurant,EPCOT,Coors Light Lager,Bottle and Draft Beer,Lunch; Dinner,,8.50,epcot/garden-grill-restaurant
 2026-10-06,Garden Grill Restaurant,EPCOT,Corona Extra Lager,Bottle and Draft Beer,Lunch; Dinner,,9.75,epcot/garden-grill-restaurant
 2026-10-06,Garden Grill Restaurant,EPCOT,Stella Artois Lager,Bottle and Draft Beer,Lunch; Dinner,,11.00,epcot/garden-grill-restaurant
 2026-10-06,Garden Grill Restaurant,EPCOT,Yuengling Traditional Lager,Bottle and Draft Beer,Lunch; Dinner,,9.50,epcot/garden-grill-restaurant
 2026-10-06,Garden Grill Restaurant,EPCOT,Samuel Adams Seasonal,Bottle and Draft Beer,Lunch; Dinner,,11.50,epcot/garden-grill-restaurant
 2026-10-06,Garden Grill Restaurant,EPCOT,Angry Orchard Crisp Apple Hard Cider,Bottle and Draft Beer,Lunch; Dinner,,10.50,epcot/garden-grill-restaurant
-2026-10-06,Garden Grill Restaurant,EPCOT,White Claw Black Cherry Hard Seltzer,Bottle and Draft Beer,Lunch; Dinner,,11.00,epcot/garden-grill-restaurant
+2026-10-06,Garden Grill Restaurant,EPCOT,White Claw Black Cherry Hard Seltzer,Bottle and Draft Beer,Lunch; Dinner,,12.00,epcot/garden-grill-restaurant
 2026-10-06,GEO-82,EPCOT,Charcuterie Board,Small Bites,Lunch; Dinner,"Chef's Selection of Artisanal Cheeses, Cured Meats, and Accompaniments",29.00,epcot/geo-82-lounge
 2026-10-06,GEO-82,EPCOT,Cannellini Hummus,Small Bites,Lunch; Dinner,"Pumpkin Seed Pistou, Radish, Preserved Lemon, Fresno Peppers, Lavash (Plant-based)",14.00,epcot/geo-82-lounge
 2026-10-06,GEO-82,EPCOT,Funghi Flatbread,Small Bites,Lunch; Dinner,"Roasted Mushrooms, Miso-Mascarpone, Mozzarella, Fontina, Pickled Cippolini Onion, Black Garlic Molasses",15.00,epcot/geo-82-lounge
@@ -564,18 +565,18 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-10-06,Kringla Bakeri Og Kafé,EPCOT,Rice Cream,Norwegian Treats,Snack,Creamy Rice Pudding topped with Strawberry Sauce,4.29,epcot/kringla-bakeri-og-kafe
 2026-10-06,Kringla Bakeri Og Kafé,EPCOT,Lefse,Norwegian Treats,Snack,"Soft Flatbread rolled with Cinnamon, Sugar and Butter",3.99,epcot/kringla-bakeri-og-kafe
 2026-10-06,Kringla Bakeri Og Kafé,EPCOT,Triple Chocolate Chip Cookie,Norwegian Treats,Snack,,6.49,epcot/kringla-bakeri-og-kafe
-2026-10-06,Kringla Bakeri Og Kafé,EPCOT,Verden's Beste Kake,Norwegian Treats,Snack,Vanilla Cake with Custard and Almond-Meringue Topping,4.89,epcot/kringla-bakeri-og-kafe
+2026-10-06,Kringla Bakeri Og Kafé,EPCOT,Verden's Beste Kake,Norwegian Treats,Snack,Vanilla Cake with Custard and Almond-Meringue Topping,4.99,epcot/kringla-bakeri-og-kafe
 2026-10-06,Kringla Bakeri Og Kafé,EPCOT,Eplekake,Norwegian Treats,Snack,Apple Cake with Caramel Drizzle,4.99,epcot/kringla-bakeri-og-kafe
 2026-10-06,Kringla Bakeri Og Kafé,EPCOT,Cinnamon Roll with Orange Cream Cheese Icing,Norwegian Treats,Snack,,7.49,epcot/kringla-bakeri-og-kafe
 2026-10-06,Kringla Bakeri Og Kafé,EPCOT,Assorted Fountain Beverages,Beverages,Snack,,5.59,epcot/kringla-bakeri-og-kafe
-2026-10-06,Kringla Bakeri Og Kafé,EPCOT,Freshly Brewed Joffrey’s Coffee™,Beverages,Snack,,4.79,epcot/kringla-bakeri-og-kafe
-2026-10-06,Kringla Bakeri Og Kafé,EPCOT,Joffrey’s™ Cold Brew Coffee with Sweet Cream,Beverages,Snack,Large Joffrey’s™ Cold Brew Coffee with Sweet Cream 6.49,5.99,epcot/kringla-bakeri-og-kafe
-2026-10-06,Kringla Bakeri Og Kafé,EPCOT,Cold Crumb,Beverages,Snack,"Skøl Bread-inspired Cold Brew made with Coconut-flavored Joffrey’s™ Cold Brew Coffee, Vanilla Custard Cold Foam, and Coconut Fancy",6.29,epcot/kringla-bakeri-og-kafe
-2026-10-06,Kringla Bakeri Og Kafé,EPCOT,Kristoff Kaffe,Beverages,Snack,Frozen Coffee with Coffee-Chocolate Sauce garnished with Coffee-Chocolate Crunch,6.99,epcot/kringla-bakeri-og-kafe
-2026-10-06,Kringla Bakeri Og Kafé,EPCOT,Coconut Cream Cold Brew,Alcoholic Beverages,Snack,"Coconut-flavored Joffrey’s™ Cold Brew Coffee, Vanilla Custard Cold Foam, and Coconut with Don Q Coco Rum",14.50,epcot/kringla-bakeri-og-kafe
+2026-10-06,Kringla Bakeri Og Kafé,EPCOT,Freshly Brewed Joffrey’s Coffee™,Beverages,Snack,,4.99,epcot/kringla-bakeri-og-kafe
+2026-10-06,Kringla Bakeri Og Kafé,EPCOT,Joffrey’s™ Cold Brew Coffee with Sweet Cream,Beverages,Snack,Large Joffrey’s™ Cold Brew Coffee with Sweet Cream 6.49,6.29,epcot/kringla-bakeri-og-kafe
+2026-10-06,Kringla Bakeri Og Kafé,EPCOT,Cold Crumb,Beverages,Snack,"Skolebrød-inspired Cold Brew made with Coconut-flavored Joffrey’s™ Cold Brew Coffee, Vanilla Custard Cold Foam, and Coconut",6.79,epcot/kringla-bakeri-og-kafe
+2026-10-06,Kringla Bakeri Og Kafé,EPCOT,Kristoff Kaffe,Beverages,Snack,Frozen Coffee with Coffee-Chocolate Sauce garnished with Coffee-Chocolate Crunch,7.49,epcot/kringla-bakeri-og-kafe
+2026-10-06,Kringla Bakeri Og Kafé,EPCOT,Coconut Cream Cold Brew,Alcoholic Beverages,Snack,"Coconut-flavored Joffrey’s™ Cold Brew Coffee, Vanilla Custard Cold Foam, and Coconut with Don Q Coco Rum",15.00,epcot/kringla-bakeri-og-kafe
 2026-10-06,Kringla Bakeri Og Kafé,EPCOT,Nordic Draft Beer,Alcoholic Beverages,Snack,"Norsk Jordbærkrem Strawberry Cream Ale, Kornøl Farmhouse Ale, Juniper Pilsner",12.25,epcot/kringla-bakeri-og-kafe
-2026-10-06,Kringla Bakeri Og Kafé,EPCOT,Viking Coffee,Alcoholic Beverages,Snack,Baileys Original Irish Cream Liqueur and Kamora Coffee Liqueur,16.50,epcot/kringla-bakeri-og-kafe
-2026-10-06,Kringla Bakeri Og Kafé,EPCOT,Frozen Viking Coffee,Alcoholic Beverages,Snack,Baileys Irish Cream Liqueur and Kamora Coffee Liqueur with Coffee-Chocolate Sauce and garnished with Coffee-Chocolate Crunch,17.50,epcot/kringla-bakeri-og-kafe
+2026-10-06,Kringla Bakeri Og Kafé,EPCOT,Viking Coffee,Alcoholic Beverages,Snack,Baileys Original Irish Cream Liqueur and Kamora Coffee Liqueur,17.00,epcot/kringla-bakeri-og-kafe
+2026-10-06,Kringla Bakeri Og Kafé,EPCOT,Frozen Viking Coffee,Alcoholic Beverages,Snack,Baileys Irish Cream Liqueur and Kamora Coffee Liqueur with Coffee-Chocolate Sauce and garnished with Coffee-Chocolate Crunch,18.00,epcot/kringla-bakeri-og-kafe
 2026-10-06,L'Artisan des Glaces,EPCOT,Single Scoop,Ice Cream & Sorbet,Snack,choice of Ice Cream or Sorbet in a Waffle Cone or Cup,7.95,epcot/l-artisan-des-glaces
 2026-10-06,L'Artisan des Glaces,EPCOT,Double Scoop,Ice Cream & Sorbet,Snack,choice of Ice Cream or Sorbet in a Waffle Cone or Cup,9.95,epcot/l-artisan-des-glaces
 2026-10-06,L'Artisan des Glaces,EPCOT,Flavored Waffle Cones,Ice Cream & Sorbet,Snack,,2.00,epcot/l-artisan-des-glaces
@@ -585,104 +586,105 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-10-06,L'Artisan des Glaces,EPCOT,Coupe du Dimanche,Artisan's Specials,Snack,"2 scoops in a Homemade Waffle Bowl, Whipped Cream and Sauce",10.95,epcot/l-artisan-des-glaces
 2026-10-06,L'Artisan des Glaces,EPCOT,Ice Cream Martini,Artisan's Specials - Alcoholic,Snack,"2 Scoops, with a shot of Grand Marnier, Whipped Cream Vodka or Rum",14.95,epcot/l-artisan-des-glaces
 2026-10-06,L'Artisan des Glaces,EPCOT,Evian,Beverage,Snack,,3.75,epcot/l-artisan-des-glaces
-2026-10-06,Le Cellier Steakhouse,EPCOT,Canadian Cheddar Cheese Soup,Appetizers,Lunch; Dinner,Moosehead Pale Ale and Nueske’s Applewood-smoked Bacon,15.00,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,Canadian Cheddar Cheese Soup,Appetizers,Lunch; Dinner,"Moosehead Pale Ale, Applewood-smoked Bacon",15.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Artisanal Cheese Plate,Appetizers,Lunch; Dinner,"Craft Cheeses, Honeycomb, Jam, Toasted Sourdough",21.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Shrimp Cocktail,Appetizers,Lunch; Dinner,"Lemon, Mignonette, Cocktail Sauce",23.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Steakhouse Wedge Salad,Appetizers,Lunch; Dinner,"Tomatoes, Bacon Lardons, Ranch Dressing, Point Reyes Blue Cheese, Garden Herbs",16.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Caesar Salad,Appetizers,Lunch; Dinner,"Romaine, Bibb, Frisee, Radish, Pine Nut Gremolata, Plant-based Caesar Dressing",16.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Signature Poutine,Appetizers,Lunch; Dinner,"Hand-cut Pomme Frites, Cheese Curds, Cheddar, Cabernet Demi",19.00,epcot/le-cellier-steakhouse
-2026-10-06,Le Cellier Steakhouse,EPCOT,Escargot en Croûte,Appetizers,Lunch; Dinner,"Savory Pastry, Butter, Garlic, Lemon, Parsley",20.00,epcot/le-cellier-steakhouse
-2026-10-06,Le Cellier Steakhouse,EPCOT,Prince Edward Island Mussels,Appetizers,Lunch; Dinner,"Vin Blanc, Butter, Garlic, Fines Herbes, Lemon, Sourdough",24.00,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,Escargot en Croûte,Appetizers,Lunch; Dinner,"Savory Pastry, Butter, Garlic, Lemon, Parsley",21.00,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,Prince Edward Island Mussels,Appetizers,Lunch; Dinner,"Vin Blanc, Butter, Garlic, Fines Herbes, Lemon, Sourdough",25.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,14-oz Dry-aged Duroc Pork Chop*,Entrées - Butcher's Cuts,Lunch; Dinner,Butcher’s Cuts Accompanied by one (1) Side and one (1) Sauce,49.00,epcot/le-cellier-steakhouse
-2026-10-06,Le Cellier Steakhouse,EPCOT,7-oz Filet Mignon*,Entrées - Butcher's Cuts,Lunch; Dinner,Butcher’s Cuts Accompanied by one (1) Side and one (1) Sauce,65.00,epcot/le-cellier-steakhouse
-2026-10-06,Le Cellier Steakhouse,EPCOT,12-oz Prime New York Strip Steak*,Entrées - Butcher's Cuts,Lunch; Dinner,Butcher’s Cuts accompanied by one (1) Side and one (1) Sauce,62.00,epcot/le-cellier-steakhouse
-2026-10-06,Le Cellier Steakhouse,EPCOT,16-oz. Rib-Eye Steak*,Entrées - Butcher's Cuts,Lunch; Dinner,Butcher’s Cuts accompanied by one (1) Side and one (1) Sauce,62.00,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,7-oz Filet Mignon*,Entrées - Butcher's Cuts,Lunch; Dinner,Butcher’s Cuts Accompanied by one (1) Side and one (1) Sauce,68.00,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,12-oz Prime New York Strip Steak*,Entrées - Butcher's Cuts,Lunch; Dinner,Butcher’s Cuts accompanied by one (1) Side and one (1) Sauce,65.00,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,16-oz. Rib-Eye Steak*,Entrées - Butcher's Cuts,Lunch; Dinner,Butcher’s Cuts accompanied by one (1) Side and one (1) Sauce,65.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,28 oz. Rib-Eye Steak for Two*,Entrées - Butcher's Cuts,Lunch; Dinner,Butcher’s Cuts Accompanied by one (1) Side and one (1) Sauce,120.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Sauce Flight,Enhancements,Lunch; Dinner,"Enhance your experience with a Flight of five (5) Sauces: Chardonnay-Truffle Butter, Cabernet Demi, Brandy-Peppercorn, Béarnaise, Sauce Verte",9.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Point Reyes Blue Cheese,Enhancements,Lunch; Dinner,,6.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Lump Crab Oscar,Enhancements,Lunch; Dinner,,19.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Garlic Shrimp,Enhancements,Lunch; Dinner,,18.00,epcot/le-cellier-steakhouse
-2026-10-06,Le Cellier Steakhouse,EPCOT,Le Cellier Filet Mignon*,Entrées - Land & Sea,Lunch; Dinner,"Mushroom Risotto, Pomodoraccio Tomatoes, Chardonnay-Truffle Butter Sauce, Petit Herbs",65.00,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,Le Cellier Filet Mignon*,Entrées - Land & Sea,Lunch; Dinner,"Mushroom Risotto, Pomodoraccio Tomatoes, Chardonnay-Truffle Butter Sauce, Petit Herbs",68.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Roasted Chicken,Entrées - Land & Sea,Lunch; Dinner,"Warm Farro Salad, Baby Squash, Carrots, Cranberry-Orange Gel, Sherry-Chicken Jus",41.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Miso-roasted Cabbage,Entrées - Land & Sea,Lunch; Dinner,"King Mushrooms, Chili Crisp, Maple, Wild Rice, Leek Oil, Mushroom Gravy",39.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Almond-Crusted Salmon,Entrées - Land & Sea,Lunch; Dinner,"Broccolini, Celery Root Tapioca, Adobo Sauce",53.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Hand-cut Pomme Frites,Sides,Lunch; Dinner,"Parmesan, Fines Herbes",10.50,epcot/le-cellier-steakhouse
-2026-10-06,Le Cellier Steakhouse,EPCOT,Macaroni & Cheese,Sides,Lunch; Dinner,"Port Salut-Cheddar Sauce, Toasted Herb Crumb",14.00,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,Macaroni & Cheese,Sides,Lunch; Dinner,"Port Salut-Cheddar Sauce, Toasted Herb Crumb",15.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Mashed Potatoes,Sides,Lunch; Dinner,"Mascarpone, Roasted Garlic",10.50,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Crispy Brussels Sprouts,Sides,Lunch; Dinner,"Maple Marmalade, Golden Raisins (Plant-based)",10.50,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Braised Mushrooms,Sides,Lunch; Dinner,"Sherry Wine, Fines Herbes",12.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Creamed Spinach,Sides,Lunch; Dinner,"Sauce Mornay, Parmesan",12.00,epcot/le-cellier-steakhouse
-2026-10-06,Le Cellier Steakhouse,EPCOT,Maple Crème Brûlée,Desserts,Lunch; Dinner,"Chantilly, Seasonal Fruit, Tuile",15.00,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,Maple Crème Brûlée,Desserts,Lunch; Dinner,"Chantilly, Seasonal Fruit, Tuile",16.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,The Wine Cellar's Banana Split,Desserts,Lunch; Dinner,"Roasted Banana Frozen Dessert, Marasca Cherries, Chantilly, Walnut Praline (Plant-based)",13.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Chocolate Cheesecake,Desserts,Lunch; Dinner,"65% Disney Couverture, Hazelnut Praline, Chocolate Crémeux",15.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Butter Tart,Desserts,Lunch; Dinner,"Canadian Butter Tart, Brown Butter Panna Cotta, Maple Crème Anglaise, Cocoa Nib Tuile",15.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Cheddar-Bacon Soup,Kids' Appetizers (À la Carte),Lunch; Dinner,,5.25,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Garden Salad,Kids' Appetizers (À la Carte),Lunch; Dinner,with Ranch Dressing,5.25,epcot/le-cellier-steakhouse
-2026-10-06,Le Cellier Steakhouse,EPCOT,Grilled Chicken,Kids' Create-Your-Own Entrées (choose one),Lunch; Dinner,"Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Water, or Small Minute Maid® Apple Juice",16.00,epcot/le-cellier-steakhouse
-2026-10-06,Le Cellier Steakhouse,EPCOT,Grilled Steak,Kids' Create-Your-Own Entrées (choose one),Lunch; Dinner,"Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Water, or Small Minute Maid® Apple Juice",19.00,epcot/le-cellier-steakhouse
-2026-10-06,Le Cellier Steakhouse,EPCOT,Pan-Roasted Fish,Kids' Create-Your-Own Entrées (choose one),Lunch; Dinner,"Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Water, or Small Minute Maid® Apple Juice",19.00,epcot/le-cellier-steakhouse
-2026-10-06,Le Cellier Steakhouse,EPCOT,Macaroni & Cheese,Kids' Create-Your-Own Entrées (choose one),Lunch; Dinner,"Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Bottled Water, or Small Minute Maid® Apple Juice",14.00,epcot/le-cellier-steakhouse
-2026-10-06,Le Cellier Steakhouse,EPCOT,Grilled Cheese Sandwich,Kids' Create-Your-Own Entrées (choose one),Lunch; Dinner,"Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Water, or Small Minute Maid® Apple Juice",14.00,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,Grilled Chicken,Kids' Create-Your-Own Entrées (choose one),Lunch; Dinner,"Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Water, or Small Minute Maid® Apple Juice",17.00,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,Grilled Steak,Kids' Create-Your-Own Entrées (choose one),Lunch; Dinner,"Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Water, or Small Minute Maid® Apple Juice",20.00,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,Pan-Roasted Fish,Kids' Create-Your-Own Entrées (choose one),Lunch; Dinner,"Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Water, or Small Minute Maid® Apple Juice",20.00,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,Macaroni & Cheese,Kids' Create-Your-Own Entrées (choose one),Lunch; Dinner,"Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Bottled Water, or Small Minute Maid® Apple Juice",15.00,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,Grilled Cheese Sandwich,Kids' Create-Your-Own Entrées (choose one),Lunch; Dinner,"Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Water, or Small Minute Maid® Apple Juice",15.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Specialty Character Drink,Kids' Specialty Drink,Lunch; Dinner,Minute Maid® Zero Sugar Lemonade with flavors of Cotton Candy served in a souvenir Character Cup,7.00,epcot/le-cellier-steakhouse
-2026-10-06,Le Cellier Steakhouse,EPCOT,"Les Cadrans de Lassègue Merlot, Saint-Émilion Grand Cru, Bordeaux",Featured Wines by the Glass,Lunch; Dinner,,22.00,epcot/le-cellier-steakhouse
-2026-10-06,Le Cellier Steakhouse,EPCOT,"Frank Family Cabernet, Napa Valley",Featured Wines by the Glass,Lunch; Dinner,,36.00,epcot/le-cellier-steakhouse
-2026-10-06,Le Cellier Steakhouse,EPCOT,"Groth Oakville Cabernet Sauvignon, Napa Valley",Featured Wines by the Glass,Lunch; Dinner,,34.00,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,"Les Cadrans de Lassègue Merlot, Saint-Émilion",Featured Wines by the Glass,Lunch; Dinner,,22.00,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,"Frank Family Vineyards Cabernet Sauvignon, Napa Valley",Featured Wines by the Glass,Lunch; Dinner,,36.00,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,"Groth Oakville Cabernet Sauvignon, Napa Valley",Featured Wines by the Glass,Lunch; Dinner,,36.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,"Dutton Goldfield Pinot Noir, Russian River Valley",Featured Wines by the Glass,Lunch; Dinner,,29.00,epcot/le-cellier-steakhouse
-2026-10-06,Le Cellier Steakhouse,EPCOT,Le Cellier Ice Wine Flight,Featured Wines by the Glass,Lunch; Dinner,,25.00,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,Le Cellier Ice Wine Flight,Featured Wines by the Glass,Lunch; Dinner,,38.00,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,Inniskillin Cabernet Franc,Dessert Wines,Lunch; Dinner,,189.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,"Inniskillin Vidal Icewine, Niagara Peninsula",Dessert Wines,Lunch; Dinner,,147.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,"Château des Charmes Vidal Icewine, Niagara Peninsula",Dessert Wines,Lunch; Dinner,,89.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,"Meeker FroZin Zinfandel Icewine, Sonoma County",Dessert Wines,Lunch; Dinner,,98.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,"Chateau La Tour Blanche Emotions, Sauternes Bordeaux",Dessert Wines,Lunch; Dinner,,67.00,epcot/le-cellier-steakhouse
-2026-10-06,Le Cellier Steakhouse,EPCOT,Le Cellier Ice Wine Flight,After Dinner Drinks,Lunch; Dinner,,25.00,epcot/le-cellier-steakhouse
-2026-10-06,Le Cellier Steakhouse,EPCOT,Canadian Coffee,After Dinner Drinks,Lunch; Dinner,with Buffalo Trace Cream Bourbon,14.50,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,Le Cellier Ice Wine Flight,After Dinner Drinks,Lunch; Dinner,,38.00,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,Canadian Coffee,After Dinner Drinks,Lunch; Dinner,with Buffalo Trace Cream Bourbon,15.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Ottawa Apple,Cocktails and Beer,Lunch; Dinner,"Whisky, Maple, Apple Infusion, and Cranberry",16.50,epcot/le-cellier-steakhouse
-2026-10-06,Le Cellier Steakhouse,EPCOT,Icewine Martini,Cocktails and Beer,Lunch; Dinner,"Canadian Vodka, Château des Charmes Vidal Icewine, and Muddled Berries",19.50,epcot/le-cellier-steakhouse
-2026-10-06,Le Cellier Steakhouse,EPCOT,Espresso Martini,Cocktails and Beer,Lunch; Dinner,"Vanilla Vodka, Coffee Liqueur, and Espresso",15.50,epcot/le-cellier-steakhouse
-2026-10-06,Le Cellier Steakhouse,EPCOT,Le Cellier Bloody Caesar,Cocktails and Beer,Lunch; Dinner,"A Canadian Favorite featuring Canadian Vodka, Clamato Juice, Aromatic Bitters, and a blend of Seasonings",18.50,epcot/le-cellier-steakhouse
-2026-10-06,Le Cellier Steakhouse,EPCOT,La Fin du Monde Belgian-style Tripel Ale - Draft,Cocktails and Beer,Lunch; Dinner,,13.00,epcot/le-cellier-steakhouse
-2026-10-06,Le Cellier Steakhouse,EPCOT,Moosehead Lager - Draft,Cocktails and Beer,Lunch; Dinner,,9.25,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,Icewine Martini,Cocktails and Beer,Lunch; Dinner,"Canadian Vodka, Château des Charmes Vidal Icewine, and Muddled Berries",20.00,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,Espresso Martini,Cocktails and Beer,Lunch; Dinner,"Vanilla Vodka, Coffee Liqueur, and Espresso",16.00,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,Le Cellier Bloody Caesar,Cocktails and Beer,Lunch; Dinner,"A Canadian Favorite featuring Canadian Vodka, Clamato Juice, Aromatic Bitters, and a blend of Seasonings",19.00,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,La Fin du Monde Belgian-style Tripel Ale - Draft,Cocktails and Beer,Lunch; Dinner,,13.25,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,Moosehead Lager - Draft,Cocktails and Beer,Lunch; Dinner,,9.75,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Molson Canadian Lager,Cocktails and Beer,Lunch; Dinner,,9.75,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Labatt Blue Canadian Pilsener,Cocktails and Beer,Lunch; Dinner,,10.50,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Labatt Blue Light Canadian Pilsener,Cocktails and Beer,Lunch; Dinner,,10.50,epcot/le-cellier-steakhouse
-2026-10-06,Le Cellier Steakhouse,EPCOT,Rekorderlig Pear Hard Cider,Cocktails and Beer,Lunch; Dinner,,10.50,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,Rekorderlig Pear Hard Cider,Cocktails and Beer,Lunch; Dinner,,12.75,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Canadian Cheddar Cheese Soup,Allergy-Friendly Appetizers,Lunch; Dinner,"Moosehead Pale Ale, Applewood-smoked Bacon (For Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame Allergies)",15.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Artisanal Cheese Plate,Allergy-Friendly Appetizers,Lunch; Dinner,"Craft Cheeses, Honeycomb, Jam, Toasted Sourdough (For Egg, Fish/Shellfish, Peanut, Soy Allergies)",21.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Shrimp Cocktail,Allergy-Friendly Appetizers,Lunch; Dinner,"Lemon, Mignonette, Cocktail Sauce (For Gluten/Wheat, Egg, Fish, Milk, Peanut/Tree Nut, Sesame Allergies)",23.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Steakhouse Wedge Salad,Allergy-Friendly Appetizers,Lunch; Dinner,"Tomatoes, Bacon Lardons, Ranch Dressing, Point Reyes Blue Cheese, Garden Herbs (For Gluten/Wheat, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)",16.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Caesar Salad,Allergy-Friendly Appetizers,Lunch; Dinner,"Romaine, Bibb, Frisee, Radish, Pinenut Gremolata, Plant-based Caesar Dressing (For Egg, Fish/Shellfish, Milk, Peanut, Sesame Allergies)",16.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Signature Poutine,Allergy-Friendly Appetizers,Lunch; Dinner,"Hand-cut Pomme Frites, Cheese Curds, Cheddar, Cabernet Demi (For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)",19.00,epcot/le-cellier-steakhouse
-2026-10-06,Le Cellier Steakhouse,EPCOT,Escargot en Croûte,Allergy-Friendly Appetizers,Lunch; Dinner,"Savory Pastry, Butter, Garlic, Lemon, Parsley (For Fish, Peanut/Tree Nut, Sesame, Soy Allergies)",20.00,epcot/le-cellier-steakhouse
-2026-10-06,Le Cellier Steakhouse,EPCOT,Prince Edward Island Mussels,Allergy-Friendly Appetizers,Lunch; Dinner,"Vin Blanc, Butter, Garlic, Fines Herbes, Lemon, Sourdough (For Egg, Fish, Peanut/Tree Nut, Sesame, Soy Allergies)",24.00,epcot/le-cellier-steakhouse
-2026-10-06,Le Cellier Steakhouse,EPCOT,7-oz Filet Mignon*,Allergy-Friendly Entrées - Butcher's Cuts,Lunch; Dinner,"Butcher’s Cuts Accompanied by one (1) Side and one (1) Sauce (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, Soy Allergies)",65.00,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,Escargot en Croûte,Allergy-Friendly Appetizers,Lunch; Dinner,"Savory Pastry, Butter, Garlic, Lemon, Parsley (For Fish, Peanut/Tree Nut, Sesame, Soy Allergies)",21.00,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,Prince Edward Island Mussels,Allergy-Friendly Appetizers,Lunch; Dinner,"Vin Blanc, Butter, Garlic, Fines Herbes, Lemon, Sourdough (For Egg, Fish, Peanut/Tree Nut, Sesame, Soy Allergies)",25.00,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,7-oz Filet Mignon*,Allergy-Friendly Entrées - Butcher's Cuts,Lunch; Dinner,"Butcher’s Cuts Accompanied by one (1) Side and one (1) Sauce (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, Soy Allergies)",68.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,14-oz Dry-aged Duroc Pork Chop*,Allergy-Friendly Entrées - Butcher's Cuts,Lunch; Dinner,"Butcher’s Cuts Accompanied by one (1) Side and one (1) Sauce (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, Soy Allergies)",49.00,epcot/le-cellier-steakhouse
-2026-10-06,Le Cellier Steakhouse,EPCOT,16-oz. Rib-Eye Steak*,Allergy-Friendly Entrées - Butcher's Cuts,Lunch; Dinner,"Butcher’s Cuts accompanied by one (1) Side and one (1) Sauce (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, Soy Allergies)",62.00,epcot/le-cellier-steakhouse
-2026-10-06,Le Cellier Steakhouse,EPCOT,12-oz Prime New York Strip Steak*,Allergy-Friendly Entrées - Butcher's Cuts,Lunch; Dinner,"Butcher’s Cuts accompanied by one (1) Side and one (1) Sauce (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, Soy Allergies)",62.00,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,16-oz. Rib-Eye Steak*,Allergy-Friendly Entrées - Butcher's Cuts,Lunch; Dinner,"Butcher’s Cuts accompanied by one (1) Side and one (1) Sauce (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, Soy Allergies)",65.00,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,12-oz Prime New York Strip Steak*,Allergy-Friendly Entrées - Butcher's Cuts,Lunch; Dinner,"Butcher’s Cuts accompanied by one (1) Side and one (1) Sauce (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, Soy Allergies)",65.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,28 oz. Rib-Eye Steak for Two*,Allergy-Friendly Entrées - Butcher's Cuts,Lunch; Dinner,"Butcher’s Cuts Accompanied by one (1) Side and one (1) Sauce (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, Soy Allergies)",120.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Point Reyes Blue Cheese,Allergy-Friendly Enhancements,Lunch; Dinner,"(For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)",6.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Lump Crab Oscar,Allergy-Friendly Enhancements,Lunch; Dinner,"(For Gluten/Wheat, Fish, Peanut/Tree Nut, Sesame, Soy Allergies)",19.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Garlic Shrimp,Allergy-Friendly Enhancements,Lunch; Dinner,"(For Gluten/Wheat, Egg Fish, Peanut/Tree Nut, Sesame, Soy Allergies)",18.00,epcot/le-cellier-steakhouse
-2026-10-06,Le Cellier Steakhouse,EPCOT,Le Cellier Filet Mignon*,Allergy-Friendly Entrées - Land & Sea,Lunch; Dinner,"Mushroom Risotto, Pomodoraccio Tomatoes, Chardonnay-Truffle Butter Sauce, Petit Herbs (For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)",65.00,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,Le Cellier Filet Mignon*,Allergy-Friendly Entrées - Land & Sea,Lunch; Dinner,"Mushroom Risotto, Pomodoraccio Tomatoes, Chardonnay-Truffle Butter Sauce, Petit Herbs (For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)",68.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Roasted Chicken,Allergy-Friendly Entrées - Land & Sea,Lunch; Dinner,"Warm Farro Salad, Baby Squash, Carrots, Cranberry-Orange Gel, Sherry-Chicken Jus (For Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)",41.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Miso-roasted Cabbage,Allergy-Friendly Entrées - Land & Sea,Lunch; Dinner,"Miso-Maple Cabbage and King Mushrooms, Chili Crisp, Wild Rice, Parsnip Sunchocke Purée (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Sesame, Tree Nut Allergies)",39.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Almond-Crusted Salmon,Allergy-Friendly Entrées - Land & Sea,Lunch; Dinner,"Broccolini, Celery Root Tapioca, Adobo Sauce (For Gluten/Wheat, Egg, Peanut, Sesame, Shellfish, Soy Allergies)",53.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Hand-cut Pomme Frites,Allergy-Friendly Sides,Lunch; Dinner,"Parmesan, Fines Herbes (For Gluten/Wheat, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)",10.50,epcot/le-cellier-steakhouse
-2026-10-06,Le Cellier Steakhouse,EPCOT,Macaroni & Cheese,Allergy-Friendly Sides,Lunch; Dinner,"Port Salut-Cheddar Sauce, Toasted Herb Crumb (For Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)",14.00,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,Macaroni & Cheese,Allergy-Friendly Sides,Lunch; Dinner,"Port Salut-Cheddar Sauce, Toasted Herb Crumb (For Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)",15.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Mashed Potatoes,Allergy-Friendly Sides,Lunch; Dinner,"Mascarpone, Roasted Garlic (For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)",14.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Braised Mushrooms,Allergy-Friendly Sides,Lunch; Dinner,"Sherry Wine, Fines Herbes (For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)",12.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Crispy Brussels Sprouts,Allergy-Friendly Sides,Lunch; Dinner,"Maple Marmalade, Golden Raisins (Plant-based) (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, Soy Allergies)",10.50,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Creamed Spinach,Allergy-Friendly Sides,Lunch; Dinner,"Sauce Mornay, Parmesan (For Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)",12.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Signature Poutine,Allergy-Friendly Poutine,Lunch; Dinner,"Hand-cut Pomme Frites, Cheese Curds, Cheddar, Cabernet Demi (For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)",19.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Chocolate Cheesecake,Allergy-Friendly Desserts,Lunch; Dinner,"65% Disney Couverture, Hazelnut Praline, Chocolate Crémeux (For Fish/Shellfish, Peanut, Sesame Allergies)",15.00,epcot/le-cellier-steakhouse
-2026-10-06,Le Cellier Steakhouse,EPCOT,Maple Crème Brûlée,Allergy-Friendly Desserts,Lunch; Dinner,"Chantilly, Seasonal Fruit, Tuile (For Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)",15.00,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,Maple Crème Brûlée,Allergy-Friendly Desserts,Lunch; Dinner,"Chantilly, Seasonal Fruit, Tuile (For Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)",16.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,The Wine Cellar's Banana Split,Allergy-Friendly Desserts,Lunch; Dinner,"Roasted Banana Frozen Dessert, Bing Cherries, Chantilly, Walnut Praline (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut, Sesame Allergies)",13.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Butter Tart,Allergy-Friendly Desserts,Lunch; Dinner,"Canadian Butter Tart, Brown Butter Panna Cotta, Cocoa Nib Tuille (For Fish/Shellfish, Peanut/Tree Nut, Sesame Allergies)",15.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Cheddar-Bacon Soup,Allergy-Friendly Kids' Appetizers,Lunch; Dinner,"(For Egg, Fish/Shellfish, Peanut/Tree Nut, and Sesame Allergies)",5.25,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Garden Salad,Allergy-Friendly Kids' Appetizers,Lunch; Dinner,"with Ranch Dressing (For Gluten/Wheat, Fish/ Shellfish, Peanut/Tree Nut, Sesame, and Soy Allergies)",5.25,epcot/le-cellier-steakhouse
-2026-10-06,Le Cellier Steakhouse,EPCOT,Grilled Chicken,Allergy-Friendly Kids' Entrées,Lunch; Dinner,"Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Water, or Small Minute Maid® Apple Juice (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, and Soy Allergies)",16.00,epcot/le-cellier-steakhouse
-2026-10-06,Le Cellier Steakhouse,EPCOT,Grilled Steak,Allergy-Friendly Kids' Entrées,Lunch; Dinner,"Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Water, or Small Minute Maid® Apple Juice (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, and Soy Allergies)",19.00,epcot/le-cellier-steakhouse
-2026-10-06,Le Cellier Steakhouse,EPCOT,Pan-Roasted Fish,Allergy-Friendly Kids' Entrées,Lunch; Dinner,"Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Water, or Small Minute Maid® Apple Juice (For Gluten/Wheat, Egg, Milk, Peanut/Tree Nut, Sesame, Shellfish, and Soy Allergies)",19.00,epcot/le-cellier-steakhouse
-2026-10-06,Le Cellier Steakhouse,EPCOT,Macaroni & Cheese,Allergy-Friendly Kids' Entrées,Lunch; Dinner,"Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Bottled Water, or Small Minute Maid® Apple Juice (For Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame Allergies)",14.00,epcot/le-cellier-steakhouse
-2026-10-06,Le Cellier Steakhouse,EPCOT,Grilled Cheese Sandwich,Allergy-Friendly Kids' Entrées,Lunch; Dinner,"Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Water, or Small Minute Maid® Apple Juice (For Egg, Fish/Shellfish, Peanut/Tree Nut, and Sesame Allergies)",14.00,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,Grilled Chicken,Allergy-Friendly Kids' Entrées,Lunch; Dinner,"Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Water, or Small Minute Maid® Apple Juice (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, and Soy Allergies)",17.00,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,Grilled Steak,Allergy-Friendly Kids' Entrées,Lunch; Dinner,"Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Water, or Small Minute Maid® Apple Juice (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, and Soy Allergies)",20.00,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,Pan-Roasted Fish,Allergy-Friendly Kids' Entrées,Lunch; Dinner,"Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Water, or Small Minute Maid® Apple Juice (For Gluten/Wheat, Egg, Milk, Peanut/Tree Nut, Sesame, Shellfish, and Soy Allergies)",20.00,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,Macaroni & Cheese,Allergy-Friendly Kids' Entrées,Lunch; Dinner,"Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Bottled Water, or Small Minute Maid® Apple Juice (For Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame Allergies)",15.00,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,Grilled Cheese Sandwich,Allergy-Friendly Kids' Entrées,Lunch; Dinner,"Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Water, or Small Minute Maid® Apple Juice (For Egg, Fish/Shellfish, Peanut/Tree Nut, and Sesame Allergies)",15.00,epcot/le-cellier-steakhouse
 2026-10-06,Les Halles Boulangerie-Patisserie,EPCOT,Dinde B.L.T.,Sandwiches,Lunch And Dinner,"Turkey, Bacon, Lettuce, Tomato and Garlic Aioli",10.95,epcot/les-halles-boulangerie-patisserie
 2026-10-06,Les Halles Boulangerie-Patisserie,EPCOT,Poulet au Pistou,Sandwiches,Lunch And Dinner,"Chicken Breast with Cheese, Tomato, Red Onion and Pesto",11.95,epcot/les-halles-boulangerie-patisserie
 2026-10-06,Les Halles Boulangerie-Patisserie,EPCOT,Brie aux Pommes,Sandwiches,Lunch And Dinner,"Brie, Apples and Cranberries in Multi Grain Bread",10.25,epcot/les-halles-boulangerie-patisserie
@@ -848,46 +850,48 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-10-06,Nine Dragons Restaurant,EPCOT,"Plum Takara, CALIFORNIA",Sweet,Lunch; Dinner,,49.00,epcot/nine-dragons-restaurant
 2026-10-06,Canada Popcorn Cart,EPCOT,Northern Ruby,Food & Wine Festival Alcoholic Beverage Offerings,Snack,"Rhubarb Liqueur, Vodka, Strawberry, Ginger, and Lime",17.50,epcot/popcorn-at-canada-pavilion
 2026-10-06,Canada Popcorn Cart,EPCOT,Maple Popcorn in a Souvenir Bucket,Snacks,Snack,(Plant-based),15.29,epcot/popcorn-at-canada-pavilion
-2026-10-06,Canada Popcorn Cart,EPCOT,Maple Popcorn Bucket Refill,Snacks,Snack,valid for length of stay,2.79,epcot/popcorn-at-canada-pavilion
-2026-10-06,Canada Popcorn Cart,EPCOT,Maple Popcorn,Snacks,Snack,,6.99,epcot/popcorn-at-canada-pavilion
+2026-10-06,Canada Popcorn Cart,EPCOT,Maple Popcorn Bucket Refill,Snacks,Snack,valid for length of stay,2.99,epcot/popcorn-at-canada-pavilion
+2026-10-06,Canada Popcorn Cart,EPCOT,Maple Popcorn,Snacks,Snack,,7.29,epcot/popcorn-at-canada-pavilion
 2026-10-06,Canada Popcorn Cart,EPCOT,Assorted Beverages,Beverages,Snack,Assorted Coca-Cola® Offerings,5.50,epcot/popcorn-at-canada-pavilion
 2026-10-06,Canada Popcorn Cart,EPCOT,POWERADE®,Beverages,Snack,,5.50,epcot/popcorn-at-canada-pavilion
 2026-10-06,Canada Popcorn Cart,EPCOT,DASANI® Bottled Water,Beverages,Snack,,4.25,epcot/popcorn-at-canada-pavilion
 2026-10-06,Canada Popcorn Cart,EPCOT,Northern Ruby,Alcoholic Beverages,Snack,"Rhubarb Liqueur, Vodka, Strawberry, Ginger, and Lime",17.50,epcot/popcorn-at-canada-pavilion
-2026-10-06,Canada Popcorn Cart,EPCOT,Moosehead Lager Draft,Alcoholic Beverages,Snack,,11.00,epcot/popcorn-at-canada-pavilion
+2026-10-06,Canada Popcorn Cart,EPCOT,Moosehead Lager Draft,Alcoholic Beverages,Snack,,11.50,epcot/popcorn-at-canada-pavilion
 2026-10-06,Canada Popcorn Cart,EPCOT,Collective Arts Brewing Hazy State IPA,Alcoholic Beverages,Snack,,13.25,epcot/popcorn-at-canada-pavilion
-2026-10-06,Canada Popcorn Cart,EPCOT,Ottawa Apple,Alcoholic Beverages,Snack,"Canadian Whisky, Maple, Apple Infusion, and Cranberry Juice",16.50,epcot/popcorn-at-canada-pavilion
-2026-10-06,Rose & Crown Dining Room,EPCOT,Coronation Salad,Appetizers,Dinner,"Land Greens, Apple Chutney, Radish, and Bhaji Onion topped with Madras Curry Vinaigrette",13.00,epcot/rose-and-crown-dining-room
-2026-10-06,Rose & Crown Dining Room,EPCOT,Scotch Egg,Appetizers,Dinner,Crispy Hen Egg wrapped in an English Sausage with Mustard Sauce,16.00,epcot/rose-and-crown-dining-room
+2026-10-06,Canada Popcorn Cart,EPCOT,Ottawa Apple,Alcoholic Beverages,Snack,"Canadian Whisky, Maple, Apple Infusion, and Cranberry Juice",17.00,epcot/popcorn-at-canada-pavilion
+2026-10-06,Rose & Crown Dining Room,EPCOT,Coronation Salad,Appetizers,Dinner,"Land Greens, Apple Chutney, Radish, and Bhaji Onion topped with Madras Curry Vinaigrette",14.00,epcot/rose-and-crown-dining-room
+2026-10-06,Rose & Crown Dining Room,EPCOT,Scotch Egg,Appetizers,Dinner,Crispy Hen Egg wrapped in an English Sausage with Mustard Sauce,17.00,epcot/rose-and-crown-dining-room
 2026-10-06,Rose & Crown Dining Room,EPCOT,Fish and Chips,Entrées,Dinner,Beer-battered Fish with Thick-Cut Fries served with House-made Tartar Sauce and Lemon,32.00,epcot/rose-and-crown-dining-room
 2026-10-06,Rose & Crown Dining Room,EPCOT,Bangers and Mash,Entrées,Dinner,"Traditional English Sausage with Colcannon Potatoes, Mushrooms, Caramelized Onions, and Guiness Stout Jus",29.00,epcot/rose-and-crown-dining-room
 2026-10-06,Rose & Crown Dining Room,EPCOT,Cottage Pie,Entrées,Dinner,"Braised Beef, Root Vegetables, English Peas, Jus, and Mashed Potatoes with Irish Cheddar",30.00,epcot/rose-and-crown-dining-room
-2026-10-06,Rose & Crown Dining Room,EPCOT,Tikka Masala,Entrées,Dinner,"Slow-braised Vegetables, Tomatoes, and Spiced Curry served with Basmati Rice and Hand-made Naan",25.00,epcot/rose-and-crown-dining-room
+2026-10-06,Rose & Crown Dining Room,EPCOT,Tikka Masala,Entrées,Dinner,"Slow-braised Vegetables, Tomatoes, and Curry Sauce served with Basmati Rice and Hand-made Naan",25.00,epcot/rose-and-crown-dining-room
 2026-10-06,Rose & Crown Dining Room,EPCOT,Sticky Toffee Pudding,Desserts,Dinner,English Custard and Toffee Sauce topped with Hand-made Whipped Cream,10.00,epcot/rose-and-crown-dining-room
 2026-10-06,Rose & Crown Dining Room,EPCOT,Eton Mess,Desserts,Dinner,"with Strawberries, Whipped Cream, and Meringue",9.00,epcot/rose-and-crown-dining-room
-2026-10-06,Rose & Crown Dining Room,EPCOT,Grilled Chicken,Kids' Entrees (choose one)/Child Ages 3-9,Dinner,"Served with Brown Rice, Roasted Carrots and choice of Small Lowfat Milk, Small DASANI® Bottled Water, or Small Minute Maid® Apple Juice",15.50,epcot/rose-and-crown-dining-room
-2026-10-06,Rose & Crown Dining Room,EPCOT,Fish and Chips,Kids' Entrees (choose one)/Child Ages 3-9,Dinner,"Served with choice of Small Lowfat Milk, Small DASANI® Bottled Water, or Small Minute Maid® Apple Juice",15.50,epcot/rose-and-crown-dining-room
+2026-10-06,Rose & Crown Dining Room,EPCOT,Grilled Chicken,Kids' Entrees (choose one)/Child Ages 3-9,Dinner,,13.00,epcot/rose-and-crown-dining-room
+2026-10-06,Rose & Crown Dining Room,EPCOT,Fried Fish,Kids' Entrees (choose one)/Child Ages 3-9,Dinner,"Served with choice of Small Lowfat Milk, Small DASANI® Bottled Water, or Small Minute Maid® Apple Juice",14.00,epcot/rose-and-crown-dining-room
 2026-10-06,Rose & Crown Dining Room,EPCOT,Specialty Character Drink,Non-Alcoholic Specialty Beverage,Dinner,Minute Maid® Zero Sugar Lemonade with flavors of Cotton Candy served in a souvenir Character Cup,7.00,epcot/rose-and-crown-dining-room
+2026-10-06,Rose & Crown Dining Room,EPCOT,Royal Berry Spritzer,Non-Alcoholic Beverages,Dinner,"Blueberry, Blackberry, Pomegranate, and Cold-pressed Lime Juice topped with Topo Chico® Blueberry Hibiscus Sparkling Water",6.59,epcot/rose-and-crown-dining-room
+2026-10-06,Rose & Crown Dining Room,EPCOT,Enchanted Grove Lime Splash,Non-Alcoholic Beverages,Dinner,"A revitalizing sipper, made with Minute Maid® Limeade, Cucumber, and Mint",6.29,epcot/rose-and-crown-dining-room
 2026-10-06,Rose & Crown Dining Room,EPCOT,Assorted Fountain Beverages,Non-Alcoholic Beverages,Dinner,"Coca-Cola®, Diet Coke®, Coca-Cola® Zero Sugar, Sprite®, Fanta® Orange, Minute Maid® Zero Sugar Lemonade",4.99,epcot/rose-and-crown-dining-room
 2026-10-06,Rose & Crown Dining Room,EPCOT,Iced Tea,Non-Alcoholic Beverages,Dinner,,4.99,epcot/rose-and-crown-dining-room
-2026-10-06,Rose & Crown Dining Room,EPCOT,Freshly Brewed Joffrey’s Coffee™,Non-Alcoholic Beverages,Dinner,,4.49,epcot/rose-and-crown-dining-room
+2026-10-06,Rose & Crown Dining Room,EPCOT,Freshly Brewed Joffrey’s Coffee™,Non-Alcoholic Beverages,Dinner,,4.99,epcot/rose-and-crown-dining-room
 2026-10-06,Rose & Crown Dining Room,EPCOT,Twinings® Hot Tea,Non-Alcoholic Beverages,Dinner,,4.49,epcot/rose-and-crown-dining-room
-2026-10-06,Rose & Crown Dining Room,EPCOT,Indigo Hibiscus,Specialty Cocktails,Dinner,"Empress 1908 Gin, Bols Blue Curaçao Liqueur, Minute Maid® Premium Lemonade, Orgeat (Almond), Lemon, and Hibiscus Grenadine",17.50,epcot/rose-and-crown-dining-room
-2026-10-06,Rose & Crown Dining Room,EPCOT,Pimm's Cup,Specialty Cocktails,Dinner,"Pimm's No. 1 and Sprite® topped with Mint, Strawberry, and Cucumber",15.50,epcot/rose-and-crown-dining-room
-2026-10-06,Rose & Crown Dining Room,EPCOT,Welsh Dragon,Specialty Cocktails,Dinner,"Peach Schnapps Liqueur, Melon Liqueur, Crème de Menthe Liqueur, Orange Juice, and Pineapple Juice",14.50,epcot/rose-and-crown-dining-room
-2026-10-06,Rose & Crown Dining Room,EPCOT,Leaping Leprechaun,Specialty Cocktails,Dinner,"Jameson Irish Whiskey, Don Q Cristal Rum, SVEDKA Vodka, Melon Liqueur, and Sweet-and-Sour topped with Sprite®",16.50,epcot/rose-and-crown-dining-room
-2026-10-06,Rose & Crown Dining Room,EPCOT,Cider and Fireball,Specialty Cocktails,Dinner,"Tullamore Dew Irish Whiskey, Fireball Cinnamon Whisky, and Strongbow Cider topped with Ginger Ale",16.50,epcot/rose-and-crown-dining-room
-2026-10-06,Rose & Crown Dining Room,EPCOT,English Rose,Specialty Cocktails,Dinner,"New Amsterdam Gin, Bols Apricot Brandy Minute Maid® Orange Juice, Cranberry Juice, and DOLE® Pineapple Juice",15.50,epcot/rose-and-crown-dining-room
-2026-10-06,Rose & Crown Dining Room,EPCOT,Single Malt Flight,Flights,Dinner,"Glenkinchie, Oban, Lagavulin",24.50,epcot/rose-and-crown-dining-room
-2026-10-06,Rose & Crown Dining Room,EPCOT,Johnnie Walker Flight,Flights,Dinner,"Black, Gold, 18 yr",23.00,epcot/rose-and-crown-dining-room
-2026-10-06,Rose & Crown Dining Room,EPCOT,The Macallan Flight,Flights,Dinner,"12 yr, 15 yr, and 18 yr",30.00,epcot/rose-and-crown-dining-room
-2026-10-06,Rose & Crown Dining Room,EPCOT,Irish Whiskey Flight,Flights,Dinner,"Tullamore D.E.W., Jameson, Bushmills",21.00,epcot/rose-and-crown-dining-room
-2026-10-06,Rose & Crown Dining Room,EPCOT,Oban 14 yr,Scotch Whisky (2-oz pour),Dinner,,27.00,epcot/rose-and-crown-dining-room
-2026-10-06,Rose & Crown Dining Room,EPCOT,The Macallan 12 yr,Scotch Whisky (2-oz pour),Dinner,,21.25,epcot/rose-and-crown-dining-room
-2026-10-06,Rose & Crown Dining Room,EPCOT,Lagavulin 16 yr,Scotch Whisky (2-oz pour),Dinner,,26.00,epcot/rose-and-crown-dining-room
-2026-10-06,Rose & Crown Dining Room,EPCOT,Glenkinchie 12 yr,Scotch Whisky (2-oz pour),Dinner,,20.25,epcot/rose-and-crown-dining-room
-2026-10-06,Rose & Crown Dining Room,EPCOT,The Macallan 18 yr,Scotch Whisky (2-oz pour),Dinner,,45.50,epcot/rose-and-crown-dining-room
-2026-10-06,Rose & Crown Dining Room,EPCOT,Johnnie Walker Blue,Scotch Whisky (2-oz pour),Dinner,,45.50,epcot/rose-and-crown-dining-room
+2026-10-06,Rose & Crown Dining Room,EPCOT,Dublin After Dark,Specialty Cocktails,Dinner,"Grey Goose Vodka, Mr. Black Cold Brew Coffee Liqueur, Espresso, Demerara, and Guinness Draught",20.00,epcot/rose-and-crown-dining-room
+2026-10-06,Rose & Crown Dining Room,EPCOT,Rosé Spritz,Specialty Cocktails,Dinner,"A Strawberry and Rosé Spritz made with Tito's Handmade Vodka, Rockey's Botanical Liqueur, and House of Brown Rosé",19.00,epcot/rose-and-crown-dining-room
+2026-10-06,Rose & Crown Dining Room,EPCOT,Scotch & Honey,Specialty Cocktails,Dinner,"Monkey Shoulder Blended Scotch, Lemon, Honey, and Ginger topped with a float of Islay Scotch",19.00,epcot/rose-and-crown-dining-room
+2026-10-06,Rose & Crown Dining Room,EPCOT,Berry Proper,Specialty Cocktails,Dinner,"Fords Gin, Combier Crème de Mûre Liqueur, Lemon, and Blackberry",18.00,epcot/rose-and-crown-dining-room
+2026-10-06,Rose & Crown Dining Room,EPCOT,Pimm's Cup,Specialty Cocktails,Dinner,"Pimm's No. 1 and Sprite® topped with Mint, Strawberry, and Cucumber",16.00,epcot/rose-and-crown-dining-room
+2026-10-06,Rose & Crown Dining Room,EPCOT,Welsh Dragon,Specialty Cocktails,Dinner,"Parrot Bay Coconut Rum, Melon Liqueur, Peach Schnapps, Cranberry Juice, and Sour Mix garnished with a Cherry and Mint Leaf",16.00,epcot/rose-and-crown-dining-room
+2026-10-06,Rose & Crown Dining Room,EPCOT,Single Malt Flight,Flights,Dinner,"Glenkinchie, Oban, Lagavulin",25.00,epcot/rose-and-crown-dining-room
+2026-10-06,Rose & Crown Dining Room,EPCOT,Johnnie Walker Flight,Flights,Dinner,"Black, Gold, 18 yr",24.00,epcot/rose-and-crown-dining-room
+2026-10-06,Rose & Crown Dining Room,EPCOT,The Macallan Flight,Flights,Dinner,"12 yr, 15 yr, and 18 yr",31.00,epcot/rose-and-crown-dining-room
+2026-10-06,Rose & Crown Dining Room,EPCOT,Irish Whiskey Flight,Flights,Dinner,"Tullamore D.E.W., Jameson, Bushmills",23.00,epcot/rose-and-crown-dining-room
+2026-10-06,Rose & Crown Dining Room,EPCOT,Oban 14 yr,Scotch Whisky (2-oz pour),Dinner,,26.00,epcot/rose-and-crown-dining-room
+2026-10-06,Rose & Crown Dining Room,EPCOT,The Macallan 12 yr,Scotch Whisky (2-oz pour),Dinner,,22.00,epcot/rose-and-crown-dining-room
+2026-10-06,Rose & Crown Dining Room,EPCOT,Lagavulin 16 yr,Scotch Whisky (2-oz pour),Dinner,,25.00,epcot/rose-and-crown-dining-room
+2026-10-06,Rose & Crown Dining Room,EPCOT,Glenkinchie 12 yr,Scotch Whisky (2-oz pour),Dinner,,20.75,epcot/rose-and-crown-dining-room
+2026-10-06,Rose & Crown Dining Room,EPCOT,The Macallan 18 yr,Scotch Whisky (2-oz pour),Dinner,,44.00,epcot/rose-and-crown-dining-room
+2026-10-06,Rose & Crown Dining Room,EPCOT,Johnnie Walker Blue,Scotch Whisky (2-oz pour),Dinner,,46.00,epcot/rose-and-crown-dining-room
 2026-10-06,Rose & Crown Dining Room,EPCOT,Courvoisier VS,Cognacs (2-oz Pour),Dinner,,16.50,epcot/rose-and-crown-dining-room
 2026-10-06,Rose & Crown Dining Room,EPCOT,Strongbow Hard Cider,Beer & Hard Cider,Dinner,"A refreshingly dry, hard apple cider",12.00,epcot/rose-and-crown-dining-room
 2026-10-06,Rose & Crown Dining Room,EPCOT,Old Speckled Hen English Pale Ale,Beer & Hard Cider,Dinner,"A distinctive rich malty taste bursting with toffee character, fruity aroma, and deliciously smooth",12.00,epcot/rose-and-crown-dining-room
@@ -895,63 +899,61 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-10-06,Rose & Crown Dining Room,EPCOT,Harp Lager,Beer & Hard Cider,Dinner,A smooth and solid classic lager,12.00,epcot/rose-and-crown-dining-room
 2026-10-06,Rose & Crown Dining Room,EPCOT,Sullivan's Maltings Irish Ale,Beer & Hard Cider,Dinner,A classic ruby ale with deep malt combining rich biscuit and gentle caramel notes,12.00,epcot/rose-and-crown-dining-room
 2026-10-06,Rose & Crown Dining Room,EPCOT,BrewDog Punk IPA,Beer & Hard Cider,Dinner,A post-modern classic subverted with new world hops for a burst of flavor,12.00,epcot/rose-and-crown-dining-room
-2026-10-06,Rose & Crown Dining Room,EPCOT,Imperial Sampler,Beer & Hard Cider,Dinner,"Sullivans Maltings Irish Ale, Harp Lager, Old Speckled Hen English Pale Ale, and Guinness Stout",16.25,epcot/rose-and-crown-dining-room
+2026-10-06,Rose & Crown Dining Room,EPCOT,Imperial Sampler,Beer & Hard Cider,Dinner,"Sullivans Maltings Irish Ale, Harp Lager, Old Speckled Hen English Pale Ale, and Guinness Stout",16.75,epcot/rose-and-crown-dining-room
 2026-10-06,Rose & Crown Dining Room,EPCOT,"Maschio Prosecco, Veneto",Wine List,Dinner,"clean and delicate, with peach and orange blossom flavors. Glass 12 | Bottle 49",52.00,epcot/rose-and-crown-dining-room
 2026-10-06,Rose & Crown Dining Room,EPCOT,"Dr. Loosen, Dr. L. Riesling, Mosel",Wine List,Dinner,"crisp flavors of white peaches and green apples, bright and refreshing clean finish. Glass 13 | Bottle 56",56.00,epcot/rose-and-crown-dining-room
 2026-10-06,Rose & Crown Dining Room,EPCOT,"Kim Crawford Sauvignon Blanc, Marlborough",Wine List,Dinner,hints of pineapple and mango with intense citrus notes of lemon and grapefruit. Glass 18 | Bottle 75,74.00,epcot/rose-and-crown-dining-room
 2026-10-06,Rose & Crown Dining Room,EPCOT,"Mirassou Pinot Noir, California",Wine List,Dinner,"with notes of ripe red and black cherry, its lush layers of fresh raspberry, strawberry jam, and pomegranate are balanced with hints of oak and vanilla. Glass 12 | Bottle 49",56.00,epcot/rose-and-crown-dining-room
 2026-10-06,Rose & Crown Dining Room,EPCOT,"Simi Cabernet Sauvignon, Sonoma County",Wine List,Dinner,"black cherry and cassis notes accented with spicy oak, rich and complex, long black fruit finish. Glass 18 | Bottle 75",79.00,epcot/rose-and-crown-dining-room
 2026-10-06,Rose & Crown Dining Room,EPCOT,"Opici Family Red Sangria, Spain",Wine List,Dinner,"made in La Mancha, Spain from Tempranillo grapes and has flavors of raspberry, apple, and blackberry with succulent aromas of natural Valencia oranges and cinnamon",14.00,epcot/rose-and-crown-dining-room
-2026-10-06,Rose & Crown Dining Room,EPCOT,Scotch Egg,Allergy-Friendly Appetizers,Dinner,"Crispy Hen Egg wrapped in an English Sausage with Mustard Sauce (For Milk, Peanut/Tree Nut, Sesame, Shellfish, Soy Allergies)",16.00,epcot/rose-and-crown-dining-room
-2026-10-06,Rose & Crown Dining Room,EPCOT,Coronation Salad,Allergy-Friendly Appetizers,Dinner,"Land Greens, Apple Chutney, Radish, and Bhaji Onion topped with Madras Curry Vinaigrette (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, Soy Allergies)",13.00,epcot/rose-and-crown-dining-room
+2026-10-06,Rose & Crown Dining Room,EPCOT,Scotch Egg,Allergy-Friendly Appetizers,Dinner,"Crispy Hen Egg wrapped in an English Sausage with Mustard Sauce (For Milk, Peanut/Tree Nut, Sesame, Shellfish, Soy Allergies)",17.00,epcot/rose-and-crown-dining-room
+2026-10-06,Rose & Crown Dining Room,EPCOT,Coronation Salad,Allergy-Friendly Appetizers,Dinner,"Land Greens, Apple Chutney, Radish, and Bhaji Onion topped with Madras Curry Vinaigrette (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, Soy Allergies)",14.00,epcot/rose-and-crown-dining-room
 2026-10-06,Rose & Crown Dining Room,EPCOT,Bangers and Mash,Allergy-Friendly Entrées,Dinner,"Traditional English Sausage with Colcannon Potatoes, Mushrooms, Caramelized Onions, and Guiness Stout Jus (For Egg, Fish/Shellfish, Peanut/Tree Nut Allergies)",29.00,epcot/rose-and-crown-dining-room
 2026-10-06,Rose & Crown Dining Room,EPCOT,Fish and Chips,Allergy-Friendly Entrées,Dinner,"Beer-battered Fish with Thick-cut Fries served with House-made Tartar Sauce and Lemon (For Milk, Peanut/Tree Nut, Sesame, Shellfish, Soy Allergies)",32.00,epcot/rose-and-crown-dining-room
-2026-10-06,Rose & Crown Dining Room,EPCOT,Tikka Masala,Allergy-Friendly Entrées,Dinner,"Slow-braised Vegetables, Tomatoes, and Spiced Curry served with Basmati Rice and Hand-made Naan (For Egg, Fish/Shellfish, Milk, Peanut, Sesame, Soy Allergies)",25.00,epcot/rose-and-crown-dining-room
+2026-10-06,Rose & Crown Dining Room,EPCOT,Tikka Masala,Allergy-Friendly Entrées,Dinner,"Slow-braised Vegetables, Tomatoes, and Spiced Curry served with Basmati Rice and Hand-made Naan (For Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, Soy Allergies) (For Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, Soy Allergies)",25.00,epcot/rose-and-crown-dining-room
 2026-10-06,Rose & Crown Dining Room,EPCOT,Cottage Pie,Allergy-Friendly Entrées,Dinner,"Braised Beef, Root Vegetables, English Peas, Jus, and Mashed Potatoes with Irish Cheddar (For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame Allergies)",30.00,epcot/rose-and-crown-dining-room
-2026-10-06,Rose & Crown Dining Room,EPCOT,Sticky Toffee Pudding,Allergy-Friendly Desserts,Dinner,"English Custard and Toffee Sauce topped with Hand-made Whipped Cream (For Fish/Shellfish, Peanut, Sesame, Soy Allergies)",10.00,epcot/rose-and-crown-dining-room
+2026-10-06,Rose & Crown Dining Room,EPCOT,Sticky Toffee Pudding,Allergy-Friendly Desserts,Dinner,"English Custard and Toffee Sauce topped with Hand-made Whipped Cream (For Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies) (For Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)",10.00,epcot/rose-and-crown-dining-room
 2026-10-06,Rose & Crown Dining Room,EPCOT,Eton Mess,Allergy-Friendly Desserts,Dinner,"with Strawberries, Whipped Cream, and Meringue (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame Allergies)",9.00,epcot/rose-and-crown-dining-room
-2026-10-06,Rose & Crown Dining Room,EPCOT,Grilled Chicken,Kids' Allergy-Friendly Entrées (choose one)/Child Ages 3-9,Dinner,"Served with Brown Rice, Roasted Carrots, and choice of Small Lowfat Milk, Small DASANI® Bottled Water, or Small Minute Maid® Apple Juice (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, and Soy Allergies)",15.50,epcot/rose-and-crown-dining-room
-2026-10-06,Rose & Crown Dining Room,EPCOT,Fish and Chips,Kids' Allergy-Friendly Entrées (choose one)/Child Ages 3-9,Dinner,"Served with choice of Small Lowfat Milk, Small DASANI® Bottled Water, or Small Minute Maid® Apple Juice (For Milk, Soy, Peanut/Tree Nut, Sesame, and Shellfish Allergies)",15.50,epcot/rose-and-crown-dining-room
-2026-10-06,Rose & Crown Pub,EPCOT,Indigo Hibiscus,Specialty Cocktails,Bar – Lounge,"Empress 1908 Gin, Bols Blue Curaçao Liqueur, Minute Maid® Premium Lemonade, Orgeat (Almond), Lemon, and Hibiscus Grenadine",17.50,epcot/rose-and-crown-pub
-2026-10-06,Rose & Crown Pub,EPCOT,Pimm's Cup,Specialty Cocktails,Bar – Lounge,"Pimm's No. 1 and Sprite® topped with Mint, Strawberry, and Cucumber",15.50,epcot/rose-and-crown-pub
-2026-10-06,Rose & Crown Pub,EPCOT,Welsh Dragon,Specialty Cocktails,Bar – Lounge,"Peach Schnapps Liqueur, Melon Liqueur, Crème de Menthe Liqueur, Orange Juice, and Pineapple Juice",14.50,epcot/rose-and-crown-pub
-2026-10-06,Rose & Crown Pub,EPCOT,Leaping Leprechaun,Specialty Cocktails,Bar – Lounge,"Jameson Irish Whiskey, Don Q Cristal Rum, SVEDKA Vodka, Melon Liqueur, and Sweet-and-Sour topped with Sprite®",16.50,epcot/rose-and-crown-pub
-2026-10-06,Rose & Crown Pub,EPCOT,Cider and Fireball,Specialty Cocktails,Bar – Lounge,"Tullamore Dew Irish Whiskey, Fireball Cinnamon Whisky, and Strongbow Cider topped with Ginger Ale",16.50,epcot/rose-and-crown-pub
-2026-10-06,Rose & Crown Pub,EPCOT,English Rose,Specialty Cocktails,Bar – Lounge,"New Amsterdam Gin, Bols Apricot Brandy Minute Maid® Orange Juice, Cranberry Juice, and DOLE® Pineapple Juice",15.50,epcot/rose-and-crown-pub
-2026-10-06,Rose & Crown Pub,EPCOT,Single Malt Flight,Flights,Bar – Lounge,"Glenkinchie, Oban, Lagavulin",24.50,epcot/rose-and-crown-pub
-2026-10-06,Rose & Crown Pub,EPCOT,Johnnie Walker Flight,Flights,Bar – Lounge,"Black, Gold, 18 yr",23.00,epcot/rose-and-crown-pub
-2026-10-06,Rose & Crown Pub,EPCOT,The Macallan Flight,Flights,Bar – Lounge,"12 yr, 15 yr, and 18 yr",30.00,epcot/rose-and-crown-pub
-2026-10-06,Rose & Crown Pub,EPCOT,Irish Whiskey Flight,Flights,Bar – Lounge,"Tullamore D.E.W., Jameson, Bushmills",21.00,epcot/rose-and-crown-pub
-2026-10-06,Rose & Crown Pub,EPCOT,Oban 14 yr,Scotch Whisky (2-oz pour),Bar – Lounge,,27.00,epcot/rose-and-crown-pub
-2026-10-06,Rose & Crown Pub,EPCOT,The Macallan 12 yr,Scotch Whisky (2-oz pour),Bar – Lounge,,21.25,epcot/rose-and-crown-pub
-2026-10-06,Rose & Crown Pub,EPCOT,Lagavulin 16 yr,Scotch Whisky (2-oz pour),Bar – Lounge,,26.00,epcot/rose-and-crown-pub
-2026-10-06,Rose & Crown Pub,EPCOT,Glenkinchie 12 yr,Scotch Whisky (2-oz pour),Bar – Lounge,,20.25,epcot/rose-and-crown-pub
-2026-10-06,Rose & Crown Pub,EPCOT,The Macallan 18 yr,Scotch Whisky (2-oz pour),Bar – Lounge,,45.50,epcot/rose-and-crown-pub
-2026-10-06,Rose & Crown Pub,EPCOT,Johnnie Walker Blue,Scotch Whisky (2-oz pour),Bar – Lounge,,45.50,epcot/rose-and-crown-pub
-2026-10-06,Rose & Crown Pub,EPCOT,Shandy Imperial Pint,Pub Blends,Bar – Lounge,Half Harp Lager and Half Sprite®,12.00,epcot/rose-and-crown-pub
-2026-10-06,Rose & Crown Pub,EPCOT,Cider & Blackcurrant Imperial Pint,Pub Blends,Bar – Lounge,Cider with a shot of Blackcurrant Juice,12.00,epcot/rose-and-crown-pub
-2026-10-06,Rose & Crown Pub,EPCOT,Snake Bite Imperial Pint,Pub Blends,Bar – Lounge,Half Cider and Half Harp Lager,12.00,epcot/rose-and-crown-pub
-2026-10-06,Rose & Crown Pub,EPCOT,Half & Half Imperial Pint,Pub Blends,Bar – Lounge,Half Harp Lager and Half Guinness Stout,12.00,epcot/rose-and-crown-pub
-2026-10-06,Rose & Crown Pub,EPCOT,Black Velvet Imperial Pint,Pub Blends,Bar – Lounge,Half Cider and Half Guinness Stout,12.00,epcot/rose-and-crown-pub
-2026-10-06,Rose & Crown Pub,EPCOT,Irish Hen Imperial Pint,Pub Blends,Bar – Lounge,Half Old Speckled Hen English Pale Ale and Half Guinness Stout,12.00,epcot/rose-and-crown-pub
-2026-10-06,Rose & Crown Pub,EPCOT,Golden Fox Imperial Pint,Pub Blends,Bar – Lounge,Half Old Speckled Hen English Pub Ale and Half Bombardier Amber,12.00,epcot/rose-and-crown-pub
-2026-10-06,Rose & Crown Pub,EPCOT,The Black Malt,Pub Blends,Bar – Lounge,Half Sullivan's Maltings Irish Ale and Half Guinness Stout,12.00,epcot/rose-and-crown-pub
+2026-10-06,Rose & Crown Dining Room,EPCOT,Grilled Chicken,Kids' Allergy-Friendly Entrées (choose one)/Child Ages 3-9,Dinner,,13.00,epcot/rose-and-crown-dining-room
+2026-10-06,Rose & Crown Dining Room,EPCOT,Fried Fish,Kids' Allergy-Friendly Entrées (choose one)/Child Ages 3-9,Dinner,"Served with choice of Small Lowfat Milk, Small DASANI® Bottled Water, or Small Minute Maid® Apple Juice (For Milk, Soy, Peanut/Tree Nut, Sesame, and Shellfish Allergies)",14.00,epcot/rose-and-crown-dining-room
+2026-10-06,Rose & Crown Pub,EPCOT,Dublin After Dark,Specialty Cocktails,Bar – Lounge,"Grey Goose Vodka, Mr. Black Cold Brew Coffee Liqueur, Espresso, Demerara, and Guinness Draught",20.00,epcot/rose-and-crown-pub
+2026-10-06,Rose & Crown Pub,EPCOT,Rosé Spritz,Specialty Cocktails,Bar – Lounge,"A Strawberry and Rosé Spritz made with Tito's Handmade Vodka, Rockey's Botanical Liqueur, and House of Brown Rosé",19.00,epcot/rose-and-crown-pub
+2026-10-06,Rose & Crown Pub,EPCOT,Scotch & Honey,Specialty Cocktails,Bar – Lounge,"Monkey Shoulder Blended Scotch, Lemon, Honey, and Ginger topped with a float of Islay Scotch",19.00,epcot/rose-and-crown-pub
+2026-10-06,Rose & Crown Pub,EPCOT,Berry Proper,Specialty Cocktails,Bar – Lounge,"Fords Gin, Combier Crème de Mûre Liqueur, Lemon, and Blackberry",18.00,epcot/rose-and-crown-pub
+2026-10-06,Rose & Crown Pub,EPCOT,Pimm's Cup,Specialty Cocktails,Bar – Lounge,"Pimm's No. 1 and Sprite® topped with Mint, Strawberry, and Cucumber",16.00,epcot/rose-and-crown-pub
+2026-10-06,Rose & Crown Pub,EPCOT,Welsh Dragon,Specialty Cocktails,Bar – Lounge,"Parrot Bay Coconut Rum, Melon Liqueur, Peach Schnapps, Cranberry Juice, and Sour Mix garnished with a Cherry and Mint Leaf",16.00,epcot/rose-and-crown-pub
+2026-10-06,Rose & Crown Pub,EPCOT,Single Malt Flight,Flights,Bar – Lounge,"Glenkinchie, Oban, Lagavulin",25.00,epcot/rose-and-crown-pub
+2026-10-06,Rose & Crown Pub,EPCOT,Johnnie Walker Flight,Flights,Bar – Lounge,"Black, Gold, 18 yr",24.00,epcot/rose-and-crown-pub
+2026-10-06,Rose & Crown Pub,EPCOT,The Macallan Flight,Flights,Bar – Lounge,"12 yr, 15 yr, and 18 yr",31.00,epcot/rose-and-crown-pub
+2026-10-06,Rose & Crown Pub,EPCOT,Irish Whiskey Flight,Flights,Bar – Lounge,"Tullamore D.E.W., Jameson, Bushmills",23.00,epcot/rose-and-crown-pub
+2026-10-06,Rose & Crown Pub,EPCOT,Oban 14 yr,Scotch Whisky (2-oz pour),Bar – Lounge,,26.00,epcot/rose-and-crown-pub
+2026-10-06,Rose & Crown Pub,EPCOT,The Macallan 12 yr,Scotch Whisky (2-oz pour),Bar – Lounge,,22.00,epcot/rose-and-crown-pub
+2026-10-06,Rose & Crown Pub,EPCOT,Lagavulin 16 yr,Scotch Whisky (2-oz pour),Bar – Lounge,,25.00,epcot/rose-and-crown-pub
+2026-10-06,Rose & Crown Pub,EPCOT,Glenkinchie 12 yr,Scotch Whisky (2-oz pour),Bar – Lounge,,20.75,epcot/rose-and-crown-pub
+2026-10-06,Rose & Crown Pub,EPCOT,The Macallan 18 yr,Scotch Whisky (2-oz pour),Bar – Lounge,,44.00,epcot/rose-and-crown-pub
+2026-10-06,Rose & Crown Pub,EPCOT,Johnnie Walker Blue,Scotch Whisky (2-oz pour),Bar – Lounge,,46.00,epcot/rose-and-crown-pub
+2026-10-06,Rose & Crown Pub,EPCOT,Cider & Blackcurrant Imperial Pint,Pub Blends,Bar – Lounge,Cider with a shot of Blackcurrant Juice,12.75,epcot/rose-and-crown-pub
+2026-10-06,Rose & Crown Pub,EPCOT,Snake Bite Imperial Pint,Pub Blends,Bar – Lounge,Half Cider and Half Harp Lager,12.75,epcot/rose-and-crown-pub
+2026-10-06,Rose & Crown Pub,EPCOT,Half & Half Imperial Pint,Pub Blends,Bar – Lounge,Half Harp Lager and Half Guinness Stout,12.75,epcot/rose-and-crown-pub
+2026-10-06,Rose & Crown Pub,EPCOT,Black Velvet Imperial Pint,Pub Blends,Bar – Lounge,Half Cider and Half Guinness Stout,12.75,epcot/rose-and-crown-pub
 2026-10-06,Rose & Crown Pub,EPCOT,Strongbow Hard Cider,Beer & Hard Cider,Bar – Lounge,"A refreshingly dry, hard apple cider",12.00,epcot/rose-and-crown-pub
 2026-10-06,Rose & Crown Pub,EPCOT,Old Speckled Hen English Pale Ale,Beer & Hard Cider,Bar – Lounge,"A distinctive rich malty taste bursting with toffee character, fruity aroma, and deliciously smooth",12.00,epcot/rose-and-crown-pub
 2026-10-06,Rose & Crown Pub,EPCOT,Guinness Stout,Beer & Hard Cider,Bar – Lounge,"Deep, rich-flavored stout with a creamy top",12.00,epcot/rose-and-crown-pub
 2026-10-06,Rose & Crown Pub,EPCOT,Harp Lager,Beer & Hard Cider,Bar – Lounge,A smooth and solid classic lager,12.00,epcot/rose-and-crown-pub
 2026-10-06,Rose & Crown Pub,EPCOT,Sullivan's Maltings Irish Ale,Beer & Hard Cider,Bar – Lounge,A classic ruby ale with deep malt combining rich biscuit and gentle caramel notes,12.00,epcot/rose-and-crown-pub
 2026-10-06,Rose & Crown Pub,EPCOT,BrewDog Punk IPA,Beer & Hard Cider,Bar – Lounge,A post-modern classic subverted with new world hops for a burst of flavor,12.00,epcot/rose-and-crown-pub
-2026-10-06,Rose & Crown Pub,EPCOT,Imperial Sampler,Beer & Hard Cider,Bar – Lounge,"Sullivans Maltings Irish Ale, Harp Lager, Old Speckled Hen English Pale Ale, and Guinness Stout",16.25,epcot/rose-and-crown-pub
+2026-10-06,Rose & Crown Pub,EPCOT,Imperial Sampler,Beer & Hard Cider,Bar – Lounge,"Sullivans Maltings Irish Ale, Harp Lager, Old Speckled Hen English Pale Ale, and Guinness Stout",16.75,epcot/rose-and-crown-pub
 2026-10-06,Rose & Crown Pub,EPCOT,"Maschio Prosecco, Veneto",Wine List,Bar – Lounge,"clean and delicate, with peach and orange blossom flavors. Glass 12 | Bottle 49",52.00,epcot/rose-and-crown-pub
 2026-10-06,Rose & Crown Pub,EPCOT,"Dr. Loosen, Dr. L. Riesling, Mosel",Wine List,Bar – Lounge,"crisp flavors of white peaches and green apples, bright and refreshing clean finish. Glass 13 | Bottle 56",56.00,epcot/rose-and-crown-pub
 2026-10-06,Rose & Crown Pub,EPCOT,"Kim Crawford Sauvignon Blanc, Marlborough",Wine List,Bar – Lounge,hints of pineapple and mango with intense citrus notes of lemon and grapefruit. Glass 18 | Bottle 75,74.00,epcot/rose-and-crown-pub
 2026-10-06,Rose & Crown Pub,EPCOT,"Mirassou Pinot Noir, California",Wine List,Bar – Lounge,"with notes of ripe red and black cherry, its lush layers of fresh raspberry, strawberry jam, and pomegranate are balanced with hints of oak and vanilla. Glass 12 | Bottle 49",56.00,epcot/rose-and-crown-pub
 2026-10-06,Rose & Crown Pub,EPCOT,"Simi Cabernet Sauvignon, Sonoma County",Wine List,Bar – Lounge,"black cherry and cassis notes accented with spicy oak, rich and complex, long black fruit finish. Glass 18 | Bottle 75",79.00,epcot/rose-and-crown-pub
 2026-10-06,Rose & Crown Pub,EPCOT,"Opici Family Red Sangria, Spain",Wine List,Bar – Lounge,"made in La Mancha, Spain from Tempranillo grapes and has flavors of raspberry, apple, and blackberry with succulent aromas of natural Valencia oranges and cinnamon",14.00,epcot/rose-and-crown-pub
+2026-10-06,Rose & Crown Pub,EPCOT,Royal Berry Spritzer,Non-Alcoholic Beverages,Bar – Lounge,"Blueberry, Blackberry, Pomegranate, and Cold-pressed Lime Juice topped with Topo Chico® Blueberry Hibiscus Sparkling Water",6.59,epcot/rose-and-crown-pub
+2026-10-06,Rose & Crown Pub,EPCOT,Enchanted Grove Lime Splash,Non-Alcoholic Beverages,Bar – Lounge,"A revitalizing sipper, made with Minute Maid® Limeade, Cucumber, and Mint",6.29,epcot/rose-and-crown-pub
 2026-10-06,Rose & Crown Pub,EPCOT,Assorted Fountain Beverages,Non-Alcoholic Beverages,Bar – Lounge,"Coca-Cola®, Diet Coke®, Coca-Cola® Zero Sugar, Sprite®, Fanta® Orange, Minute Maid® Zero Sugar Lemonade",4.99,epcot/rose-and-crown-pub
 2026-10-06,Rose & Crown Pub,EPCOT,Iced Tea,Non-Alcoholic Beverages,Bar – Lounge,,4.99,epcot/rose-and-crown-pub
-2026-10-06,Rose & Crown Pub,EPCOT,Freshly Brewed Joffrey’s Coffee™,Non-Alcoholic Beverages,Bar – Lounge,,4.49,epcot/rose-and-crown-pub
+2026-10-06,Rose & Crown Pub,EPCOT,Freshly Brewed Joffrey’s Coffee™,Non-Alcoholic Beverages,Bar – Lounge,,4.99,epcot/rose-and-crown-pub
 2026-10-06,Rose & Crown Pub,EPCOT,Twinings® Hot Tea,Non-Alcoholic Beverages,Bar – Lounge,,4.49,epcot/rose-and-crown-pub
 2026-10-06,San Angel Inn Restaurante,EPCOT,Sopa Azteca,Soups and Appetizers,Lunch; Dinner,"Traditional tortilla soup served with fried corn tortilla strips, avocado, cheese, and chile pasilla",13.00,epcot/san-angel-inn-restaurante
 2026-10-06,San Angel Inn Restaurante,EPCOT,Costillas de Elote,Soups and Appetizers,Lunch; Dinner,"Corn ribs with queso fresco, chipotle aioli, and chili lime powder",15.00,epcot/san-angel-inn-restaurante
@@ -1002,9 +1004,9 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-10-06,San Angel Inn Restaurante,EPCOT,Create Your Own Margarita Flight**,Signature Drinks & Margaritas,Lunch; Dinner,"Choose Three (3) - El Diablo, Blood Orange, The Cucumber, Clásica, or The Wild One (**not included in the Disney Dining Plan)",38.00,epcot/san-angel-inn-restaurante
 2026-10-06,Sommerfest,EPCOT,Zwiebelkuchen,Food & Wine Festival Food Offerings,Lunch And Dinner,"German Onion Cake with Caramelized Onions, Bacon, Herbs, and a Savory Custard",9.79,epcot/sommerfest
 2026-10-06,Sommerfest,EPCOT,Cinnamon Pretzel Cold Brew,Food & Wine Festival Beverage Offerings,Lunch And Dinner,"Joffrey's™ Cold Brew Coffee with Sweet Cream, Caramel, Vanilla, Cinnamon, and Pretzel Pieces (non-alcoholic)",6.49,epcot/sommerfest
-2026-10-06,Sommerfest,EPCOT,Warsteiner Dunkel - Germany Vintage Souvenir Stein,Souvenir Specialties with Alcohol,Lunch And Dinner,"24-oz Draft - Classic German-style dark pilsner that has a deep chestnut brown hue with a smooth, toasty malt flavor and mocha aromas",21.75,epcot/sommerfest
-2026-10-06,Sommerfest,EPCOT,Bitburger Premium Pilsner - Germany Vintage Souvenir Stein,Souvenir Specialties with Alcohol,Lunch And Dinner,"24-oz Draft - Classic German lager beer with a crystal clear straw-colored hue and a fine balance between pronounced flavor and light-bodied elegance. With mild fruitiness and freshness supported by gentle sweet malt notes, this yields to a crisp hop tone and a harmonious finish",21.00,epcot/sommerfest
-2026-10-06,Sommerfest,EPCOT,Schöfferhofer Pink Grapefruit Hefeweizen - Germany Vintage Souvenir Stein,Souvenir Specialties with Alcohol,Lunch And Dinner,24-oz Draft - Easy and refreshing with light notes of citrus and spice with low bitterness,21.00,epcot/sommerfest
+2026-10-06,Sommerfest,EPCOT,Warsteiner Dunkel - Germany Vintage Souvenir Stein,Souvenir Specialties with Alcohol,Lunch And Dinner,"24-oz Draft - Classic German-style dark pilsner that has a deep chestnut brown hue with a smooth, toasty malt flavor and mocha aromas",22.00,epcot/sommerfest
+2026-10-06,Sommerfest,EPCOT,Bitburger Premium Pilsner - Germany Vintage Souvenir Stein,Souvenir Specialties with Alcohol,Lunch And Dinner,"24-oz Draft - Classic German lager beer with a crystal clear straw-colored hue and a fine balance between pronounced flavor and light-bodied elegance. With mild fruitiness and freshness supported by gentle sweet malt notes, this yields to a crisp hop tone and a harmonious finish",22.00,epcot/sommerfest
+2026-10-06,Sommerfest,EPCOT,Schöfferhofer Pink Grapefruit Hefeweizen - Germany Vintage Souvenir Stein,Souvenir Specialties with Alcohol,Lunch And Dinner,24-oz Draft - Easy and refreshing with light notes of citrus and spice with low bitterness,22.00,epcot/sommerfest
 2026-10-06,Sommerfest,EPCOT,Bratwurst,Entrées,Lunch And Dinner,Served on a Pretzel Roll with Sauerkraut and House-made Paprika Chips,12.69,epcot/sommerfest
 2026-10-06,Sommerfest,EPCOT,Pretzel Bread Pudding,Desserts,Lunch And Dinner,,4.79,epcot/sommerfest
 2026-10-06,Sommerfest,EPCOT,Jumbo Pretzel,Snacks,Lunch And Dinner,Plant-Based,12.49,epcot/sommerfest
@@ -1014,9 +1016,9 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-10-06,Sommerfest,EPCOT,Diet Coke® Bottle,Beverages,Lunch And Dinner,,5.50,epcot/sommerfest
 2026-10-06,Sommerfest,EPCOT,Sprite® Bottle,Beverages,Lunch And Dinner,,5.50,epcot/sommerfest
 2026-10-06,Sommerfest,EPCOT,DASANI® Bottled Water,Beverages,Lunch And Dinner,,4.25,epcot/sommerfest
-2026-10-06,Sommerfest,EPCOT,Warsteiner Dunkel - Germany,Beer,Lunch And Dinner,"20-oz Draft - Classic German-style Dark Pilsner that has a deep chestnut brown hue with a smooth, toasty malt flavor, and mocha aromas",13.25,epcot/sommerfest
-2026-10-06,Sommerfest,EPCOT,Bitburger Premium Pilsner - Germany,Beer,Lunch And Dinner,"20-oz Draft - Classic German lager beer with a crystal clear straw-colored hue and a fine balance between pronounced flavor and light-bodied elegance. With mild fruitiness and freshness supported by gentle sweet malt notes, this yields to a crisp hop tone and a harmonious finish",12.50,epcot/sommerfest
-2026-10-06,Sommerfest,EPCOT,Schöfferhofer Pink Grapefruit Hefeweizen - Germany,Beer,Lunch And Dinner,20-oz Draft - Easy and refreshing with light notes of citrus and spice with low bitterness,12.50,epcot/sommerfest
+2026-10-06,Sommerfest,EPCOT,Warsteiner Dunkel - Germany,Beer,Lunch And Dinner,"20-oz Draft - Classic German-style Dark Pilsner that has a deep chestnut brown hue with a smooth, toasty malt flavor, and mocha aromas",13.50,epcot/sommerfest
+2026-10-06,Sommerfest,EPCOT,Bitburger Premium Pilsner - Germany,Beer,Lunch And Dinner,"20-oz Draft - Classic German lager beer with a crystal clear straw-colored hue and a fine balance between pronounced flavor and light-bodied elegance. With mild fruitiness and freshness supported by gentle sweet malt notes, this yields to a crisp hop tone and a harmonious finish",13.50,epcot/sommerfest
+2026-10-06,Sommerfest,EPCOT,Schöfferhofer Pink Grapefruit Hefeweizen - Germany,Beer,Lunch And Dinner,20-oz Draft - Easy and refreshing with light notes of citrus and spice with low bitterness,13.50,epcot/sommerfest
 2026-10-06,Sommerfest,EPCOT,"Selbach-Oster 'Blue Label' Riesling, Mosel",Wine,Lunch And Dinner,"5-oz pour - Crisp aromas of lemon, white peach, and melon with a hint of mineral on the palate",19.00,epcot/sommerfest
 2026-10-06,Sommerfest,EPCOT,"August Kesseler Pinot Noir Spätburgunder, Rheingau",Wine,Lunch And Dinner,"5-oz Pour - Delicate, fine, light in style, and well-structured with nice cherry flavors, a hint of black currant, and plenty of spice",16.00,epcot/sommerfest
 2026-10-06,Spice Road Table,EPCOT,Spice Road Table Bread Service,Mediterranean Small Plates,Dinner,"Hummus, Zaalouk, Chermoula, Marinated Olives, Za'atar",11.00,epcot/spice-road-table
@@ -1027,14 +1029,12 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-10-06,Spice Road Table,EPCOT,Chicken Bastilla,Mediterranean Small Plates,Dinner,"Braised Chicken, Crisp Filo Dough, Almonds, Aleppo Honey",11.00,epcot/spice-road-table
 2026-10-06,Spice Road Table,EPCOT,Lemon-Vegetable Couscous Tagine,Mediterranean Small Plates,Dinner,"Fresh Vegetables, Olives, Preserved Lemon",13.00,epcot/spice-road-table
 2026-10-06,Spice Road Table,EPCOT,Dessert Platter,Mediterranean Small Plates,Dinner,Assorted Baklava and Cookies,11.00,epcot/spice-road-table
-2026-10-06,Spice Road Table,EPCOT,Pomegranate Mimosa,Specialty Beverages,Dinner,,15.50,epcot/spice-road-table
-2026-10-06,Spice Road Table,EPCOT,Hibiscus Mimosa,Specialty Beverages,Dinner,,15.50,epcot/spice-road-table
-2026-10-06,Spice Road Table,EPCOT,Blood Orange Mimosa,Specialty Beverages,Dinner,,15.50,epcot/spice-road-table
-2026-10-06,Spice Road Table,EPCOT,Moroccan Mule,Specialty Beverages,Dinner,"Figenza Fig Vodka, Ginger Beer, Agave, and Lime",17.50,epcot/spice-road-table
-2026-10-06,Spice Road Table,EPCOT,Medina Mixer,Specialty Beverages,Dinner,"STARR African Rum, Orange Liqueur, and Cranberry Juice",17.50,epcot/spice-road-table
-2026-10-06,Spice Road Table,EPCOT,Sahara Spritz,Specialty Beverages,Dinner,"Ketel One Botanical Cucumber & Mint Vodka, Soda Water, and Lime",17.50,epcot/spice-road-table
-2026-10-06,Spice Road Table,EPCOT,Pomegranate Açaí,Specialty Beverages,Dinner,"vitaminwater® açai blueberry pomegranate, Bacardí Dragonberry Rum, Lime Juice, Agave, and Soda Water",15.50,epcot/spice-road-table
-2026-10-06,Spice Road Table,EPCOT,Iced Mint Tea,Specialty Beverages,Dinner,with Bombay Sapphire Gin,16.50,epcot/spice-road-table
+2026-10-06,Spice Road Table,EPCOT,Tangier Old Fashioned,Specialty Beverages,Dinner,"Disney Select Mansas African Whiskey, Spiced Brown Sugar, and Aromatic Bitters - inspired by the Land of the Setting Sun.",18.00,epcot/spice-road-table
+2026-10-06,Spice Road Table,EPCOT,Marrakech Mango Margarita,Specialty Beverages,Dinner,"Sango African Agave Spirit, Cointreau Liqueur, Mango, and Lime",18.00,epcot/spice-road-table
+2026-10-06,Spice Road Table,EPCOT,Moroccan Mule,Specialty Beverages,Dinner,"Figenza Fig Vodka, Ginger Beer, Agave, and Lime",18.00,epcot/spice-road-table
+2026-10-06,Spice Road Table,EPCOT,Blood Orange Mimosa,Specialty Beverages,Dinner,,16.00,epcot/spice-road-table
+2026-10-06,Spice Road Table,EPCOT,Pomegranate Açaí,Specialty Beverages,Dinner,"vitaminwater® açai blueberry pomegranate, Bacardí Dragonberry Rum, Lime Juice, Agave, and Soda Water",16.00,epcot/spice-road-table
+2026-10-06,Spice Road Table,EPCOT,Iced Mint Tea,Specialty Beverages,Dinner,with Bombay Sapphire Gin,17.00,epcot/spice-road-table
 2026-10-06,Spice Road Table,EPCOT,"Paul Cheneau 'Lady of Spain' Cava Brut, Spain",Wine and Sangria,Dinner,,56.00,epcot/spice-road-table
 2026-10-06,Spice Road Table,EPCOT,"Mas Fi Cava Brut, Spain",Wine and Sangria,Dinner,,52.00,epcot/spice-road-table
 2026-10-06,Spice Road Table,EPCOT,"Domaine Sigalas Assyrtiko, Santorini",Wine and Sangria,Dinner,,79.00,epcot/spice-road-table
@@ -1043,9 +1043,11 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-10-06,Spice Road Table,EPCOT,Bodegas Nekeas 'Vega Sindoa' Chardonnay,Wine and Sangria,Dinner,,11.00,epcot/spice-road-table
 2026-10-06,Spice Road Table,EPCOT,"Bodegas Marqués de Cáceres Excellens Rosé, Spain",Wine and Sangria,Dinner,,44.00,epcot/spice-road-table
 2026-10-06,Spice Road Table,EPCOT,"CVNE ‘Cune’ Rioja Crianza, Spain",Wine and Sangria,Dinner,,44.00,epcot/spice-road-table
-2026-10-06,Spice Road Table,EPCOT,House-made Sangria,Wine and Sangria,Dinner,"Red, White, Rosé, or Sparkling",42.00,epcot/spice-road-table
+2026-10-06,Spice Road Table,EPCOT,House-made White Sangria,Wine and Sangria,Dinner,"Macabeo Wine, Torres Magdala Naranjas del Mediterráneo, St-Germain Elderflower Liqueur, Passion fruit, and Lemon",17.00,epcot/spice-road-table
+2026-10-06,Spice Road Table,EPCOT,House-made Red Sangria,Wine and Sangria,Dinner,"Garnacha Wine, Torres Magdala Naranjas del Mediterráneo, and Orange",17.00,epcot/spice-road-table
 2026-10-06,Spice Road Table,EPCOT,Mediterranean Beer,Beer & Cider,Dinner,,11.00,epcot/spice-road-table
-2026-10-06,Spice Road Table,EPCOT,Moroccan Blonde Ale,Beer & Cider,Dinner,,12.50,epcot/spice-road-table
+2026-10-06,Spice Road Table,EPCOT,Moroccan Blonde Ale,Beer & Cider,Dinner,,12.75,epcot/spice-road-table
+2026-10-06,Spice Road Table,EPCOT,Enchanted Grove Lime Splash,Non-Alcoholic Beverages,Dinner,Minute Maid® Limeade paired with the revitalizing flavors of Cucumber and Mint,6.29,epcot/spice-road-table
 2026-10-06,Spice Road Table,EPCOT,Moroccan Hot Tea Service,Non-Alcoholic Beverages,Dinner,,5.29,epcot/spice-road-table
 2026-10-06,Spice Road Table,EPCOT,Iced Mint Tea,Non-Alcoholic Beverages,Dinner,,5.29,epcot/spice-road-table
 2026-10-06,Spice Road Table,EPCOT,Premium Sparkling Water,Non-Alcoholic Beverages,Dinner,,5.50,epcot/spice-road-table
@@ -1073,7 +1075,7 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-10-06,Sunshine Seasons,EPCOT,Apple Slices,Snacks,Breakfast; Lunch; Snack,(Plant-based),2.59,epcot/sunshine-seasons
 2026-10-06,Sunshine Seasons,EPCOT,Vanilla Greek Yogurt,Snacks,Breakfast; Lunch; Snack,,3.19,epcot/sunshine-seasons
 2026-10-06,Sunshine Seasons,EPCOT,Strawberry Greek Yogurt,Snacks,Breakfast; Lunch; Snack,,3.19,epcot/sunshine-seasons
-2026-10-06,Sunshine Seasons,EPCOT,Tropical Boba Juice,Specialty Beverages,Breakfast; Lunch; Snack,"Minute Maid® Strawberry, Minute Maid® Mango, and Minute Maid® Zero Sugar Lemonade with Boba Pearls",6.79,epcot/sunshine-seasons
+2026-10-06,Sunshine Seasons,EPCOT,Tropical Boba Juice,Specialty Beverages,Breakfast; Lunch; Snack,"Minute Maid® Strawberry, Minute Maid® Mango, and Minute Maid® Zero Sugar Lemonade with Boba Pearls",6.99,epcot/sunshine-seasons
 2026-10-06,Sunshine Seasons,EPCOT,Seasonal Milkshake,Specialty Beverages,Breakfast; Lunch; Snack,,10.99,epcot/sunshine-seasons
 2026-10-06,Sunshine Seasons,EPCOT,Joffrey's™ Cold Brew Coffee with Sweet Cream,Specialty Beverages,Breakfast; Lunch; Snack,,6.49,epcot/sunshine-seasons
 2026-10-06,Sunshine Seasons,EPCOT,Remy Milk Shake,Beverages,Breakfast,"Strawberry-Cheesecake Milk Shake topped with a Cookie, Mini Cheesecake, White Chocolate Eiffel Tower, and a Strawberry",11.49,epcot/sunshine-seasons
@@ -1091,15 +1093,15 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-10-06,Sunshine Seasons,EPCOT,Milk,Beverages,Breakfast; Lunch; Snack,,2.59,epcot/sunshine-seasons
 2026-10-06,Sunshine Seasons,EPCOT,Minute Maid® Apple Juice,Beverages,Breakfast; Lunch; Snack,,2.59,epcot/sunshine-seasons
 2026-10-06,Sunshine Seasons,EPCOT,Small Chocolate Milk,Beverages,Breakfast; Lunch; Snack,,2.59,epcot/sunshine-seasons
-2026-10-06,Sunshine Seasons,EPCOT,Wood-fired Chicken,Entrées,Lunch,"Served with Mashed Potatoes, Green Beans, and Chimichurri Rojo",12.99,epcot/sunshine-seasons
+2026-10-06,Sunshine Seasons,EPCOT,Wood-fired Chicken,Entrées,Lunch,"Served with Mashed Potatoes, Green Beans, and Chimichurri Rojo",13.99,epcot/sunshine-seasons
 2026-10-06,Sunshine Seasons,EPCOT,Wood-fired Salmon,Entrées,Lunch,"Served with White Rice, Green Beans, and Chimichurri Rojo",14.79,epcot/sunshine-seasons
-2026-10-06,Sunshine Seasons,EPCOT,Pork Carnitas,Entrées,Lunch,"Cilantro-Lime Rice, Black Beans, Onions, Peppers, Cotija, and Pico de Gallo",12.49,epcot/sunshine-seasons
-2026-10-06,Sunshine Seasons,EPCOT,Beef Barbacoa,Entrées,Lunch,"Cilantro-Lime Rice, Black Beans, Onions, Peppers, Cotija, and Pico de Gallo",13.49,epcot/sunshine-seasons
-2026-10-06,Sunshine Seasons,EPCOT,Plant-based Sofritas,Entrées,Lunch,"Cilantro-Lime Rice, Black Beans, Onions, Peppers, Plant-based Feta, and Pico de Gallo",12.49,epcot/sunshine-seasons
-2026-10-06,Sunshine Seasons,EPCOT,Roast Beef Sandwich,Entrées,Lunch,"Slow-cooked Beef, Horseradish Cream, Arugula, Jus, and Crispy Onions on a Baguette served with a Side Salad with Balsamic Vinaigrette",13.99,epcot/sunshine-seasons
-2026-10-06,Sunshine Seasons,EPCOT,Pepperoni Flatbread,Entrées,Lunch,Served with a Side Salad with Balsamic Vinaigrette,12.99,epcot/sunshine-seasons
-2026-10-06,Sunshine Seasons,EPCOT,Cheese Flatbread,Entrées,Lunch,Served with a Side Salad with Balsamic Vinaigrette,11.79,epcot/sunshine-seasons
-2026-10-06,Sunshine Seasons,EPCOT,Caprese Sandwich,Entrées,Lunch,"Tomatoes, Fresh Mozzarella, and Basil Pesto on a Baguette served with a Side Salad with Balsamic Vinaigrette",11.99,epcot/sunshine-seasons
+2026-10-06,Sunshine Seasons,EPCOT,Pork Carnitas,Entrées,Lunch,"Cilantro-Lime Rice, Black Beans, Onions, Peppers, Cotija, and Pico de Gallo",13.49,epcot/sunshine-seasons
+2026-10-06,Sunshine Seasons,EPCOT,Beef Barbacoa,Entrées,Lunch,"Cilantro-Lime Rice, Black Beans, Onions, Peppers, Cotija, and Pico de Gallo",14.49,epcot/sunshine-seasons
+2026-10-06,Sunshine Seasons,EPCOT,Plant-based Sofritas,Entrées,Lunch,"Cilantro-Lime Rice, Black Beans, Onions, Peppers, Plant-based Feta, and Pico de Gallo",13.49,epcot/sunshine-seasons
+2026-10-06,Sunshine Seasons,EPCOT,Roast Beef Sandwich,Entrées,Lunch,"Slow-cooked Beef, Horseradish Cream, Arugula, Jus, and Crispy Onions on a Baguette served with a Side Salad with Balsamic Vinaigrette",14.99,epcot/sunshine-seasons
+2026-10-06,Sunshine Seasons,EPCOT,Pepperoni Flatbread,Entrées,Lunch,Served with a Side Salad with Balsamic Vinaigrette,13.79,epcot/sunshine-seasons
+2026-10-06,Sunshine Seasons,EPCOT,Cheese Flatbread,Entrées,Lunch,Served with a Side Salad with Balsamic Vinaigrette,13.29,epcot/sunshine-seasons
+2026-10-06,Sunshine Seasons,EPCOT,Caprese Sandwich,Entrées,Lunch,"Tomatoes, Fresh Mozzarella, and Basil Pesto on a Baguette served with a Side Salad with Balsamic Vinaigrette",12.99,epcot/sunshine-seasons
 2026-10-06,Sunshine Seasons,EPCOT,Power Greens Salad with Chicken,Grab 'n' Go Entrées,Lunch; Snack,"Crisp Greens topped with Chicken, Feta, Shaved Carrots, Cucumber, Candied Pecans, Golden Raisins, Quinoa, and White Balsamic Vinaigrette",13.79,epcot/sunshine-seasons
 2026-10-06,Sunshine Seasons,EPCOT,Power Greens Salad,Grab 'n' Go Entrées,Lunch; Snack,"Crisp Greens topped with Feta, Shaved Carrots, Cucumber, Candied Pecans, Golden Raisins, Quinoa, and White Balsamic Vinaigrette",11.79,epcot/sunshine-seasons
 2026-10-06,Sunshine Seasons,EPCOT,Caesar Salad with Chicken,Grab 'n' Go Entrées,Lunch; Snack,"Romaine Lettuce, Croutons, Parmesan, and Caesar Dressing",11.99,epcot/sunshine-seasons
@@ -1122,6 +1124,7 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-10-06,Sunshine Seasons,EPCOT,Carrots,Snacks,Lunch; Snack,(Plant-based),2.49,epcot/sunshine-seasons
 2026-10-06,Sunshine Seasons,EPCOT,Pickle-in-a-Pouch,Snacks,Lunch; Snack,,2.29,epcot/sunshine-seasons
 2026-10-06,Sunshine Seasons,EPCOT,Applesauce,Snacks,Lunch; Snack,(Plant-based),1.49,epcot/sunshine-seasons
+2026-10-06,Sunshine Seasons,EPCOT,Churro Strawberry Shortcake Sundae,Snacks,Lunch; Snack,"Churro Loops, Strawberry Soft-serve, Strawberry Compote, Whipped Cream and Cake Crumbs",8.29,epcot/sunshine-seasons
 2026-10-06,Sunshine Seasons,EPCOT,Turtle Brownie,Desserts,Lunch; Snack,,5.99,epcot/sunshine-seasons
 2026-10-06,Sunshine Seasons,EPCOT,Cookies ‘n “Cream” Chocolate Mousse Cup,Desserts,Lunch; Snack,(Plant-based),5.29,epcot/sunshine-seasons
 2026-10-06,Sunshine Seasons,EPCOT,Assorted Artisanal Cookies,Desserts,Lunch; Snack,,4.79,epcot/sunshine-seasons
@@ -1134,7 +1137,7 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-10-06,Sunshine Seasons,EPCOT,Cigar City Jai Alai IPA,Beverages with Alcohol,Lunch; Snack,,12.50,epcot/sunshine-seasons
 2026-10-06,Sunshine Seasons,EPCOT,Surfside Peach Tea + Vodka Hard Tea,Beverages with Alcohol,Lunch; Snack,,12.50,epcot/sunshine-seasons
 2026-10-06,Sunshine Seasons,EPCOT,Surfside Lemonade + Vodka,Beverages with Alcohol,Lunch; Snack,,12.50,epcot/sunshine-seasons
-2026-10-06,Sunshine Seasons,EPCOT,White Claw Black Cherry Hard Seltzer,Beverages with Alcohol,Lunch; Snack,,11.00,epcot/sunshine-seasons
+2026-10-06,Sunshine Seasons,EPCOT,White Claw Black Cherry Hard Seltzer,Beverages with Alcohol,Lunch; Snack,,12.00,epcot/sunshine-seasons
 2026-10-06,Sunshine Seasons,EPCOT,Roasted Red Pepper Hummus,Allergy-Friendly Snacks,Lunch; Snack,"with Cucumbers, Olives, and Multigrain Crackers (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, and Peanut/Tree Nut Allergies)",4.79,epcot/sunshine-seasons
 2026-10-06,Sunshine Seasons,EPCOT,Apple Pack,Allergy-Friendly Snacks,Lunch; Snack,"(For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, and Soy Allergies)",4.69,epcot/sunshine-seasons
 2026-10-06,Sunshine Seasons,EPCOT,Assorted Fruit Cups,Allergy-Friendly Snacks,Lunch; Snack,"(For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, and Soy Allergies)",4.19,epcot/sunshine-seasons
@@ -1220,18 +1223,19 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-10-06,Teppan Edo,EPCOT,Legent Bourbon,Craft Spirits,Lunch; Dinner,,15.00,epcot/teppan-edo
 2026-10-06,Teppan Edo,EPCOT,Toki - Single,Craft Spirits,Lunch; Dinner,,15.00,epcot/teppan-edo
 2026-10-06,Teppan Edo,EPCOT,Toki - Double,Craft Spirits,Lunch; Dinner,,28.00,epcot/teppan-edo
-2026-10-06,Refreshment Station,EPCOT,Frozen Coca-Cola®,Beverages,Snack,,6.25,epcot/test-track-cool-wash
+2026-10-06,Refreshment Station,EPCOT,Frozen Coca-Cola®,Beverages,Snack,,6.29,epcot/test-track-cool-wash
 2026-10-06,Refreshment Station,EPCOT,Frozen Coca-Cola® topped with Assorted Candies,Beverages,Snack,,7.00,epcot/test-track-cool-wash
 2026-10-06,Refreshment Station,EPCOT,Assorted Frozen Beverage,Beverages,Snack,,6.25,epcot/test-track-cool-wash
 2026-10-06,Refreshment Station,EPCOT,Assorted Frozen Beverages with Assorted Candies,Beverages,Snack,,7.00,epcot/test-track-cool-wash
 2026-10-06,The Land Cart,EPCOT,Mickey-shaped Pretzel with Cheese Sauce,Snacks,Snack,,8.49,epcot/the-land-cart
-2026-10-06,The Land Cart,EPCOT,Pickle-in-a-Pouch,Snacks,Snack,,2.29,epcot/the-land-cart
+2026-10-06,The Land Cart,EPCOT,Dubai Nights Churro,Snacks,Snack,"Churro topped with Dark Chocolate, Filo Dough, and Pistachio Cream",6.99,epcot/the-land-cart
+2026-10-06,The Land Cart,EPCOT,Pickle-in-a-Pouch,Snacks,Snack,,2.79,epcot/the-land-cart
 2026-10-06,The Land Cart,EPCOT,Hummus Cup,Snacks,Snack,,4.79,epcot/the-land-cart
 2026-10-06,The Land Cart,EPCOT,Outshine® Strawberry Fruit Bar,Snacks,Snack,,5.99,epcot/the-land-cart
 2026-10-06,The Land Cart,EPCOT,Peach-Lime Smoothie,Beverages,Snack,,6.29,epcot/the-land-cart
 2026-10-06,The Land Cart,EPCOT,Assorted Coca-Cola® Bottled Beverages,Beverages,Snack,,5.50,epcot/the-land-cart
 2026-10-06,The Land Cart,EPCOT,DASANI® Bottled Water,Beverages,Snack,,4.25,epcot/the-land-cart
-2026-10-06,The Land Cart,EPCOT,Peach-Lime Smoothie,Beverages with Alcohol,Snack,with Tito's Handmade Vodka,17.50,epcot/the-land-cart
+2026-10-06,The Land Cart,EPCOT,Peach-Lime Smoothie,Beverages with Alcohol,Snack,with Tito's Handmade Vodka,18.00,epcot/the-land-cart
 2026-10-06,The Land Cart,EPCOT,Orange Blossom Brewing Co. Honey Pilsner,Beverages with Alcohol,Snack,,12.50,epcot/the-land-cart
 2026-10-06,The Land Cart,EPCOT,Bud Light Lager,Beverages with Alcohol,Snack,,9.75,epcot/the-land-cart
 2026-10-06,Tutto Gusto Wine Cellar,EPCOT,Calamari Fritti,Assaggi D'Italia,Bar – Lounge,served with Marinara Piccante,23.00,epcot/tutto-gusto-wine-cellar
@@ -1403,8 +1407,8 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-10-06,Tutto Italia Ristorante,EPCOT,Stock 84,Marsala & Brandy,Lunch; Dinner,"Smooth, mellow flavors and soft aroma with a very faint fruitness",20.00,epcot/tutto-italia-ristorante
 2026-10-06,UK Beer Cart,EPCOT,Sparkling Cucumber-Gin Cocktail,Food & Wine Festival Alcoholic Beverage Offerings,Bar – Lounge,"Fords Gin, Blackberry Brandy, Cucumber Syrup, Minute Maid® Premium Lemonade, and Maschio Prosecco",17.50,epcot/uk-beer-cart
 2026-10-06,UK Beer Cart,EPCOT,Sparkling Cucumber-Gin Cocktail,Alcoholic Beverages,Bar – Lounge,"Fords Gin, Blackberry Brandy, Cucumber Syrup, Minute Maid® Premium Lemonade, and Maschio Prosecco",17.50,epcot/uk-beer-cart
-2026-10-06,UK Beer Cart,EPCOT,Harp Lager Draft,Alcoholic Beverages,Bar – Lounge,,12.00,epcot/uk-beer-cart
-2026-10-06,UK Beer Cart,EPCOT,BrewDog Punk IPA,Alcoholic Beverages,Bar – Lounge,,12.00,epcot/uk-beer-cart
+2026-10-06,UK Beer Cart,EPCOT,Harp Lager Draft,Alcoholic Beverages,Bar – Lounge,,12.75,epcot/uk-beer-cart
+2026-10-06,UK Beer Cart,EPCOT,BrewDog Punk IPA,Alcoholic Beverages,Bar – Lounge,,12.75,epcot/uk-beer-cart
 2026-10-06,UK Beer Cart,EPCOT,Seasonal Hard Cider,Alcoholic Beverages,Bar – Lounge,,12.75,epcot/uk-beer-cart
 2026-10-06,UK Beer Cart,EPCOT,DASANI® Bottled Water,Beverages,Bar – Lounge,,4.25,epcot/uk-beer-cart
 2026-10-06,Via Napoli Ristorante e Pizzeria,EPCOT,Tris di Bruschetta,Antipasti,Lunch; Dinner,"classica with tomatoes, burrata and pesto, eggplant and zucchini",15.00,epcot/via-napoli
@@ -1499,12 +1503,12 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-10-06,Via Napoli Ristorante e Pizzeria,EPCOT,Sangria Flight,Vini,Lunch; Dinner,Prosecco | Gavi White Wine | Langhe Red Wine,26.00,epcot/via-napoli
 2026-10-06,Via Napoli Ristorante e Pizzeria,EPCOT,Limoncello Float,Vini,Lunch; Dinner,Sicilian limoncello over homemade limoncello gelato and fresh raspberry (21+,19.00,epcot/via-napoli
 2026-10-06,Via Napoli Ristorante e Pizzeria,EPCOT,Beer Flight (4.5 oz pours),Vini,Lunch; Dinner,Peroni | Menabrea Ambrata | Menabrea Bionda,26.00,epcot/via-napoli
-2026-10-06,Yorkshire County Fish Shop,EPCOT,Beer-battered Fish and Chips,Entrée,Lunch And Dinner,,14.49,epcot/yorkshire-county-fish-shop
-2026-10-06,Yorkshire County Fish Shop,EPCOT,Cuties® Mandarin 3-pack,Snacks,Lunch And Dinner,,4.19,epcot/yorkshire-county-fish-shop
+2026-10-06,Yorkshire County Fish Shop,EPCOT,Beer-battered Fish and Chips,Entrée,Lunch And Dinner,,15.49,epcot/yorkshire-county-fish-shop
+2026-10-06,Yorkshire County Fish Shop,EPCOT,Cuties® Mandarin 3-pack,Snacks,Lunch And Dinner,,4.49,epcot/yorkshire-county-fish-shop
 2026-10-06,Yorkshire County Fish Shop,EPCOT,Chips,Snacks,Lunch And Dinner,,5.49,epcot/yorkshire-county-fish-shop
-2026-10-06,Yorkshire County Fish Shop,EPCOT,Assorted Fountain Beverages,Beverages,Lunch And Dinner,Assorted Coca-Cola® Offerings,4.79,epcot/yorkshire-county-fish-shop
+2026-10-06,Yorkshire County Fish Shop,EPCOT,Assorted Fountain Beverages,Beverages,Lunch And Dinner,Assorted Coca-Cola® Offerings,4.99,epcot/yorkshire-county-fish-shop
 2026-10-06,Yorkshire County Fish Shop,EPCOT,DASANI® Bottled Water,Beverages,Lunch And Dinner,,4.25,epcot/yorkshire-county-fish-shop
-2026-10-06,Yorkshire County Fish Shop,EPCOT,Freshly Brewed Joffrey's Coffee™ Regular,Beverages,Lunch And Dinner,,4.79,epcot/yorkshire-county-fish-shop
-2026-10-06,Yorkshire County Fish Shop,EPCOT,Twinings® English Breakfast Tea,Beverages,Lunch And Dinner,,4.79,epcot/yorkshire-county-fish-shop
-2026-10-06,Yorkshire County Fish Shop,EPCOT,Harp Lager - Ireland,Beer,Lunch And Dinner,"20-oz Draft - This classic Irish Pale Lager has a pleasant buttery-sweet malt aroma, crisp and dry, with a smooth finish",12.00,epcot/yorkshire-county-fish-shop
-2026-10-06,Yorkshire County Fish Shop,EPCOT,Sullivan's Maltings Irish Red Ale,Beer,Lunch And Dinner,,12.00,epcot/yorkshire-county-fish-shop
+2026-10-06,Yorkshire County Fish Shop,EPCOT,Freshly Brewed Joffrey's Coffee™ Regular,Beverages,Lunch And Dinner,,4.99,epcot/yorkshire-county-fish-shop
+2026-10-06,Yorkshire County Fish Shop,EPCOT,Twinings® English Breakfast Tea,Beverages,Lunch And Dinner,,4.99,epcot/yorkshire-county-fish-shop
+2026-10-06,Yorkshire County Fish Shop,EPCOT,Harp Lager - Ireland,Beer,Lunch And Dinner,"20-oz Draft - This classic Irish Pale Lager has a pleasant buttery-sweet malt aroma, crisp and dry, with a smooth finish",12.75,epcot/yorkshire-county-fish-shop
+2026-10-06,Yorkshire County Fish Shop,EPCOT,Sullivan's Maltings Irish Red Ale,Beer,Lunch And Dinner,,12.75,epcot/yorkshire-county-fish-shop
