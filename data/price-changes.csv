@@ -2040,3 +2040,252 @@ Detected,Restaurant,Park,Item,Category,Old Price,New Price,Change,Percent,Source
 2026-10-06 08:37,Yachtsman Steakhouse,Yacht Club Resort,Keoke Coffee,Coffee Drinks,15.50,17.00,1.50,9.7%,yacht-club-resort/yachtsman-steakhouse
 2026-10-06 08:37,Yachtsman Steakhouse,Yacht Club Resort,Payoff Martini,Coffee Drinks,17.50,18.00,0.50,2.9%,yacht-club-resort/yachtsman-steakhouse
 2026-10-06 08:37,Yachtsman Steakhouse,Yacht Club Resort,Cold Brew Martini,Coffee Drinks,17.50,18.00,0.50,2.9%,yacht-club-resort/yachtsman-steakhouse
+2026-10-06 17:03,Cinderella's Royal Table,Magic Kingdom,Blackberry-Orange Spritz,Specialty Cocktails,17.50,18.00,0.50,2.9%,magic-kingdom/cinderella-royal-table
+2026-10-06 17:03,Cinderella's Royal Table,Magic Kingdom,Bloody Mary,Specialty Cocktails,17.00,17.50,0.50,2.9%,magic-kingdom/cinderella-royal-table
+2026-10-06 17:03,Cinderella's Royal Table,Magic Kingdom,Legacy Mimosa,Specialty Cocktails,20.50,21.00,0.50,2.4%,magic-kingdom/cinderella-royal-table
+2026-10-06 17:03,The Crystal Palace,Magic Kingdom,Legacy Mimosa,Specialty Cocktails,20.50,21.00,0.50,2.4%,magic-kingdom/crystal-palace
+2026-10-06 17:03,The Crystal Palace,Magic Kingdom,Sunrise Margarita,Specialty Cocktails,20.50,19.00,-1.50,-7.3%,magic-kingdom/crystal-palace
+2026-10-06 17:03,The Crystal Palace,Magic Kingdom,Island Fusion Punch,Specialty Cocktails,16.50,17.00,0.50,3.0%,magic-kingdom/crystal-palace
+2026-10-06 17:03,The Plaza Restaurant,Magic Kingdom,Sunrise Margarita,Specialty Cocktails,20.50,19.00,-1.50,-7.3%,magic-kingdom/plaza-restaurant
+2026-10-06 17:03,The Plaza Restaurant,Magic Kingdom,Cold Brew Martini,Specialty Cocktails,17.50,18.00,0.50,2.9%,magic-kingdom/plaza-restaurant
+2026-10-06 17:03,Akershus Royal Banquet Hall,EPCOT,Legacy Mimosa,Specialty Cocktails,20.50,21.00,0.50,2.4%,epcot/akershus-royal-banquet-hall
+2026-10-06 17:03,GEO-82,EPCOT,Truffled Ahi Tuna*,Small Bites,21.00,23.00,2.00,9.5%,epcot/geo-82-lounge
+2026-10-06 17:03,GEO-82,EPCOT,A. Bergère ‘Origine’ Brut NV,Wine Selections,105.00,120.00,15.00,14.3%,epcot/geo-82-lounge
+2026-10-06 17:03,Le Cellier Steakhouse,EPCOT,Ottawa Apple,Cocktails and Beer,16.50,17.00,0.50,3.0%,epcot/le-cellier-steakhouse
+2026-10-06 17:03,Fairfax Fare,Disney's Hollywood Studios,Assorted Fountain Beverages - Large,Beverages,5.99,5.59,-0.40,-6.7%,hollywood-studios/fairfax-fare
+2026-10-06 17:03,Hollywood & Vine,Disney's Hollywood Studios,Legacy Mimosa,Breakfast Cocktails,20.50,21.00,0.50,2.4%,hollywood-studios/hollywood-and-vine
+2026-10-06 17:03,Hollywood & Vine,Disney's Hollywood Studios,Bloody Mary,Breakfast Cocktails,17.00,17.50,0.50,2.9%,hollywood-studios/hollywood-and-vine
+2026-10-06 17:03,Hollywood & Vine,Disney's Hollywood Studios,Cold Brew Martini,Breakfast Cocktails,17.50,18.00,0.50,2.9%,hollywood-studios/hollywood-and-vine
+2026-10-06 17:03,Ronto Roasters,Disney's Hollywood Studios,Lowfat Milk,Breakfast Beverages,2.29,2.59,0.30,13.1%,hollywood-studios/ronto-roasters
+2026-10-06 17:03,Ronto Roasters,Disney's Hollywood Studios,Small Chocolate Milk,Breakfast Beverages,2.29,2.59,0.30,13.1%,hollywood-studios/ronto-roasters
+2026-10-06 17:03,Ronto Roasters,Disney's Hollywood Studios,Large Freshly Brewed Joffrey's Coffee™ Decaf,Beverages,5.19,5.29,0.10,1.9%,hollywood-studios/ronto-roasters
+2026-10-06 17:03,Ronto Roasters,Disney's Hollywood Studios,Coffee,Beverages,4.79,4.99,0.20,4.2%,hollywood-studios/ronto-roasters
+2026-10-06 17:03,Ronto Roasters,Disney's Hollywood Studios,Coffee - Decaf,Beverages,4.79,4.99,0.20,4.2%,hollywood-studios/ronto-roasters
+2026-10-06 17:03,Woody's Lunch Box,Disney's Hollywood Studios,Turkey Sandwich,Kid's Disney Check Meals,9.29,8.29,-1.00,-10.8%,hollywood-studios/woodys-lunchbox
+2026-10-06 17:03,Satu'li Canteen,Disney's Animal Kingdom,Chimichurri Beef and Chopped Wood-grilled Chicken,Entrées,17.49,17.99,0.50,2.9%,animal-kingdom/satuli-canteen
+2026-10-06 17:03,Tusker House Restaurant,Disney's Animal Kingdom,Sunrise Margarita,Breakfast Cocktails,20.50,19.00,-1.50,-7.3%,animal-kingdom/tusker-house-restaurant
+2026-10-06 17:03,The Daily Poutine,Disney Springs,Assorted Fountain Beverages,Beverages,4.79,4.99,0.20,4.2%,disney-springs/daily-poutine
+2026-10-06 17:03,Intermission Food Court,All-Star Music Resort,Plant-based Greek Style Pita,Plant-Based,13.29,14.29,1.00,7.5%,all-star-music-resort/intermission-food-court
+2026-10-06 17:03,Boma - Flavors of Africa,Animal Kingdom Lodge,Legacy Mimosa,Boma Morning Cocktails,20.50,21.00,0.50,2.4%,animal-kingdom-lodge/boma-flavors-of-africa
+2026-10-06 17:03,Boma - Flavors of Africa,Animal Kingdom Lodge,Blackberry-Orange Spritz,Boma Morning Cocktails,17.50,18.00,0.50,2.9%,animal-kingdom-lodge/boma-flavors-of-africa
+2026-10-06 17:03,Boma - Flavors of Africa,Animal Kingdom Lodge,Island Fusion Punch,Boma Morning Cocktails,16.50,17.00,0.50,3.0%,animal-kingdom-lodge/boma-flavors-of-africa
+2026-10-06 17:03,The Drop Off Pool Bar,Art of Animation Resort,smartwater®,Non-Alcoholic Specialties,6.00,6.25,0.25,4.2%,art-of-animation-resort/drop-off-pool-bar
+2026-10-06 17:03,Cape May Cafe,Beach Club Resort,Legacy Mimosa,Cocktails,20.50,21.00,0.50,2.4%,beach-club-resort/cape-may-cafe
+2026-10-06 17:03,Cape May Cafe,Beach Club Resort,Island Fusion Punch,Cocktails,16.50,17.00,0.50,3.0%,beach-club-resort/cape-may-cafe
+2026-10-06 17:03,Cape May Cafe,Beach Club Resort,Bloody Mary,Cocktails,17.00,17.50,0.50,2.9%,beach-club-resort/cape-may-cafe
+2026-10-06 17:03,BoardWalk Deli,BoardWalk,Mickey Crisped Rice Treat,Snacks,5.99,5.79,-0.20,-3.3%,boardwalk/boardwalk-bakery
+2026-10-06 17:03,AbracadaBar,BoardWalk,Negroni,Specialty Cocktails,18.50,19.00,0.50,2.7%,boardwalk/abracadabar
+2026-10-06 17:03,AbracadaBar,BoardWalk,Cosmopolitan,Specialty Cocktails,18.50,19.00,0.50,2.7%,boardwalk/abracadabar
+2026-10-06 17:03,AbracadaBar,BoardWalk,The Conjurita,Specialty Cocktails,19.50,20.00,0.50,2.6%,boardwalk/abracadabar
+2026-10-06 17:03,AbracadaBar,BoardWalk,"Samuel Adams Seasonal - Boston, MA",Beer and Hard Cider,11.75,12.50,0.75,6.4%,boardwalk/abracadabar
+2026-10-06 17:03,BoardWalk Joe's Marvelous Margaritas,BoardWalk,Frozen Grand Margarita,Alcoholic Beverages,18.50,19.00,0.50,2.7%,boardwalk/boardwalk-joes-marvelous-margaritas
+2026-10-06 17:03,BoardWalk Joe's Marvelous Margaritas,BoardWalk,Añejo Select Margarita,Alcoholic Beverages,18.50,19.00,0.50,2.7%,boardwalk/boardwalk-joes-marvelous-margaritas
+2026-10-06 17:03,BoardWalk Joe's Marvelous Margaritas,BoardWalk,Frozen Strawberry Margarita,Alcoholic Beverages,16.50,17.00,0.50,3.0%,boardwalk/boardwalk-joes-marvelous-margaritas
+2026-10-06 17:03,BoardWalk Joe's Marvelous Margaritas,BoardWalk,Marvelous Watermelon Margarita,Alcoholic Beverages,17.50,18.00,0.50,2.9%,boardwalk/boardwalk-joes-marvelous-margaritas
+2026-10-06 17:03,BoardWalk Joe's Marvelous Margaritas,BoardWalk,Sunshine Margarita,Alcoholic Beverages,18.50,19.00,0.50,2.7%,boardwalk/boardwalk-joes-marvelous-margaritas
+2026-10-06 17:03,BoardWalk Joe's Marvelous Margaritas,BoardWalk,Piña Colada,Alcoholic Beverages,14.50,15.00,0.50,3.4%,boardwalk/boardwalk-joes-marvelous-margaritas
+2026-10-06 17:03,BoardWalk Joe's Marvelous Margaritas,BoardWalk,Captain's Seaside Sensation,Alcoholic Beverages,15.50,17.00,1.50,9.7%,boardwalk/boardwalk-joes-marvelous-margaritas
+2026-10-06 17:03,Pizza Window,BoardWalk,Super Slice of Pepperoni Pizza,Pizza,10.29,10.99,0.70,6.8%,boardwalk/pizza-window
+2026-10-06 17:03,Pizza Window,BoardWalk,Schöfferhofer Grapefruit Hefeweizen - Germany,Draft Beer,12.25,12.75,0.50,4.1%,boardwalk/pizza-window
+2026-10-06 17:03,Pizza Window,BoardWalk,"Florida Beer Co. Hurricane Reef Pilsner - Cape Canaveral, FL",Draft Beer,12.50,13.25,0.75,6.0%,boardwalk/pizza-window
+2026-10-06 17:03,Pizza Window,BoardWalk,RAMONA Blood Orange Wine Spritz,Wine,11.75,12.00,0.25,2.1%,boardwalk/pizza-window
+2026-10-06 17:03,Belle Vue Lounge,BoardWalk Inn,Orange Blossom Manhattan,Specialty Cocktails,18.50,21.00,2.50,13.5%,boardwalk-inn/belle-vue-lounge
+2026-10-06 17:03,Belle Vue Lounge,BoardWalk Inn,Smoked Turkey,Specialty Cocktails,18.50,19.00,0.50,2.7%,boardwalk-inn/belle-vue-lounge
+2026-10-06 17:03,Belle Vue Lounge,BoardWalk Inn,Pineapple Mule,Specialty Cocktails,18.50,19.00,0.50,2.7%,boardwalk-inn/belle-vue-lounge
+2026-10-06 17:03,Belle Vue Lounge,BoardWalk Inn,Old Fashioned,Specialty Cocktails,18.50,19.00,0.50,2.7%,boardwalk-inn/belle-vue-lounge
+2026-10-06 17:03,Belle Vue Lounge,BoardWalk Inn,Askur45 Gimlet,Specialty Cocktails,19.50,20.00,0.50,2.6%,boardwalk-inn/belle-vue-lounge
+2026-10-06 17:03,Belle Vue Lounge,BoardWalk Inn,Belle Vue Cosmopolitan,Specialty Cocktails,18.50,19.00,0.50,2.7%,boardwalk-inn/belle-vue-lounge
+2026-10-06 17:03,Belle Vue Lounge,BoardWalk Inn,Tom Collins,Specialty Cocktails,18.50,19.00,0.50,2.7%,boardwalk-inn/belle-vue-lounge
+2026-10-06 17:03,Belle Vue Lounge,BoardWalk Inn,"Johnnie Walker Blue Label, Scotland",Scotch Whisky (2-oz pour),45.50,46.00,0.50,1.1%,boardwalk-inn/belle-vue-lounge
+2026-10-06 17:03,California Grill,Contemporary Resort,Zacapa No. 23 Sidecar,Signature Cocktails,27.50,28.00,0.50,1.8%,contemporary-resort/california-grill
+2026-10-06 17:03,California Grill,Contemporary Resort,Blackberry Sour,Signature Cocktails,18.50,19.00,0.50,2.7%,contemporary-resort/california-grill
+2026-10-06 17:03,California Grill,Contemporary Resort,Blueberry Lemon Drop Martini,Signature Cocktails,18.50,19.00,0.50,2.7%,contemporary-resort/california-grill
+2026-10-06 17:03,California Grill,Contemporary Resort,Ancho Rancho Spicy Margarita,Signature Cocktails,18.50,19.00,0.50,2.7%,contemporary-resort/california-grill
+2026-10-06 17:03,California Grill,Contemporary Resort,San Francisco Mai Tai,Signature Cocktails,18.50,19.00,0.50,2.7%,contemporary-resort/california-grill
+2026-10-06 17:03,California Grill,Contemporary Resort,Sonoma Maple Bourbon Old Fashioned,Signature Cocktails,20.50,21.00,0.50,2.4%,contemporary-resort/california-grill
+2026-10-06 17:03,California Grill,Contemporary Resort,The Newgroni,Signature Cocktails,19.50,20.00,0.50,2.6%,contemporary-resort/california-grill
+2026-10-06 17:03,California Grill,Contemporary Resort,California Grill Sour,Signature Cocktails,24.50,25.00,0.50,2.0%,contemporary-resort/california-grill
+2026-10-06 17:03,Chef Mickey's,Contemporary Resort,Legacy Mimosa,Magical Morning Cocktails,20.50,21.00,0.50,2.4%,contemporary-resort/chef-mickeys
+2026-10-06 17:03,Chef Mickey's,Contemporary Resort,Sunrise Margarita,Magical Morning Cocktails,20.50,19.00,-1.50,-7.3%,contemporary-resort/chef-mickeys
+2026-10-06 17:03,Chef Mickey's,Contemporary Resort,Cold Brew Martini,Magical Morning Cocktails,17.50,18.00,0.50,2.9%,contemporary-resort/chef-mickeys
+2026-10-06 17:03,Chef Mickey's,Contemporary Resort,Island Fusion Punch,Cocktails,16.50,17.00,0.50,3.0%,contemporary-resort/chef-mickeys
+2026-10-06 17:03,Outer Rim,Contemporary Resort,Sunset Margarita,Specialty Cocktails,18.50,19.00,0.50,2.7%,contemporary-resort/outer-rim
+2026-10-06 17:03,"Toledo - Tapas, Steak & Seafood",Coronado Springs Resort,Gibraltar,Specialty Coffees and Teas,5.99,6.49,0.50,8.3%,coronado-springs-resort/toledo
+2026-10-06 17:03,"Toledo - Tapas, Steak & Seafood",Coronado Springs Resort,Modelo Especial Lager - Mexico,Draft Beer,10.00,10.50,0.50,5.0%,coronado-springs-resort/toledo
+2026-10-06 17:03,"Toledo - Tapas, Steak & Seafood",Coronado Springs Resort,Stella Artois Euro Lager - Belgium,Bottle & Can Beer,12.25,12.00,-0.25,-2.0%,coronado-springs-resort/toledo
+2026-10-06 17:03,"Toledo - Tapas, Steak & Seafood",Coronado Springs Resort,El Pepino,Specialty Cocktails,17.50,18.00,0.50,2.9%,coronado-springs-resort/toledo
+2026-10-06 17:03,"Toledo - Tapas, Steak & Seafood",Coronado Springs Resort,Gran Gin Tonic,Specialty Cocktails,18.50,19.00,0.50,2.7%,coronado-springs-resort/toledo
+2026-10-06 17:03,"Toledo - Tapas, Steak & Seafood",Coronado Springs Resort,Spanish Margarita,Specialty Cocktails,18.50,19.00,0.50,2.7%,coronado-springs-resort/toledo
+2026-10-06 17:03,"Toledo - Tapas, Steak & Seafood",Coronado Springs Resort,Tequila Daisy,Specialty Cocktails,17.50,19.00,1.50,8.6%,coronado-springs-resort/toledo
+2026-10-06 17:03,"Toledo - Tapas, Steak & Seafood",Coronado Springs Resort,Alla Prima Manhattan,Specialty Cocktails,18.50,19.00,0.50,2.7%,coronado-springs-resort/toledo
+2026-10-06 17:03,"Toledo - Tapas, Steak & Seafood",Coronado Springs Resort,Sangría Blanco,Specialty Cocktails,16.50,17.00,0.50,3.0%,coronado-springs-resort/toledo
+2026-10-06 17:03,"Toledo - Tapas, Steak & Seafood",Coronado Springs Resort,Sangría Tinto,Specialty Cocktails,16.50,17.00,0.50,3.0%,coronado-springs-resort/toledo
+2026-10-06 17:03,"Toledo - Tapas, Steak & Seafood",Coronado Springs Resort,Espresso Martini,Specialty Cocktails,17.50,18.00,0.50,2.9%,coronado-springs-resort/toledo
+2026-10-06 17:03,"Toledo - Tapas, Steak & Seafood",Coronado Springs Resort,Cafesito Delicioso,Hot Beverages with Alcohol,18.50,19.00,0.50,2.7%,coronado-springs-resort/toledo
+2026-10-06 17:03,"Toledo - Tapas, Steak & Seafood",Coronado Springs Resort,Barraquito,Hot Beverages with Alcohol,9.25,9.75,0.50,5.4%,coronado-springs-resort/toledo
+2026-10-06 17:03,"Toledo - Tapas, Steak & Seafood",Coronado Springs Resort,Café Carajillo,Hot Beverages with Alcohol,13.50,14.00,0.50,3.7%,coronado-springs-resort/toledo
+2026-10-06 17:03,"Toledo - Tapas, Steak & Seafood",Coronado Springs Resort,Cardenal Mendoza Clásico Solera Gran Reserva - Brandy de Jerez,Dessert Spirits,16.50,18.50,2.00,12.1%,coronado-springs-resort/toledo
+2026-10-06 17:03,"Toledo - Tapas, Steak & Seafood",Coronado Springs Resort,Pedro Domecq Fundador Solera Reserva - Brandy de Jerez,Dessert Spirits,15.50,17.50,2.00,12.9%,coronado-springs-resort/toledo
+2026-10-06 17:03,"Toledo - Tapas, Steak & Seafood",Coronado Springs Resort,Cardenal Mendoza Angêlus Original Recipe – Jerez de la Frontera,Dessert Spirits,16.50,17.50,1.00,6.1%,coronado-springs-resort/toledo
+2026-10-06 17:03,"Toledo - Tapas, Steak & Seafood",Coronado Springs Resort,Licor 43 - Cartagena,Dessert Spirits,16.50,17.50,1.00,6.1%,coronado-springs-resort/toledo
+2026-10-06 17:03,"Toledo - Tapas, Steak & Seafood",Coronado Springs Resort,Terra Meiga Licor de Hierbas - Ribera Sacra,Dessert Spirits,16.00,17.50,1.50,9.4%,coronado-springs-resort/toledo
+2026-10-06 17:03,1900 Park Fare,Grand Floridian Resort & Spa,Legacy Mimosa,Specialty Cocktails,20.50,21.00,0.50,2.4%,grand-floridian-resort-and-spa/1900-park-fare
+2026-10-06 17:03,Cítricos,Grand Floridian Resort & Spa,Paradise Punch,Specialty Non-Alcoholic Beverages,8.75,9.25,0.50,5.7%,grand-floridian-resort-and-spa/citricos
+2026-10-06 17:03,Cítricos,Grand Floridian Resort & Spa,Pineapple Daiquiri,Specialty Cocktails,18.50,19.00,0.50,2.7%,grand-floridian-resort-and-spa/citricos
+2026-10-06 17:03,Cítricos,Grand Floridian Resort & Spa,Cucumber Vodka Martini,Specialty Cocktails,18.50,19.00,0.50,2.7%,grand-floridian-resort-and-spa/citricos
+2026-10-06 17:03,Cítricos,Grand Floridian Resort & Spa,Dolce,Specialty Cocktails,17.50,18.00,0.50,2.9%,grand-floridian-resort-and-spa/citricos
+2026-10-06 17:03,Cítricos,Grand Floridian Resort & Spa,Amaro Grapefruit Spritz,Specialty Cocktails,18.50,19.00,0.50,2.7%,grand-floridian-resort-and-spa/citricos
+2026-10-06 17:03,Cítricos,Grand Floridian Resort & Spa,Sunset Margarita,Specialty Cocktails,18.50,19.00,0.50,2.7%,grand-floridian-resort-and-spa/citricos
+2026-10-06 17:03,Cítricos,Grand Floridian Resort & Spa,Passion Margarita,Specialty Cocktails,19.50,20.00,0.50,2.6%,grand-floridian-resort-and-spa/citricos
+2026-10-06 17:03,Cítricos,Grand Floridian Resort & Spa,212 Manhattan,Specialty Cocktails,18.50,19.00,0.50,2.7%,grand-floridian-resort-and-spa/citricos
+2026-10-06 17:03,Cítricos,Grand Floridian Resort & Spa,1806 Old Fashioned,Specialty Cocktails,25.50,26.00,0.50,2.0%,grand-floridian-resort-and-spa/citricos
+2026-10-06 17:03,Cítricos Lounge,Grand Floridian Resort & Spa,Paradise Punch,Specialty Non-Alcoholic Beverages,8.75,9.25,0.50,5.7%,grand-floridian-resort-and-spa/citricos-lounge
+2026-10-06 17:03,Cítricos Lounge,Grand Floridian Resort & Spa,Pineapple Daiquiri,Specialty Cocktails,18.50,19.00,0.50,2.7%,grand-floridian-resort-and-spa/citricos-lounge
+2026-10-06 17:03,Cítricos Lounge,Grand Floridian Resort & Spa,Cucumber Vodka Martini,Specialty Cocktails,18.50,19.00,0.50,2.7%,grand-floridian-resort-and-spa/citricos-lounge
+2026-10-06 17:03,Cítricos Lounge,Grand Floridian Resort & Spa,Dolce,Specialty Cocktails,17.50,18.00,0.50,2.9%,grand-floridian-resort-and-spa/citricos-lounge
+2026-10-06 17:03,Cítricos Lounge,Grand Floridian Resort & Spa,Amaro Grapefruit Spritz,Specialty Cocktails,18.50,19.00,0.50,2.7%,grand-floridian-resort-and-spa/citricos-lounge
+2026-10-06 17:03,Cítricos Lounge,Grand Floridian Resort & Spa,Sunset Margarita,Specialty Cocktails,18.50,19.00,0.50,2.7%,grand-floridian-resort-and-spa/citricos-lounge
+2026-10-06 17:03,Cítricos Lounge,Grand Floridian Resort & Spa,Passion Margarita,Specialty Cocktails,19.50,20.00,0.50,2.6%,grand-floridian-resort-and-spa/citricos-lounge
+2026-10-06 17:03,Cítricos Lounge,Grand Floridian Resort & Spa,212 Manhattan,Specialty Cocktails,18.50,19.00,0.50,2.7%,grand-floridian-resort-and-spa/citricos-lounge
+2026-10-06 17:03,Cítricos Lounge,Grand Floridian Resort & Spa,1806 Old Fashioned,Specialty Cocktails,25.50,26.00,0.50,2.0%,grand-floridian-resort-and-spa/citricos-lounge
+2026-10-06 17:03,Gasparilla Island Grill,Grand Floridian Resort & Spa,Caffé Mocha,Specialty Coffees,5.79,5.99,0.20,3.5%,grand-floridian-resort-and-spa/gasparilla-island-grill
+2026-10-06 17:03,Gasparilla Island Grill,Grand Floridian Resort & Spa,Double Espresso,Specialty Coffees,4.79,4.99,0.20,4.2%,grand-floridian-resort-and-spa/gasparilla-island-grill
+2026-10-06 17:03,Gasparilla Island Grill,Grand Floridian Resort & Spa,Chicken Bowl,Chef Specialties,14.49,15.49,1.00,6.9%,grand-floridian-resort-and-spa/gasparilla-island-grill
+2026-10-06 17:03,Grand Floridian Cafe,Grand Floridian Resort & Spa,Sunrise Margarita,Specialty Cocktails,20.50,19.00,-1.50,-7.3%,grand-floridian-resort-and-spa/grand-floridian-cafe
+2026-10-06 17:03,Grand Floridian Cafe,Grand Floridian Resort & Spa,Legacy Mimosa,Specialty Cocktails,20.50,21.00,0.50,2.4%,grand-floridian-resort-and-spa/grand-floridian-cafe
+2026-10-06 17:03,Kona Cafe,Polynesian Village Resort,Legacy Mimosa,Specialty Beverages,20.50,21.00,0.50,2.4%,polynesian-resort/kona-cafe
+2026-10-06 17:03,Kona Cafe,Polynesian Village Resort,Island Fusion Punch,Specialty Beverages,16.50,17.00,0.50,3.0%,polynesian-resort/kona-cafe
+2026-10-06 17:03,Kona Cafe,Polynesian Village Resort,Cold Brew Martini,Specialty Beverages,17.50,18.00,0.50,2.9%,polynesian-resort/kona-cafe
+2026-10-06 17:03,'Ohana,Polynesian Village Resort,Blackberry-Orange Spritz,Specialty Cocktails,17.50,18.00,0.50,2.9%,polynesian-resort/ohana
+2026-10-06 17:03,'Ohana,Polynesian Village Resort,Legacy Mimosa,Specialty Cocktails,20.50,21.00,0.50,2.4%,polynesian-resort/ohana
+2026-10-06 17:03,'Ohana,Polynesian Village Resort,Cold Brew Martini,Specialty Cocktails,17.50,18.00,0.50,2.9%,polynesian-resort/ohana
+2026-10-06 17:03,'Ohana,Polynesian Village Resort,Sunrise Margarita,Specialty Cocktails,20.50,19.00,-1.50,-7.3%,polynesian-resort/ohana
+2026-10-06 17:03,Pineapple Lanai,Polynesian Village Resort,DOLE Whip® with Rum Floater,Desserts,13.50,14.00,0.50,3.7%,polynesian-resort/pineapple-lanai
+2026-10-06 17:03,Trader Sam's Grog Grotto,Polynesian Village Resort,Uh-Oa!,Specialty Cocktails,28.50,29.00,0.50,1.8%,polynesian-resort/trader-sams-grog-grotto
+2026-10-06 17:03,Trader Sam's Grog Grotto,Polynesian Village Resort,Rosita's Margarita,Specialty Cocktails,19.50,20.00,0.50,2.6%,polynesian-resort/trader-sams-grog-grotto
+2026-10-06 17:03,Trader Sam's Grog Grotto,Polynesian Village Resort,Tiki Tiki Tiki Tiki Tiki Rum,Specialty Cocktails,18.50,19.00,0.50,2.7%,polynesian-resort/trader-sams-grog-grotto
+2026-10-06 17:03,Trader Sam's Grog Grotto,Polynesian Village Resort,Mosquito Mojito,Specialty Cocktails,17.50,18.00,0.50,2.9%,polynesian-resort/trader-sams-grog-grotto
+2026-10-06 17:03,Trader Sam's Grog Grotto,Polynesian Village Resort,Tahitian Torch,Specialty Cocktails,17.50,18.00,0.50,2.9%,polynesian-resort/trader-sams-grog-grotto
+2026-10-06 17:03,Trader Sam's Grog Grotto,Polynesian Village Resort,Rum Flight (3/4-oz pour of each),Specialty Cocktails,22.00,24.00,2.00,9.1%,polynesian-resort/trader-sams-grog-grotto
+2026-10-06 17:03,Trader Sam's Grog Grotto,Polynesian Village Resort,"Kona Longboard Island - Kona, HI",Beer and Cider Selection,11.75,12.50,0.75,6.4%,polynesian-resort/trader-sams-grog-grotto
+2026-10-06 17:03,Trader Sam's Grog Grotto,Polynesian Village Resort,Yuengling Traditional,Beer and Cider Selection,9.50,10.25,0.75,7.9%,polynesian-resort/trader-sams-grog-grotto
+2026-10-06 17:03,Trader Sam's Grog Grotto,Polynesian Village Resort,"Blue Moon Belgian White Ale - Golden, CO",Beer and Cider Selection,9.50,10.25,0.75,7.9%,polynesian-resort/trader-sams-grog-grotto
+2026-10-06 17:03,Trader Sam's Grog Grotto,Polynesian Village Resort,"Cigar City Jai Alai – Tampa, FL",Beer and Cider Selection,11.50,12.50,1.00,8.7%,polynesian-resort/trader-sams-grog-grotto
+2026-10-06 17:03,Trader Sam's Grog Grotto,Polynesian Village Resort,Hawaiian-inspired Beer Flight (5-oz pour of each),Beer and Cider Selection,12.25,12.75,0.50,4.1%,polynesian-resort/trader-sams-grog-grotto
+2026-10-06 17:03,Trader Sam's Tiki Terrace,Polynesian Village Resort,Uh-Oa!,Specialty Cocktails,28.50,29.00,0.50,1.8%,polynesian-resort/trader-sams-tiki-terrace
+2026-10-06 17:03,Trader Sam's Tiki Terrace,Polynesian Village Resort,Rosita's Margarita,Specialty Cocktails,19.50,20.00,0.50,2.6%,polynesian-resort/trader-sams-tiki-terrace
+2026-10-06 17:03,Trader Sam's Tiki Terrace,Polynesian Village Resort,Tiki Tiki Tiki Tiki Tiki Rum,Specialty Cocktails,18.50,19.00,0.50,2.7%,polynesian-resort/trader-sams-tiki-terrace
+2026-10-06 17:03,Trader Sam's Tiki Terrace,Polynesian Village Resort,Mosquito Mojito,Specialty Cocktails,17.50,18.00,0.50,2.9%,polynesian-resort/trader-sams-tiki-terrace
+2026-10-06 17:03,Trader Sam's Tiki Terrace,Polynesian Village Resort,Tahitian Torch,Specialty Cocktails,17.50,18.00,0.50,2.9%,polynesian-resort/trader-sams-tiki-terrace
+2026-10-06 17:03,Trader Sam's Tiki Terrace,Polynesian Village Resort,Rum Flight (3/4-oz pour of each),Specialty Cocktails,22.00,24.00,2.00,9.1%,polynesian-resort/trader-sams-tiki-terrace
+2026-10-06 17:03,Trader Sam's Tiki Terrace,Polynesian Village Resort,"Kona Longboard Island - Kona, HI",Beer and Cider Selection,11.75,12.50,0.75,6.4%,polynesian-resort/trader-sams-tiki-terrace
+2026-10-06 17:03,Trader Sam's Tiki Terrace,Polynesian Village Resort,Yuengling Traditional,Beer and Cider Selection,9.50,10.25,0.75,7.9%,polynesian-resort/trader-sams-tiki-terrace
+2026-10-06 17:03,Trader Sam's Tiki Terrace,Polynesian Village Resort,"Blue Moon Belgian White Ale - Golden, CO",Beer and Cider Selection,9.50,10.25,0.75,7.9%,polynesian-resort/trader-sams-tiki-terrace
+2026-10-06 17:03,Trader Sam's Tiki Terrace,Polynesian Village Resort,"Cigar City Jai Alai – Tampa, FL",Beer and Cider Selection,11.50,12.50,1.00,8.7%,polynesian-resort/trader-sams-tiki-terrace
+2026-10-06 17:03,Trader Sam's Tiki Terrace,Polynesian Village Resort,Hawaiian-inspired Beer Flight (5-oz pour of each),Beer and Cider Selection,12.25,12.75,0.50,4.1%,polynesian-resort/trader-sams-tiki-terrace
+2026-10-06 17:03,Scat Cat's Club - Lounge,Port Orleans Resort - French Quarter,Baton Rouge Beignets*,Appetizers (Serving from 5pm-10pm),12.99,13.49,0.50,3.8%,port-orleans-resort-french-quarter/scat-cats-club
+2026-10-06 17:03,Scat Cat's Club - Lounge,Port Orleans Resort - French Quarter,Blood Orange Margarita,Cocktails,17.50,18.00,0.50,2.9%,port-orleans-resort-french-quarter/scat-cats-club
+2026-10-06 17:03,Scat Cat's Club - Lounge,Port Orleans Resort - French Quarter,Paloma,Cocktails,17.50,18.00,0.50,2.9%,port-orleans-resort-french-quarter/scat-cats-club
+2026-10-06 17:03,Scat Cat's Club - Lounge,Port Orleans Resort - French Quarter,Rum Swizzle,Cocktails,16.50,16.00,-0.50,-3.0%,port-orleans-resort-french-quarter/scat-cats-club
+2026-10-06 17:03,Scat Cat's Club - Lounge,Port Orleans Resort - French Quarter,Walk the Plank,Cocktails,18.50,18.00,-0.50,-2.7%,port-orleans-resort-french-quarter/scat-cats-club
+2026-10-06 17:03,Scat Cat's Club - Lounge,Port Orleans Resort - French Quarter,Smoked Turkey,Cocktails,18.50,19.00,0.50,2.7%,port-orleans-resort-french-quarter/scat-cats-club
+2026-10-06 17:03,Scat Cat's Club - Lounge,Port Orleans Resort - French Quarter,Kentucky Mule,Cocktails,18.50,18.00,-0.50,-2.7%,port-orleans-resort-french-quarter/scat-cats-club
+2026-10-06 17:03,Scat Cat's Club - Lounge,Port Orleans Resort - French Quarter,Piña Colada,Cocktails,18.50,19.00,0.50,2.7%,port-orleans-resort-french-quarter/scat-cats-club
+2026-10-06 17:03,Scat Cat's Club - Lounge,Port Orleans Resort - French Quarter,Pineapple Mule,Cocktails,18.50,19.00,0.50,2.7%,port-orleans-resort-french-quarter/scat-cats-club
+2026-10-06 17:03,Scat Cat's Club - Lounge,Port Orleans Resort - French Quarter,"Argyle Sparkling Brut, Willamette Valley",Wine,70.00,74.00,4.00,5.7%,port-orleans-resort-french-quarter/scat-cats-club
+2026-10-06 17:03,Scat Cat's Club - Lounge,Port Orleans Resort - French Quarter,"Villa Rosa Moscato d’Asti, Piedmont",Wine,49.00,52.00,3.00,6.1%,port-orleans-resort-french-quarter/scat-cats-club
+2026-10-06 17:03,Scat Cat's Club - Lounge,Port Orleans Resort - French Quarter,"Infamous Goose Sauvignon Blanc, Marlborough",Wine,49.00,56.00,7.00,14.3%,port-orleans-resort-french-quarter/scat-cats-club
+2026-10-06 17:03,Scat Cat's Club - Lounge,Port Orleans Resort - French Quarter,"Chalk Hill Chardonnay, Sonoma Coast",Wine,59.00,62.00,3.00,5.1%,port-orleans-resort-french-quarter/scat-cats-club
+2026-10-06 17:03,Scat Cat's Club - Lounge,Port Orleans Resort - French Quarter,Bourbon Flight,Bourbon,20.00,22.00,2.00,10.0%,port-orleans-resort-french-quarter/scat-cats-club
+2026-10-06 17:03,Scat Cat's Club - Lounge,Port Orleans Resort - French Quarter,Knob Creek Disney Select Single Barrel,Bourbon,20.25,20.75,0.50,2.5%,port-orleans-resort-french-quarter/scat-cats-club
+2026-10-06 17:03,Scat Cat's Club - Lounge,Port Orleans Resort - French Quarter,Buffalo Trace Kentucky Straight,Bourbon,18.00,18.50,0.50,2.8%,port-orleans-resort-french-quarter/scat-cats-club
+2026-10-06 17:03,River Roost,Port Orleans Resort - Riverside,Blood Orange Margarita,Cocktails,17.50,18.00,0.50,2.9%,port-orleans-resort-riverside/river-roost
+2026-10-06 17:03,River Roost,Port Orleans Resort - Riverside,Spicy Poblano Margarita,Cocktails,18.50,19.00,0.50,2.7%,port-orleans-resort-riverside/river-roost
+2026-10-06 17:03,River Roost,Port Orleans Resort - Riverside,Sunset Margarita,Cocktails,18.50,19.00,0.50,2.7%,port-orleans-resort-riverside/river-roost
+2026-10-06 17:03,River Roost,Port Orleans Resort - Riverside,Paloma,Cocktails,17.50,18.00,0.50,2.9%,port-orleans-resort-riverside/river-roost
+2026-10-06 17:03,River Roost,Port Orleans Resort - Riverside,Rum Swizzle,Cocktails,16.50,16.00,-0.50,-3.0%,port-orleans-resort-riverside/river-roost
+2026-10-06 17:03,River Roost,Port Orleans Resort - Riverside,Raspberry Mojito,Cocktails,16.50,17.00,0.50,3.0%,port-orleans-resort-riverside/river-roost
+2026-10-06 17:03,River Roost,Port Orleans Resort - Riverside,Bacardí Mojito,Cocktails,16.50,17.00,0.50,3.0%,port-orleans-resort-riverside/river-roost
+2026-10-06 17:03,River Roost,Port Orleans Resort - Riverside,Cold Brew Martini,Cocktails,17.50,18.00,0.50,2.9%,port-orleans-resort-riverside/river-roost
+2026-10-06 17:03,River Roost,Port Orleans Resort - Riverside,Walk the Plank,Cocktails,18.50,18.00,-0.50,-2.7%,port-orleans-resort-riverside/river-roost
+2026-10-06 17:03,River Roost,Port Orleans Resort - Riverside,Smoked Turkey,Cocktails,18.50,19.00,0.50,2.7%,port-orleans-resort-riverside/river-roost
+2026-10-06 17:03,River Roost,Port Orleans Resort - Riverside,Sparkling Hibiscus,Cocktails,18.50,19.00,0.50,2.7%,port-orleans-resort-riverside/river-roost
+2026-10-06 17:03,River Roost,Port Orleans Resort - Riverside,Whiskey Breeze,Cocktails,17.50,18.00,0.50,2.9%,port-orleans-resort-riverside/river-roost
+2026-10-06 17:03,River Roost,Port Orleans Resort - Riverside,Kentucky Mule,Cocktails,18.50,18.00,-0.50,-2.7%,port-orleans-resort-riverside/river-roost
+2026-10-06 17:03,River Roost,Port Orleans Resort - Riverside,Bahama Mama,Cocktails,16.50,17.00,0.50,3.0%,port-orleans-resort-riverside/river-roost
+2026-10-06 17:03,River Roost,Port Orleans Resort - Riverside,Indigo Hibiscus,Cocktails,17.50,18.00,0.50,2.9%,port-orleans-resort-riverside/river-roost
+2026-10-06 17:03,River Roost,Port Orleans Resort - Riverside,Piña Colada,Cocktails,18.50,19.00,0.50,2.7%,port-orleans-resort-riverside/river-roost
+2026-10-06 17:03,River Roost,Port Orleans Resort - Riverside,Pineapple Mule,Cocktails,18.50,19.00,0.50,2.7%,port-orleans-resort-riverside/river-roost
+2026-10-06 17:03,River Roost,Port Orleans Resort - Riverside,Captain’s Mai Tai,Cocktails,16.50,17.00,0.50,3.0%,port-orleans-resort-riverside/river-roost
+2026-10-06 17:03,River Roost,Port Orleans Resort - Riverside,Chocolate Martini,Cocktails,17.50,19.00,1.50,8.6%,port-orleans-resort-riverside/river-roost
+2026-10-06 17:03,River Roost,Port Orleans Resort - Riverside,Bourbon Flight,Bourbon,20.00,22.00,2.00,10.0%,port-orleans-resort-riverside/river-roost
+2026-10-06 17:03,River Roost,Port Orleans Resort - Riverside,Maker's Mark,Bourbon,18.00,18.50,0.50,2.8%,port-orleans-resort-riverside/river-roost
+2026-10-06 17:03,River Roost,Port Orleans Resort - Riverside,Larceny Kentucky Straight,Bourbon,18.00,18.50,0.50,2.8%,port-orleans-resort-riverside/river-roost
+2026-10-06 17:03,River Roost,Port Orleans Resort - Riverside,Knob Creek Disney Select Single Barrel,Bourbon,20.25,20.75,0.50,2.5%,port-orleans-resort-riverside/river-roost
+2026-10-06 17:03,River Roost,Port Orleans Resort - Riverside,Angel's Envy Kentucky Straight,Bourbon,19.25,20.00,0.75,3.9%,port-orleans-resort-riverside/river-roost
+2026-10-06 17:03,River Roost,Port Orleans Resort - Riverside,Woodford Reserve,Bourbon,19.25,20.00,0.75,3.9%,port-orleans-resort-riverside/river-roost
+2026-10-06 17:03,River Roost,Port Orleans Resort - Riverside,Buffalo Trace Kentucky Straight,Bourbon,18.00,18.50,0.50,2.8%,port-orleans-resort-riverside/river-roost
+2026-10-06 17:03,The Paddock Grill,Saratoga Springs Resort & Spa,Legacy Mimosa,Featured Cocktails,20.50,21.00,0.50,2.4%,saratoga-springs-resort-and-spa/paddock-grill
+2026-10-06 17:03,The Paddock Grill,Saratoga Springs Resort & Spa,Blackberry-Orange Spritz,Featured Cocktails,17.50,18.00,0.50,2.9%,saratoga-springs-resort-and-spa/paddock-grill
+2026-10-06 17:03,Geyser Point Bar & Grill,Wilderness Lodge,Bison Cheeseburger*,Rustic Fare (Available daily until 10:00pm),26.00,27.00,1.00,3.8%,wilderness-lodge-resort/geyser-point
+2026-10-06 17:03,Geyser Point Bar & Grill,Wilderness Lodge,Rib-eye Steak Sandwich,Rustic Fare (Available daily until 10:00pm),22.00,24.00,2.00,9.1%,wilderness-lodge-resort/geyser-point
+2026-10-06 17:03,Geyser Point Bar & Grill,Wilderness Lodge,Crispy Chicken Sandwich,Rustic Fare (Available daily until 10:00pm),22.00,23.00,1.00,4.5%,wilderness-lodge-resort/geyser-point
+2026-10-06 17:03,Geyser Point Bar & Grill,Wilderness Lodge,Sunset Margarita,Signature Libations,18.50,19.00,0.50,2.7%,wilderness-lodge-resort/geyser-point
+2026-10-06 17:03,Geyser Point Bar & Grill,Wilderness Lodge,Huckleberry Punch,Signature Libations,17.50,18.00,0.50,2.9%,wilderness-lodge-resort/geyser-point
+2026-10-06 17:03,Geyser Point Bar & Grill,Wilderness Lodge,Northwest Iced Tea,Signature Libations,17.50,18.00,0.50,2.9%,wilderness-lodge-resort/geyser-point
+2026-10-06 17:03,Geyser Point Bar & Grill,Wilderness Lodge,Whiskey Sour,Signature Libations,18.50,19.00,0.50,2.7%,wilderness-lodge-resort/geyser-point
+2026-10-06 17:03,Geyser Point Bar & Grill,Wilderness Lodge,Black Cherry Mule,Signature Libations,17.50,18.00,0.50,2.9%,wilderness-lodge-resort/geyser-point
+2026-10-06 17:03,Geyser Point Bar & Grill,Wilderness Lodge,Piña Colada,Signature Libations,18.50,19.00,0.50,2.7%,wilderness-lodge-resort/geyser-point
+2026-10-06 17:03,Geyser Point Bar & Grill,Wilderness Lodge,Banana Cabana,Signature Libations,17.50,18.00,0.50,2.9%,wilderness-lodge-resort/geyser-point
+2026-10-06 17:03,Geyser Point Bar & Grill,Wilderness Lodge,Strawberry Margarita,Signature Libations,18.50,17.00,-1.50,-8.1%,wilderness-lodge-resort/geyser-point
+2026-10-06 17:03,Whispering Canyon Cafe,Wilderness Lodge,Bloody Mary,Morning Cocktails,17.00,17.50,0.50,2.9%,wilderness-lodge-resort/whispering-canyon-cafe
+2026-10-06 17:03,Whispering Canyon Cafe,Wilderness Lodge,Legacy Mimosa,Morning Cocktails,20.50,21.00,0.50,2.4%,wilderness-lodge-resort/whispering-canyon-cafe
+2026-10-06 17:03,Ale & Compass Restaurant,Yacht Club Resort,Milk,Beverages,4.29,4.99,0.70,16.3%,yacht-club-resort/ale-and-compass
+2026-10-06 17:03,Ale & Compass Restaurant,Yacht Club Resort,Legacy Mimosa,Cocktails,20.50,21.00,0.50,2.4%,yacht-club-resort/ale-and-compass
+2026-10-06 17:03,Ale & Compass Restaurant,Yacht Club Resort,Bloody Mary,Cocktails,17.00,17.50,0.50,2.9%,yacht-club-resort/ale-and-compass
+2026-10-06 17:03,Ale & Compass Restaurant,Yacht Club Resort,Blackberry-Orange Spritz,Cocktails,17.50,18.00,0.50,2.9%,yacht-club-resort/ale-and-compass
+2026-10-06 17:03,Ale & Compass Restaurant,Yacht Club Resort,Peach Bellini,Cocktails,16.50,17.00,0.50,3.0%,yacht-club-resort/ale-and-compass
+2026-10-06 17:03,Ale & Compass Restaurant,Yacht Club Resort,Allergy-Friendly Mickey-shaped Waffles,Allergy-Friendly Kids' Create-Your-Own Entrées (choose one),9.25,10.00,0.75,8.1%,yacht-club-resort/ale-and-compass
+2026-10-06 17:03,Ale & Compass Restaurant,Yacht Club Resort,New England Cherry Swirl,Cocktails,18.50,19.00,0.50,2.7%,yacht-club-resort/ale-and-compass
+2026-10-06 17:03,Ale & Compass Restaurant,Yacht Club Resort,Manhattan,Cocktails,17.50,18.00,0.50,2.9%,yacht-club-resort/ale-and-compass
+2026-10-06 17:03,Ale & Compass Restaurant,Yacht Club Resort,Seaworthy Breeze,Cocktails,16.50,17.00,0.50,3.0%,yacht-club-resort/ale-and-compass
+2026-10-06 17:03,Ale & Compass Restaurant,Yacht Club Resort,Maple Old Fashioned,Signature Cocktails,16.50,17.00,0.50,3.0%,yacht-club-resort/ale-and-compass
+2026-10-06 17:03,Ale & Compass Restaurant,Yacht Club Resort,Bittersweet Coffee with Bourbon,After Dinner Drinks,16.50,18.00,1.50,9.1%,yacht-club-resort/ale-and-compass
+2026-10-06 17:03,Ale & Compass Restaurant,Yacht Club Resort,Chocolate Martini,After Dinner Drinks,17.50,19.00,1.50,8.6%,yacht-club-resort/ale-and-compass
+2026-10-06 17:03,Ale & Compass Restaurant,Yacht Club Resort,Courvoisier VS Cognac,After Dinner Drinks,16.50,18.00,1.50,9.1%,yacht-club-resort/ale-and-compass
+2026-10-06 17:03,Ale & Compass Restaurant,Yacht Club Resort,Grand Marnier,After Dinner Drinks,17.50,17.00,-0.50,-2.9%,yacht-club-resort/ale-and-compass
+2026-10-06 17:03,Ale & Compass Restaurant,Yacht Club Resort,Buffalo Trace Kentucky Straight Bourbon,After Dinner Drinks,18.00,18.50,0.50,2.8%,yacht-club-resort/ale-and-compass
+2026-10-06 17:03,Ale & Compass Restaurant,Yacht Club Resort,Glenfiddich 12yr Scotch,After Dinner Drinks,19.25,19.75,0.50,2.6%,yacht-club-resort/ale-and-compass
+2026-10-06 17:03,Ale & Compass Restaurant,Yacht Club Resort,Johnnie Walker Black Label Scotch,After Dinner Drinks,18.00,18.50,0.50,2.8%,yacht-club-resort/ale-and-compass
+2026-10-06 17:03,Ale & Compass Lounge,Yacht Club Resort,Pub Cheeseburger*,Appetizers (available 5:00pm - 10:00pm),23.00,25.00,2.00,8.7%,yacht-club-resort/ale-and-compass-lounge
+2026-10-06 17:03,Ale & Compass Lounge,Yacht Club Resort,Seaworthy Breeze,Classic Cocktails,15.50,17.00,1.50,9.7%,yacht-club-resort/ale-and-compass-lounge
+2026-10-06 17:03,Ale & Compass Lounge,Yacht Club Resort,Pineapple Mule,Classic Cocktails,17.50,19.00,1.50,8.6%,yacht-club-resort/ale-and-compass-lounge
+2026-10-06 17:03,Ale & Compass Lounge,Yacht Club Resort,Maple Old Fashioned,Original Cocktails,15.50,17.00,1.50,9.7%,yacht-club-resort/ale-and-compass-lounge
+2026-10-06 17:03,Ale & Compass Lounge,Yacht Club Resort,Purple Mariner,Original Cocktails,16.50,18.00,1.50,9.1%,yacht-club-resort/ale-and-compass-lounge
+2026-10-06 17:03,Ale & Compass Lounge,Yacht Club Resort,Buffalo Trace Bourbon,Featured Spirits (2-oz Pour),16.75,18.50,1.75,10.4%,yacht-club-resort/ale-and-compass-lounge
+2026-10-06 17:03,Ale & Compass Lounge,Yacht Club Resort,Knob Creek Straight Rye Whiskey,Featured Spirits (2-oz Pour),16.75,18.50,1.75,10.4%,yacht-club-resort/ale-and-compass-lounge
+2026-10-06 17:03,Ale & Compass Lounge,Yacht Club Resort,Johnnie Walker Black Label Scotch,Featured Spirits (2-oz Pour),16.75,18.50,1.75,10.4%,yacht-club-resort/ale-and-compass-lounge
+2026-10-06 17:03,Ale & Compass Lounge,Yacht Club Resort,Hendrick’s Gin,Featured Spirits (2-oz Pour),16.75,18.50,1.75,10.4%,yacht-club-resort/ale-and-compass-lounge
+2026-10-06 17:03,Ale & Compass Lounge,Yacht Club Resort,Campari Liqueur,Featured Spirits (2-oz Pour),15.00,19.00,4.00,26.7%,yacht-club-resort/ale-and-compass-lounge
+2026-10-06 17:03,Ale & Compass Lounge,Yacht Club Resort,Courvoisier VS Cognac,Featured Spirits (2-oz Pour),17.00,18.00,1.00,5.9%,yacht-club-resort/ale-and-compass-lounge
+2026-10-06 17:03,Ale & Compass Lounge,Yacht Club Resort,Amaro Averna,Featured Spirits (2-oz Pour),16.00,18.00,2.00,12.5%,yacht-club-resort/ale-and-compass-lounge
+2026-10-06 17:03,Wind & Waves Grill,Disney's Vero Beach Resort,Mickey-shaped Waffles with Syrup,Kids' Create-Your-Own Entrées (choose one),8.25,8.75,0.50,6.1%,vero-beach-resort/wind-and-waves-grill
+2026-10-06 17:03,Wind & Waves Grill,Disney's Vero Beach Resort,Daisy's Sand Dollars with Syrup,Kids' Create-Your-Own Entrées (choose one),8.25,8.75,0.50,6.1%,vero-beach-resort/wind-and-waves-grill
+2026-10-06 17:03,Wind & Waves Grill,Disney's Vero Beach Resort,Bloody Mary,Specialty Cocktails & Mimosas,15.50,17.50,2.00,12.9%,vero-beach-resort/wind-and-waves-grill
+2026-10-06 17:03,Wind & Waves Grill,Disney's Vero Beach Resort,Screwdriver,Specialty Cocktails & Mimosas,14.50,15.00,0.50,3.4%,vero-beach-resort/wind-and-waves-grill
+2026-10-06 17:03,Wind & Waves Grill,Disney's Vero Beach Resort,Canella Bellini,Wines,13.50,14.00,0.50,3.7%,vero-beach-resort/wind-and-waves-grill
+2026-10-06 17:03,Wind & Waves Grill,Disney's Vero Beach Resort,Allergy-Friendly Mickey-shaped Waffles,Allergy-Friendly Kids' Create-Your-Own Entrées (choose one),8.25,8.75,0.50,6.1%,vero-beach-resort/wind-and-waves-grill
+2026-10-06 17:03,Wind & Waves Grill,Disney's Vero Beach Resort,Daisy's Sand Dollars,Allergy-Friendly Kids' Create-Your-Own Entrées (choose one),8.25,8.75,0.50,6.1%,vero-beach-resort/wind-and-waves-grill
+2026-10-06 17:03,Wind & Waves Grill,Disney's Vero Beach Resort,Nachos,Starters,16.00,17.00,1.00,6.3%,vero-beach-resort/wind-and-waves-grill
+2026-10-06 17:03,Wind & Waves Grill,Disney's Vero Beach Resort,Sunset Margarita,Cocktails,18.50,19.00,0.50,2.7%,vero-beach-resort/wind-and-waves-grill
+2026-10-06 17:03,Wind & Waves Grill,Disney's Vero Beach Resort,Island Punch,Cocktails,15.50,18.00,2.50,16.1%,vero-beach-resort/wind-and-waves-grill
+2026-10-06 17:03,Wind & Waves Grill,Disney's Vero Beach Resort,Vero Beach Lemonade,Cocktails,16.50,19.00,2.50,15.2%,vero-beach-resort/wind-and-waves-grill
+2026-10-06 17:03,Wind & Waves Grill,Disney's Vero Beach Resort,Island Grove Iced Tea,Cocktails,15.50,18.00,2.50,16.1%,vero-beach-resort/wind-and-waves-grill
+2026-10-06 17:03,Wind & Waves Grill,Disney's Vero Beach Resort,"Blue Moon Belgian White Ale - Golden, CO",Draft Beer,9.75,10.25,0.50,5.1%,vero-beach-resort/wind-and-waves-grill
+2026-10-06 17:03,Wind & Waves Grill,Disney's Vero Beach Resort,"Funky Buddha Floridian Hefeweizen - Oakland Park, FL",Draft Beer,12.25,13.25,1.00,8.2%,vero-beach-resort/wind-and-waves-grill
+2026-10-06 17:03,Wind & Waves Grill,Disney's Vero Beach Resort,"Cigar City Jai Alai IPA - Tampa, FL",Draft Beer,11.75,12.50,0.75,6.4%,vero-beach-resort/wind-and-waves-grill
+2026-10-06 17:03,Wind & Waves Grill,Disney's Vero Beach Resort,"Yuengling Lager - Pottsville, PA",Draft Beer,10.50,11.25,0.75,7.1%,vero-beach-resort/wind-and-waves-grill
+2026-10-06 17:03,Wind & Waves Grill,Disney's Vero Beach Resort,"Samuel Adams Seasonal - Boston, MA",Draft Beer,12.50,13.25,0.75,6.0%,vero-beach-resort/wind-and-waves-grill
+2026-10-06 17:03,Wind & Waves Grill,Disney's Vero Beach Resort,Espresso Martini,After Dinner Cocktails,17.50,18.00,0.50,2.9%,vero-beach-resort/wind-and-waves-grill
+2026-10-06 17:03,Wind & Waves Grill,Disney's Vero Beach Resort,Irish Coffee,After Dinner Cocktails,15.50,17.00,1.50,9.7%,vero-beach-resort/wind-and-waves-grill
+2026-10-06 17:03,Wind & Waves Grill,Disney's Vero Beach Resort,Hennessy VS,Cognacs (2-oz pour),16.50,17.50,1.00,6.1%,vero-beach-resort/wind-and-waves-grill

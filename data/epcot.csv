@@ -116,7 +116,7 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-10-06,Akershus Royal Banquet Hall,EPCOT,Viking Coffee,Specialty Cocktails,Breakfast,"Featuring Joffrey's Coffee™. A robust combination of Colombian Coffee, Kamora Coffee Liqueur, and Baileys Original Irish Cream Liqueur.",17.00,epcot/akershus-royal-banquet-hall
 2026-10-06,Akershus Royal Banquet Hall,EPCOT,Midnight Sun,Specialty Cocktails,Breakfast,Perfect blend of LINIE Aquavit Liqueur and Minute Maid® Orange Juice with a splash of Grenadine that will take you to the place where sunset merges into sunrise,17.00,epcot/akershus-royal-banquet-hall
 2026-10-06,Akershus Royal Banquet Hall,EPCOT,Blackberry-Orange Spritz,Specialty Cocktails,Breakfast,"Ketel One Botanical Peach & Orange Blossom Vodka, Rockey’s Botanical Liqueur, Kim Crawford Sauvignon Blanc, and Blackberry",18.00,epcot/akershus-royal-banquet-hall
-2026-10-06,Akershus Royal Banquet Hall,EPCOT,Legacy Mimosa,Specialty Cocktails,Breakfast,"Uncle Nearest 1884 Small Batch Tennessee Whiskey, Grand Marnier Liqueur, Chateau Ste. Michelle Sparkling Wine, and Minute Maid® Orange Juice",20.50,epcot/akershus-royal-banquet-hall
+2026-10-06,Akershus Royal Banquet Hall,EPCOT,Legacy Mimosa,Specialty Cocktails,Breakfast,"Uncle Nearest 1884 Small Batch Tennessee Whiskey, Grand Marnier Liqueur, Chateau Ste. Michelle Sparkling Wine, and Minute Maid® Orange Juice",21.00,epcot/akershus-royal-banquet-hall
 2026-10-06,Akershus Royal Banquet Hall,EPCOT,Viking Bloody Mary,Specialty Cocktails,Breakfast,Blend of Helix7 Vodka with Bloody Mary Mix,19.00,epcot/akershus-royal-banquet-hall
 2026-10-06,Akershus Royal Banquet Hall,EPCOT,Royal Berry Spritzer,Non-Alcoholic Specialty Beverages,Lunch; Dinner,"Blackberry, Pomegranate, and Lime blended with Topo Chico® Blueberry Hibiscus Sparkling Water",6.59,epcot/akershus-royal-banquet-hall
 2026-10-06,Akershus Royal Banquet Hall,EPCOT,Enchanted Grove Lime Splash,Non-Alcoholic Specialty Beverages,Lunch; Dinner,Minute Maid® Limeade paired with the revitalizing flavors of Cucumber and Mint,6.29,epcot/akershus-royal-banquet-hall
@@ -385,9 +385,9 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-10-06,Funnel Cake,EPCOT,DASANI® Bottled Water,Beverage,Snack,,3.50,epcot/funnel-cake
 2026-10-06,Funnel Cake,EPCOT,Funnel Cake Gift Kit,Funnel Cake Kit,Snack,,21.00,epcot/funnel-cake
 2026-10-06,Garden Grill Restaurant,EPCOT,Specialty Character Drink,Non-Alcoholic Beverages,Breakfast,Minute Maid® Zero Sugar Lemonade with flavors of Cotton Candy served in a souvenir Character Cup. Not included in the Dining Plan.,7.00,epcot/garden-grill-restaurant
-2026-10-06,Garden Grill Restaurant,EPCOT,Legacy Mimosa,Alcoholic Beverages,Breakfast,"Uncle Nearest 1884 Small Batch Tennessee Whiskey, Grand Marnier Liqueur, Chateau Ste. Michelle Sparkling Wine, and Minute Maid® Orange Juice",20.50,epcot/garden-grill-restaurant
-2026-10-06,Garden Grill Restaurant,EPCOT,Bloody Mary,Alcoholic Beverages,Breakfast,"Tito’s Handmade Vodka, House-made Bloody Mary Mix",17.00,epcot/garden-grill-restaurant
-2026-10-06,Garden Grill Restaurant,EPCOT,Cold Brew Martini,Alcoholic Beverages,Breakfast,"Kōloa Kauaʻi Cacao Rum, Tia Maria Liqueur, Joffrey’s™ Cold Brew Coffee",17.50,epcot/garden-grill-restaurant
+2026-10-06,Garden Grill Restaurant,EPCOT,Legacy Mimosa,Alcoholic Beverages,Breakfast,"Uncle Nearest 1884 Small Batch Tennessee Whiskey, Grand Marnier Liqueur, Chateau Ste. Michelle Sparkling Wine, and Minute Maid® Orange Juice",21.00,epcot/garden-grill-restaurant
+2026-10-06,Garden Grill Restaurant,EPCOT,Bloody Mary,Alcoholic Beverages,Breakfast,"Tito’s Handmade Vodka, House-made Bloody Mary Mix",17.50,epcot/garden-grill-restaurant
+2026-10-06,Garden Grill Restaurant,EPCOT,Cold Brew Martini,Alcoholic Beverages,Breakfast,"Kōloa Kauaʻi Cacao Rum, Tia Maria Liqueur, Joffrey’s™ Cold Brew Coffee",18.00,epcot/garden-grill-restaurant
 2026-10-06,Garden Grill Restaurant,EPCOT,So Many Wishes,Non-Alcoholic Beverages,Lunch; Dinner,"Pomegranate Green Tea, Hibiscus, Lemon, a dash of Star Dust",6.79,epcot/garden-grill-restaurant
 2026-10-06,Garden Grill Restaurant,EPCOT,Legacy Mimosa,Specialty Cocktails,Lunch; Dinner,"Uncle Nearest 1884 Small Batch Tennessee Whiskey, Grand Marnier Liqueur, Chateau Ste. Michelle Sparkling Wine, Minute Maid® Orange Juice",21.00,epcot/garden-grill-restaurant
 2026-10-06,Garden Grill Restaurant,EPCOT,Bloody Mary,Specialty Cocktails,Lunch; Dinner,"Tito’s Handmade Vodka, House-made Bloody Mary Mix",18.00,epcot/garden-grill-restaurant
@@ -412,22 +412,23 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-10-06,Garden Grill Restaurant,EPCOT,White Claw Black Cherry Hard Seltzer,Bottle and Draft Beer,Lunch; Dinner,,12.00,epcot/garden-grill-restaurant
 2026-10-06,GEO-82,EPCOT,Charcuterie Board,Small Bites,Lunch; Dinner,"Chef's Selection of Artisanal Cheeses, Cured Meats, and Accompaniments",29.00,epcot/geo-82-lounge
 2026-10-06,GEO-82,EPCOT,Cannellini Hummus,Small Bites,Lunch; Dinner,"Pumpkin Seed Pistou, Radish, Preserved Lemon, Fresno Peppers, Lavash (Plant-based)",14.00,epcot/geo-82-lounge
-2026-10-06,GEO-82,EPCOT,Funghi Flatbread,Small Bites,Lunch; Dinner,"Roasted Mushrooms, Miso-Mascarpone, Mozzarella, Fontina, Pickled Cippolini Onion, Black Garlic Molasses",15.00,epcot/geo-82-lounge
-2026-10-06,GEO-82,EPCOT,Truffled Ahi Tuna*,Small Bites,Lunch; Dinner,"Barrel-aged Japanese Whisky-Soy-Truffle Ponzu, Nori, Sushi Rice, Daikon, Black Sesame Seeds",21.00,epcot/geo-82-lounge
+2026-10-06,GEO-82,EPCOT,Funghi Flatbread,Small Bites,Lunch; Dinner,"Roasted Mushrooms, Miso-Mascarpone, Mozzarella, Fontina, Pickled Cipollini Onion, Black Garlic Molasses",15.00,epcot/geo-82-lounge
+2026-10-06,GEO-82,EPCOT,Truffled Ahi Tuna*,Small Bites,Lunch; Dinner,"Japanese Whisky Barrel-aged Soy-Truffle Ponzu, Citrus, Scallion, Tobiko, Black Sesame Seeds",23.00,epcot/geo-82-lounge
 2026-10-06,GEO-82,EPCOT,Jamón Ibérico Croquetas,Small Bites,Lunch; Dinner,"Tomato Gazpacho, Sea Salt, Sorrel Leaves",22.00,epcot/geo-82-lounge
 2026-10-06,GEO-82,EPCOT,A Walk Through the Garden,Zero-Proof Cocktails,Lunch; Dinner,"Seedlip Garden 108 Non-Alcoholic Spirit, Basil, Fennel, Lemon, Hella Cocktail Co. Orange Bitters, The Bitter Truth Celery Bitters, Bubbles",17.00,epcot/geo-82-lounge
-2026-10-06,GEO-82,EPCOT,Manhattan in the Morning,Zero-Proof Cocktails,Lunch; Dinner,"""Seedlip Spice 94 Non-Alcoholic Spirit, Joffrey’s™ Cold Brew Coffee, Maple, Verjus Blanc, Tart Cherry, Fee Brothers Black Walnut Bitters""",17.00,epcot/geo-82-lounge
+2026-10-06,GEO-82,EPCOT,Zero-Proof Blueberry 75,Zero-Proof Cocktails,Lunch; Dinner,"Light and Tart with Notes of Baking Spice and Fresh Fruit. Seedlip Spice 94 Non-Alcoholic Spirit, French Bloom 'Le Blanc' Non-Alcoholic Sparkling Wine, Blueberry Compote, Violet",17.00,epcot/geo-82-lounge
 2026-10-06,GEO-82,EPCOT,Tuscan Olive Oil Martini,Featured Cocktails,Lunch; Dinner,"VUSA African Vodka, Dolin Dry Vermouth de Chambéry, Olive Oil, Tomato, Parmesan Crisp",26.00,epcot/geo-82-lounge
 2026-10-06,GEO-82,EPCOT,Brown Butter Old-Fashioned,Featured Cocktails,Lunch; Dinner,"Woodford Reserve Double Oaked Bourbon, Brown Butter, Maple, Hella Cocktail Co. Mexican Chocolate Bitters",28.00,epcot/geo-82-lounge
 2026-10-06,GEO-82,EPCOT,Aged Rum Boulevardier,Featured Cocktails,Lunch; Dinner,"Coconut Cartel Añejo Rum, Campari Liqueur, Carpano Antica Formula Sweet Vermouth, Steeped Strawberry",25.00,epcot/geo-82-lounge
-2026-10-06,GEO-82,EPCOT,Clarified Bee's Knees,Featured Cocktails,Lunch; Dinner,"Barr Hill Reserve Tom Cat Gin, Honey, Lemon, Thyme",25.00,epcot/geo-82-lounge
-2026-10-06,GEO-82,EPCOT,High Brow Batanga,Featured Cocktails,Lunch; Dinner,"Tapatio Reposado Tequila, Ramazzotti Amaro, Kola Nut, Lime Cordial, Salt, Bubbles",25.00,epcot/geo-82-lounge
+2026-10-06,GEO-82,EPCOT,Clarified Bee's Knees,Featured Cocktails,Lunch; Dinner,"Barr Hill Reserve Tom Cat Gin, Honey, Lemon, Thyme, Milk-washed. Inspired by EPCOT's commitment to agriculture and conservation.",25.00,epcot/geo-82-lounge
 2026-10-06,GEO-82,EPCOT,Pink Peppercorn Clover Club,Featured Cocktails,Lunch; Dinner,"Fords Gin, Dolin Blanc Vermouth de Chambéry, Raspberry, Pink Peppercorn, Lemon",25.00,epcot/geo-82-lounge
 2026-10-06,GEO-82,EPCOT,Peach Shrub Whisky Smash,Featured Cocktails,Lunch; Dinner,"Toki Suntory Whisky, Lustau Amontillado Sherry, Peach and Mint Shrub, Bubbles",26.00,epcot/geo-82-lounge
 2026-10-06,GEO-82,EPCOT,Electron,Featured Cocktails,Lunch; Dinner,"Siete Misterios Doba-Yej Mezcal, Carrot, Cinnamon, Lime, Hella Cocktail Co. Orange Bitters, Pink Peppercorn",23.00,epcot/geo-82-lounge
 2026-10-06,GEO-82,EPCOT,Brûlée Banana Highball,Featured Cocktails,Lunch; Dinner,"Toki Suntory Whisky, Lustau ‘Don Nuño’ Oloroso Sherry, Banana, Coffee, Cacao, Bubbles",26.00,epcot/geo-82-lounge
 2026-10-06,GEO-82,EPCOT,Exclusive Disney Select Bourbon Flight,Featured Cocktails,Lunch; Dinner,"Uncle Nearest Single Barrel, Woodford Reserve Private Barrel, Blanton’s Gold Single Barrel, Stagg Private Barrel",55.00,epcot/geo-82-lounge
-2026-10-06,GEO-82,EPCOT,A. Bergère ‘Origine’ Brut NV,Wine Selections,Lunch; Dinner,"Champagne, France",105.00,epcot/geo-82-lounge
+2026-10-06,GEO-82,EPCOT,Clarified Passion Fruit Martini,Featured Cocktails,Lunch; Dinner,"Velvety smooth finish with notes of candied Passion Fruit and Vanilla. Chopin Vodka, Chinola Passion Fruit Liqueur, Lime Vanilla, Milk-washed",20.00,epcot/geo-82-lounge
+2026-10-06,GEO-82,EPCOT,Tiramisu Martini,Featured Cocktails,Lunch; Dinner,"Seedlip Garden 108 Non-Alcoholic Spirit, Basil, Fennel, Lemon, Hella Cocktail Co. Orange Bitters, The Bitter Truth Celery Bitters, Bubbles",20.00,epcot/geo-82-lounge
+2026-10-06,GEO-82,EPCOT,A. Bergère ‘Origine’ Brut NV,Wine Selections,Lunch; Dinner,"Champagne, France",120.00,epcot/geo-82-lounge
 2026-10-06,GEO-82,EPCOT,Schramsberg Brut Rosé,Wine Selections,Lunch; Dinner,"North Coast, CA",98.00,epcot/geo-82-lounge
 2026-10-06,GEO-82,EPCOT,Arnot-Roberts Rosé,Wine Selections,Lunch; Dinner,"Clear Lake, CA",62.00,epcot/geo-82-lounge
 2026-10-06,GEO-82,EPCOT,Muxagat Douro Branco,Wine Selections,Lunch; Dinner,"Douro Valley, Portugal",67.00,epcot/geo-82-lounge
@@ -443,6 +444,11 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-10-06,GEO-82,EPCOT,Lingua Franca Estate Pinot Noir,Wine Selections,Lunch; Dinner,"Willamette Valley, OR",105.00,epcot/geo-82-lounge
 2026-10-06,GEO-82,EPCOT,Lingua Franca 'Bunker Hill' Chardonnay,Wine Selections,Lunch; Dinner,"Eola Amity Hills, OR",115.00,epcot/geo-82-lounge
 2026-10-06,GEO-82,EPCOT,Garagisti Anonimi Friulani Sauvignon Blanc,Wine Selections,Lunch; Dinner,"Friuli, Italy",62.00,epcot/geo-82-lounge
+2026-10-06,GEO-82,EPCOT,"Famille Joly Savennières ""Les Vieux Clos""",Wine Selections,Lunch; Dinner,"Loire Valley, France",168.00,epcot/geo-82-lounge
+2026-10-06,GEO-82,EPCOT,"Jean-Louis Chave Côtes du Rhône Selection ""Mon Coeur""",Wine Selections,Lunch; Dinner,"Rhône Valley, France",52.00,epcot/geo-82-lounge
+2026-10-06,GEO-82,EPCOT,Weingut Schätzel Rheinischer Riesling Kabinett,Wine Selections,Lunch; Dinner,"Rheinhessen, Germany",62.00,epcot/geo-82-lounge
+2026-10-06,GEO-82,EPCOT,"Littorai ""Les Larmes"" Pinot Noir",Wine Selections,Lunch; Dinner,"Anderson, California",158.00,epcot/geo-82-lounge
+2026-10-06,GEO-82,EPCOT,"Turley Wine Cellars, Zinfandel Rattlesnake Ridge Vineyard",Wine Selections,Lunch; Dinner,"Howell Mountain, California",136.00,epcot/geo-82-lounge
 2026-10-06,La Hacienda de San Angel,EPCOT,Guacamole,Starters,Dinner,With diced mango and corn chips. | Add Chorizo +4,16.00,epcot/hacienda-de-san-angel
 2026-10-06,La Hacienda de San Angel,EPCOT,Flautas,Starters,Dinner,"Fried tortillas filled with pork carnitas and potato; topped with romaine, crema Mexicana and salsa ranchera",16.00,epcot/hacienda-de-san-angel
 2026-10-06,La Hacienda de San Angel,EPCOT,Totopos,Starters,Dinner,Corn tortillas with sides of white cheddar cheese and salsa,10.00,epcot/hacienda-de-san-angel
@@ -604,7 +610,7 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-10-06,Le Cellier Steakhouse,EPCOT,Lump Crab Oscar,Enhancements,Lunch; Dinner,,19.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Garlic Shrimp,Enhancements,Lunch; Dinner,,18.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Le Cellier Filet Mignon*,Entrées - Land & Sea,Lunch; Dinner,"Mushroom Risotto, Pomodoraccio Tomatoes, Chardonnay-Truffle Butter Sauce, Petit Herbs",68.00,epcot/le-cellier-steakhouse
-2026-10-06,Le Cellier Steakhouse,EPCOT,Roasted Chicken,Entrées - Land & Sea,Lunch; Dinner,"Warm Farro Salad, Baby Squash, Carrots, Cranberry-Orange Gel, Sherry-Chicken Jus",41.00,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,Heritage Chicken,Entrées - Land & Sea,Lunch; Dinner,"Warm Farro Salad, Baby Squash, Carrots, Cranberry-Orange Gel, Sherry-Chicken Jus",41.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Miso-roasted Cabbage,Entrées - Land & Sea,Lunch; Dinner,"King Mushrooms, Chili Crisp, Maple, Wild Rice, Leek Oil, Mushroom Gravy",39.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Almond-Crusted Salmon,Entrées - Land & Sea,Lunch; Dinner,"Broccolini, Celery Root Tapioca, Adobo Sauce",53.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Hand-cut Pomme Frites,Sides,Lunch; Dinner,"Parmesan, Fines Herbes",10.50,epcot/le-cellier-steakhouse
@@ -630,14 +636,14 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-10-06,Le Cellier Steakhouse,EPCOT,"Groth Oakville Cabernet Sauvignon, Napa Valley",Featured Wines by the Glass,Lunch; Dinner,,36.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,"Dutton Goldfield Pinot Noir, Russian River Valley",Featured Wines by the Glass,Lunch; Dinner,,29.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Le Cellier Ice Wine Flight,Featured Wines by the Glass,Lunch; Dinner,,38.00,epcot/le-cellier-steakhouse
-2026-10-06,Le Cellier Steakhouse,EPCOT,Inniskillin Cabernet Franc,Dessert Wines,Lunch; Dinner,,189.00,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,Inniskillin Cabernet Franc Icewine,Dessert Wines,Lunch; Dinner,,189.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,"Inniskillin Vidal Icewine, Niagara Peninsula",Dessert Wines,Lunch; Dinner,,147.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,"Château des Charmes Vidal Icewine, Niagara Peninsula",Dessert Wines,Lunch; Dinner,,89.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,"Meeker FroZin Zinfandel Icewine, Sonoma County",Dessert Wines,Lunch; Dinner,,98.00,epcot/le-cellier-steakhouse
-2026-10-06,Le Cellier Steakhouse,EPCOT,"Chateau La Tour Blanche Emotions, Sauternes Bordeaux",Dessert Wines,Lunch; Dinner,,67.00,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,"Châteaux La Tour Blanche Emotions, Sauternes Bordeaux",Dessert Wines,Lunch; Dinner,,67.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Le Cellier Ice Wine Flight,After Dinner Drinks,Lunch; Dinner,,38.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Canadian Coffee,After Dinner Drinks,Lunch; Dinner,with Buffalo Trace Cream Bourbon,15.00,epcot/le-cellier-steakhouse
-2026-10-06,Le Cellier Steakhouse,EPCOT,Ottawa Apple,Cocktails and Beer,Lunch; Dinner,"Whisky, Maple, Apple Infusion, and Cranberry",16.50,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,Ottawa Apple,Cocktails and Beer,Lunch; Dinner,"Whisky, Maple, Apple Infusion, and Cranberry",17.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Icewine Martini,Cocktails and Beer,Lunch; Dinner,"Canadian Vodka, Château des Charmes Vidal Icewine, and Muddled Berries",20.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Espresso Martini,Cocktails and Beer,Lunch; Dinner,"Vanilla Vodka, Coffee Liqueur, and Espresso",16.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Le Cellier Bloody Caesar,Cocktails and Beer,Lunch; Dinner,"A Canadian Favorite featuring Canadian Vodka, Clamato Juice, Aromatic Bitters, and a blend of Seasonings",19.00,epcot/le-cellier-steakhouse
@@ -664,7 +670,7 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-10-06,Le Cellier Steakhouse,EPCOT,Lump Crab Oscar,Allergy-Friendly Enhancements,Lunch; Dinner,"(For Gluten/Wheat, Fish, Peanut/Tree Nut, Sesame, Soy Allergies)",19.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Garlic Shrimp,Allergy-Friendly Enhancements,Lunch; Dinner,"(For Gluten/Wheat, Egg Fish, Peanut/Tree Nut, Sesame, Soy Allergies)",18.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Le Cellier Filet Mignon*,Allergy-Friendly Entrées - Land & Sea,Lunch; Dinner,"Mushroom Risotto, Pomodoraccio Tomatoes, Chardonnay-Truffle Butter Sauce, Petit Herbs (For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)",68.00,epcot/le-cellier-steakhouse
-2026-10-06,Le Cellier Steakhouse,EPCOT,Roasted Chicken,Allergy-Friendly Entrées - Land & Sea,Lunch; Dinner,"Warm Farro Salad, Baby Squash, Carrots, Cranberry-Orange Gel, Sherry-Chicken Jus (For Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)",41.00,epcot/le-cellier-steakhouse
+2026-10-06,Le Cellier Steakhouse,EPCOT,Heritage Chicken,Allergy-Friendly Entrées - Land & Sea,Lunch; Dinner,"Warm Farro Salad, Baby Squash, Carrots, Cranberry-Orange Gel, Sherry-Chicken Jus (For Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)",41.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Miso-roasted Cabbage,Allergy-Friendly Entrées - Land & Sea,Lunch; Dinner,"Miso-Maple Cabbage and King Mushrooms, Chili Crisp, Wild Rice, Parsnip Sunchocke Purée (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Sesame, Tree Nut Allergies)",39.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Almond-Crusted Salmon,Allergy-Friendly Entrées - Land & Sea,Lunch; Dinner,"Broccolini, Celery Root Tapioca, Adobo Sauce (For Gluten/Wheat, Egg, Peanut, Sesame, Shellfish, Soy Allergies)",53.00,epcot/le-cellier-steakhouse
 2026-10-06,Le Cellier Steakhouse,EPCOT,Hand-cut Pomme Frites,Allergy-Friendly Sides,Lunch; Dinner,"Parmesan, Fines Herbes (For Gluten/Wheat, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)",10.50,epcot/le-cellier-steakhouse
