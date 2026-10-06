@@ -125,3 +125,174 @@ Detected,Restaurant,Park,Item,Category,Old Price,New Price,Change,Percent,Source
 2026-09-30 21:13,Les Vins des Chefs de France,EPCOT,Le Geant Slush,Slushes,21.95,19.95,-2.00,-9.1%,epcot/les-vins-des-chefs-de-france
 2026-09-30 21:13,Les Vins des Chefs de France,EPCOT,Champagne Malard,Champagne and Beer,21.95,20.95,-1.00,-4.6%,epcot/les-vins-des-chefs-de-france
 2026-09-30 21:13,Les Vins des Chefs de France,EPCOT,Kir Royal,Champagne and Beer,22.95,21.95,-1.00,-4.4%,epcot/les-vins-des-chefs-de-france
+2026-10-06 01:08,Block & Hans,EPCOT,"Golden Road Brewing Mango Cart Wheat Ale- - Los Angeles, CA",Alcoholic Beverages,13.00,13.25,0.25,1.9%,epcot/block-hans
+2026-10-06 01:08,Block & Hans,EPCOT,"Owl's Brew Black Tea & Pineapple Hard Tea - New York, NY",Alcoholic Beverages,13.50,13.00,-0.50,-3.7%,epcot/block-hans
+2026-10-06 01:08,50's Prime Time Café,Disney's Hollywood Studios,Caesar Salad with Chicken,Entrées,18.00,19.00,1.00,5.6%,hollywood-studios/50s-prime-time-cafe
+2026-10-06 01:08,50's Prime Time Café,Disney's Hollywood Studios,Peanut Butter & Jelly Milk Shake,Non-Alcoholic Specialties,9.75,10.00,0.25,2.6%,hollywood-studios/50s-prime-time-cafe
+2026-10-06 01:08,50's Prime Time Café,Disney's Hollywood Studios,Grandma's Picnic Punch,From Dad's Liquor Cabinet,18.50,19.00,0.50,2.7%,hollywood-studios/50s-prime-time-cafe
+2026-10-06 01:08,50's Prime Time Café,Disney's Hollywood Studios,The Tune-In PBJ Cocktail,From Dad's Liquor Cabinet,17.50,18.00,0.50,2.9%,hollywood-studios/50s-prime-time-cafe
+2026-10-06 01:08,50's Prime Time Café,Disney's Hollywood Studios,Island Fusion Punch,From Dad's Liquor Cabinet,16.50,17.00,0.50,3.0%,hollywood-studios/50s-prime-time-cafe
+2026-10-06 01:08,50's Prime Time Café,Disney's Hollywood Studios,Toasted Marshmallow Old Fashioned,From Dad's Liquor Cabinet,18.50,19.00,0.50,2.7%,hollywood-studios/50s-prime-time-cafe
+2026-10-06 01:08,50's Prime Time Café,Disney's Hollywood Studios,Patrón Platinum Margarita,From Dad's Liquor Cabinet,18.50,19.00,0.50,2.7%,hollywood-studios/50s-prime-time-cafe
+2026-10-06 01:08,50's Prime Time Café,Disney's Hollywood Studios,Dad's Electric Lemonade,From Dad's Liquor Cabinet,18.50,19.00,0.50,2.7%,hollywood-studios/50s-prime-time-cafe
+2026-10-06 01:08,50's Prime Time Café,Disney's Hollywood Studios,Espresso Martini,From Dad's Liquor Cabinet,17.50,18.00,0.50,2.9%,hollywood-studios/50s-prime-time-cafe
+2026-10-06 01:08,50's Prime Time Café,Disney's Hollywood Studios,Coconut Gimlet,From Dad's Liquor Cabinet,17.50,18.00,0.50,2.9%,hollywood-studios/50s-prime-time-cafe
+2026-10-06 01:08,50's Prime Time Café,Disney's Hollywood Studios,Ultimate Long Island Iced Tea,From Dad's Liquor Cabinet,18.50,19.00,0.50,2.7%,hollywood-studios/50s-prime-time-cafe
+2026-10-06 01:08,50's Prime Time Café,Disney's Hollywood Studios,"Yuengling Traditional Draft – Pottsville, PA",Craft and Draft Beer,9.75,10.25,0.50,5.1%,hollywood-studios/50s-prime-time-cafe
+2026-10-06 01:08,50's Prime Time Café,Disney's Hollywood Studios,Samuel Adams Seasonal Draft,Craft and Draft Beer,11.75,12.50,0.75,6.4%,hollywood-studios/50s-prime-time-cafe
+2026-10-06 01:08,50's Prime Time Café,Disney's Hollywood Studios,Cigar City Ja Alai IPA Draft,Craft and Draft Beer,11.75,12.50,0.75,6.4%,hollywood-studios/50s-prime-time-cafe
+2026-10-06 01:08,50's Prime Time Café,Disney's Hollywood Studios,"Michelob Ultra Draft - St. Louis, MO",Craft and Draft Beer,9.75,10.25,0.50,5.1%,hollywood-studios/50s-prime-time-cafe
+2026-10-06 01:08,50's Prime Time Café,Disney's Hollywood Studios,Caesar Salad,Allergy-Friendly Entrées,18.00,19.00,1.00,5.6%,hollywood-studios/50s-prime-time-cafe
+2026-10-06 01:08,Anaheim Produce,Disney's Hollywood Studios,Whole Fruit (Plant-based),Snacks,2.29,2.79,0.50,21.8%,hollywood-studios/anaheim-produce
+2026-10-06 01:08,Anaheim Produce,Disney's Hollywood Studios,Assorted Chips,Snacks,3.29,3.49,0.20,6.1%,hollywood-studios/anaheim-produce
+2026-10-06 01:08,Anaheim Produce,Disney's Hollywood Studios,Cuties® Mandarin 3-pack,Snacks,4.19,4.49,0.30,7.2%,hollywood-studios/anaheim-produce
+2026-10-06 01:08,Anaheim Produce,Disney's Hollywood Studios,Blood Orange Margarita,Beverages with Alcohol,18.50,20.00,1.50,8.1%,hollywood-studios/anaheim-produce
+2026-10-06 01:08,Anaheim Produce,Disney's Hollywood Studios,Frozen Coca-Cola® with Bacardí Superior Rum or Jack Daniel's Whiskey,Frozen Beverages with Alcohol,16.50,17.00,0.50,3.0%,hollywood-studios/anaheim-produce
+2026-10-06 01:08,Anaheim Produce,Disney's Hollywood Studios,Frozen Golden Margarita,Frozen Beverages with Alcohol,17.50,18.00,0.50,2.9%,hollywood-studios/anaheim-produce
+2026-10-06 01:08,Backlot Express,Disney's Hollywood Studios,Honey Buffalo Chicken Strips with Ranch,Entrées,12.99,13.99,1.00,7.7%,hollywood-studios/backlot-express
+2026-10-06 01:08,Backlot Express,Disney's Hollywood Studios,Chicken Strips (4 Pieces),Entrées,10.99,11.99,1.00,9.1%,hollywood-studios/backlot-express
+2026-10-06 01:08,Backlot Express,Disney's Hollywood Studios,Joffrey's™ Cold Brew Coffee with Sweet Cream,Beverages,5.99,6.29,0.30,5.0%,hollywood-studios/backlot-express
+2026-10-06 01:08,Backlot Express,Disney's Hollywood Studios,Large Twinings® Hot Tea,Beverages,5.19,5.29,0.10,1.9%,hollywood-studios/backlot-express
+2026-10-06 01:08,Backlot Express,Disney's Hollywood Studios,Freshly Brewed Joffrey's Coffee™ Regular,Hot Beverages,4.29,4.99,0.70,16.3%,hollywood-studios/backlot-express
+2026-10-06 01:08,Backlot Express,Disney's Hollywood Studios,Freshly Brewed Joffrey's Coffee™ Decaf,Hot Beverages,4.29,4.99,0.70,16.3%,hollywood-studios/backlot-express
+2026-10-06 01:08,Backlot Express,Disney's Hollywood Studios,Frozen Watermelon Vodka Lemonade,Beverages with Alcohol,17.50,18.00,0.50,2.9%,hollywood-studios/backlot-express
+2026-10-06 01:08,Backlot Express,Disney's Hollywood Studios,"Goose Island IPA - Chicago, IL",Beverages with Alcohol,12.50,13.25,0.75,6.0%,hollywood-studios/backlot-express
+2026-10-06 01:08,Backlot Express,Disney's Hollywood Studios,Safari Amber,Beverages with Alcohol,12.50,13.25,0.75,6.0%,hollywood-studios/backlot-express
+2026-10-06 01:08,Backlot Express,Disney's Hollywood Studios,"Bud Light Lager - St. Louis, MO",Beverages with Alcohol,10.00,10.75,0.75,7.5%,hollywood-studios/backlot-express
+2026-10-06 01:08,The Hollywood Brown Derby Lounge,Disney's Hollywood Studios,Reposado Espresso Martini,After Dinner Drinks,17.50,18.00,0.50,2.9%,hollywood-studios/hollywood-brown-derby-lounge
+2026-10-06 01:08,Thirsty River Bar,Disney's Animal Kingdom,Surfside Iced Tea & Lemonade + Vodka Hard Tea,Thirsty River Bar - Bottled and Canned Beer and Hard Seltzer,11.75,12.75,1.00,8.5%,animal-kingdom/thirsty-river-bar
+2026-10-06 01:08,Thirsty River Bar,Disney's Animal Kingdom,Malawi Mango Margarita,Thirsty River Bar - Specialty Cocktails,18.50,19.00,0.50,2.7%,animal-kingdom/thirsty-river-bar
+2026-10-06 01:08,Thirsty River Bar,Disney's Animal Kingdom,Himalayan Ghost,Thirsty River Bar - Specialty Cocktails,16.50,17.00,0.50,3.0%,animal-kingdom/thirsty-river-bar
+2026-10-06 01:08,Thirsty River Bar,Disney's Animal Kingdom,Shimmering Green Margarita,Thirsty River Bar - Specialty Cocktails,19.50,20.00,0.50,2.6%,animal-kingdom/thirsty-river-bar
+2026-10-06 01:08,Caravan Road,Disney's Animal Kingdom,Kakigori with Vodka,Alcoholic Offerings,15.50,16.00,0.50,3.2%,animal-kingdom/caravan-road
+2026-10-06 01:08,Caravan Road,Disney's Animal Kingdom,Watermelon Shaved Ice with Vodka,Alcoholic Offerings,15.50,16.00,0.50,3.2%,animal-kingdom/caravan-road
+2026-10-06 01:08,Caravan Road,Disney's Animal Kingdom,Mango-Passion Fruit Shaved Ice with Vodka,Alcoholic Offerings,15.50,16.00,0.50,3.2%,animal-kingdom/caravan-road
+2026-10-06 01:08,Caravan Road,Disney's Animal Kingdom,Tropical Shaved Ice with Vodka,Alcoholic Offerings,15.50,16.00,0.50,3.2%,animal-kingdom/caravan-road
+2026-10-06 01:08,Dawa Bar,Disney's Animal Kingdom,Prickly Pear Margarita,Specialty Cocktails,17.50,18.00,0.50,2.9%,animal-kingdom/dawa-bar
+2026-10-06 01:08,Dawa Bar,Disney's Animal Kingdom,Ngumu Jungle Juice,Specialty Cocktails,17.50,18.00,0.50,2.9%,animal-kingdom/dawa-bar
+2026-10-06 01:08,Dawa Bar,Disney's Animal Kingdom,Lost on Safari,Specialty Cocktails,17.50,18.00,0.50,2.9%,animal-kingdom/dawa-bar
+2026-10-06 01:08,Dawa Bar,Disney's Animal Kingdom,Honey Bee,Specialty Cocktails,18.50,19.00,0.50,2.7%,animal-kingdom/dawa-bar
+2026-10-06 01:08,Dawa Bar,Disney's Animal Kingdom,Malawi Mango Margarita,Specialty Cocktails,18.50,19.00,0.50,2.7%,animal-kingdom/dawa-bar
+2026-10-06 01:08,Dawa Bar,Disney's Animal Kingdom,Safari Amber,Draft Beer,12.50,13.25,0.75,6.0%,animal-kingdom/dawa-bar
+2026-10-06 01:08,Dawa Bar,Disney's Animal Kingdom,Bud Light Lager,"Bottled & Canned Beer, Hard Cider & Hard Seltzer",9.75,10.75,1.00,10.3%,animal-kingdom/dawa-bar
+2026-10-06 01:08,Drinkwallah,Disney's Animal Kingdom,Frozen Rum & Coke®,Alcoholic Beverages,15.50,17.00,1.50,9.7%,animal-kingdom/drinkwallah
+2026-10-06 01:08,Eight Spoon Café,Disney's Animal Kingdom,Baked Macaroni & Cheese with Pulled Pork,Entrees,12.99,13.49,0.50,3.8%,animal-kingdom/eight-spoon-cafe
+2026-10-06 01:08,Eight Spoon Café,Disney's Animal Kingdom,Baked Macaroni & Cheese with Buffalo Chicken,Entrees,12.99,13.49,0.50,3.8%,animal-kingdom/eight-spoon-cafe
+2026-10-06 01:08,Eight Spoon Café,Disney's Animal Kingdom,Assorted Fountain Beverages,Beverages,4.79,4.99,0.20,4.2%,animal-kingdom/eight-spoon-cafe
+2026-10-06 01:08,Flame Tree Barbecue,Disney's Animal Kingdom,"Ribs, Chicken, and Pulled Pork Sampler",Entrées,18.99,19.99,1.00,5.3%,animal-kingdom/flame-tree-barbecue
+2026-10-06 01:08,Flame Tree Barbecue,Disney's Animal Kingdom,Ribs and Chicken Combo,Entrées,15.99,16.99,1.00,6.3%,animal-kingdom/flame-tree-barbecue
+2026-10-06 01:08,Flame Tree Barbecue,Disney's Animal Kingdom,Korean Barbecue Sandwich,Plant-Based,12.49,13.49,1.00,8.0%,animal-kingdom/flame-tree-barbecue
+2026-10-06 01:08,Flame Tree Barbecue,Disney's Animal Kingdom,Assorted Fountain Beverages - Regular,Beverages,4.79,4.99,0.20,4.2%,animal-kingdom/flame-tree-barbecue
+2026-10-06 01:08,Flame Tree Barbecue,Disney's Animal Kingdom,Large Freshly Brewed Joffrey's Coffee™ Regular,Beverages,5.19,5.29,0.10,1.9%,animal-kingdom/flame-tree-barbecue
+2026-10-06 01:08,Flame Tree Barbecue,Disney's Animal Kingdom,Large Freshly Brewed Joffrey's Coffee™ Decaf,Beverages,5.19,5.29,0.10,1.9%,animal-kingdom/flame-tree-barbecue
+2026-10-06 01:08,Harambe Market,Disney's Animal Kingdom,Savanna Salad,Entrées,11.29,11.49,0.20,1.8%,animal-kingdom/harambe-market
+2026-10-06 01:08,Harambe Market,Disney's Animal Kingdom,Harissa Chicken Wrap,Entrées,10.99,11.99,1.00,9.1%,animal-kingdom/harambe-market
+2026-10-06 01:08,Isle of Java,Disney's Animal Kingdom,Tiger Tail Chocolate Twist,Snacks,6.29,6.79,0.50,7.9%,animal-kingdom/isle-of-java
+2026-10-06 01:08,Isle of Java,Disney's Animal Kingdom,Assorted Fountain Beverages,Beverages,4.79,4.99,0.20,4.2%,animal-kingdom/isle-of-java
+2026-10-06 01:08,Isle of Java,Disney's Animal Kingdom,Simply® Orange,Beverages,5.29,5.59,0.30,5.7%,animal-kingdom/isle-of-java
+2026-10-06 01:08,Isle of Java,Disney's Animal Kingdom,Minute Maid® Apple Juice,Beverages,4.29,4.59,0.30,7.0%,animal-kingdom/isle-of-java
+2026-10-06 01:08,Isle of Java,Disney's Animal Kingdom,Cappuccino,Coffee,5.29,5.49,0.20,3.8%,animal-kingdom/isle-of-java
+2026-10-06 01:08,Isle of Java,Disney's Animal Kingdom,Caffè Latte,Coffee,5.29,5.49,0.20,3.8%,animal-kingdom/isle-of-java
+2026-10-06 01:08,Isle of Java,Disney's Animal Kingdom,Party Parrot,Alcoholic Beverages,15.50,16.00,0.50,3.2%,animal-kingdom/isle-of-java
+2026-10-06 01:08,Kusafiri Coffee Shop & Bakery,Disney's Animal Kingdom,Assorted Fountain Beverages,Beverages,4.79,4.99,0.20,4.2%,animal-kingdom/kusafiri-coffee-shop-and-bakery
+2026-10-06 01:08,Kusafiri Coffee Shop & Bakery,Disney's Animal Kingdom,Freshly Brewed Joffrey's Coffee™,Beverages,4.79,4.99,0.20,4.2%,animal-kingdom/kusafiri-coffee-shop-and-bakery
+2026-10-06 01:08,Kusafiri Coffee Shop & Bakery,Disney's Animal Kingdom,Hot Cocoa by Joffrey's™,Beverages,4.79,4.99,0.20,4.2%,animal-kingdom/kusafiri-coffee-shop-and-bakery
+2026-10-06 01:08,Kusafiri Coffee Shop & Bakery,Disney's Animal Kingdom,Coconut-flavored Iced Coffee,Specialty Beverage,5.99,6.29,0.30,5.0%,animal-kingdom/kusafiri-coffee-shop-and-bakery
+2026-10-06 01:08,Kusafiri Coffee Shop & Bakery,Disney's Animal Kingdom,African Coffee,Beverages with Alcohol,15.25,16.00,0.75,4.9%,animal-kingdom/kusafiri-coffee-shop-and-bakery
+2026-10-06 01:08,Kusafiri Coffee Shop & Bakery,Disney's Animal Kingdom,Chicken and Rice Bowl,Entrées,12.99,13.99,1.00,7.7%,animal-kingdom/kusafiri-coffee-shop-and-bakery
+2026-10-06 01:08,Kusafiri Coffee Shop & Bakery,Disney's Animal Kingdom,Plant-based Picadillo Bowl,Entrées,12.99,13.99,1.00,7.7%,animal-kingdom/kusafiri-coffee-shop-and-bakery
+2026-10-06 01:08,Kusafiri Coffee Shop & Bakery,Disney's Animal Kingdom,Beef and Chicken Rice Bowl,Entrées,16.99,17.99,1.00,5.9%,animal-kingdom/kusafiri-coffee-shop-and-bakery
+2026-10-06 01:08,Kusafiri Coffee Shop & Bakery,Disney's Animal Kingdom,Beef and Rice Bowl,Entrées,14.99,15.99,1.00,6.7%,animal-kingdom/kusafiri-coffee-shop-and-bakery
+2026-10-06 01:08,Mahindi,Disney's Animal Kingdom,Popcorn Bucket Refill,Snacks,2.49,2.79,0.30,12.0%,animal-kingdom/mahindi
+2026-10-06 01:08,Mahindi,Disney's Animal Kingdom,Popcorn,Snacks,5.99,6.29,0.30,5.0%,animal-kingdom/mahindi
+2026-10-06 01:08,Mahindi,Disney's Animal Kingdom,Assorted Chips,Snacks,3.29,3.49,0.20,6.1%,animal-kingdom/mahindi
+2026-10-06 01:08,Nomad Lounge,Disney's Animal Kingdom,Charcuterie and Cheese Board,Small Plates,23.00,24.00,1.00,4.3%,animal-kingdom/nomad-lounge
+2026-10-06 01:08,Nomad Lounge,Disney's Animal Kingdom,Lamu Libation,Specialty Cocktails,17.50,18.00,0.50,2.9%,animal-kingdom/nomad-lounge
+2026-10-06 01:08,Nomad Lounge,Disney's Animal Kingdom,Spice Trader Classic,Specialty Cocktails,16.50,18.00,1.50,9.1%,animal-kingdom/nomad-lounge
+2026-10-06 01:08,Nomad Lounge,Disney's Animal Kingdom,Night Monkey,Specialty Cocktails,16.50,17.00,0.50,3.0%,animal-kingdom/nomad-lounge
+2026-10-06 01:08,Nomad Lounge,Disney's Animal Kingdom,Annapurna Zing,Specialty Cocktails,19.50,20.00,0.50,2.6%,animal-kingdom/nomad-lounge
+2026-10-06 01:08,Nomad Lounge,Disney's Animal Kingdom,Dalang's Delight,Specialty Cocktails,17.50,18.00,0.50,2.9%,animal-kingdom/nomad-lounge
+2026-10-06 01:08,Nomad Lounge,Disney's Animal Kingdom,Tempting Tigress,Specialty Cocktails,18.50,19.00,0.50,2.7%,animal-kingdom/nomad-lounge
+2026-10-06 01:08,Nomad Lounge,Disney's Animal Kingdom,Mustang Coffee,Specialty Cocktails,16.50,17.00,0.50,3.0%,animal-kingdom/nomad-lounge
+2026-10-06 01:08,Nomad Lounge,Disney's Animal Kingdom,Leaping Lizard,Specialty Cocktails,18.50,19.00,0.50,2.7%,animal-kingdom/nomad-lounge
+2026-10-06 01:08,Nomad Lounge,Disney's Animal Kingdom,Sinaloa Sangria,Specialty Cocktails,15.50,16.00,0.50,3.2%,animal-kingdom/nomad-lounge
+2026-10-06 01:08,Nomad Lounge,Disney's Animal Kingdom,Boto-Rita,Specialty Cocktails,17.50,19.00,1.50,8.6%,animal-kingdom/nomad-lounge
+2026-10-06 01:08,Nomad Lounge,Disney's Animal Kingdom,Hightower Rocks,Specialty Cocktails,18.50,19.00,0.50,2.7%,animal-kingdom/nomad-lounge
+2026-10-06 01:08,Nomad Lounge,Disney's Animal Kingdom,Snow Leopard Salvation,Specialty Cocktails,18.50,19.00,0.50,2.7%,animal-kingdom/nomad-lounge
+2026-10-06 01:08,Nomad Lounge,Disney's Animal Kingdom,Jenn's Tattoo,Specialty Cocktails,16.50,17.00,0.50,3.0%,animal-kingdom/nomad-lounge
+2026-10-06 01:08,Nomad Lounge,Disney's Animal Kingdom,Michelob Ultra Lager Draft - USA,Beer,9.25,10.25,1.00,10.8%,animal-kingdom/nomad-lounge
+2026-10-06 01:08,Nomad Lounge,Disney's Animal Kingdom,First Magnitude Wakulla Hefeweizen Draft - USA,Beer,11.75,12.50,0.75,6.4%,animal-kingdom/nomad-lounge
+2026-10-06 01:08,Nomad Lounge,Disney's Animal Kingdom,Kungaloosh Spiced Excursion Ale Draft - USA,Beer,11.75,12.50,0.75,6.4%,animal-kingdom/nomad-lounge
+2026-10-06 01:08,Nomad Lounge,Disney's Animal Kingdom,White Claw Mango Hard Seltzer - USA,Beer,11.00,12.00,1.00,9.1%,animal-kingdom/nomad-lounge
+2026-10-06 01:08,Nomad Lounge,Disney's Animal Kingdom,Sapporo Black Lager –Japan (22-oz can),Beer,14.25,14.75,0.50,3.5%,animal-kingdom/nomad-lounge
+2026-10-06 01:08,Pizzafari,Disney's Animal Kingdom,Creamy Pesto Chicken Pasta,Entrées,13.29,13.79,0.50,3.8%,animal-kingdom/pizzafari
+2026-10-06 01:08,Pizzafari,Disney's Animal Kingdom,Chicken Caprese Baguette Sandwich,Entrées,13.29,13.99,0.70,5.3%,animal-kingdom/pizzafari
+2026-10-06 01:08,Pizzafari,Disney's Animal Kingdom,Baked Chicken Tenders,Entrées,12.99,13.99,1.00,7.7%,animal-kingdom/pizzafari
+2026-10-06 01:08,Pizzafari,Disney's Animal Kingdom,Greens and Grains Salad,Plant-Based,10.99,11.49,0.50,4.5%,animal-kingdom/pizzafari
+2026-10-06 01:08,Pizzafari,Disney's Animal Kingdom,Large Freshly Brewed Joffrey's Coffee™ Regular,Beverages,5.19,5.29,0.10,1.9%,animal-kingdom/pizzafari
+2026-10-06 01:08,Pizzafari,Disney's Animal Kingdom,Large Freshly Brewed Joffrey's Coffee™ Decaf,Beverages,5.19,5.29,0.10,1.9%,animal-kingdom/pizzafari
+2026-10-06 01:08,Pizzafari,Disney's Animal Kingdom,Large Twinings® Hot Tea,Beverages,5.19,5.29,0.10,1.9%,animal-kingdom/pizzafari
+2026-10-06 01:08,Pizzafari,Disney's Animal Kingdom,Freshly Brewed Joffrey's Coffee™ Regular,Beverages,4.79,4.99,0.20,4.2%,animal-kingdom/pizzafari
+2026-10-06 01:08,Pizzafari,Disney's Animal Kingdom,RAMONA Ruby Grapefruit Wine Spritz,Beverages with Alcohol,11.75,12.00,0.25,2.1%,animal-kingdom/pizzafari
+2026-10-06 01:08,Pongu Pongu,Disney's Animal Kingdom,Nightwraith Blaze with Vodka,Alcoholic Beverages,20.50,21.00,0.50,2.4%,animal-kingdom/pongu-pongu
+2026-10-06 01:08,Pongu Pongu,Disney's Animal Kingdom,Mo'ara Margarita,Alcoholic Beverages,16.50,17.00,0.50,3.0%,animal-kingdom/pongu-pongu
+2026-10-06 01:08,Satu'li Canteen,Disney's Animal Kingdom,Large Freshly Brewed Joffrey's Coffee™ Regular,Beverages,5.19,5.29,0.10,1.9%,animal-kingdom/satuli-canteen
+2026-10-06 01:08,Satu'li Canteen,Disney's Animal Kingdom,Large Freshly Brewed Joffrey's Coffee™ Decaf,Beverages,5.19,5.29,0.10,1.9%,animal-kingdom/satuli-canteen
+2026-10-06 01:08,Satu'li Canteen,Disney's Animal Kingdom,Freshly Brewed Joffrey's Coffee™ Regular,Beverages,4.79,4.99,0.20,4.2%,animal-kingdom/satuli-canteen
+2026-10-06 01:08,Satu'li Canteen,Disney's Animal Kingdom,Twinings® Hot Tea,Beverages,4.79,4.99,0.20,4.2%,animal-kingdom/satuli-canteen
+2026-10-06 01:08,Satu'li Canteen,Disney's Animal Kingdom,Specialty Ube Cold Brew,Cold Brews,6.29,6.79,0.50,7.9%,animal-kingdom/satuli-canteen
+2026-10-06 01:08,Satu'li Canteen,Disney's Animal Kingdom,Yovo Fruit Margarita,Beverages with Alcohol,16.50,17.00,0.50,3.0%,animal-kingdom/satuli-canteen
+2026-10-06 01:08,Satu'li Canteen,Disney's Animal Kingdom,Chai Cold Brew with Rum,Beverages with Alcohol,15.50,16.00,0.50,3.2%,animal-kingdom/satuli-canteen
+2026-10-06 01:08,Satu'li Canteen,Disney's Animal Kingdom,Cold Brew with Rum and Sweet Cream,Beverages with Alcohol,15.50,16.00,0.50,3.2%,animal-kingdom/satuli-canteen
+2026-10-06 01:08,Satu'li Canteen,Disney's Animal Kingdom,"Elysian Space Dust IPA – Seattle, WA, Earth",Beverages with Alcohol,12.50,13.25,0.75,6.0%,animal-kingdom/satuli-canteen
+2026-10-06 01:08,Satu'li Canteen,Disney's Animal Kingdom,Hawkes' Grog Ale,Beverages with Alcohol,12.50,13.25,0.75,6.0%,animal-kingdom/satuli-canteen
+2026-10-06 01:08,Satu'li Canteen,Disney's Animal Kingdom,Mo'ara High Country Ale,Beverages with Alcohol,12.50,13.25,0.75,6.0%,animal-kingdom/satuli-canteen
+2026-10-06 01:08,Satu'li Canteen,Disney's Animal Kingdom,Cheeseburger Steamed Pod,Kid's Meals,8.99,9.49,0.50,5.6%,animal-kingdom/satuli-canteen
+2026-10-06 01:08,The Smiling Crocodile,Disney's Animal Kingdom,Assorted Fountain Beverages,Beverages,4.79,4.99,0.20,4.2%,animal-kingdom/smiling-crocodile
+2026-10-06 01:08,Tamu Tamu Refreshments,Disney's Animal Kingdom,Joffrey's™ Cold Brew Coffee with Sweet Cream,Beverages,5.99,6.29,0.30,5.0%,animal-kingdom/tamu-tamu-refreshments
+2026-10-06 01:08,Tamu Tamu Refreshments,Disney's Animal Kingdom,DOLE Whip® Pineapple Orange Soda Float,Desserts,6.79,6.99,0.20,2.9%,animal-kingdom/tamu-tamu-refreshments
+2026-10-06 01:08,Tamu Tamu Refreshments,Disney's Animal Kingdom,DOLE Whip® Pineapple Orange Soda Float with Parrot Bay Coconut Rum,Alcoholic Offerings,14.50,16.00,1.50,10.3%,animal-kingdom/tamu-tamu-refreshments
+2026-10-06 01:08,Tamu Tamu Refreshments,Disney's Animal Kingdom,DOLE Whip® Pineapple Juice Float with Parrot Bay Coconut Rum,Alcoholic Offerings,14.50,16.00,1.50,10.3%,animal-kingdom/tamu-tamu-refreshments
+2026-10-06 01:08,Tamu Tamu Refreshments,Disney's Animal Kingdom,Irish Coffee,Alcoholic Offerings,15.50,17.00,1.50,9.7%,animal-kingdom/tamu-tamu-refreshments
+2026-10-06 01:08,Warung Outpost,Disney's Animal Kingdom,DOLE Whip® Cup,Snacks,5.99,5.79,-0.20,-3.3%,animal-kingdom/warung-outpost
+2026-10-06 01:08,Warung Outpost,Disney's Animal Kingdom,Assorted Coca-Cola® Fountain Beverages,Non-Alcoholic Beverages,4.79,5.50,0.71,14.8%,animal-kingdom/warung-outpost
+2026-10-06 01:08,Avalunch,Blizzard Beach,Assorted Fountain Beverages,Beverages,4.79,4.99,0.20,4.2%,blizzard-beach/avalunch
+2026-10-06 01:08,Avalunch,Blizzard Beach,"Dogfish Head 60 Minute IPA - Milton, DE with a Souvenir Cup",Beer,15.25,15.75,0.50,3.3%,blizzard-beach/avalunch
+2026-10-06 01:08,Avalunch,Blizzard Beach,"Bud Light Lager - St. Louis, MO with a Souvenir Cup",Beer,12.75,13.75,1.00,7.8%,blizzard-beach/avalunch
+2026-10-06 01:08,Avalunch,Blizzard Beach,"Yuengling Traditional Lager – Pottsville, PA with a Souvenir Cup",Beer,12.75,13.75,1.00,7.8%,blizzard-beach/avalunch
+2026-10-06 01:08,Avalunch,Blizzard Beach,Crooked Can High Stepper IPA,Beer,12.25,13.75,1.50,12.2%,blizzard-beach/avalunch
+2026-10-06 01:08,Avalunch,Blizzard Beach,RAMONA Ruby Grapefruit Wine Spritz,Beer,11.75,12.00,0.25,2.1%,blizzard-beach/avalunch
+2026-10-06 01:08,Cooling Hut,Blizzard Beach,Assorted Chips,Snacks,3.29,3.49,0.20,6.1%,blizzard-beach/cooling-hut
+2026-10-06 01:08,Cooling Hut,Blizzard Beach,Assorted Fountain Beverages,Brrr-Everages,4.79,4.99,0.20,4.2%,blizzard-beach/cooling-hut
+2026-10-06 01:08,Cooling Hut,Blizzard Beach,Freshly Brewed Joffrey's Coffee™,Brrr-Everages,4.79,4.99,0.20,4.2%,blizzard-beach/cooling-hut
+2026-10-06 01:08,Frostbite Freddy's Frozen Refreshments,Blizzard Beach,Premium and Craft Beer with a Souvenir Cup,Draft Beer Specials,15.50,15.75,0.25,1.6%,blizzard-beach/frostbite-freddy
+2026-10-06 01:08,Frostbite Freddy's Frozen Refreshments,Blizzard Beach,Premium and Craft Beer Souvenir Cup Same-Day Refills,Draft Beer Specials,9.25,9.50,0.25,2.7%,blizzard-beach/frostbite-freddy
+2026-10-06 01:08,Frostbite Freddy's Frozen Refreshments,Blizzard Beach,Domestic Beer with a Souvenir Cup,Draft Beer Specials,13.50,13.75,0.25,1.9%,blizzard-beach/frostbite-freddy
+2026-10-06 01:08,Frostbite Freddy's Frozen Refreshments,Blizzard Beach,Domestic Beer Souvenir Cup Same-Day Refills,Draft Beer Specials,8.25,8.50,0.25,3.0%,blizzard-beach/frostbite-freddy
+2026-10-06 01:08,Lottawatta Lodge,Blizzard Beach,Bacon Cheeseburger,Entrées,13.29,13.99,0.70,5.3%,blizzard-beach/lottawatta-lodge
+2026-10-06 01:08,Lottawatta Lodge,Blizzard Beach,Buffalo Ranch Chicken Strips,Entrées,12.99,13.99,1.00,7.7%,blizzard-beach/lottawatta-lodge
+2026-10-06 01:08,Lottawatta Lodge,Blizzard Beach,Chicken Strips,Entrées,10.99,11.99,1.00,9.1%,blizzard-beach/lottawatta-lodge
+2026-10-06 01:08,Lottawatta Lodge,Blizzard Beach,Chicken Strips (2 Strips),Kid's Meals,8.99,9.49,0.50,5.6%,blizzard-beach/lottawatta-lodge
+2026-10-06 01:08,Lottawatta Lodge,Blizzard Beach,Large Joffrey's™ Cold Brew Coffee with Sweet Cream,Beverages,6.49,6.79,0.30,4.6%,blizzard-beach/lottawatta-lodge
+2026-10-06 01:08,Lottawatta Lodge,Blizzard Beach,Joffrey's™ Cold Brew Coffee with Sweet Cream,Beverages,5.99,6.29,0.30,5.0%,blizzard-beach/lottawatta-lodge
+2026-10-06 01:08,Lottawatta Lodge,Blizzard Beach,Large Freshly Brewed Joffrey's Coffee™ Regular,Beverages,5.19,5.29,0.10,1.9%,blizzard-beach/lottawatta-lodge
+2026-10-06 01:08,Lottawatta Lodge,Blizzard Beach,Large Freshly Brewed Joffrey's Coffee™ Decaf,Beverages,5.19,5.29,0.10,1.9%,blizzard-beach/lottawatta-lodge
+2026-10-06 01:08,Lottawatta Lodge,Blizzard Beach,Large Twinings® Hot Tea,Beverages,5.19,5.29,0.10,1.9%,blizzard-beach/lottawatta-lodge
+2026-10-06 01:08,Lottawatta Lodge,Blizzard Beach,Assorted Fountain Beverages,Beverages,4.49,4.99,0.50,11.1%,blizzard-beach/lottawatta-lodge
+2026-10-06 01:08,Lottawatta Lodge,Blizzard Beach,Minute Maid® Apple Juice,Juice,2.29,4.59,2.30,100.4%,blizzard-beach/lottawatta-lodge
+2026-10-06 01:08,Lottawatta Lodge,Blizzard Beach,"Yuengling Traditional Lager – Pottsville, PA with a Souvenir Cup",Beer,13.50,15.75,2.25,16.7%,blizzard-beach/lottawatta-lodge
+2026-10-06 01:08,Lottawatta Lodge,Blizzard Beach,RAMONA Meyer Lemon Wine Spritz,Beverages with Alcohol,11.75,12.00,0.25,2.1%,blizzard-beach/lottawatta-lodge
+2026-10-06 01:08,Lottawatta Lodge,Blizzard Beach,RAMONA Blood Orange Wine Spritz,Beverages with Alcohol,11.75,12.00,0.25,2.1%,blizzard-beach/lottawatta-lodge
+2026-10-06 01:08,Lottawatta Lodge,Blizzard Beach,RAMONA Ruby Grapefruit Wine Spritz,Beverages with Alcohol,11.75,12.00,0.25,2.1%,blizzard-beach/lottawatta-lodge
+2026-10-06 01:08,Polar Pub,Blizzard Beach,Grand Margarita,Rocks,18.50,19.00,0.50,2.7%,blizzard-beach/polar-pub
+2026-10-06 01:08,Polar Pub,Blizzard Beach,Grapefruit Margarita,Rocks,18.50,19.00,0.50,2.7%,blizzard-beach/polar-pub
+2026-10-06 01:08,Polar Pub,Blizzard Beach,Rum Runner,Rocks,17.50,18.00,0.50,2.9%,blizzard-beach/polar-pub
+2026-10-06 01:08,Polar Pub,Blizzard Beach,Banana Cabana,Rocks,17.50,18.00,0.50,2.9%,blizzard-beach/polar-pub
+2026-10-06 01:08,Polar Pub,Blizzard Beach,Strawberry Daiquiri,Frozen Beverages,15.50,16.00,0.50,3.2%,blizzard-beach/polar-pub
+2026-10-06 01:08,Polar Pub,Blizzard Beach,Black Cherry Lemonade,Frozen Beverages,18.50,19.00,0.50,2.7%,blizzard-beach/polar-pub
+2026-10-06 01:08,Polar Pub,Blizzard Beach,Cold Fashioned,Frozen Beverages,18.50,20.00,1.50,8.1%,blizzard-beach/polar-pub
+2026-10-06 01:08,Polar Pub,Blizzard Beach,Premium and Craft Beer,Draft Beer Specials,15.50,15.75,0.25,1.6%,blizzard-beach/polar-pub
+2026-10-06 01:08,Polar Pub,Blizzard Beach,Domestic Beer,Draft Beer Specials,13.50,13.75,0.25,1.9%,blizzard-beach/polar-pub
+2026-10-06 01:08,Warming Hut,Blizzard Beach,BBQ Pork Sandwich,Entrées,12.49,13.49,1.00,8.0%,blizzard-beach/warming-hut
+2026-10-06 01:08,Warming Hut,Blizzard Beach,Elote Nachos with Pork,Entrées,12.99,13.99,1.00,7.7%,blizzard-beach/warming-hut
+2026-10-06 01:08,Warming Hut,Blizzard Beach,Assorted Fountain Beverages,Beverages,4.79,4.99,0.20,4.2%,blizzard-beach/warming-hut
