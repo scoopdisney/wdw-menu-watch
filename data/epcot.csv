@@ -134,8 +134,8 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-10-08,Akershus Royal Banquet Hall,EPCOT,Bell's Two Hearted IPA,Beer and Hard Cider,Lunch; Dinner,,12.50,epcot/akershus-royal-banquet-hall
 2026-10-08,Akershus Royal Banquet Hall,EPCOT,Stella Artois Lager,Beer and Hard Cider,Lunch; Dinner,,12.00,epcot/akershus-royal-banquet-hall
 2026-10-08,Akershus Royal Banquet Hall,EPCOT,Breckenridge Brewery Vanilla Porter,Beer and Hard Cider,Lunch; Dinner,,11.50,epcot/akershus-royal-banquet-hall
-2026-10-08,Akershus Royal Banquet Hall,EPCOT,Rekorderlig Strawberry & Lime Hard Cider,Beer and Hard Cider,Lunch; Dinner,,12.25,epcot/akershus-royal-banquet-hall
-2026-10-08,Akershus Royal Banquet Hall,EPCOT,Rekorderlig Pear Hard Cider,Beer and Hard Cider,Lunch; Dinner,,12.25,epcot/akershus-royal-banquet-hall
+2026-10-08,Akershus Royal Banquet Hall,EPCOT,Rekorderlig Strawberry & Lime Hard Cider,Beer and Hard Cider,Lunch; Dinner,,12.75,epcot/akershus-royal-banquet-hall
+2026-10-08,Akershus Royal Banquet Hall,EPCOT,Rekorderlig Pear Hard Cider,Beer and Hard Cider,Lunch; Dinner,,12.75,epcot/akershus-royal-banquet-hall
 2026-10-08,Akershus Royal Banquet Hall,EPCOT,Heineken 0.0 Non-Alcoholic Lager,Beer and Hard Cider,Lunch; Dinner,,10.00,epcot/akershus-royal-banquet-hall
 2026-10-08,Akershus Royal Banquet Hall,EPCOT,"Simi Cabernet Sauvignon, Alexander Valley",Red Wine Selections,Lunch; Dinner,,79.00,epcot/akershus-royal-banquet-hall
 2026-10-08,Akershus Royal Banquet Hall,EPCOT,"Fess Parker Pinot Noir, Sta. Rita Hills",Red Wine Selections,Lunch; Dinner,,74.00,epcot/akershus-royal-banquet-hall
@@ -427,7 +427,7 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-10-08,GEO-82,EPCOT,Brûlée Banana Highball,Featured Cocktails,Lunch; Dinner,"Toki Suntory Whisky, Lustau ‘Don Nuño’ Oloroso Sherry, Banana, Coffee, Cacao, Bubbles",26.00,epcot/geo-82-lounge
 2026-10-08,GEO-82,EPCOT,Exclusive Disney Select Bourbon Flight,Featured Cocktails,Lunch; Dinner,"Uncle Nearest Single Barrel, Woodford Reserve Private Barrel, Blanton’s Gold Single Barrel, Stagg Private Barrel",55.00,epcot/geo-82-lounge
 2026-10-08,GEO-82,EPCOT,Clarified Passion Fruit Martini,Featured Cocktails,Lunch; Dinner,"Velvety smooth finish with notes of candied Passion Fruit and Vanilla. Chopin Vodka, Chinola Passion Fruit Liqueur, Lime Vanilla, Milk-washed",20.00,epcot/geo-82-lounge
-2026-10-08,GEO-82,EPCOT,Tiramisu Martini,Featured Cocktails,Lunch; Dinner,"Seedlip Garden 108 Non-Alcoholic Spirit, Basil, Fennel, Lemon, Hella Cocktail Co. Orange Bitters, The Bitter Truth Celery Bitters, Bubbles",20.00,epcot/geo-82-lounge
+2026-10-08,GEO-82,EPCOT,Tiramisu Martini,Featured Cocktails,Lunch; Dinner,"Mr. Black Coffee Liquor, Courvoisier VSOP Cognac, Bailey's Mascarpone Cream, Cocoa, Lady Finger Cookie",20.00,epcot/geo-82-lounge
 2026-10-08,GEO-82,EPCOT,A. Bergère ‘Origine’ Brut NV,Wine Selections,Lunch; Dinner,"Champagne, France",120.00,epcot/geo-82-lounge
 2026-10-08,GEO-82,EPCOT,Schramsberg Brut Rosé,Wine Selections,Lunch; Dinner,"North Coast, CA",98.00,epcot/geo-82-lounge
 2026-10-08,GEO-82,EPCOT,Arnot-Roberts Rosé,Wine Selections,Lunch; Dinner,"Clear Lake, CA",62.00,epcot/geo-82-lounge
@@ -675,7 +675,7 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-10-08,Le Cellier Steakhouse,EPCOT,Almond-Crusted Salmon,Allergy-Friendly Entrées - Land & Sea,Lunch; Dinner,"Broccolini, Celery Root Tapioca, Adobo Sauce (For Gluten/Wheat, Egg, Peanut, Sesame, Shellfish, Soy Allergies)",53.00,epcot/le-cellier-steakhouse
 2026-10-08,Le Cellier Steakhouse,EPCOT,Hand-cut Pomme Frites,Allergy-Friendly Sides,Lunch; Dinner,"Parmesan, Fines Herbes (For Gluten/Wheat, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)",10.50,epcot/le-cellier-steakhouse
 2026-10-08,Le Cellier Steakhouse,EPCOT,Macaroni & Cheese,Allergy-Friendly Sides,Lunch; Dinner,"Port Salut-Cheddar Sauce, Toasted Herb Crumb (For Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)",15.00,epcot/le-cellier-steakhouse
-2026-10-08,Le Cellier Steakhouse,EPCOT,Mashed Potatoes,Allergy-Friendly Sides,Lunch; Dinner,"Mascarpone, Roasted Garlic (For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)",14.00,epcot/le-cellier-steakhouse
+2026-10-08,Le Cellier Steakhouse,EPCOT,Mashed Potatoes,Allergy-Friendly Sides,Lunch; Dinner,"Mascarpone, Roasted Garlic (For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)",10.50,epcot/le-cellier-steakhouse
 2026-10-08,Le Cellier Steakhouse,EPCOT,Braised Mushrooms,Allergy-Friendly Sides,Lunch; Dinner,"Sherry Wine, Fines Herbes (For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)",12.00,epcot/le-cellier-steakhouse
 2026-10-08,Le Cellier Steakhouse,EPCOT,Crispy Brussels Sprouts,Allergy-Friendly Sides,Lunch; Dinner,"Maple Marmalade, Golden Raisins (Plant-based) (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, Soy Allergies)",10.50,epcot/le-cellier-steakhouse
 2026-10-08,Le Cellier Steakhouse,EPCOT,Creamed Spinach,Allergy-Friendly Sides,Lunch; Dinner,"Sauce Mornay, Parmesan (For Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)",12.00,epcot/le-cellier-steakhouse
@@ -1011,7 +1011,6 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-10-08,Sommerfest,EPCOT,Pretzel Bread Pudding,Desserts,Lunch And Dinner,,4.79,epcot/sommerfest
 2026-10-08,Sommerfest,EPCOT,Jumbo Pretzel,Snacks,Lunch And Dinner,Plant-Based,12.49,epcot/sommerfest
 2026-10-08,Sommerfest,EPCOT,House-made Obatzda Cheese Dip,Enhancements,Lunch And Dinner,"Obatzda is a traditional Bavarian cheese spread that’s rich, creamy, and packed with flavor",1.50,epcot/sommerfest
-2026-10-08,Sommerfest,EPCOT,Assorted Fountain Beverages,Beverages,Lunch And Dinner,Assorted Coca-Cola® Offerings,5.59,epcot/sommerfest
 2026-10-08,Sommerfest,EPCOT,Coca-Cola® Bottle,Beverages,Lunch And Dinner,,5.50,epcot/sommerfest
 2026-10-08,Sommerfest,EPCOT,Diet Coke® Bottle,Beverages,Lunch And Dinner,,5.50,epcot/sommerfest
 2026-10-08,Sommerfest,EPCOT,Sprite® Bottle,Beverages,Lunch And Dinner,,5.50,epcot/sommerfest
