@@ -86,9 +86,8 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-10-23,The Beak and Barrel,Magic Kingdom,Foursquare Rum Distillery Exceptional Cask Selection Mark XXVIII,Reserve Rum Selections (2-oz pour),Lunch; Dinner,,45.00,magic-kingdom/beak-barrel
 2026-10-23,The Beak and Barrel,Magic Kingdom,Flor de Caña 25 yr Rum,Reserve Rum Selections (2-oz pour),Lunch; Dinner,,45.00,magic-kingdom/beak-barrel
 2026-10-23,The Beak and Barrel,Magic Kingdom,Diplomático Ambassador Selection Rum,Reserve Rum Selections (2-oz pour),Lunch; Dinner,,55.00,magic-kingdom/beak-barrel
-2026-10-23,Casey's Corner,Magic Kingdom,Chipotle Barbecue All-Beef Foot-long Hot Dog,Featured Entrées,Lunch And Dinner,"Topped with Pulled Pork, Slaw, and Chipotle Barbecue Sauce",16.49,magic-kingdom/caseys-corner
-2026-10-23,Casey's Corner,Magic Kingdom,Chipotle Barbecue All-Beef Hot Dog,Featured Entrées,Lunch And Dinner,"Topped with Pulled pork, Slaw, and Chipotle Barbecue Sauce",15.49,magic-kingdom/caseys-corner
-2026-10-23,Casey's Corner,Magic Kingdom,Baseball Brownie,Featured Entrées,Lunch And Dinner,"Topped with Caramel Corn Mousse, Dulce de Leche, and coated in White Chocolate",5.99,magic-kingdom/caseys-corner
+2026-10-23,Casey's Corner,Magic Kingdom,Chipotle Barbecue All-Beef Foot-long Hot Dog,Featured Offers,Lunch And Dinner,"Topped with Pulled Pork, Slaw, and Chipotle Barbecue Sauce",16.49,magic-kingdom/caseys-corner
+2026-10-23,Casey's Corner,Magic Kingdom,Chipotle Barbecue All-Beef Hot Dog,Featured Offers,Lunch And Dinner,"Topped with Pulled pork, Slaw, and Chipotle Barbecue Sauce",15.49,magic-kingdom/caseys-corner
 2026-10-23,Casey's Corner,Magic Kingdom,Frozen Mint Julep Lemonade,Specialty Beverages,Lunch And Dinner; Special Ticketed Event,"classically blended Mint Julep featuring Minute Maid® Premium Lemonade, topped with fresh Mint Leaves, Cherry and Lemon",7.29,magic-kingdom/caseys-corner
 2026-10-23,Casey's Corner,Magic Kingdom,Chili-Cheese All-Beef Foot-long Hot Dog,Entrées,Lunch And Dinner; Special Ticketed Event,All-Beef Foot-long Hot Dog topped with Chili and Cheese,15.49,magic-kingdom/caseys-corner
 2026-10-23,Casey's Corner,Magic Kingdom,Chili-Cheese All-Beef Hot Dog,Entrées,Lunch And Dinner; Special Ticketed Event,All-Beef Hot Dog topped with Chili and Cheese,13.49,magic-kingdom/caseys-corner
@@ -103,6 +102,7 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-10-23,Casey's Corner,Magic Kingdom,French Fries,Snacks,Lunch And Dinner; Special Ticketed Event,,4.49,magic-kingdom/caseys-corner
 2026-10-23,Casey's Corner,Magic Kingdom,Cuties® Mandarin,Snacks,Lunch And Dinner; Special Ticketed Event,3-pack,4.19,magic-kingdom/caseys-corner
 2026-10-23,Casey's Corner,Magic Kingdom,Cheese Sauce,Snacks,Lunch And Dinner; Special Ticketed Event,,1.00,magic-kingdom/caseys-corner
+2026-10-23,Casey's Corner,Magic Kingdom,Baseball Brownie,Dessert,Lunch And Dinner,"Topped with Caramel Corn Mousse, Dulce de Leche, and coated in White Chocolate",5.99,magic-kingdom/caseys-corner
 2026-10-23,Casey's Corner,Magic Kingdom,Assorted Fountain Beverages,Beverages,Lunch And Dinner; Special Ticketed Event,Assorted Coca-Cola® Offerings,5.59,magic-kingdom/caseys-corner
 2026-10-23,Casey's Corner,Magic Kingdom,Large Freshly Brewed Joffrey's Coffee™ Regular,Beverages,Lunch And Dinner; Special Ticketed Event,,5.29,magic-kingdom/caseys-corner
 2026-10-23,Casey's Corner,Magic Kingdom,Large Freshly Brewed Joffrey's Coffee™ Decaf,Beverages,Lunch And Dinner; Special Ticketed Event,,5.29,magic-kingdom/caseys-corner
