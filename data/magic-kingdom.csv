@@ -172,8 +172,6 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-05,Columbia Harbour House,Magic Kingdom,Maple-Mustard Glazed Salmon,Entrées,Lunch And Dinner,Served with White Rice and Roasted Green Beans,15.79,magic-kingdom/columbia-harbour-house
 2026-11-05,Columbia Harbour House,Magic Kingdom,Grilled Shrimp,Entrées,Lunch And Dinner,Served with White Rice and Roasted Green Beans,14.49,magic-kingdom/columbia-harbour-house
 2026-11-05,Columbia Harbour House,Magic Kingdom,Mixed Platter,Entrées,Lunch And Dinner,"Beer-battered Fish, Hand-breaded Shrimp, Chicken, and Hush Puppies served with French Fries",15.79,magic-kingdom/columbia-harbour-house
-2026-11-05,Columbia Harbour House,Magic Kingdom,Trio Platter,Entrées,Lunch And Dinner,"Beer-battered Shrimp, Chicken, Beer-battered Fish, French Fries, Hushpuppies",15.79,magic-kingdom/columbia-harbour-house
-2026-11-05,Columbia Harbour House,Magic Kingdom,Beer-battered Shrimp Platter,Entrées,Lunch And Dinner,Served with French Fries,14.99,magic-kingdom/columbia-harbour-house
 2026-11-05,Columbia Harbour House,Magic Kingdom,Hand-breaded Shrimp Platter,Entrées,Lunch And Dinner,served with French Fries,14.99,magic-kingdom/columbia-harbour-house
 2026-11-05,Columbia Harbour House,Magic Kingdom,Shrimp Salad,Entrées,Lunch And Dinner,"Grilled Shrimp, Mixed Greens, Cherry Tomatoes, Mild Pepperoncini, Manzanilla Olives, Capers",13.99,magic-kingdom/columbia-harbour-house
 2026-11-05,Columbia Harbour House,Magic Kingdom,Beer-battered Fish Platter,Entrées,Lunch And Dinner,,14.99,magic-kingdom/columbia-harbour-house
@@ -491,6 +489,7 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-05,Main Street Bakery,Magic Kingdom,Frozen Starbucks Refreshers™ with Lemonade - Grande,Starbucks Refreshers™,Coffee – Bakery,Strawberry Açai or Mango Dragonfruit,6.45,magic-kingdom/main-street-bakery
 2026-11-05,Main Street Bakery,Magic Kingdom,Pink Drink - Grande,Starbucks Refreshers™,Coffee – Bakery,,5.95,magic-kingdom/main-street-bakery
 2026-11-05,Main Street Bakery,Magic Kingdom,Starbucks Refreshers™,Starbucks Refreshers™,Coffee – Bakery,Strawberry Acai or Mango Dragonfruit,5.45,magic-kingdom/main-street-bakery
+2026-11-05,Main Street Bakery,Magic Kingdom,Apple Pomegranate Lemonade Refresher - Grande,Starbucks Refreshers™,Coffee – Bakery,,6.95,magic-kingdom/main-street-bakery
 2026-11-05,Main Street Bakery,Magic Kingdom,Caramel Macchiato - Grande,Specialty Coffee Beverages,Coffee – Bakery,,6.45,magic-kingdom/main-street-bakery
 2026-11-05,Main Street Bakery,Magic Kingdom,Iced White Chocolate Mocha - Grande,Specialty Coffee Beverages,Coffee – Bakery,,6.45,magic-kingdom/main-street-bakery
 2026-11-05,Main Street Bakery,Magic Kingdom,Caffè Latte - Grande,Specialty Coffee Beverages,Coffee – Bakery,,5.75,magic-kingdom/main-street-bakery
@@ -501,6 +500,11 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-05,Main Street Bakery,Magic Kingdom,Freshly Brewed Coffee - Grande,Specialty Coffee Beverages,Coffee – Bakery,Regular or Decaf,4.85,magic-kingdom/main-street-bakery
 2026-11-05,Main Street Bakery,Magic Kingdom,Pecan Crunch Oatmilk Latte - Grande,Specialty Coffee Beverages,Coffee – Bakery,,6.75,magic-kingdom/main-street-bakery
 2026-11-05,Main Street Bakery,Magic Kingdom,Pumpkin Spice Latte - Grande,Specialty Coffee Beverages,Coffee – Bakery,,6.75,magic-kingdom/main-street-bakery
+2026-11-05,Main Street Bakery,Magic Kingdom,Iced Tiramisu Velvet Latte - Grande,Specialty Coffee Beverages,Coffee – Bakery,,6.75,magic-kingdom/main-street-bakery
+2026-11-05,Main Street Bakery,Magic Kingdom,Iced Gingerbread Chai Latte - Grande,Specialty Coffee Beverages,Coffee – Bakery,,6.75,magic-kingdom/main-street-bakery
+2026-11-05,Main Street Bakery,Magic Kingdom,Iced Sugar Cookie Matcha - Grande,Specialty Coffee Beverages,Coffee – Bakery,,6.75,magic-kingdom/main-street-bakery
+2026-11-05,Main Street Bakery,Magic Kingdom,Snowy Apple Drink - Grande,Specialty Coffee Beverages,Coffee – Bakery,,6.95,magic-kingdom/main-street-bakery
+2026-11-05,Main Street Bakery,Magic Kingdom,Peppermint Mocha - Grande,Specialty Coffee Beverages,Coffee – Bakery,,6.75,magic-kingdom/main-street-bakery
 2026-11-05,Main Street Bakery,Magic Kingdom,Pumpkin Cream Cold Brew - Grande,Cold Brew,Coffee – Bakery,,5.95,magic-kingdom/main-street-bakery
 2026-11-05,Main Street Bakery,Magic Kingdom,Starbucks® Cold Brew - Grande,Cold Brew,Coffee – Bakery,,5.45,magic-kingdom/main-street-bakery
 2026-11-05,Main Street Bakery,Magic Kingdom,Chocolate Cream Cold Brew - Grande,Cold Brew,Coffee – Bakery,,5.85,magic-kingdom/main-street-bakery
