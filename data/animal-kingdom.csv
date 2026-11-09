@@ -247,7 +247,7 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-09,Kusafiri Coffee Shop & Bakery,Disney's Animal Kingdom,Seasonal Muffin,Pastries,Breakfast,,4.99,animal-kingdom/kusafiri-coffee-shop-and-bakery
 2026-11-09,Kusafiri Coffee Shop & Bakery,Disney's Animal Kingdom,Mickey Cinnamon Roll,Pastries,Breakfast,,7.99,animal-kingdom/kusafiri-coffee-shop-and-bakery
 2026-11-09,Kusafiri Coffee Shop & Bakery,Disney's Animal Kingdom,Pistachio Croissant,Pastries,Breakfast,,6.49,animal-kingdom/kusafiri-coffee-shop-and-bakery
-2026-11-09,Kusafiri Coffee Shop & Bakery,Disney's Animal Kingdom,Chocolate Twist,Pastries,Breakfast,,6.49,animal-kingdom/kusafiri-coffee-shop-and-bakery
+2026-11-09,Kusafiri Coffee Shop & Bakery,Disney's Animal Kingdom,Festive Chocolate Twist,Pastries,Breakfast,Chocolate Twist with Red and White Chocolate Stripes,6.49,animal-kingdom/kusafiri-coffee-shop-and-bakery
 2026-11-09,Kusafiri Coffee Shop & Bakery,Disney's Animal Kingdom,Plain Croissant,Pastries,Breakfast,,4.79,animal-kingdom/kusafiri-coffee-shop-and-bakery
 2026-11-09,Kusafiri Coffee Shop & Bakery,Disney's Animal Kingdom,Guava and Cheese Danish,Pastries,Breakfast,,5.29,animal-kingdom/kusafiri-coffee-shop-and-bakery
 2026-11-09,Kusafiri Coffee Shop & Bakery,Disney's Animal Kingdom,7-Layer Bar,Pastries,Breakfast,"Graham Cracker Crust, Coconut, Pecans, Sunflower Seeds, Chocolate Chips, and Butterscotch Chips with Sweetened Condensed Milk and Maldon Salt",5.79,animal-kingdom/kusafiri-coffee-shop-and-bakery
@@ -272,7 +272,7 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-09,Kusafiri Coffee Shop & Bakery,Disney's Animal Kingdom,PB&J Uncrustable,Kid's Meals,Lunch And Dinner,Served with a Cuties® Mandarin and Applesauce,7.29,animal-kingdom/kusafiri-coffee-shop-and-bakery
 2026-11-09,Kusafiri Coffee Shop & Bakery,Disney's Animal Kingdom,Seasonal Muffin,Pastries and Snacks,Lunch And Dinner,,4.99,animal-kingdom/kusafiri-coffee-shop-and-bakery
 2026-11-09,Kusafiri Coffee Shop & Bakery,Disney's Animal Kingdom,Fresh Fruit Bowl,Pastries and Snacks,Lunch And Dinner,,5.69,animal-kingdom/kusafiri-coffee-shop-and-bakery
-2026-11-09,Kusafiri Coffee Shop & Bakery,Disney's Animal Kingdom,Chocolate Twist,Pastries and Snacks,Lunch And Dinner,,6.49,animal-kingdom/kusafiri-coffee-shop-and-bakery
+2026-11-09,Kusafiri Coffee Shop & Bakery,Disney's Animal Kingdom,Festive Chocolate Twist,Pastries and Snacks,Lunch And Dinner,Chocolate Twist with Red and White Chocolate Stripes,6.49,animal-kingdom/kusafiri-coffee-shop-and-bakery
 2026-11-09,Kusafiri Coffee Shop & Bakery,Disney's Animal Kingdom,Plain Croissant,Pastries and Snacks,Lunch And Dinner,,4.79,animal-kingdom/kusafiri-coffee-shop-and-bakery
 2026-11-09,Kusafiri Coffee Shop & Bakery,Disney's Animal Kingdom,Pistachio Croissant,Pastries and Snacks,Lunch And Dinner,,6.49,animal-kingdom/kusafiri-coffee-shop-and-bakery
 2026-11-09,Kusafiri Coffee Shop & Bakery,Disney's Animal Kingdom,Pumpkin Cheese Danish,Pastries and Snacks,Lunch And Dinner,,5.29,animal-kingdom/kusafiri-coffee-shop-and-bakery
@@ -604,7 +604,7 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-09,Tamu Tamu Refreshments,Disney's Animal Kingdom,Mickey Cinnamon Roll,Entrées,Breakfast,,7.99,animal-kingdom/tamu-tamu-refreshments
 2026-11-09,Tamu Tamu Refreshments,Disney's Animal Kingdom,Guava and Cream Cheese Danish,Entrées,Breakfast,,5.29,animal-kingdom/tamu-tamu-refreshments
 2026-11-09,Tamu Tamu Refreshments,Disney's Animal Kingdom,Pistachio Croissant,Entrées,Breakfast,,6.49,animal-kingdom/tamu-tamu-refreshments
-2026-11-09,Tamu Tamu Refreshments,Disney's Animal Kingdom,Chocolate Twist,Entrées,Breakfast,,6.49,animal-kingdom/tamu-tamu-refreshments
+2026-11-09,Tamu Tamu Refreshments,Disney's Animal Kingdom,Festive Chocolate Twist,Entrées,Breakfast,Chocolate Twist with Red and White Chocolate Stripes,6.49,animal-kingdom/tamu-tamu-refreshments
 2026-11-09,Tamu Tamu Refreshments,Disney's Animal Kingdom,Croissant,Entrées,Breakfast,,4.79,animal-kingdom/tamu-tamu-refreshments
 2026-11-09,Tamu Tamu Refreshments,Disney's Animal Kingdom,Assorted Fountain Beverages,Beverages,Breakfast; Snack,,4.99,animal-kingdom/tamu-tamu-refreshments
 2026-11-09,Tamu Tamu Refreshments,Disney's Animal Kingdom,DASANI® Bottled Water,Beverages,Breakfast; Snack,,4.25,animal-kingdom/tamu-tamu-refreshments
@@ -620,8 +620,9 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-09,Tamu Tamu Refreshments,Disney's Animal Kingdom,African Coffee,Alcoholic Offerings,Snack,with Amarula Cream Liqueur,16.00,animal-kingdom/tamu-tamu-refreshments
 2026-11-09,Tamu Tamu Refreshments,Disney's Animal Kingdom,Safari Amber Draft,Alcoholic Offerings,Snack,,13.25,animal-kingdom/tamu-tamu-refreshments
 2026-11-09,Tamu Tamu Refreshments,Disney's Animal Kingdom,Irish Coffee,Alcoholic Offerings,Snack,"with Jameson Irish Whiskey, Joffrey's Coffee™, and Whipped Cream",17.00,animal-kingdom/tamu-tamu-refreshments
-2026-11-09,Terra Treats,Disney's Animal Kingdom,Boneyard Cookies and Scream Sundae,Snacks,Snack,"Cookies 'n Cream Ice Cream, Chocolate Popping Crumbs, Chocolate Cookie, Sugar Bone, Pumpkin Candy, and Halloween Sprinkles served in a Waffle Bowl",8.99,animal-kingdom/terra-treats
 2026-11-09,Terra Treats,Disney's Animal Kingdom,Fall Ice Cream Cookie Dough Sandwich,Snacks,Snack,"Vanilla Ice Cream, Edible Cookie Dough, Chocolate Brownie, Chocolate Chips, Fall Sprinkles, and Sea Salt Flakes",8.79,animal-kingdom/terra-treats
+2026-11-09,Terra Treats,Disney's Animal Kingdom,Festive Cookie Dough Brownie Ice Cream Sandwich,Snacks,Snack,Cookie Dough with Holiday Sprinkles layered with Vanilla Ice Cream and Fudgy Brownie,8.79,animal-kingdom/terra-treats
+2026-11-09,Terra Treats,Disney's Animal Kingdom,Reindeer Sundae,Snacks,Snack,"Dulce de Leche Ice Cream, Espresso Caramel, Coffee-Coconut Streusel, Coconut Cake, Chocolate Antlers, and a M&M’S® Milk Chocolate candy",8.49,animal-kingdom/terra-treats
 2026-11-09,Terra Treats,Disney's Animal Kingdom,Hand-scooped Strawberry Ice Cream Cup,Snacks,Snack,,7.79,animal-kingdom/terra-treats
 2026-11-09,Terra Treats,Disney's Animal Kingdom,Hand-scooped Vanilla Ice Cream Cup,Snacks,Snack,,7.79,animal-kingdom/terra-treats
 2026-11-09,Terra Treats,Disney's Animal Kingdom,Hand-scooped Chocolate Ice Cream Cup,Snacks,Snack,,7.79,animal-kingdom/terra-treats

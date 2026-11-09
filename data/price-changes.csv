@@ -2770,3 +2770,29 @@ Detected,Restaurant,Park,Item,Category,Old Price,New Price,Change,Percent,Source
 2026-11-06 20:15,Casey's Corner,Magic Kingdom,Holiday Pot Roast Mini Corn Dogs,Mickey's Very Merry Christmas Party Exclusives,14.79,15.49,0.70,4.7%,magic-kingdom/caseys-corner
 2026-11-09 13:38,Fairfax Fare,Disney's Hollywood Studios,"Kona Big Wave Golden Ale - Kailua Kona, HI",Beer,12.50,13.25,0.75,6.0%,hollywood-studios/fairfax-fare
 2026-11-09 13:38,Fairfax Fare,Disney's Hollywood Studios,"Michelob Ultra - St. Louis, MO",Beer,10.50,11.25,0.75,7.1%,hollywood-studios/fairfax-fare
+2026-11-09 23:17,Cinderella's Royal Table,Magic Kingdom,"Kronenbourg 1664 Pale Lager, France",Beer,9.75,11.00,1.25,12.8%,magic-kingdom/cinderella-royal-table
+2026-11-09 23:17,Good's Food to Go,Old Key West Resort,Mickey-shaped Waffle,Entrées,10.79,11.29,0.50,4.6%,old-key-west-resort/goods-food-to-go
+2026-11-09 23:17,Good's Food to Go,Old Key West Resort,Breakfast Wrap,Entrées,8.99,9.29,0.30,3.3%,old-key-west-resort/goods-food-to-go
+2026-11-09 23:17,Good's Food to Go,Old Key West Resort,Oatmeal,Sides,3.99,4.29,0.30,7.5%,old-key-west-resort/goods-food-to-go
+2026-11-09 23:17,Good's Food to Go,Old Key West Resort,Grits,Sides,3.79,3.99,0.20,5.3%,old-key-west-resort/goods-food-to-go
+2026-11-09 23:17,Good's Food to Go,Old Key West Resort,Mickey-shaped Waffles,Kids' Meals,7.59,7.99,0.40,5.3%,old-key-west-resort/goods-food-to-go
+2026-11-09 23:17,Good's Food to Go,Old Key West Resort,Egg Scramble,Kids' Disney Check Meals,7.29,7.79,0.50,6.9%,old-key-west-resort/goods-food-to-go
+2026-11-09 23:17,Good's Food to Go,Old Key West Resort,Yogurt Dipper Kid's Pack,Kids' Disney Check Meals,6.49,6.99,0.50,7.7%,old-key-west-resort/goods-food-to-go
+2026-11-09 23:17,Good's Food to Go,Old Key West Resort,Protein Pack,Snacks,7.49,7.79,0.30,4.0%,old-key-west-resort/goods-food-to-go
+2026-11-09 23:17,Good's Food to Go,Old Key West Resort,Allergy-friendly Cookies,Snacks,6.99,7.79,0.80,11.4%,old-key-west-resort/goods-food-to-go
+2026-11-09 23:17,Good's Food to Go,Old Key West Resort,Allergy-Friendly Fruity Bears,Snacks,2.69,2.49,-0.20,-7.4%,old-key-west-resort/goods-food-to-go
+2026-11-09 23:17,Good's Food to Go,Old Key West Resort,Frozen Key Lime Pie,Dessert,9.00,8.99,-0.01,-0.1%,old-key-west-resort/goods-food-to-go
+2026-11-09 23:17,Good's Food to Go,Old Key West Resort,Nestlé® Mickey's Premium Ice Cream Bar,Dessert,6.29,6.49,0.20,3.2%,old-key-west-resort/goods-food-to-go
+2026-11-09 23:17,Good's Food to Go,Old Key West Resort,Nestlé® Mickey's Premium Ice Cream Sandwich,Dessert,6.29,6.49,0.20,3.2%,old-key-west-resort/goods-food-to-go
+2026-11-09 23:17,Good's Food to Go,Old Key West Resort,Chocolate Chip Cookie,Dessert,4.29,4.79,0.50,11.7%,old-key-west-resort/goods-food-to-go
+2026-11-09 23:17,Good's Food to Go,Old Key West Resort,Sugar Cookie,Dessert,4.29,4.79,0.50,11.7%,old-key-west-resort/goods-food-to-go
+2026-11-09 23:17,Good's Food to Go,Old Key West Resort,Large Joffrey’s Coffee™ Latte,Specialty Coffee,6.49,6.79,0.30,4.6%,old-key-west-resort/goods-food-to-go
+2026-11-09 23:17,Good's Food to Go,Old Key West Resort,Caffè Latte,Specialty Coffee,4.79,5.49,0.70,14.6%,old-key-west-resort/goods-food-to-go
+2026-11-09 23:17,Good's Food to Go,Old Key West Resort,Strawberry Slushy,Beverages,6.49,7.29,0.80,12.3%,old-key-west-resort/goods-food-to-go
+2026-11-09 23:17,Good's Food to Go,Old Key West Resort,Pineapple Coconut Slushy,Beverages,6.49,7.29,0.80,12.3%,old-key-west-resort/goods-food-to-go
+2026-11-09 23:17,Good's Food to Go,Old Key West Resort,Whole Milk,Beverages,2.29,2.59,0.30,13.1%,old-key-west-resort/goods-food-to-go
+2026-11-09 23:17,Good's Food to Go,Old Key West Resort,Hot Cocoa,Beverages,4.79,4.99,0.20,4.2%,old-key-west-resort/goods-food-to-go
+2026-11-09 23:17,Good's Food to Go,Old Key West Resort,LiveWire Crystal Shiso Mojito,Beverages with Alcohol,13.00,13.50,0.50,3.8%,old-key-west-resort/goods-food-to-go
+2026-11-09 23:17,Good's Food to Go,Old Key West Resort,High Noon Sun Sips Vodka & Soda Pineapple,Beverages with Alcohol,12.50,12.75,0.25,2.0%,old-key-west-resort/goods-food-to-go
+2026-11-09 23:17,Good's Food to Go,Old Key West Resort,RAMONA Dry Grapefruit Wine Spritz,Beverages with Alcohol,11.50,12.50,1.00,8.7%,old-key-west-resort/goods-food-to-go
+2026-11-09 23:17,Good's Food to Go,Old Key West Resort,Old Key West Mimosa,Beverages with Alcohol,15.50,17.00,1.50,9.7%,old-key-west-resort/goods-food-to-go
