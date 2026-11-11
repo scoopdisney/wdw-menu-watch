@@ -283,7 +283,7 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-11,The Diamond Horseshoe,Magic Kingdom,High Plains Huckleberry,Specialty Cocktails,Special,"44° North Mountain Huckleberry Vodka, Crème de Cassis Liqueur, Lemon Juice, and Cranberry",19.00,magic-kingdom/diamond-horseshoe
 2026-11-11,The Diamond Horseshoe,Magic Kingdom,Rattler Rum Punch,Specialty Cocktails,Special,"Bacardí Superior Rum, Orange, Pineapple, Lime, and Passion Fruit garnished with a Sweet-and-Spicy Rim",17.00,magic-kingdom/diamond-horseshoe
 2026-11-11,The Diamond Horseshoe,Magic Kingdom,Coal’d Fashioned,Specialty Cocktails,Special,"Buffalo Trace Kentucky Straight Bourbon, Mr. Black Cold Brew Coffee Liqueur, Cinnamon Syrup, Orange Bitters, and Angostura Bitters",19.00,magic-kingdom/diamond-horseshoe
-2026-11-11,The Diamond Horseshoe,Magic Kingdom,In Holiday Fashion,Specialty Cocktails,Special,"Buffalo Trace Kentucky Straight Bourbon, Rosemary Syrup, Cranberry, and Cinnamon",19.00,magic-kingdom/diamond-horseshoe
+2026-11-11,The Diamond Horseshoe,Magic Kingdom,Seasonal Margarita,Specialty Cocktails,Special,Please ask your Server about this Season's Margarita,19.00,magic-kingdom/diamond-horseshoe
 2026-11-11,The Diamond Horseshoe,Magic Kingdom,"Nino Franco Rustico Prosecco, Veneto, IT",Wine,Special,,14.00,magic-kingdom/diamond-horseshoe
 2026-11-11,The Diamond Horseshoe,Magic Kingdom,"Fess Parker Riesling, Santa Barbara County, CA",Wine,Special,,14.00,magic-kingdom/diamond-horseshoe
 2026-11-11,The Diamond Horseshoe,Magic Kingdom,"MacMurray Ranch Pinot Noir, Central Coast, CA",Wine,Special,,19.00,magic-kingdom/diamond-horseshoe
@@ -324,20 +324,25 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-11,The Friar's Nook,Magic Kingdom,Jalapeño Popper Tots,Mickey's Very Merry Christmas Party Exclusives,Special Ticketed Event,"Jalapeño Cream Cheese, Bacon, Cheddar, topped with a Jalapeño Popper",10.49,magic-kingdom/friars-nook
 2026-11-11,The Friar's Nook,Magic Kingdom,Spinach Artichoke Hand Pie,Mickey's Very Merry Christmas Party Exclusives,Special Ticketed Event,with Red Pepper Sauce,9.49,magic-kingdom/friars-nook
 2026-11-11,The Friar's Nook,Magic Kingdom,Sugar Cookie Soda,Mickey's Very Merry Christmas Party Exclusives,Special Ticketed Event,"Coca‑Cola® with Cookie Butter Syrup and Cold Foam, Sprinkles, and Sugar Cookie Pieces",5.99,magic-kingdom/friars-nook
+2026-11-11,Gaston's Tavern,Magic Kingdom,LeFou's Brew - Souvenir Stein,Souvenir Specialties,Snack,Frozen Minute Maid® Apple Juice with a hint of Toasted Marshmallow topped with Fruit-flavored Foam served in a Souvenir Stein,14.79,magic-kingdom/gastons-tavern
 2026-11-11,Gaston's Tavern,Magic Kingdom,The Grey Stuff Cupcake,Quick Bites,Snack,"Chocolate Cupcake topped with ""The Grey Stuff"" and crispy Pearls",6.49,magic-kingdom/gastons-tavern
 2026-11-11,Gaston's Tavern,Magic Kingdom,Warm Cinnamon Roll,Quick Bites,Snack,,7.99,magic-kingdom/gastons-tavern
 2026-11-11,Gaston's Tavern,Magic Kingdom,Crème Brûlée Croissant,Quick Bites,Snack,Crispy Croissant Dough filled with Vanilla Bean Custard,6.49,magic-kingdom/gastons-tavern
 2026-11-11,Gaston's Tavern,Magic Kingdom,Ham and Gruyère Sandwich,Entrées,Snack,Crispy Croissant Dough filled with Ham and Gruyère served with Chips,11.29,magic-kingdom/gastons-tavern
-2026-11-11,Gaston's Tavern,Magic Kingdom,LeFou's Brew - Souvenir Stein,Beverages,Snack,Frozen Minute Maid® Apple Juice with a hint of Toasted Marshmallow topped with Fruit-flavored Foam served in a Souvenir Stein,14.79,magic-kingdom/gastons-tavern
+2026-11-11,Gaston's Tavern,Magic Kingdom,Large Joffrey's™ Cold Brew Coffee with Sweet Cream,Beverages,Snack,,6.79,magic-kingdom/gastons-tavern
 2026-11-11,Gaston's Tavern,Magic Kingdom,LeFou's Brew,Beverages,Snack,Frozen Minute Maid® Apple Juice with a hint of Toasted Marshmallow topped with Fruit-flavored Foam,6.99,magic-kingdom/gastons-tavern
-2026-11-11,Gaston's Tavern,Magic Kingdom,Assorted Fountain Beverages,Beverages,Snack,,4.99,magic-kingdom/gastons-tavern
-2026-11-11,Gaston's Tavern,Magic Kingdom,DASANI® Bottled Water,Beverages,Snack,,4.25,magic-kingdom/gastons-tavern
+2026-11-11,Gaston's Tavern,Magic Kingdom,Joffrey's™ Cold Brew Coffee with Sweet Cream,Beverages,Snack,,6.29,magic-kingdom/gastons-tavern
 2026-11-11,Gaston's Tavern,Magic Kingdom,Simply® Orange,Beverages,Snack,,5.59,magic-kingdom/gastons-tavern
-2026-11-11,Gaston's Tavern,Magic Kingdom,Minute Maid® Apple Juice,Beverages,Snack,,4.59,magic-kingdom/gastons-tavern
+2026-11-11,Gaston's Tavern,Magic Kingdom,Freshly Brewed Joffrey's Coffee™,Beverages,Snack,,5.29,magic-kingdom/gastons-tavern
+2026-11-11,Gaston's Tavern,Magic Kingdom,Freshly Brewed Joffrey's Coffee™ Decaf,Beverages,Snack,,5.29,magic-kingdom/gastons-tavern
+2026-11-11,Gaston's Tavern,Magic Kingdom,Large Twinings® Hot Tea,Beverages,Snack,,4.99,magic-kingdom/gastons-tavern
+2026-11-11,Gaston's Tavern,Magic Kingdom,Assorted Fountain Beverages,Beverages,Snack,,4.99,magic-kingdom/gastons-tavern
+2026-11-11,Gaston's Tavern,Magic Kingdom,Freshly Brewed Joffrey's Coffee™ Regular,Beverages,Snack,,4.99,magic-kingdom/gastons-tavern
+2026-11-11,Gaston's Tavern,Magic Kingdom,Freshly Brewed Joffrey's Coffee™ Decaf,Beverages,Snack,,4.99,magic-kingdom/gastons-tavern
+2026-11-11,Gaston's Tavern,Magic Kingdom,Twinings® Hot Tea,Beverages,Snack,,4.99,magic-kingdom/gastons-tavern
 2026-11-11,Gaston's Tavern,Magic Kingdom,Chocolate Milk,Beverages,Snack,,4.79,magic-kingdom/gastons-tavern
-2026-11-11,Gaston's Tavern,Magic Kingdom,Twinings® Hot Tea,Beverages,Snack,Large Twinings® Hot Tea 5.19,4.99,magic-kingdom/gastons-tavern
-2026-11-11,Gaston's Tavern,Magic Kingdom,Freshly Brewed Joffrey's Coffee™,Beverages,Snack,Large Freshly Brewed Joffrey's Coffee™ 5.19,4.99,magic-kingdom/gastons-tavern
-2026-11-11,Gaston's Tavern,Magic Kingdom,Joffrey's™ Cold Brew Coffee,Beverages,Snack,with Sweet Cream. Large Joffrey's™ Cold Brew Coffee 6.49,6.29,magic-kingdom/gastons-tavern
+2026-11-11,Gaston's Tavern,Magic Kingdom,Minute Maid® Apple Juice,Beverages,Snack,,4.59,magic-kingdom/gastons-tavern
+2026-11-11,Gaston's Tavern,Magic Kingdom,DASANI® Bottled Water,Beverages,Snack,,4.25,magic-kingdom/gastons-tavern
 2026-11-11,Golden Oak Outpost,Magic Kingdom,Candied Bacon Skewer with Chips,Featured Offerings,Breakfast; Lunch And Dinner,Brown Sugar-coated,9.99,magic-kingdom/golden-oak-outpost
 2026-11-11,Golden Oak Outpost,Magic Kingdom,Biscuit Breakfast Sandwich,Breakfast Specialties,Breakfast,"Sausage, Egg, Monterey Jack, Maple Butter, and Bacon Jam",7.79,magic-kingdom/golden-oak-outpost
 2026-11-11,Golden Oak Outpost,Magic Kingdom,Mama Odie's Hot Honey Chicken Strips,Entrées ,Breakfast; Lunch And Dinner; Special Ticketed Event,with Marshmallow and Candied Pecan-topped Sweet Potato Waffle Fries,14.29,magic-kingdom/golden-oak-outpost
