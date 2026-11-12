@@ -58,6 +58,8 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-12,Connections Café,EPCOT,Liege Waffle,Pastries,Coffee – Bakery,,4.49,epcot/connections-cafe
 2026-11-12,Connections Café,EPCOT,Pumpkin Cream Cheese Muffin,Pastries,Coffee – Bakery,,4.99,epcot/connections-cafe
 2026-11-12,Connections Café,EPCOT,Assorted Pastries,Pastries,Coffee – Bakery,,7.49,epcot/connections-cafe
+2026-11-12,Connections Café,EPCOT,Cranberry-Oatmeal Cookie (Plant based) - Holiday Cookie Stroll,Festival of the Holidays Food Offerings - Available Starting 11/27,Coffee – Bakery,,4.79,epcot/connections-cafe
+2026-11-12,Connections Café,EPCOT,Wreath Matcha Mochi Doughnut,Festival of the Holidays Food Offerings - Available Starting 11/27,Coffee – Bakery,,5.29,epcot/connections-cafe
 2026-11-12,Connections Eatery,EPCOT,Stitch Christmas Tree Sipper,Holiday Exclusive Souvenirs,Lunch And Dinner,"Includes any Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. Available while supplies last.",22.99,epcot/connections-eatery
 2026-11-12,Connections Eatery,EPCOT,Holiday Chip 'n Dale Candy Cane Straw Clip,Holiday Exclusive Souvenirs,Lunch And Dinner,"Includes any Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. Available while supplies last.",13.48,epcot/connections-eatery
 2026-11-12,Connections Eatery,EPCOT,BBQ Braai Chicken Pizza,Food and Wine Festival Offerings,Lunch And Dinner,"with Tamarind BBQ, Arugula, Onions, and Piri Piri Sauce",12.29,epcot/connections-eatery
@@ -101,6 +103,8 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-12,Connections Eatery,EPCOT,"Hess Shirtail Creek Chardonnay, California",Wine,Lunch And Dinner,5-oz Glass of Chardonnay - Crisp acidity with notes of green apple and tropical fruit,14.00,epcot/connections-eatery
 2026-11-12,Connections Eatery,EPCOT,"Acrobat Pinot Noir, Oregon",Wine,Lunch And Dinner,"5-oz Glass of Pinot Noir - Flavors of ripe strawberry and dark chocolate, with notes of cherry, cinnamon, and vanilla on the nose",16.00,epcot/connections-eatery
 2026-11-12,Connections Eatery,EPCOT,Mango Mai Tai,Beverages with Alcohol,Lunch And Dinner,"Bacardí Superior Rum, Myers's Original Dark Rum, Orgeat (Almond), Mango, Pineapple, and Lime Juices, and Grenadine",17.00,epcot/connections-eatery
+2026-11-12,Connections Eatery,EPCOT,Sausage Pizza,Festival of the Holidays Offerings - Available Starting 11/27,Lunch And Dinner,"with Peppers, Onions, and Calabrian Honey",12.99,epcot/connections-eatery
+2026-11-12,Connections Eatery,EPCOT,Mistletoe Margarita,Festival of the Holidays Offerings with Alcohol - Available Starting 11/27,Lunch And Dinner,"Teremana Blanco Tequila, Lime Juice, Agave, and Gran Marnier Liqueur with Coconut Milk garnished with Cranberries and Rosemary",17.00,epcot/connections-eatery
 2026-11-12,Refreshment Outpost,EPCOT,Berbere-spiced Beef Stew,Food & Wine Festival Food Offerings,Snack,with Sweet Potato Mealie Pap and Kachumbari Slaw,6.79,epcot/refreshment-outpost
 2026-11-12,Refreshment Outpost,EPCOT,Sweet Potato Mealie Pap,Food & Wine Festival Food Offerings,Snack,"with a Stew of Beans, Peppers, Carrots, and Tomatoes (plant-based) (30th Anniversary Legacy Item)",5.79,epcot/refreshment-outpost
 2026-11-12,Refreshment Outpost,EPCOT,South African Cream Liqueur Chocolate Mousse,Food & Wine Festival Food Offerings,Snack,with White Chocolate Ganache and Chocolate-covered Popping Candy,6.29,epcot/refreshment-outpost
@@ -117,6 +121,12 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-12,Refreshment Outpost,EPCOT,Mango Rum Freeze,Alcoholic Beverages,Snack,Mango Purée and STARR African Rum,17.00,epcot/refreshment-outpost
 2026-11-12,Refreshment Outpost,EPCOT,Frozen Brown Elephant,Alcoholic Beverages,Snack,Frozen Coca-Cola® with Amarula Cream Liqueur,17.00,epcot/refreshment-outpost
 2026-11-12,Refreshment Outpost,EPCOT,Outpost Lemonade,Alcoholic Beverages,Snack,Frozen Minute Maid® Lemonade and Absolut Vodka,17.00,epcot/refreshment-outpost
+2026-11-12,Refreshment Outpost,EPCOT,Spiced Shrimp Stew with Jollof Rice,Festival of the Holidays Food Offerings - Available Starting 11/27,Snack,,7.19,epcot/refreshment-outpost
+2026-11-12,Refreshment Outpost,EPCOT,DOLE Whip® Raspberry in a Waffle Cone,Festival of the Holidays Food Offerings - Available Starting 11/27,Snack,(Plant-based),6.29,epcot/refreshment-outpost
+2026-11-12,Refreshment Outpost,EPCOT,"SweetWater Brewing Company Festive Ale Winter Warmer, Atlanta, GA",Festival of the Holidays Beverages with Alcohol Offerings - Available Starting 11/27,Snack,,13.25,epcot/refreshment-outpost
+2026-11-12,Refreshment Outpost,EPCOT,"Sixpoint Brewery Dubai Chocolate Stout, Brooklyn, NY",Festival of the Holidays Beverages with Alcohol Offerings - Available Starting 11/27,Snack,,13.25,epcot/refreshment-outpost
+2026-11-12,Refreshment Outpost,EPCOT,"Bold Rock Apple Crumble Hard Cider, Ferndale, MI",Festival of the Holidays Beverages with Alcohol Offerings - Available Starting 11/27,Snack,,13.25,epcot/refreshment-outpost
+2026-11-12,Refreshment Outpost,EPCOT,"Boyd & Blair Chai Tea Mule, Glenshaw, PA",Festival of the Holidays Beverages with Alcohol Offerings - Available Starting 11/27,Snack,,12.50,epcot/refreshment-outpost
 2026-11-12,Akershus Royal Banquet Hall,EPCOT,So Many Wishes,Non-Alcoholic Beverages,Breakfast,"Pomegranate Green Tea, Hibiscus, Lemon, and a dash of Stardust",6.79,epcot/akershus-royal-banquet-hall
 2026-11-12,Akershus Royal Banquet Hall,EPCOT,Joffrey’s™ Cold Brew Coffee,Non-Alcoholic Beverages,Breakfast,,5.49,epcot/akershus-royal-banquet-hall
 2026-11-12,Akershus Royal Banquet Hall,EPCOT,Enchanted Grove Lime Splash,Non-Alcoholic Beverages,Breakfast,Minute Maid® Limeade paired with the revitalizing flavors of Cucumber and Mint,6.29,epcot/akershus-royal-banquet-hall
@@ -173,6 +183,8 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-12,Block & Hans,EPCOT,"Golden Road Brewing Mango Cart Wheat Ale- - Los Angeles, CA",Alcoholic Beverages,Bar – Lounge,,13.25,epcot/block-hans
 2026-11-12,Block & Hans,EPCOT,"Ciderboys Strawberry Magic Hard Cider - Steven's Point, WI",Alcoholic Beverages,Bar – Lounge,,14.00,epcot/block-hans
 2026-11-12,Block & Hans,EPCOT,"Owl's Brew Black Tea & Pineapple Hard Tea - New York, NY",Alcoholic Beverages,Bar – Lounge,,13.00,epcot/block-hans
+2026-11-12,Block & Hans,EPCOT,Frozen Merry Punch,Festival of the Holidays Beverage Offerings - Available Starting 11/27,Bar – Lounge,"Minute Maid® Strawberry Smoothie Mix, Cranberry Juice, and Raspberry Syrup topped with Sprinkles (non-alcoholic)",6.29,epcot/block-hans
+2026-11-12,Block & Hans,EPCOT,Frozen Merry Punch,Festival of the Holidays Beverages with Alcohol Offerings - Available Starting 11/27,Bar – Lounge,"Minute Maid® Strawberry Smoothie Mix, Cranberry Juice, and Raspberry Syrup topped with Sprinkles and Ole Smoky Blackberry Moonshine",18.00,epcot/block-hans
 2026-11-12,La Cantina de San Angel,EPCOT,Arroz Bowl with Marinated Grilled Chicken,Entrées,Lunch And Dinner,"Rice bowl topped with grilled chicken, corn, spicy tomato salsa, pickled onions, queso fresco and cilantro",15.50,epcot/cantina-de-san-angel
 2026-11-12,La Cantina de San Angel,EPCOT,Arroz Bowl with Barbacoa Beef or Shrimp,Entrées,Lunch And Dinner,"Rice bowl topped with barbacoa beef, corn, spicy tomato salsa, pickled onions, queso fresco and cilantro or Rice bowl topped with Mexican corn breaded shrimp, corn, shredded cabbage, salsa verde, and a mango relish",15.95,epcot/cantina-de-san-angel
 2026-11-12,La Cantina de San Angel,EPCOT,Tacos de Barbacoa,Entrées,Lunch And Dinner,Shredded Beef on homemade Corn Tortillas topped with Red Salsa and Cilantro. Served with Rice and Black Beans with Queso Fresco,16.50,epcot/cantina-de-san-angel
@@ -393,6 +405,7 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-12,Funnel Cake,EPCOT,Cookies ‘n Cream Funnel Cake,Desserts,Snack,"with Sugar, Vanilla Ice Cream, Crushed Cookies, and Chocolate Sauce",15.00,epcot/funnel-cake
 2026-11-12,Funnel Cake,EPCOT,DASANI® Bottled Water,Beverage,Snack,,3.50,epcot/funnel-cake
 2026-11-12,Funnel Cake,EPCOT,Funnel Cake Gift Kit,Funnel Cake Kit,Snack,,21.00,epcot/funnel-cake
+2026-11-12,Funnel Cake,EPCOT,Hot Cocoa Funnel Cake,Festival of the Holidays Food Offerings - Available Starting 11/27,Snack,"Funnel Cake with Chocolate-Chocolate Chip Ice Cream topped with Powdered Sugar, Marshmallow Whipped Cream, Mini Marshmallows, Cocoa Cinnamon Sugar, and Dark Chocolate Sauce",12.50,epcot/funnel-cake
 2026-11-12,Garden Grill Restaurant,EPCOT,Specialty Character Drink,Non-Alcoholic Beverages,Breakfast,Minute Maid® Zero Sugar Lemonade with flavors of Cotton Candy served in a souvenir Character Cup. Not included in the Dining Plan.,7.00,epcot/garden-grill-restaurant
 2026-11-12,Garden Grill Restaurant,EPCOT,Legacy Mimosa,Alcoholic Beverages,Breakfast,"Uncle Nearest 1884 Small Batch Tennessee Whiskey, Grand Marnier Liqueur, Chateau Ste. Michelle Sparkling Wine, and Minute Maid® Orange Juice",21.00,epcot/garden-grill-restaurant
 2026-11-12,Garden Grill Restaurant,EPCOT,Bloody Mary,Alcoholic Beverages,Breakfast,"Tito’s Handmade Vodka, House-made Bloody Mary Mix",17.50,epcot/garden-grill-restaurant
@@ -1022,6 +1035,7 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-12,Sommerfest,EPCOT,Schöfferhofer Pink Grapefruit Hefeweizen - Germany,Beer,Lunch And Dinner,20-oz Draft - Easy and refreshing with light notes of citrus and spice with low bitterness,13.50,epcot/sommerfest
 2026-11-12,Sommerfest,EPCOT,"Selbach-Oster 'Blue Label' Riesling, Mosel",Wine,Lunch And Dinner,"5-oz pour - Crisp aromas of lemon, white peach, and melon with a hint of mineral on the palate",19.00,epcot/sommerfest
 2026-11-12,Sommerfest,EPCOT,"August Kesseler Pinot Noir Spätburgunder, Rheingau",Wine,Lunch And Dinner,"5-oz Pour - Delicate, fine, light in style, and well-structured with nice cherry flavors, a hint of black currant, and plenty of spice",16.00,epcot/sommerfest
+2026-11-12,Sommerfest,EPCOT,Christmas Market Bratwurst,Festival of the Holidays Food Offerings - Available Starting 11/27,Lunch And Dinner,"Beef and Pork Bratwurst with Sauerbraten Pot Roast, Red Cabbage, and Sweet Mustard on a Warm Pretzel Roll served with Paprika-Curry Chips",14.99,epcot/sommerfest
 2026-11-12,Spice Road Table,EPCOT,Spice Road Table Bread Service,Mediterranean Small Plates,Dinner,"Hummus, Zaalouk, Chermoula, Marinated Olives, Za'atar",11.00,epcot/spice-road-table
 2026-11-12,Spice Road Table,EPCOT,Spiced Lamb Kefta,Mediterranean Small Plates,Dinner,"Feta Cheese, Roasted Garlic Oil, Spiced Tomato Sauce",13.00,epcot/spice-road-table
 2026-11-12,Spice Road Table,EPCOT,Spicy Shrimp,Mediterranean Small Plates,Dinner,"Chili, Garlic, Peri Peri Sauce",15.00,epcot/spice-road-table
@@ -1094,6 +1108,8 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-12,Sunshine Seasons,EPCOT,Milk,Beverages,Breakfast; Lunch; Snack,,2.59,epcot/sunshine-seasons
 2026-11-12,Sunshine Seasons,EPCOT,Minute Maid® Apple Juice,Beverages,Breakfast; Lunch; Snack,,2.59,epcot/sunshine-seasons
 2026-11-12,Sunshine Seasons,EPCOT,Small Chocolate Milk,Beverages,Breakfast; Lunch; Snack,,2.59,epcot/sunshine-seasons
+2026-11-12,Sunshine Seasons,EPCOT,Mickey-shaped Caramel-Gingerbread Macaron,Festival of the Holidays Food Offerings - Available Starting 11/27,Breakfast; Lunch; Snack,,4.79,epcot/sunshine-seasons
+2026-11-12,Sunshine Seasons,EPCOT,Snickerdoodle Milkshake,Festival of the Holidays Beverage Offerings - Available Starting 11/27,Breakfast; Lunch; Snack,Topped with a Spiced Cookie and Snickerdoodle Bundt Cake,10.99,epcot/sunshine-seasons
 2026-11-12,Sunshine Seasons,EPCOT,Wood-fired Chicken,Entrées,Lunch,"Served with Mashed Potatoes, Green Beans, and Chimichurri Rojo",13.99,epcot/sunshine-seasons
 2026-11-12,Sunshine Seasons,EPCOT,Wood-fired Salmon,Entrées,Lunch,"Served with White Rice, Green Beans, and Chimichurri Rojo",14.79,epcot/sunshine-seasons
 2026-11-12,Sunshine Seasons,EPCOT,Pork Carnitas,Entrées,Lunch,"Cilantro-Lime Rice, Black Beans, Onions, Peppers, Cotija, and Pico de Gallo",13.49,epcot/sunshine-seasons
@@ -1146,15 +1162,24 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-12,Sunshine Seasons,EPCOT,Pickle-in-a-Pouch,Allergy-Friendly Snacks,Lunch; Snack,"(For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, and Soy Allergies)",2.79,epcot/sunshine-seasons
 2026-11-12,Sunshine Seasons,EPCOT,Applesauce,Allergy-Friendly Snacks,Lunch; Snack,"(For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, and Soy Allergies)",1.49,epcot/sunshine-seasons
 2026-11-12,Tangierine Café: Flavors of the Medina,EPCOT,Plant-based Falafel Wrap,Food & Wine Festival Food Offerings,Lunch And Dinner,with Tomato-Cucumber Relish and Garlic Sauce served on Warm Moroccan Flatbread (plant-based),6.29,epcot/tangierine-cafe
-2026-11-12,Tangierine Café: Flavors of the Medina,EPCOT,Chermoula Chicken Hummus Bowl,Food & Wine Festival Food Offerings,Lunch And Dinner,with Apricot Chutney and Grilled Shishito Peppers served with Pita,6.79,epcot/tangierine-cafe
-2026-11-12,Tangierine Café: Flavors of the Medina,EPCOT,Spiced Flank Steak Hummus Bowl*,Food & Wine Festival Food Offerings,Lunch And Dinner,with Harissa Yogurt and Roasted Peppers served with Pita,7.29,epcot/tangierine-cafe
-2026-11-12,Tangierine Café: Flavors of the Medina,EPCOT,Ras el Hanout Cauliflower Bowl,Food & Wine Festival Food Offerings,Lunch And Dinner,"with Chickpea Salad, Golden Raisin Relish, and Parsley served with Pita (plant-based) (30th Anniversary Legacy Item)",6.49,epcot/tangierine-cafe
+2026-11-12,Tangierine Café: Flavors of the Medina,EPCOT,Chermoula Chicken Hummus Bowl,Food & Wine Festival Food Offerings,Lunch And Dinner,with Apricot Chutney and Grilled Shishito Peppers,6.79,epcot/tangierine-cafe
+2026-11-12,Tangierine Café: Flavors of the Medina,EPCOT,Spiced Flank Steak Hummus Bowl*,Food & Wine Festival Food Offerings,Lunch And Dinner,with Harissa Yogurt and Roasted Peppers,7.29,epcot/tangierine-cafe
+2026-11-12,Tangierine Café: Flavors of the Medina,EPCOT,Ras el Hanout Cauliflower Bowl,Food & Wine Festival Food Offerings,Lunch And Dinner,"with Chickpea Salad, Golden Raisin Relish, and Parsley (plant-based)",6.49,epcot/tangierine-cafe
 2026-11-12,Tangierine Café: Flavors of the Medina,EPCOT,Chocolate-Pistachio Cookie,Food & Wine Festival Food Offerings,Lunch And Dinner,,4.29,epcot/tangierine-cafe
 2026-11-12,Tangierine Café: Flavors of the Medina,EPCOT,"Carib Brewery Honey & Fig Dream Hard Cider, Cape Canaveral, FL",Food & Wine Festival Alcoholic Beverage Offerings,Lunch And Dinner,,6.00,epcot/tangierine-cafe
 2026-11-12,Tangierine Café: Flavors of the Medina,EPCOT,"Keel Farms Golden Apple Chai Hard Cider, Plant City, FL",Food & Wine Festival Alcoholic Beverage Offerings,Lunch And Dinner,,6.00,epcot/tangierine-cafe
 2026-11-12,Tangierine Café: Flavors of the Medina,EPCOT,"Keel Farms Goji Berry Citrus Hard Cider, Plant City, FL",Food & Wine Festival Alcoholic Beverage Offerings,Lunch And Dinner,,6.00,epcot/tangierine-cafe
-2026-11-12,Tangierine Café: Flavors of the Medina,EPCOT,Hard Cider Flight,Food & Wine Festival Alcoholic Beverage Offerings,Lunch And Dinner,,12.75,epcot/tangierine-cafe
+2026-11-12,Tangierine Café: Flavors of the Medina,EPCOT,Hard Cider Flight also available,Food & Wine Festival Alcoholic Beverage Offerings,Lunch And Dinner,,13.50,epcot/tangierine-cafe
 2026-11-12,Tangierine Café: Flavors of the Medina,EPCOT,Fig Cocktail,Food & Wine Festival Alcoholic Beverage Offerings,Lunch And Dinner,Kleiner Feigling Fig Liqueur and White Cranberry Juice,12.00,epcot/tangierine-cafe
+2026-11-12,Tangierine Café: Flavors of the Medina,EPCOT,Chermoula Chicken Hummus Bowl,Festival of the Holidays Food Offerings - Available Starting 11/27,Lunch And Dinner,with Apricot Chutney and Grilled Shishito Peppers,6.79,epcot/tangierine-cafe
+2026-11-12,Tangierine Café: Flavors of the Medina,EPCOT,Spiced Flank Steak Hummus Bowl*,Festival of the Holidays Food Offerings - Available Starting 11/27,Lunch And Dinner,with Harissa Yogurt and Roasted Peppers,7.29,epcot/tangierine-cafe
+2026-11-12,Tangierine Café: Flavors of the Medina,EPCOT,Ras el Hanout Cauliflower Bowl,Festival of the Holidays Food Offerings - Available Starting 11/27,Lunch And Dinner,"with Chickpea Salad, Golden Raisin Relish, and Parsley (plant-based)",6.49,epcot/tangierine-cafe
+2026-11-12,Tangierine Café: Flavors of the Medina,EPCOT,Chorba,Festival of the Holidays Food Offerings - Available Starting 11/27,Lunch And Dinner,"Hearty Stew of Lamb, Chickpeas, Tomatoes, and Farro served with Pita",6.79,epcot/tangierine-cafe
+2026-11-12,Tangierine Café: Flavors of the Medina,EPCOT,"Coronado Brewing Co. Vanilla Chai Hard Cider, San Diego, CA",Festival of the Holidays Beverages with Alcohol Offerings - Available Starting 11/27,Lunch And Dinner,,6.25,epcot/tangierine-cafe
+2026-11-12,Tangierine Café: Flavors of the Medina,EPCOT,"Keel Farms Fig & Cranberry Hard Cider, Plant City, FL",Festival of the Holidays Beverages with Alcohol Offerings - Available Starting 11/27,Lunch And Dinner,,6.25,epcot/tangierine-cafe
+2026-11-12,Tangierine Café: Flavors of the Medina,EPCOT,"B. Nektar Spiced Poached Perry Hard Cider, Ferndale, MI",Festival of the Holidays Beverages with Alcohol Offerings - Available Starting 11/27,Lunch And Dinner,,6.25,epcot/tangierine-cafe
+2026-11-12,Tangierine Café: Flavors of the Medina,EPCOT,Hard Cider Flight also available,Festival of the Holidays Beverages with Alcohol Offerings - Available Starting 11/27,Lunch And Dinner,,13.50,epcot/tangierine-cafe
+2026-11-12,Tangierine Café: Flavors of the Medina,EPCOT,Sparkling Holiday Fig Cocktail,Festival of the Holidays Beverages with Alcohol Offerings - Available Starting 11/27,Lunch And Dinner,"Sparkling Wine, Kleiner Feigling Liqueur, and White Cranberry Juice",11.75,epcot/tangierine-cafe
 2026-11-12,Teppan Edo,EPCOT,Edamame,Appetizers,Lunch; Dinner,"young soybean pods, served chilled",8.00,epcot/teppan-edo
 2026-11-12,Teppan Edo,EPCOT,Calamari Steak,Appetizers,Lunch; Dinner,Grilled squid steak tossed with butter soy sauce,16.50,epcot/teppan-edo
 2026-11-12,Teppan Edo,EPCOT,Miso Soup,Appetizers,Lunch; Dinner,"soybean-based soup with wakame, tofu, green onion",6.50,epcot/teppan-edo
@@ -1224,6 +1249,7 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-12,Teppan Edo,EPCOT,Legent Bourbon,Craft Spirits,Lunch; Dinner,,15.00,epcot/teppan-edo
 2026-11-12,Teppan Edo,EPCOT,Toki - Single,Craft Spirits,Lunch; Dinner,,15.00,epcot/teppan-edo
 2026-11-12,Teppan Edo,EPCOT,Toki - Double,Craft Spirits,Lunch; Dinner,,28.00,epcot/teppan-edo
+2026-11-12,Refreshment Station,EPCOT,Frozen Crafted Sodas,Festival of the Holidays Beverage Offerings,Snack,Coca-Cola® with Cookie Butter Syrup and French Vanilla Sweet Cream Fanta® | Orange with Cranberry and Cinnamon Syrup and French Vanilla Sweet Cream,6.99,epcot/test-track-cool-wash
 2026-11-12,Refreshment Station,EPCOT,Frozen Coca-Cola®,Beverages,Snack,,6.29,epcot/test-track-cool-wash
 2026-11-12,Refreshment Station,EPCOT,Frozen Coca-Cola® topped with Assorted Candies,Beverages,Snack,,7.00,epcot/test-track-cool-wash
 2026-11-12,Refreshment Station,EPCOT,Assorted Frozen Beverage,Beverages,Snack,,6.25,epcot/test-track-cool-wash
@@ -1412,6 +1438,7 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-12,UK Beer Cart,EPCOT,BrewDog Punk IPA,Alcoholic Beverages,Bar – Lounge,,12.75,epcot/uk-beer-cart
 2026-11-12,UK Beer Cart,EPCOT,Seasonal Hard Cider,Alcoholic Beverages,Bar – Lounge,,12.75,epcot/uk-beer-cart
 2026-11-12,UK Beer Cart,EPCOT,DASANI® Bottled Water,Beverages,Bar – Lounge,,4.25,epcot/uk-beer-cart
+2026-11-12,UK Beer Cart,EPCOT,Christmas Cake Coffee,Festival of the Holidays Offering - Available Starting 11/27,Bar – Lounge,"Joffrey’s Coffee™, E&J Brandy, Frangelico Liqueur, Amaretto Liqueur, and Baileys Original Irish Cream Liqueur",18.00,epcot/uk-beer-cart
 2026-11-12,Via Napoli Ristorante e Pizzeria,EPCOT,Tris di Bruschetta,Antipasti,Lunch; Dinner,"classica with tomatoes, burrata and pesto, eggplant and zucchini",15.00,epcot/via-napoli
 2026-11-12,Via Napoli Ristorante e Pizzeria,EPCOT,Calamari Fritti,Antipasti,Lunch; Dinner,"fried calamari rings, spicy tomato sauce",23.00,epcot/via-napoli
 2026-11-12,Via Napoli Ristorante e Pizzeria,EPCOT,Mozzarella Caprese,Antipasti,Lunch; Dinner,"fior di latte mozzarella, vine-ripened tomato, basil",14.00,epcot/via-napoli
