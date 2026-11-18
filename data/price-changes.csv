@@ -2802,3 +2802,44 @@ Detected,Restaurant,Park,Item,Category,Old Price,New Price,Change,Percent,Source
 2026-11-10 09:20,Good's Food to Go,Old Key West Resort,Coleslaw,Sides,3.99,4.29,0.30,7.5%,old-key-west-resort/goods-food-to-go
 2026-11-10 09:20,Good's Food to Go,Old Key West Resort,Power Pack,Kids' Disney Check Meals,7.29,7.79,0.50,6.9%,old-key-west-resort/goods-food-to-go
 2026-11-11 18:24,Gaston's Tavern,Magic Kingdom,Freshly Brewed Joffrey's Coffee™,Beverages,4.99,5.29,0.30,6.0%,magic-kingdom/gastons-tavern
+2026-11-18 09:47,The Cake Bake Shop® Bakery by Gwendolyn Rogers,BoardWalk,Raspberry Jam Crumble Bar,Cookies & Bars,11.00,12.00,1.00,9.1%,boardwalk/cake-bake-shop-bakery
+2026-11-18 09:47,The Cake Bake Shop® Bakery by Gwendolyn Rogers,BoardWalk,Key Lime Pie Cup,Pies,12.00,13.00,1.00,8.3%,boardwalk/cake-bake-shop-bakery
+2026-11-18 09:47,The Cake Bake Shop® Bakery by Gwendolyn Rogers,BoardWalk,Chocolate Peanut Butter Mousse Pie Cup,Pies,15.00,16.00,1.00,6.7%,boardwalk/cake-bake-shop-bakery
+2026-11-18 09:47,The Cake Bake Shop® Bakery by Gwendolyn Rogers,BoardWalk,Cinnamon Sugar Belgian Waffle,Granola & Waffles,16.00,17.00,1.00,6.3%,boardwalk/cake-bake-shop-bakery
+2026-11-18 09:47,The Cake Bake Shop® Bakery by Gwendolyn Rogers,BoardWalk,Daily Fudge Flavors,Chocolate,6.00,7.00,1.00,16.7%,boardwalk/cake-bake-shop-bakery
+2026-11-18 09:47,The Cake Bake Shop® Bakery by Gwendolyn Rogers,BoardWalk,Sparkling Lavender Lemonade,Non-Alcoholic Drinks and Mocktails,6.00,7.00,1.00,16.7%,boardwalk/cake-bake-shop-bakery
+2026-11-18 09:47,The Cake Bake Shop® Bakery by Gwendolyn Rogers,BoardWalk,Petunia Punch,Non-Alcoholic Drinks and Mocktails,6.00,7.00,1.00,16.7%,boardwalk/cake-bake-shop-bakery
+2026-11-18 09:47,The Cake Bake Shop® Bakery by Gwendolyn Rogers,BoardWalk,Pink Princess,Non-Alcoholic Drinks and Mocktails,6.00,7.00,1.00,16.7%,boardwalk/cake-bake-shop-bakery
+2026-11-18 09:47,The Cake Bake Shop® Bakery by Gwendolyn Rogers,BoardWalk,Lemonade,Non-Alcoholic Drinks and Mocktails,5.00,6.00,1.00,20.0%,boardwalk/cake-bake-shop-bakery
+2026-11-18 09:47,The Cake Bake Shop® Bakery by Gwendolyn Rogers,BoardWalk,Lemon Tea Cooler,Non-Alcoholic Drinks and Mocktails,5.00,6.00,1.00,20.0%,boardwalk/cake-bake-shop-bakery
+2026-11-18 09:47,The Cake Bake Shop® Bakery by Gwendolyn Rogers,BoardWalk,Bubbles Sparkling Cream Soda,Non-Alcoholic Drinks and Mocktails,8.00,9.00,1.00,12.5%,boardwalk/cake-bake-shop-bakery
+2026-11-18 09:47,The Cake Bake Shop® Bakery by Gwendolyn Rogers,BoardWalk,Black Swan,Cocktails,22.00,23.00,1.00,4.5%,boardwalk/cake-bake-shop-bakery
+2026-11-18 09:47,The Cake Bake Shop® Restaurant by Gwendolyn Rogers,BoardWalk,Pixie Fetti® Buttermilk Pancakes (Gluten-Friendly),"Waffles, French Toast and Pancakes",18.00,19.00,1.00,5.6%,boardwalk/cake-bake-shop-restaurant
+2026-11-18 09:47,The Cake Bake Shop® Restaurant by Gwendolyn Rogers,BoardWalk,Egg Sandwich*,Signature Dishes,21.00,22.00,1.00,4.8%,boardwalk/cake-bake-shop-restaurant
+2026-11-18 09:47,The Cake Bake Shop® Restaurant by Gwendolyn Rogers,BoardWalk,Classic Eggs Benedict*,Signature Dishes,26.00,27.00,1.00,3.8%,boardwalk/cake-bake-shop-restaurant
+2026-11-18 09:47,The Cake Bake Shop® Restaurant by Gwendolyn Rogers,BoardWalk,Chocolate Peanut Butter Mousse Pie,Pie Slices,18.00,19.00,1.00,5.6%,boardwalk/cake-bake-shop-restaurant
+2026-11-18 09:47,The Cake Bake Shop® Restaurant by Gwendolyn Rogers,BoardWalk,Raspberry Jam Crumble Bar,Cookies & Bars,11.00,12.00,1.00,9.1%,boardwalk/cake-bake-shop-restaurant
+2026-11-18 09:47,The Cake Bake Shop® Restaurant by Gwendolyn Rogers,BoardWalk,Daily Fudge Flavors,Chocolate,6.00,7.00,1.00,16.7%,boardwalk/cake-bake-shop-restaurant
+2026-11-18 09:47,The Cake Bake Shop® Restaurant by Gwendolyn Rogers,BoardWalk,Lemonade,Non-Alcoholic Drinks and Mocktails,6.00,7.00,1.00,16.7%,boardwalk/cake-bake-shop-restaurant
+2026-11-18 09:47,The Cake Bake Shop® Restaurant by Gwendolyn Rogers,BoardWalk,Lemon Tea Cooler,Non-Alcoholic Drinks and Mocktails,6.00,7.00,1.00,16.7%,boardwalk/cake-bake-shop-restaurant
+2026-11-18 09:47,The Cake Bake Shop® Restaurant by Gwendolyn Rogers,BoardWalk,Chocolate Milk,Milk and Hot Chocolate,9.00,7.00,-2.00,-22.2%,boardwalk/cake-bake-shop-restaurant
+2026-11-18 09:47,The Cake Bake Shop® Restaurant by Gwendolyn Rogers,BoardWalk,Cake Bake Shop Shake Up,Cocktails,18.00,19.00,1.00,5.6%,boardwalk/cake-bake-shop-restaurant
+2026-11-18 09:47,The Cake Bake Shop® Restaurant by Gwendolyn Rogers,BoardWalk,Black Swan,Cocktails,22.00,23.00,1.00,4.5%,boardwalk/cake-bake-shop-restaurant
+2026-11-18 09:47,The Cake Bake Shop® Restaurant by Gwendolyn Rogers,BoardWalk,Gwendolyn’s Swan,Cocktails,22.00,23.00,1.00,4.5%,boardwalk/cake-bake-shop-restaurant
+2026-11-18 09:47,The Cake Bake Shop® Restaurant by Gwendolyn Rogers,BoardWalk,Through the Looking Glass,Cocktails,20.00,21.00,1.00,5.0%,boardwalk/cake-bake-shop-restaurant
+2026-11-18 09:47,The Cake Bake Shop® Restaurant by Gwendolyn Rogers,BoardWalk,Smashed Burrata with Lemon Fig Jam & Pistachios (V),Hors D 'Oeuvres,26.00,27.00,1.00,3.8%,boardwalk/cake-bake-shop-restaurant
+2026-11-18 09:47,The Cake Bake Shop® Restaurant by Gwendolyn Rogers,BoardWalk,Charcuterie Board,Hors D 'Oeuvres,48.00,49.00,1.00,2.1%,boardwalk/cake-bake-shop-restaurant
+2026-11-18 09:47,The Cake Bake Shop® Restaurant by Gwendolyn Rogers,BoardWalk,French Onion Soupe,Soupe,13.00,14.00,1.00,7.7%,boardwalk/cake-bake-shop-restaurant
+2026-11-18 09:47,The Cake Bake Shop® Restaurant by Gwendolyn Rogers,BoardWalk,Orchard Harvest Salade,Salades,26.00,27.00,1.00,3.8%,boardwalk/cake-bake-shop-restaurant
+2026-11-18 09:47,The Cake Bake Shop® Restaurant by Gwendolyn Rogers,BoardWalk,Chicken Caesar Sandwich,Entrées,26.00,27.00,1.00,3.8%,boardwalk/cake-bake-shop-restaurant
+2026-11-18 09:47,The Cake Bake Shop® Restaurant by Gwendolyn Rogers,BoardWalk,Classic Burger*,Entrées,28.00,29.00,1.00,3.6%,boardwalk/cake-bake-shop-restaurant
+2026-11-18 09:47,The Cake Bake Shop® Restaurant by Gwendolyn Rogers,BoardWalk,Vegetarian Burger,Entrées,28.00,29.00,1.00,3.6%,boardwalk/cake-bake-shop-restaurant
+2026-11-18 09:47,The Cake Bake Shop® Restaurant by Gwendolyn Rogers,BoardWalk,Peanut Butter & Raspberry Jam Sandwich,Children's Menu,14.00,15.00,1.00,7.1%,boardwalk/cake-bake-shop-restaurant
+2026-11-18 09:47,The Cake Bake Shop® Restaurant by Gwendolyn Rogers,BoardWalk,Buttered Cavatappi Noodles,Children's Menu,14.00,15.00,1.00,7.1%,boardwalk/cake-bake-shop-restaurant
+2026-11-18 09:47,The Cake Bake Shop® Restaurant by Gwendolyn Rogers,BoardWalk,Tillamook® Grilled Cheese Sandwich,Children's Menu,14.00,15.00,1.00,7.1%,boardwalk/cake-bake-shop-restaurant
+2026-11-18 09:47,The Cake Bake Shop® Restaurant by Gwendolyn Rogers,BoardWalk,Turkey & Gruyère Sandwich,Children's Menu,17.00,18.00,1.00,5.9%,boardwalk/cake-bake-shop-restaurant
+2026-11-18 09:47,The Cake Bake Shop® Restaurant by Gwendolyn Rogers,BoardWalk,French Ham & Gruyère Sandwich,Children's Menu,17.00,18.00,1.00,5.9%,boardwalk/cake-bake-shop-restaurant
+2026-11-18 09:47,The Cake Bake Shop® Restaurant by Gwendolyn Rogers,BoardWalk,Hamburger Sliders,Children's Menu,17.00,18.00,1.00,5.9%,boardwalk/cake-bake-shop-restaurant
+2026-11-18 09:47,The Cake Bake Shop® Restaurant by Gwendolyn Rogers,BoardWalk,Salmon Sliders,Children's Menu,19.00,20.00,1.00,5.3%,boardwalk/cake-bake-shop-restaurant
+2026-11-18 09:47,The Cake Bake Shop® Restaurant by Gwendolyn Rogers,BoardWalk,Roasted Leek Pasta (V),Entrées,25.00,26.00,1.00,4.0%,boardwalk/cake-bake-shop-restaurant
+2026-11-18 09:47,The Cake Bake Shop® Restaurant by Gwendolyn Rogers,BoardWalk,Crab Cakes,Entrées,53.00,54.00,1.00,1.9%,boardwalk/cake-bake-shop-restaurant
