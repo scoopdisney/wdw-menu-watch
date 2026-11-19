@@ -1309,37 +1309,39 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-19,GEO-82,EPCOT,Weingut Schätzel Rheinischer Riesling Kabinett,Wine Selections,Lunch; Dinner,"Rheinhessen, Germany",62.00,epcot/geo-82-lounge
 2026-11-19,GEO-82,EPCOT,"Littorai ""Les Larmes"" Pinot Noir",Wine Selections,Lunch; Dinner,"Anderson, California",158.00,epcot/geo-82-lounge
 2026-11-19,GEO-82,EPCOT,"Turley Wine Cellars, Zinfandel Rattlesnake Ridge Vineyard",Wine Selections,Lunch; Dinner,"Howell Mountain, California",136.00,epcot/geo-82-lounge
-2026-11-19,La Hacienda de San Angel,EPCOT,Guacamole,Starters,Dinner,With diced mango and corn chips. | Add Chorizo +4,16.00,epcot/hacienda-de-san-angel
-2026-11-19,La Hacienda de San Angel,EPCOT,Flautas,Starters,Dinner,"Fried tortillas filled with pork carnitas and potato; topped with romaine, crema Mexicana and salsa ranchera",16.00,epcot/hacienda-de-san-angel
-2026-11-19,La Hacienda de San Angel,EPCOT,Totopos,Starters,Dinner,Corn tortillas with sides of white cheddar cheese and salsa,10.00,epcot/hacienda-de-san-angel
-2026-11-19,La Hacienda de San Angel,EPCOT,Queso Fundido,Starters,Dinner,"Melted cheese with chorizo, peppers, onions, and avocado mousse, served with flour tortillas",16.00,epcot/hacienda-de-san-angel
+2026-11-19,La Hacienda de San Angel,EPCOT,Guacamole,Starters,Dinner,With diced mango and corn chips. | Add Chorizo +4,13.00,epcot/hacienda-de-san-angel
+2026-11-19,La Hacienda de San Angel,EPCOT,Flautas,Starters,Dinner,"Fried tortillas filled with shaved ribeye and potato, topped with romaine, crema Mexicana, queso fresco and salsa verde.",16.00,epcot/hacienda-de-san-angel
+2026-11-19,La Hacienda de San Angel,EPCOT,Totopos,Starters,Dinner,Corn chips with sides of white queso and salsa.,10.00,epcot/hacienda-de-san-angel
+2026-11-19,La Hacienda de San Angel,EPCOT,Sopa de Lima,Starters,Dinner,"Shredded chipotle chicken served with crispy tortilla strips, queso fresco and a touch of lime.",13.00,epcot/hacienda-de-san-angel
+2026-11-19,La Hacienda de San Angel,EPCOT,Queso Fundido,Starters,Dinner,"Melted Monterey Jack cheese with chorizo, peppers, onions, and avocado mousse. Served with flour tortillas.",17.00,epcot/hacienda-de-san-angel
 2026-11-19,La Hacienda de San Angel,EPCOT,Carne Asada Tlayuda,Starters,Dinner,"Oaxacan tostada, black beans, seared steak, avocado, crema Mexicana, chipotle salsa, queso fresco, and pickled onions",17.00,epcot/hacienda-de-san-angel
 2026-11-19,La Hacienda de San Angel,EPCOT,Ensalada Hacienda,Starters,Dinner,"Bibb lettuce, pan seared queso fresco, spicy pumpkin seeds, shaved asparagus, carrots, and watermelon radish with a lime-serrano vinaigrette. Add Chicken +10.00 | Add Shrimp +12.00",15.00,epcot/hacienda-de-san-angel
-2026-11-19,La Hacienda de San Angel,EPCOT,Empanada de Chorizo,Starters,Dinner,"Corn tortilla filed with plant-based chorizo and potatoes, fried and topped with salsa verde, crema Mexicana, queso fresco, and pickled onions",15.00,epcot/hacienda-de-san-angel
+2026-11-19,La Hacienda de San Angel,EPCOT,Empanada de Chorizo,Starters,Dinner,"Corn tortilla filed with plant-based chorizo and potatoes, fried and topped with salsa verde, crema Mexicana, queso fresco, and pickled onions",17.00,epcot/hacienda-de-san-angel
 2026-11-19,La Hacienda de San Angel,EPCOT,Pescado del Día,House Specialties,Dinner,Market fresh Catch of the Day,42.00,epcot/hacienda-de-san-angel
 2026-11-19,La Hacienda de San Angel,EPCOT,Osso Buco a la Mexicana,House Specialties,Dinner,"Braised short rib with whipped potatoes, carrots and roasted asparagus (**This offering is not included in the Disney Dining Plan)",49.00,epcot/hacienda-de-san-angel
-2026-11-19,La Hacienda de San Angel,EPCOT,Carne Asada*,House Specialties,Dinner,Ancho agave marinated New York strip served with roasted asparagus and poblano gratin potatoes | Add Shrimp $12.00 | (This offering is not included in the Disney Dining Plan),54.00,epcot/hacienda-de-san-angel
+2026-11-19,La Hacienda de San Angel,EPCOT,Carne Asada*,House Specialties,Dinner,Ancho agave marinated New York strip served with roasted asparagus and poblano gratin potatoes | Add Shrimp $12.00 | (This offering is not included in the Disney Dining Plan),56.00,epcot/hacienda-de-san-angel
 2026-11-19,La Hacienda de San Angel,EPCOT,Parrillada del Mar,House Specialties,Dinner,"(Serves Two) Grilled shrimp, fish and scallops served with vegetables, esquites and corn tortillas | Substitute NY Strip for fish +30.00 (2 entitlements)",80.00,epcot/hacienda-de-san-angel
-2026-11-19,La Hacienda de San Angel,EPCOT,Parillada La Hacienda,House Specialties,Dinner,"Ancho Agave Marinated New York Strip and Roasted Chicken Breast served with Vegetables, Esquites and Corn tortillas. | Add Shrimp +12.00 (2 entitlements)",80.00,epcot/hacienda-de-san-angel
-2026-11-19,La Hacienda de San Angel,EPCOT,Cowboy Ribeye for Two*,House Specialties,Dinner,"Grilled 24 oz cowboy ribeye served with roasted mushrooms, vegetables, and mashed potatoes with cotija cheese (**This offering is not included in the Disney Dining Plan)",112.00,epcot/hacienda-de-san-angel
+2026-11-19,La Hacienda de San Angel,EPCOT,Parrillada Hacienda,House Specialties,Dinner,"Ancho Agave Marinated New York Strip and Roasted Chicken Breast served with Vegetables, Esquites and Corn tortillas. | Add Shrimp +12.00 (2 entitlements)",80.00,epcot/hacienda-de-san-angel
+2026-11-19,La Hacienda de San Angel,EPCOT,Porterhouse,House Specialties,Dinner,"Grilled Porterhouse steak with chile de árbol finish, served with roasted butter squash and traditional cheese tamal.",125.00,epcot/hacienda-de-san-angel
 2026-11-19,La Hacienda de San Angel,EPCOT,Pollo Poblano,Entrées,Dinner,"Roasted chicken breast with poblano cream sauce served with baby zucchini, sweet potatoes, and roasted mushroom",33.00,epcot/hacienda-de-san-angel
 2026-11-19,La Hacienda de San Angel,EPCOT,Alambre,Entrées,Dinner,"Choice of chopped seared tenderloin or chopped chicken breast, bacon, poblano and bell peppers, onions, Monterey Jack cheese, salsa verde, and rice. Served with flour tortillas",36.00,epcot/hacienda-de-san-angel
-2026-11-19,La Hacienda de San Angel,EPCOT,Tacos de Camarón,Entrées,Dinner,"Fried shrimp, chipotle-lime aioli, cabbage and salsa verde in flour tortillas served with rice",33.00,epcot/hacienda-de-san-angel
-2026-11-19,La Hacienda de San Angel,EPCOT,Beef Brisket Tacos,Entrées,Dinner,"Hardwood smoked beef brisket in flour tortillas, tomatillo slaw, and salsa verde. Served with rice",38.00,epcot/hacienda-de-san-angel
-2026-11-19,La Hacienda de San Angel,EPCOT,Enchiladas de Chorizo,Entrées,Dinner,"Corn tortillas filed with a choice of chorizo or plant-based chorizo, atop beans, covered with salsa ranchera, Monterey Jack cheese, crema Mexicana, cotija cheese, and crispy onions. Served with plantains with crema Mexicana and cotija cheese",32.00,epcot/hacienda-de-san-angel
-2026-11-19,La Hacienda de San Angel,EPCOT,Tacos al Pastor,Entrées,Dinner,"Marinated and seared pork topped with grilled pineapple, onions, and cilantro. Served with plantains with crema Mexicana and cotija cheese, sides of guacamole, rice, and corn tortillas",35.00,epcot/hacienda-de-san-angel
-2026-11-19,La Hacienda de San Angel,EPCOT,Esquites,Sides,Dinner,,7.00,epcot/hacienda-de-san-angel
-2026-11-19,La Hacienda de San Angel,EPCOT,Plantains,Sides,Dinner,,5.00,epcot/hacienda-de-san-angel
+2026-11-19,La Hacienda de San Angel,EPCOT,Enmoladas de Pollo,Entrées,Dinner,"Corn tortillas filled with shredded chipotle chicken, over pinto beans and finished with mole sauce, roasted pumpkin seeds, almonds, cabbage, crema Mexicana and queso fresco (contains nuts).",32.00,epcot/hacienda-de-san-angel
+2026-11-19,La Hacienda de San Angel,EPCOT,Beef Brisket Tacos,Tacos,Dinner,"Hardwood smoked beef brisket in flour tortillas, tomatillo slaw, and salsa verde. Served with rice",38.00,epcot/hacienda-de-san-angel
+2026-11-19,La Hacienda de San Angel,EPCOT,Tacos al Pastor,Tacos,Dinner,"Marinated and seared pork topped with grilled pineapple, onions, and cilantro. Served with plantains with crema Mexicana and cotija cheese, sides of guacamole, rice, and corn tortillas",35.00,epcot/hacienda-de-san-angel
+2026-11-19,La Hacienda de San Angel,EPCOT,Tacos de Camarón,Tacos,Dinner,"Fried shrimp, chipotle-lime aioli, cabbage and salsa verde in flour tortillas served with rice",34.00,epcot/hacienda-de-san-angel
+2026-11-19,La Hacienda de San Angel,EPCOT,Esquites,Sides,Dinner,,8.00,epcot/hacienda-de-san-angel
+2026-11-19,La Hacienda de San Angel,EPCOT,Plantains,Sides,Dinner,Plantains with crema Mexicana and cotija cheese.,8.00,epcot/hacienda-de-san-angel
 2026-11-19,La Hacienda de San Angel,EPCOT,Rice,Sides,Dinner,,5.00,epcot/hacienda-de-san-angel
 2026-11-19,La Hacienda de San Angel,EPCOT,Beans,Sides,Dinner,,5.00,epcot/hacienda-de-san-angel
-2026-11-19,La Hacienda de San Angel,EPCOT,Mashed potatoes with cotija cheese,Sides,Dinner,,8.00,epcot/hacienda-de-san-angel
+2026-11-19,La Hacienda de San Angel,EPCOT,Mashed potatoes with cotija cheese,Sides,Dinner,,9.00,epcot/hacienda-de-san-angel
 2026-11-19,La Hacienda de San Angel,EPCOT,Seasonal Mushrooms,Sides,Dinner,,9.00,epcot/hacienda-de-san-angel
 2026-11-19,La Hacienda de San Angel,EPCOT,Flan,Desserts,Dinner,"Vanilla flan with toasted almonds, berries and whipped cream",12.00,epcot/hacienda-de-san-angel
-2026-11-19,La Hacienda de San Angel,EPCOT,Pan de Elotes Tres Leches,Desserts,Dinner,Rice milk-soaked Mexican corn bread topped with sweetcorn gelato and toasted almonds,12.00,epcot/hacienda-de-san-angel
-2026-11-19,La Hacienda de San Angel,EPCOT,Helado De Palomitas,Desserts,Dinner,Sweet corn ice cream with popcorn and chile powder,10.00,epcot/hacienda-de-san-angel
-2026-11-19,La Hacienda de San Angel,EPCOT,Nieve,Desserts,Dinner,Seasonal Mexican flavored sorbet,10.00,epcot/hacienda-de-san-angel
-2026-11-19,La Hacienda de San Angel,EPCOT,Helado con Churros,Desserts,Dinner,Dulce de Leche ice cream with churros and cajeta,11.00,epcot/hacienda-de-san-angel
-2026-11-19,La Hacienda de San Angel,EPCOT,Celebration Cake,Desserts,Dinner,Chocolate or Vanilla,39.00,epcot/hacienda-de-san-angel
+2026-11-19,La Hacienda de San Angel,EPCOT,Pan de Elotes Tres Leches,Desserts,Dinner,Rice milk-soaked Mexican corn bread topped with sweetcorn gelato and toasted almonds,14.00,epcot/hacienda-de-san-angel
+2026-11-19,La Hacienda de San Angel,EPCOT,Volcan de Chocolate,Desserts,Dinner,dark chocolate cake with a warm milk chocolate center and passion fruit sorbet,16.00,epcot/hacienda-de-san-angel
+2026-11-19,La Hacienda de San Angel,EPCOT,Helado De Palomitas,Desserts,Dinner,Sweet corn ice cream with popcorn and chile powder,12.00,epcot/hacienda-de-san-angel
+2026-11-19,La Hacienda de San Angel,EPCOT,Nieve,Desserts,Dinner,Seasonal Mexican flavored sorbet,11.00,epcot/hacienda-de-san-angel
+2026-11-19,La Hacienda de San Angel,EPCOT,Helado con Churros,Desserts,Dinner,Dulce de Leche ice cream with churros and cajeta,13.00,epcot/hacienda-de-san-angel
+2026-11-19,La Hacienda de San Angel,EPCOT,Celebration Cake,Desserts,Dinner,Four layer 6-inch sponge cake filled with dulce de leche and moistened almibar with a dulce de leche topping and sprinkles. (please provide a 30-minute notice to your server if you wish to order a celebrate cake),39.00,epcot/hacienda-de-san-angel
 2026-11-19,La Hacienda de San Angel,EPCOT,Jr Garden Salad,Kids' Appetizers (Á la carte),Dinner,Chopped Romaine Lettuce and Tomato topped with Queso Fresco and choice of dressing,4.00,epcot/hacienda-de-san-angel
 2026-11-19,La Hacienda de San Angel,EPCOT,Fruit,Kids' Appetizers (Á la carte),Dinner,Chef's Selection,3.50,epcot/hacienda-de-san-angel
 2026-11-19,La Hacienda de San Angel,EPCOT,Beef Tacos,Kids’ Create-Your-Own Entrées (choose one),Dinner,"Two flour tortillas filled with shaved ribeye and choice of fountain soda, milk, or small water",16.00,epcot/hacienda-de-san-angel
