@@ -3,6 +3,8 @@ import {
   VENUES, TODAY, NOW, HEADER, LOG_HEADER,
   getMenu, collectVenue, keyOf, toCsv, parseCsv, readIfExists,
 } from './scan-lib.mjs';
+import { DIRECTORY_IGNORE } from './venues.mjs';
+import { untrackedVenues } from './directory.mjs';
 
 const current = [];
 const failures = [];
@@ -112,6 +114,17 @@ const lines = [];
 const lastDaily = ((await readIfExists('data/last-daily.txt')) || '').trim();
 const isDailySlot = lastDaily !== TODAY;
 
+// Once a day, check Disney's dining directory for restaurants the sweep does not cover.
+let untracked = [];
+let directoryError = '';
+if (isDailySlot) {
+  try {
+    untracked = await untrackedVenues(new Set(VENUES.map((v) => v[0])), new Set(DIRECTORY_IGNORE.trim().split(/\s+/)), TODAY);
+  } catch (err) {
+    directoryError = err.message;
+  }
+}
+
 lines.push(`## Menu scan ${new Date().toLocaleString('en-US', { timeZone: 'America/Los_Angeles', weekday: 'short', month: 'short', day: 'numeric', year: 'numeric', hour: 'numeric', minute: '2-digit', timeZoneName: 'short' })}`);
 lines.push('');
 lines.push(`${current.length} rows across ${VENUES.length} WDW venues${failures.length ? `, ${failures.length} venue failure(s)` : ', 0 failures'}.`);
@@ -157,6 +170,16 @@ if (countDeltas.length) {
 if (flags.length) {
   lines.push('### Ambiguity flags (not counted as changes)');
   lines.push(...flags.map((f) => `- ${f}`));
+  lines.push('');
+}
+if (untracked.length) {
+  lines.push(`### ${untracked.length} restaurant${untracked.length > 1 ? 's' : ''} in Disney's dining directory not tracked yet`);
+  lines.push(...untracked.map((u) => `- ${u}`));
+  lines.push('_Add the slug to venues.mjs, or to DIRECTORY_IGNORE there if the menu carries no prices._');
+  lines.push('');
+}
+if (directoryError) {
+  lines.push(`_Dining directory check skipped today: ${directoryError}._`);
   lines.push('');
 }
 if (failures.length) {

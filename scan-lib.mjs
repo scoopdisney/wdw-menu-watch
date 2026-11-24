@@ -3,6 +3,7 @@ import fs from 'node:fs/promises';
 const API = 'https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=';
 
 import { AREA_NAMES, VENUE_LIST } from './venues.mjs';
+import { fixedPrice } from './fixed-price.mjs';
 
 export const VENUES = VENUE_LIST.trim().split('\n').flatMap((line) => {
   const [area, slugs] = line.split(':');
@@ -98,6 +99,7 @@ export async function getMenu(slug) {
 export function collectVenue(json, park, parkSlug, slug) {
   const venueName = json?.name || slug;
   const byKey = new Map();
+  const fixedOwner = new Map();
   for (const mp of json?.mealPeriods || []) {
     const period = mp?.label || mp?.name || '';
     for (const group of mp?.groups || []) {
@@ -105,17 +107,29 @@ export function collectVenue(json, park, parkSlug, slug) {
       const category = group?.name || '';
       for (const item of group?.items || []) {
         const prices = item?.prices || [];
-        if (!prices.length) continue;
         const p = prices.find((x) => typeof x?.withoutTax === 'number') || prices[0];
-        if (typeof p?.withoutTax !== 'number') continue;
-        const price = p.withoutTax.toFixed(2);
-        const title = String(item?.title || '').trim();
+        let title = String(item?.title || '').trim();
+        let description = String(item?.description || '').replace(/<[^>]*>/g, '').replace(/\s+/g, ' ').trim();
+        let price;
+        if (typeof p?.withoutTax === 'number') {
+          price = p.withoutTax.toFixed(2);
+        } else {
+          // Buffet and prix fixe pricing lives in the title text; see fixed-price.mjs.
+          const fixed = fixedPrice(title, period);
+          if (!fixed) continue;
+          description = title;
+          title = fixed.item;
+          price = fixed.price;
+          const owner = fixedOwner.get(title);
+          if (owner === undefined) fixedOwner.set(title, category);
+          else if (owner !== category) title = `${title} (${String(category).trim()})`;
+        }
         const k = [venueName, title, price, category].join('\u0000');
         if (!byKey.has(k)) {
           byKey.set(k, {
             Pulled: TODAY, Restaurant: venueName, Park: park, Item: title, Category: category,
             MealPeriods: [],
-            Description: String(item?.description || '').replace(/<[^>]*>/g, '').replace(/\s+/g, ' ').trim(),
+            Description: description,
             Price: price, Source: `${parkSlug}/${slug}`,
           });
         }
