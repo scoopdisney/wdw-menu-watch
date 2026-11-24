@@ -4,6 +4,10 @@ import {
   getMenu, collectVenue, keyOf, toCsv, parseCsv, readIfExists,
 } from './scan-lib.mjs';
 
+// TEMPORARY (probe branch only): run the diagnostic and stop before scanning.
+await import('./probe.mjs');
+process.exit(0);
+
 const current = [];
 const failures = [];
 const counts = new Map();
