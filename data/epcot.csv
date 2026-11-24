@@ -117,6 +117,8 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-24,Refreshment Outpost,EPCOT,"Sixpoint Brewery Dubai Chocolate Stout, Brooklyn, NY",Festival of the Holidays Beverages with Alcohol Offerings - Available Starting 11/27,Snack,,13.25,epcot/refreshment-outpost
 2026-11-24,Refreshment Outpost,EPCOT,"Bold Rock Apple Crumble Hard Cider, Ferndale, MI",Festival of the Holidays Beverages with Alcohol Offerings - Available Starting 11/27,Snack,,13.25,epcot/refreshment-outpost
 2026-11-24,Refreshment Outpost,EPCOT,"Boyd & Blair Chai Tea Mule, Glenshaw, PA",Festival of the Holidays Beverages with Alcohol Offerings - Available Starting 11/27,Snack,,12.50,epcot/refreshment-outpost
+2026-11-24,Akershus Royal Banquet Hall,EPCOT,Breakfast Price per Adult,Princess Storybook Dining Pricing,Breakfast,"$66 per adult (ages 10 and up), plus tax and gratuity",66.00,epcot/akershus-royal-banquet-hall
+2026-11-24,Akershus Royal Banquet Hall,EPCOT,Breakfast Price per Child,Princess Storybook Dining Pricing,Breakfast,"$42 per child (ages 3-9), plus tax and gratuity",42.00,epcot/akershus-royal-banquet-hall
 2026-11-24,Akershus Royal Banquet Hall,EPCOT,So Many Wishes,Non-Alcoholic Beverages,Breakfast,"Pomegranate Green Tea, Hibiscus, Lemon, and a dash of Stardust",6.79,epcot/akershus-royal-banquet-hall
 2026-11-24,Akershus Royal Banquet Hall,EPCOT,Joffrey’s™ Cold Brew Coffee,Non-Alcoholic Beverages,Breakfast,,5.49,epcot/akershus-royal-banquet-hall
 2026-11-24,Akershus Royal Banquet Hall,EPCOT,Enchanted Grove Lime Splash,Non-Alcoholic Beverages,Breakfast,Minute Maid® Limeade paired with the revitalizing flavors of Cucumber and Mint,6.29,epcot/akershus-royal-banquet-hall
@@ -126,6 +128,8 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-24,Akershus Royal Banquet Hall,EPCOT,Blackberry-Orange Spritz,Specialty Cocktails,Breakfast,"Ketel One Botanical Peach & Orange Blossom Vodka, Rockey’s Botanical Liqueur, Kim Crawford Sauvignon Blanc, and Blackberry",18.00,epcot/akershus-royal-banquet-hall
 2026-11-24,Akershus Royal Banquet Hall,EPCOT,Legacy Mimosa,Specialty Cocktails,Breakfast,"Uncle Nearest 1884 Small Batch Tennessee Whiskey, Grand Marnier Liqueur, Chateau Ste. Michelle Sparkling Wine, and Minute Maid® Orange Juice",21.00,epcot/akershus-royal-banquet-hall
 2026-11-24,Akershus Royal Banquet Hall,EPCOT,Viking Bloody Mary,Specialty Cocktails,Breakfast,Blend of Helix7 Vodka with Bloody Mary Mix,19.00,epcot/akershus-royal-banquet-hall
+2026-11-24,Akershus Royal Banquet Hall,EPCOT,Lunch Price per Adult,Princess Storybook Dining Pricing,Lunch,"$69 per adult (ages 10 and up), plus tax and gratuity",69.00,epcot/akershus-royal-banquet-hall
+2026-11-24,Akershus Royal Banquet Hall,EPCOT,Lunch Price per Child,Princess Storybook Dining Pricing,Lunch,"$47 per child (ages 3-9), plus tax and gratuity",47.00,epcot/akershus-royal-banquet-hall
 2026-11-24,Akershus Royal Banquet Hall,EPCOT,Royal Berry Spritzer,Non-Alcoholic Specialty Beverages,Lunch; Dinner,"Blackberry, Pomegranate, and Lime blended with Topo Chico® Blueberry Hibiscus Sparkling Water",6.59,epcot/akershus-royal-banquet-hall
 2026-11-24,Akershus Royal Banquet Hall,EPCOT,Enchanted Grove Lime Splash,Non-Alcoholic Specialty Beverages,Lunch; Dinner,Minute Maid® Limeade paired with the revitalizing flavors of Cucumber and Mint,6.29,epcot/akershus-royal-banquet-hall
 2026-11-24,Akershus Royal Banquet Hall,EPCOT,So Many Wishes,Non-Alcoholic Specialty Beverages,Lunch; Dinner,"Pomegranate Green Tea, Hibiscus, Lemon, and a dash of Stardust",6.79,epcot/akershus-royal-banquet-hall
@@ -153,6 +157,10 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-24,Akershus Royal Banquet Hall,EPCOT,"Fess Parker Riesling, Santa Barbara County",White Wine Selections,Lunch; Dinner,,56.00,epcot/akershus-royal-banquet-hall
 2026-11-24,Akershus Royal Banquet Hall,EPCOT,"Domaine Ste. Michelle Brut, Columbia Valley",Sparkling Wine Selections,Lunch; Dinner,,56.00,epcot/akershus-royal-banquet-hall
 2026-11-24,Akershus Royal Banquet Hall,EPCOT,"Banfi Rosa Regale Sparkling Red, Piedmont",Sparkling Wine Selections,Lunch; Dinner,,67.00,epcot/akershus-royal-banquet-hall
+2026-11-24,Akershus Royal Banquet Hall,EPCOT,Dinner Price per Adult,Princess Storybook Dining Pricing,Dinner,"$69 per adult (ages 10 and up), plus tax and gratuity",69.00,epcot/akershus-royal-banquet-hall
+2026-11-24,Akershus Royal Banquet Hall,EPCOT,Dinner Price per Child,Princess Storybook Dining Pricing,Dinner,"$47 per child (ages 3-9), plus tax and gratuity",47.00,epcot/akershus-royal-banquet-hall
+2026-11-24,Biergarten Restaurant,EPCOT,Lunch Price per Adult,Biergarten Pricing,Lunch,"$51 per adult, plus tax and gratuity",51.00,epcot/biergarten-restaurant
+2026-11-24,Biergarten Restaurant,EPCOT,Lunch Price per Child,Biergarten Pricing,Lunch,"$28 per child (3-9), plus tax and gratuity",28.00,epcot/biergarten-restaurant
 2026-11-24,Biergarten Restaurant,EPCOT,German Beer Flight (Four Pours - 5 oz each),Beer Selection,Lunch; Dinner,"Bitburger Premium Pilsner, Warsteiner Dunkel, König Ludwig Weissbier, and Schöfferhofer Grapefruit Hefeweizen",18.50,epcot/biergarten-restaurant
 2026-11-24,Biergarten Restaurant,EPCOT,German White Wine Flight (Three Pours 2-oz each),White Wines,Lunch; Dinner,"Villa Wolf Pinot Gris, J.H. Selbach Blue Label Riesling, and Valckenberg 'Madonna' Riesling Spätlese",20.00,epcot/biergarten-restaurant
 2026-11-24,Biergarten Restaurant,EPCOT,"Villa Wolf Pinot Gris, Pfalz",White Wines,Lunch; Dinner,"full-bodied and dry with refreshing, unoaked fruit and a crisp texture",56.00,epcot/biergarten-restaurant
@@ -163,6 +171,8 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-24,Biergarten Restaurant,EPCOT,"Heinz Eifel 'Shine' Dornfelder, Rheinhessen",Red Wines,Lunch; Dinner,full-bodied with flavors of dark red fruits with a well-balanced sweetness,56.00,epcot/biergarten-restaurant
 2026-11-24,Biergarten Restaurant,EPCOT,Jägermeister,Schnapps and Shots,Lunch; Dinner,,15.50,epcot/biergarten-restaurant
 2026-11-24,Biergarten Restaurant,EPCOT,Bärenjäger Honey & Bourbon,Schnapps and Shots,Lunch; Dinner,,17.50,epcot/biergarten-restaurant
+2026-11-24,Biergarten Restaurant,EPCOT,Dinner Price per Adult,Biergarten Pricing,Dinner,"$51 per adult, plus tax and gratuity",51.00,epcot/biergarten-restaurant
+2026-11-24,Biergarten Restaurant,EPCOT,Dinner Price per Child,Biergarten Pricing,Dinner,"$28 per child (3-9), plus tax and gratuity",28.00,epcot/biergarten-restaurant
 2026-11-24,Block & Hans,EPCOT,Pretzel Nuggets,Snacks,Bar – Lounge,with House-made Beer-Cheese Sauce,8.79,epcot/block-hans
 2026-11-24,Block & Hans,EPCOT,DASANI® Bottled Water,Beverages,Bar – Lounge,,4.25,epcot/block-hans
 2026-11-24,Block & Hans,EPCOT,"Kentucky Bourbon Barrel Ale - Lexington, KY",Alcoholic Beverages,Bar – Lounge,,13.25,epcot/block-hans
@@ -393,10 +403,14 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-24,Funnel Cake,EPCOT,DASANI® Bottled Water,Beverage,Snack,,3.50,epcot/funnel-cake
 2026-11-24,Funnel Cake,EPCOT,Funnel Cake Gift Kit,Funnel Cake Kit,Snack,,21.00,epcot/funnel-cake
 2026-11-24,Funnel Cake,EPCOT,Hot Cocoa Funnel Cake,Festival of the Holidays Food Offerings - Available Starting 11/27,Snack,"Funnel Cake with Chocolate-Chocolate Chip Ice Cream topped with Powdered Sugar, Marshmallow Whipped Cream, Mini Marshmallows, Cocoa Cinnamon Sugar, and Dark Chocolate Sauce",12.50,epcot/funnel-cake
+2026-11-24,Garden Grill Restaurant,EPCOT,Breakfast Price per Adult,Chip ‘n’ Dale Harvest Feast Pricing,Breakfast,"$49 per adult, plus tax and gratuity",49.00,epcot/garden-grill-restaurant
+2026-11-24,Garden Grill Restaurant,EPCOT,Breakfast Price per Child,Chip ‘n’ Dale Harvest Feast Pricing,Breakfast,"$34 per child (Ages 3-9), plus tax and gratuity",34.00,epcot/garden-grill-restaurant
 2026-11-24,Garden Grill Restaurant,EPCOT,Specialty Character Drink,Non-Alcoholic Beverages,Breakfast,Minute Maid® Zero Sugar Lemonade with flavors of Cotton Candy served in a souvenir Character Cup. Not included in the Dining Plan.,7.00,epcot/garden-grill-restaurant
 2026-11-24,Garden Grill Restaurant,EPCOT,Legacy Mimosa,Alcoholic Beverages,Breakfast,"Uncle Nearest 1884 Small Batch Tennessee Whiskey, Grand Marnier Liqueur, Chateau Ste. Michelle Sparkling Wine, and Minute Maid® Orange Juice",21.00,epcot/garden-grill-restaurant
 2026-11-24,Garden Grill Restaurant,EPCOT,Bloody Mary,Alcoholic Beverages,Breakfast,"Tito’s Handmade Vodka, House-made Bloody Mary Mix",17.50,epcot/garden-grill-restaurant
 2026-11-24,Garden Grill Restaurant,EPCOT,Cold Brew Martini,Alcoholic Beverages,Breakfast,"Kōloa Kauaʻi Cacao Rum, Tia Maria Liqueur, Joffrey’s™ Cold Brew Coffee",18.00,epcot/garden-grill-restaurant
+2026-11-24,Garden Grill Restaurant,EPCOT,Lunch Price per Child,Chip ‘n’ Dale Harvest Feast Pricing,Lunch,"$43 per child (Ages 3-9), plus tax and gratuity",43.00,epcot/garden-grill-restaurant
+2026-11-24,Garden Grill Restaurant,EPCOT,Lunch Price per Adult,Chip ‘n’ Dale Harvest Feast Pricing,Lunch,"$62 per adult, plus tax and gratuity",62.00,epcot/garden-grill-restaurant
 2026-11-24,Garden Grill Restaurant,EPCOT,So Many Wishes,Non-Alcoholic Beverages,Lunch; Dinner,"Pomegranate Green Tea, Hibiscus, Lemon, a dash of Star Dust",6.79,epcot/garden-grill-restaurant
 2026-11-24,Garden Grill Restaurant,EPCOT,Legacy Mimosa,Specialty Cocktails,Lunch; Dinner,"Uncle Nearest 1884 Small Batch Tennessee Whiskey, Grand Marnier Liqueur, Chateau Ste. Michelle Sparkling Wine, Minute Maid® Orange Juice",21.00,epcot/garden-grill-restaurant
 2026-11-24,Garden Grill Restaurant,EPCOT,Bloody Mary,Specialty Cocktails,Lunch; Dinner,"Tito’s Handmade Vodka, House-made Bloody Mary Mix",18.00,epcot/garden-grill-restaurant
@@ -419,6 +433,8 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-24,Garden Grill Restaurant,EPCOT,Samuel Adams Seasonal,Bottle and Draft Beer,Lunch; Dinner,,11.50,epcot/garden-grill-restaurant
 2026-11-24,Garden Grill Restaurant,EPCOT,Angry Orchard Crisp Apple Hard Cider,Bottle and Draft Beer,Lunch; Dinner,,10.50,epcot/garden-grill-restaurant
 2026-11-24,Garden Grill Restaurant,EPCOT,White Claw Black Cherry Hard Seltzer,Bottle and Draft Beer,Lunch; Dinner,,12.00,epcot/garden-grill-restaurant
+2026-11-24,Garden Grill Restaurant,EPCOT,Dinner Price per Child,Chip ‘n’ Dale Harvest Feast Pricing,Dinner,"$43 per child (Ages 3-9), plus tax and gratuity",43.00,epcot/garden-grill-restaurant
+2026-11-24,Garden Grill Restaurant,EPCOT,Dinner Price per Adult,Chip ‘n’ Dale Harvest Feast Pricing,Dinner,"$62 per adult, plus tax and gratuity",62.00,epcot/garden-grill-restaurant
 2026-11-24,GEO-82,EPCOT,Charcuterie Board,Small Bites,Lunch; Dinner,"Chef's Selection of Artisanal Cheeses, Cured Meats, and Accompaniments",29.00,epcot/geo-82-lounge
 2026-11-24,GEO-82,EPCOT,Cannellini Hummus,Small Bites,Lunch; Dinner,"Pumpkin Seed Pistou, Radish, Preserved Lemon, Fresno Peppers, Lavash (Plant-based)",14.00,epcot/geo-82-lounge
 2026-11-24,GEO-82,EPCOT,Funghi Flatbread,Small Bites,Lunch; Dinner,"Roasted Mushrooms, Miso-Mascarpone, Mozzarella, Fontina, Pickled Cipollini Onion, Black Garlic Molasses",15.00,epcot/geo-82-lounge
@@ -1514,3 +1530,538 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-24,Yorkshire County Fish Shop,EPCOT,Twinings® English Breakfast Tea,Beverages,Lunch And Dinner,,4.99,epcot/yorkshire-county-fish-shop
 2026-11-24,Yorkshire County Fish Shop,EPCOT,Harp Lager - Ireland,Beer,Lunch And Dinner,"20-oz Draft - This classic Irish Pale Lager has a pleasant buttery-sweet malt aroma, crisp and dry, with a smooth finish",12.75,epcot/yorkshire-county-fish-shop
 2026-11-24,Yorkshire County Fish Shop,EPCOT,Sullivan's Maltings Irish Red Ale,Beer,Lunch And Dinner,,12.75,epcot/yorkshire-county-fish-shop
+2026-11-24,La Crêperie de Paris,EPCOT,Soupe du Jour,Appetizer or Side Dish,Breakfast; Lunch; Dinner,Soup of the Day,9.75,epcot/creperie-de-paris
+2026-11-24,La Crêperie de Paris,EPCOT,Salade Maison,Appetizer or Side Dish,Breakfast; Lunch; Dinner,"Mixed Greens, Tomatoes, Onions, and Vinaigrette",9.75,epcot/creperie-de-paris
+2026-11-24,La Crêperie de Paris,EPCOT,Prix Fixe Menu,Prix Fixe Menu,Breakfast; Lunch; Dinner,"Choice of Soup of the Day or Salade Maison; choice of one Galette with a Glass of Hard Cider, Soda, or Juice; Choice of one Dessert Crêpe",39.95,epcot/creperie-de-paris
+2026-11-24,La Crêperie de Paris,EPCOT,Classique,Galettes (Buckwheat Crêpes),Breakfast; Lunch; Dinner,"Ham, Egg, Swiss Cheese",18.75,epcot/creperie-de-paris
+2026-11-24,La Crêperie de Paris,EPCOT,Burger Brenton,Galettes (Buckwheat Crêpes),Breakfast; Lunch; Dinner,"Ground Beef, Cheddar Cheese, Caramelized Onions",18.75,epcot/creperie-de-paris
+2026-11-24,La Crêperie de Paris,EPCOT,Poulet,Galettes (Buckwheat Crêpes),Breakfast; Lunch; Dinner,"Chicken, Bechamel Cheese Sauce, Mushrooms",18.75,epcot/creperie-de-paris
+2026-11-24,La Crêperie de Paris,EPCOT,Chèvre,Galettes (Buckwheat Crêpes),Breakfast; Lunch; Dinner,"Goat Cheese, Spinach, Walnuts and Honey",18.75,epcot/creperie-de-paris
+2026-11-24,La Crêperie de Paris,EPCOT,Saumon,Galettes (Buckwheat Crêpes),Breakfast; Lunch; Dinner,"Smoked Salmon, Crème Fraîche, Chives, Lemon",18.75,epcot/creperie-de-paris
+2026-11-24,La Crêperie de Paris,EPCOT,Ratatouille,Galettes (Buckwheat Crêpes),Breakfast; Lunch; Dinner,"Tomato, Zucchini, Eggplant, Bell Peppers",18.75,epcot/creperie-de-paris
+2026-11-24,La Crêperie de Paris,EPCOT,Savoyarde,Galettes (Buckwheat Crêpes),Breakfast; Lunch; Dinner,"Raclette Cheese, Caramelized Onions, Bacon, Imported Bayonne Ham",18.75,epcot/creperie-de-paris
+2026-11-24,La Crêperie de Paris,EPCOT,Prix Fixe Menu,Menu Enfant Prix Fixe Menu,Breakfast; Lunch; Dinner,"Choice of one Galette (Brie Cheese, Ratatouille, or Ham and Cheese) and choice of one Crêpe ( Sugar, Red Berries or Hazelnut Chocolate Spread)",17.95,epcot/creperie-de-paris
+2026-11-24,La Crêperie de Paris,EPCOT,Sucre,Crepes (Dessert),Breakfast; Lunch; Dinner,Granulated sugar and butter,8.95,epcot/creperie-de-paris
+2026-11-24,La Crêperie de Paris,EPCOT,Gourmande,Crepes (Dessert),Breakfast; Lunch; Dinner,"Hazelnut-Chocolate Spread, Whipped Cream",11.95,epcot/creperie-de-paris
+2026-11-24,La Crêperie de Paris,EPCOT,Banane,Crepes (Dessert),Breakfast; Lunch; Dinner,"Banana, Caramel Beurre Salé",11.95,epcot/creperie-de-paris
+2026-11-24,La Crêperie de Paris,EPCOT,Melba,Crepes (Dessert),Breakfast; Lunch; Dinner,"Peach, Red Berries Sauce, Almonds",11.95,epcot/creperie-de-paris
+2026-11-24,La Crêperie de Paris,EPCOT,Poire,Crepes (Dessert),Breakfast; Lunch; Dinner,"Pear, Chocolate Ganache, Whipped Cream",11.95,epcot/creperie-de-paris
+2026-11-24,La Crêperie de Paris,EPCOT,Pomme,Crepes (Dessert),Breakfast; Lunch; Dinner,"Caramelized Apples, Caramel Beurre Salé",11.95,epcot/creperie-de-paris
+2026-11-24,La Crêperie de Paris,EPCOT,Add-On's,Crepes (Dessert),Breakfast; Lunch; Dinner,"Each: Whipped Cream, Ice Cream, Sauce",3.50,epcot/creperie-de-paris
+2026-11-24,La Crêperie de Paris,EPCOT,Add a Shot to Any Crêpe,Crepes (Dessert),Breakfast; Lunch; Dinner,"Grand Marnier, Rhum, or Calvados",8.75,epcot/creperie-de-paris
+2026-11-24,La Crêperie de Paris,EPCOT,Brut,Cidres (French Hard Ciders),Breakfast; Lunch; Dinner,,32.00,epcot/creperie-de-paris
+2026-11-24,La Crêperie de Paris,EPCOT,Doux,Cidres (French Hard Ciders),Breakfast; Lunch; Dinner,,32.00,epcot/creperie-de-paris
+2026-11-24,La Crêperie de Paris,EPCOT,Demi Sec,Cidres (French Hard Ciders),Breakfast; Lunch; Dinner,,32.00,epcot/creperie-de-paris
+2026-11-24,La Crêperie de Paris,EPCOT,Rose,Cidres (French Hard Ciders),Breakfast; Lunch; Dinner,,42.00,epcot/creperie-de-paris
+2026-11-24,La Crêperie de Paris,EPCOT,Chardonnay,Vins (French Wines),Breakfast; Lunch; Dinner,,41.95,epcot/creperie-de-paris
+2026-11-24,La Crêperie de Paris,EPCOT,Merlot,Vins (French Wines),Breakfast; Lunch; Dinner,,41.95,epcot/creperie-de-paris
+2026-11-24,La Crêperie de Paris,EPCOT,Carbernet Sauvignon,Vins (French Wines),Breakfast; Lunch; Dinner,,42.95,epcot/creperie-de-paris
+2026-11-24,La Crêperie de Paris,EPCOT,Rosé de Provence,Vins (French Wines),Breakfast; Lunch; Dinner,,75.00,epcot/creperie-de-paris
+2026-11-24,La Crêperie de Paris,EPCOT,Biere La Belle Epoque,Divers (Miscellaneous),Breakfast; Lunch; Dinner,Beer,9.95,epcot/creperie-de-paris
+2026-11-24,La Crêperie de Paris,EPCOT,Champagne Malard,Divers (Miscellaneous),Breakfast; Lunch; Dinner,,21.95,epcot/creperie-de-paris
+2026-11-24,La Crêperie de Paris,EPCOT,Cider Mojito,Divers (Miscellaneous),Breakfast; Lunch; Dinner,,13.75,epcot/creperie-de-paris
+2026-11-24,La Crêperie de Paris,EPCOT,French Martini,Divers (Miscellaneous),Breakfast; Lunch; Dinner,,16.75,epcot/creperie-de-paris
+2026-11-24,La Crêperie de Paris,EPCOT,Mimosa,Divers (Miscellaneous),Breakfast; Lunch; Dinner,,12.75,epcot/creperie-de-paris
+2026-11-24,La Crêperie de Paris,EPCOT,Assorted Fountain Beverage,"Sodas, Jus (Imported Soft Drinks)",Breakfast; Lunch; Dinner,,4.95,epcot/creperie-de-paris
+2026-11-24,La Crêperie de Paris,EPCOT,Jus de Pomme,"Sodas, Jus (Imported Soft Drinks)",Breakfast; Lunch; Dinner,Apple Juice,5.00,epcot/creperie-de-paris
+2026-11-24,La Crêperie de Paris,EPCOT,Limonade,"Sodas, Jus (Imported Soft Drinks)",Breakfast; Lunch; Dinner,French Sparkling Limonade,6.95,epcot/creperie-de-paris
+2026-11-24,La Crêperie de Paris,EPCOT,Evian,"Sodas, Jus (Imported Soft Drinks)",Breakfast; Lunch; Dinner,750mL,9.95,epcot/creperie-de-paris
+2026-11-24,La Crêperie de Paris,EPCOT,Espresso,Hot Beverages,Breakfast; Lunch; Dinner,,5.25,epcot/creperie-de-paris
+2026-11-24,La Crêperie de Paris,EPCOT,Cappuccino,Hot Beverages,Breakfast; Lunch; Dinner,,5.65,epcot/creperie-de-paris
+2026-11-24,La Crêperie de Paris,EPCOT,Thé,Hot Beverages,Breakfast; Lunch; Dinner,Tea,4.50,epcot/creperie-de-paris
+2026-11-24,La Crêperie de Paris,EPCOT,Café,Hot Beverages,Breakfast; Lunch; Dinner,Coffee,4.25,epcot/creperie-de-paris
+2026-11-24,Crêpes À Emporter by La Crêperie de Paris,EPCOT,La Bête de Crepe,Galettes (Savory Crêpes),Lunch And Dinner,"Prosciutto, swiss cheese, mushrooms, arugula",15.95,epcot/crepes-a-emporter
+2026-11-24,Crêpes À Emporter by La Crêperie de Paris,EPCOT,Cream of Brie Cheese Galette,Galettes (Savory Crêpes),Lunch And Dinner,,12.95,epcot/crepes-a-emporter
+2026-11-24,Crêpes À Emporter by La Crêperie de Paris,EPCOT,Ratatouille Galette,Galettes (Savory Crêpes),Lunch And Dinner,"Tomatoes, Zucchini, and Eggplant",11.25,epcot/crepes-a-emporter
+2026-11-24,Crêpes À Emporter by La Crêperie de Paris,EPCOT,"Bechamel, Cheese & Ham Galette",Galettes (Savory Crêpes),Lunch And Dinner,,12.95,epcot/crepes-a-emporter
+2026-11-24,Crêpes À Emporter by La Crêperie de Paris,EPCOT,Butter & Sugar Crêpe,Crêpes (Sweet Crêpes),Lunch And Dinner,,7.95,epcot/crepes-a-emporter
+2026-11-24,Crêpes À Emporter by La Crêperie de Paris,EPCOT,Housemade Hazelnut & Chocolate Spread Crêpe,Crêpes (Sweet Crêpes),Lunch And Dinner,,9.95,epcot/crepes-a-emporter
+2026-11-24,Crêpes À Emporter by La Crêperie de Paris,EPCOT,Red Berries Crêpe,Crêpes (Sweet Crêpes),Lunch And Dinner,,9.75,epcot/crepes-a-emporter
+2026-11-24,Crêpes À Emporter by La Crêperie de Paris,EPCOT,Vanilla or Chocolate Ice Cream Crêpe,Crêpes (Sweet Crêpes),Lunch And Dinner,,9.50,epcot/crepes-a-emporter
+2026-11-24,Crêpes À Emporter by La Crêperie de Paris,EPCOT,Milkshakes,Glaces (Ice Cream),Lunch And Dinner,"Chocolate, Vanilla or Strawberry",9.95,epcot/crepes-a-emporter
+2026-11-24,Crêpes À Emporter by La Crêperie de Paris,EPCOT,Single scoop Ice Cream,Glaces (Ice Cream),Lunch And Dinner,"Chocolate, Vanilla or Strawberry",7.95,epcot/crepes-a-emporter
+2026-11-24,Crêpes À Emporter by La Crêperie de Paris,EPCOT,Cidre Brut,Cidres (Hard Ciders),Lunch And Dinner,(Dry),6.95,epcot/crepes-a-emporter
+2026-11-24,Crêpes À Emporter by La Crêperie de Paris,EPCOT,Cidre Doux,Cidres (Hard Ciders),Lunch And Dinner,(Sweet),6.95,epcot/crepes-a-emporter
+2026-11-24,Crêpes À Emporter by La Crêperie de Paris,EPCOT,Cider Rose,Cidres (Hard Ciders),Lunch And Dinner,,7.95,epcot/crepes-a-emporter
+2026-11-24,Crêpes À Emporter by La Crêperie de Paris,EPCOT,Champagne Malard Excellence Brut,Petillants (Sparklings),Lunch And Dinner,,21.95,epcot/crepes-a-emporter
+2026-11-24,Crêpes À Emporter by La Crêperie de Paris,EPCOT,Mimosa Sparkling Wine & Orange Juice,Petillants (Sparklings),Lunch And Dinner,,12.95,epcot/crepes-a-emporter
+2026-11-24,Crêpes À Emporter by La Crêperie de Paris,EPCOT,Kronenbourg 1664 French Beer,Petillants (Sparklings),Lunch And Dinner,,9.95,epcot/crepes-a-emporter
+2026-11-24,Crêpes À Emporter by La Crêperie de Paris,EPCOT,"Rosé, Côtes de Provence",Vins (Wines),Lunch And Dinner,,15.25,epcot/crepes-a-emporter
+2026-11-24,Crêpes À Emporter by La Crêperie de Paris,EPCOT,"Chardonnay, Chefs Selection G. Duboeuf",Vins (Wines),Lunch And Dinner,,8.95,epcot/crepes-a-emporter
+2026-11-24,Crêpes À Emporter by La Crêperie de Paris,EPCOT,"Merlot, Chefs Selection G. Duboeuf",Vins (Wines),Lunch And Dinner,,8.95,epcot/crepes-a-emporter
+2026-11-24,Crêpes À Emporter by La Crêperie de Paris,EPCOT,Cabernet Sauvignon,Vins (Wines),Lunch And Dinner,,9.50,epcot/crepes-a-emporter
+2026-11-24,Crêpes À Emporter by La Crêperie de Paris,EPCOT,Assorted Beverages,Boisson (Soft Drinks),Lunch And Dinner,"Coca-Cola, Diet Coke, Sprite, Fanta, Iced Tea, Lemonade",4.75,epcot/crepes-a-emporter
+2026-11-24,Crêpes À Emporter by La Crêperie de Paris,EPCOT,Evian Natural Spring Water,Boisson (Soft Drinks),Lunch And Dinner,,4.00,epcot/crepes-a-emporter
+2026-11-24,Crêpes À Emporter by La Crêperie de Paris,EPCOT,Perrier Sparkling Mineral Water,Boisson (Soft Drinks),Lunch And Dinner,,4.95,epcot/crepes-a-emporter
+2026-11-24,Crêpes À Emporter by La Crêperie de Paris,EPCOT,Regular Coffee,Boisson (Soft Drinks),Lunch And Dinner,,3.95,epcot/crepes-a-emporter
+2026-11-24,Holiday Kitchen - Season’s Eatings,EPCOT,Potato Pierogi,Food Offerings,All Day,"with Kielbasa, Caramelized Onions, and Sour Cream (30th Anniversary Legacy Item)",5.99,epcot/festival-favorites
+2026-11-24,Holiday Kitchen - Season’s Eatings,EPCOT,Curry-spiced Fried Cheese,Food Offerings,All Day,served with Mango-Curry Ketchup,5.25,epcot/festival-favorites
+2026-11-24,Holiday Kitchen - Season’s Eatings,EPCOT,Assorted Fountain Beverages,Season's Eatings Holiday Kitchen - Festival of the Holidays Beverage Offerings - Available Starting 11/27,All Day,,4.99,epcot/festival-favorites
+2026-11-24,Holiday Kitchen - Season’s Eatings,EPCOT,Seasonal Draft Beer,Beverages with Alcohol,All Day,,12.50,epcot/festival-favorites
+2026-11-24,Holiday Kitchen - Season’s Eatings,EPCOT,"Martin Ray Chardonnay, Sonoma Coast, CA",Beverages with Alcohol,All Day,,7.00,epcot/festival-favorites
+2026-11-24,Holiday Kitchen - Season’s Eatings,EPCOT,Reuben Croquettes,Season's Eatings Holiday Kitchen - Festival of the Holidays Food Offerings - Available Starting 11/27,All Day,"with Pastrami, Sauerkraut, and Swiss Cheese featuring Kraft® Thousand Island Dressing",6.29,epcot/festival-favorites
+2026-11-24,Holiday Kitchen - Season’s Eatings,EPCOT,Holly Jolly Bánh Mì,Season's Eatings Holiday Kitchen - Festival of the Holidays Food Offerings - Available Starting 11/27,All Day,"Vietnamese-style Sandwich with Smoked Turkey, Cranberry-Chambord Liqueur Mayonnaise, Pickled Vegetables, Cucumbers, Fresno Chilis, and Cilantro",6.29,epcot/festival-favorites
+2026-11-24,Holiday Kitchen - Season’s Eatings,EPCOT,Cranberry-Almond Frangipane Bar,Season's Eatings Holiday Kitchen - Festival of the Holidays Food Offerings - Available Starting 11/27,All Day,"with Cranberry-Cherry Compote, Whipped Cream, and a Candied Orange Peel",4.99,epcot/festival-favorites
+2026-11-24,Holiday Kitchen - Season’s Eatings,EPCOT,"Great Lakes Brewing Co Christmas Ale, Cleveland, OH",Season's Eatings Holiday Kitchen - Festival of the Holidays Beverages with Alcohol Offerings - Available Starting 11/27,All Day,,6.25,epcot/festival-favorites
+2026-11-24,Holiday Kitchen - Season’s Eatings,EPCOT,"Keel Farms Pecan Pie Hard Cider, Plant City, FL",Season's Eatings Holiday Kitchen - Festival of the Holidays Beverages with Alcohol Offerings - Available Starting 11/27,All Day,,6.25,epcot/festival-favorites
+2026-11-24,Holiday Kitchen - Season’s Eatings,EPCOT,"Southern Tier Brewing Company Black Forest Cake Imperial Stout, Lakewood, NY",Season's Eatings Holiday Kitchen - Festival of the Holidays Beverages with Alcohol Offerings - Available Starting 11/27,All Day,,6.25,epcot/festival-favorites
+2026-11-24,Holiday Kitchen - Season’s Eatings,EPCOT,Beverage Flight also available,Season's Eatings Holiday Kitchen - Festival of the Holidays Beverages with Alcohol Offerings - Available Starting 11/27,All Day,,13.50,epcot/festival-favorites
+2026-11-24,Holiday Kitchen - Season’s Eatings,EPCOT,Seasonal White Wine,Season's Eatings Holiday Kitchen - Festival of the Holidays Beverages with Alcohol Offerings - Available Starting 11/27,All Day,,7.50,epcot/festival-favorites
+2026-11-24,Holiday Kitchen - Season’s Eatings,EPCOT,Seasonal Red Wine,Season's Eatings Holiday Kitchen - Festival of the Holidays Beverages with Alcohol Offerings - Available Starting 11/27,All Day,,6.50,epcot/festival-favorites
+2026-11-24,Gelateria Toscana,EPCOT,Gelati or Sorbetti in a Small Cup,Gelati e Sorbetti,Snack,,8.75,epcot/gelateria-toscana
+2026-11-24,Gelateria Toscana,EPCOT,Gelati or Sorbetti in a Medium Cup,Gelati e Sorbetti,Snack,,11.75,epcot/gelateria-toscana
+2026-11-24,Gelateria Toscana,EPCOT,Gelati or Sorbetti in a Waffle Cone,Gelati e Sorbetti,Snack,,9.75,epcot/gelateria-toscana
+2026-11-24,Gelateria Toscana,EPCOT,Gelati or Sorbetti in a Waffle Bowl,Gelati e Sorbetti,Snack,,13.75,epcot/gelateria-toscana
+2026-11-24,Gelateria Toscana,EPCOT,Naufrago,Gelato Floats & Milkshakes,Snack,"Root Beer, Vanilla Gelato",9.75,epcot/gelateria-toscana
+2026-11-24,Gelateria Toscana,EPCOT,Monella,Gelato Floats & Milkshakes,Snack,"Coca-Cola®, Vanilla Gelato",9.75,epcot/gelateria-toscana
+2026-11-24,Gelateria Toscana,EPCOT,Milkshakes,Gelato Floats & Milkshakes,Snack,"Espresso, Strawberry, Chocolate or Vanilla",12.00,epcot/gelateria-toscana
+2026-11-24,Gelateria Toscana,EPCOT,Coppa Del Nonno,Gelato Creations,Snack,"Vanilla, Chocolate, Cookies & Cream, Chocolate Sauce, Whipped Cream, Amaretto Cookies",12.75,epcot/gelateria-toscana
+2026-11-24,Gelateria Toscana,EPCOT,Affogato Al Cioccolato,Gelato Creations,Snack,"Homemade Hot Chocolate over Vanilla Gelato, Whipped Cream and a Pisselle Cookie",12.75,epcot/gelateria-toscana
+2026-11-24,Gelateria Toscana,EPCOT,Affogato Espresso Gelato,Gelato Creations,Snack,"Fresh Italian Espresso poured over Vanilla Gelato, Amaretto Cookies",12.75,epcot/gelateria-toscana
+2026-11-24,Gelateria Toscana,EPCOT,Zeppole Sundae,Gelato Creations,Snack,"Zeppole, Vanilla Gelato and Whipped Cream",12.75,epcot/gelateria-toscana
+2026-11-24,Gelateria Toscana,EPCOT,Cookie Sandwich,Pastiggeria,Snack,Homemade Cookie with Vanilla Gelato,12.00,epcot/gelateria-toscana
+2026-11-24,Gelateria Toscana,EPCOT,Cannoli Al Cioccolato,Pastiggeria,Snack,"Crisp Pastry filled with Sweet Ricotta, Chocolate, and Candied Orange",9.00,epcot/gelateria-toscana
+2026-11-24,Gelateria Toscana,EPCOT,Mocha Tiramisù,Pastiggeria,Snack,"Mascarpone Cream, Espresso Coffee, Savoiardi Biscuits, Chocolate",9.00,epcot/gelateria-toscana
+2026-11-24,Gelateria Toscana,EPCOT,San Benedetto,Beverages,Snack,Still or Sparkling,4.25,epcot/gelateria-toscana
+2026-11-24,Gelateria Toscana,EPCOT,Aranciata,Beverages,Snack,Orange Sparkling Italian Soda,6.00,epcot/gelateria-toscana
+2026-11-24,Gelateria Toscana,EPCOT,Limonata,Beverages,Snack,Lemon Sparkling Italian Soda,6.00,epcot/gelateria-toscana
+2026-11-24,Gelateria Toscana,EPCOT,Lemon Tea,Beverages,Snack,,6.00,epcot/gelateria-toscana
+2026-11-24,Gelateria Toscana,EPCOT,Peach Tea,Beverages,Snack,,6.00,epcot/gelateria-toscana
+2026-11-24,Gelateria Toscana,EPCOT,Assorted Fountain Beverages,Beverages,Snack,,5.00,epcot/gelateria-toscana
+2026-11-24,Gelateria Toscana,EPCOT,Espresso - Single,Coffee,Snack,,3.25,epcot/gelateria-toscana
+2026-11-24,Gelateria Toscana,EPCOT,Espresso - Double,Coffee,Snack,,5.00,epcot/gelateria-toscana
+2026-11-24,Gelateria Toscana,EPCOT,Cappuccino,Coffee,Snack,,6.50,epcot/gelateria-toscana
+2026-11-24,Gelateria Toscana,EPCOT,Caffe Latte,Coffee,Snack,,6.50,epcot/gelateria-toscana
+2026-11-24,Gelateria Toscana,EPCOT,Caffe Americano,Coffee,Snack,,5.50,epcot/gelateria-toscana
+2026-11-24,Gelateria Toscana,EPCOT,Homemade Hot Chocolate,Hot Beverages,Snack,"Hot Chocolate, Whipped Cream, Marshmallow",10.00,epcot/gelateria-toscana
+2026-11-24,Gelateria Toscana,EPCOT,Amalfi (21+),Limoncello Floats,Snack,"Limoncello Liqueur, Limoncello Gelato and fresh Raspberry",19.00,epcot/gelateria-toscana
+2026-11-24,Gelateria Toscana,EPCOT,Bronte (21+),Limoncello Floats,Snack,Creamy Pistachio Liqueur over Pistachio de Bronte Gelato,19.00,epcot/gelateria-toscana
+2026-11-24,Gelateria Toscana,EPCOT,Martini Mania (21+),Limoncello Floats,Snack,"Chocolate Gelato, Vodka, Coffee Liqueur and Crème de Cacao",17.00,epcot/gelateria-toscana
+2026-11-24,Gelateria Toscana,EPCOT,Italian Margarita,Granita Smoothies,Snack,"Frozen Limoncello, Tequila and Margarita",12.00,epcot/gelateria-toscana
+2026-11-24,Gelateria Toscana,EPCOT,Frozen Red Sangria,Granita Smoothies,Snack,,12.00,epcot/gelateria-toscana
+2026-11-24,Gelateria Toscana,EPCOT,Peroni Draft,Beer & Wine,Snack,,11.00,epcot/gelateria-toscana
+2026-11-24,Gelateria Toscana,EPCOT,Pinot Grigio,Beer & Wine,Snack,,11.50,epcot/gelateria-toscana
+2026-11-24,Gelateria Toscana,EPCOT,Chianti,Beer & Wine,Snack,,11.50,epcot/gelateria-toscana
+2026-11-24,Gelateria Toscana,EPCOT,Prosecco,Beer & Wine,Snack,,11.50,epcot/gelateria-toscana
+2026-11-24,Gelateria Toscana,EPCOT,Bellini,Cocktails,Snack,Peach purée and Prosecco Sparkling Wine,14.00,epcot/gelateria-toscana
+2026-11-24,Gelateria Toscana,EPCOT,Rossini,Cocktails,Snack,Strawberry purée and Prosecco Sparkling Wine,14.00,epcot/gelateria-toscana
+2026-11-24,Gelateria Toscana,EPCOT,Blue Lagoon Lemon-Sprits,Cocktails,Snack,"Prosecco, limoncello, Italian Lemonade and Blue Curaçao",14.00,epcot/gelateria-toscana
+2026-11-24,La Poutinerie—New!,EPCOT,Québec: L'Authentique,Entrées,Lunch And Dinner,"French Fries, Cheese Curds, Brown Gravy",10.99,epcot/la-poutinerie
+2026-11-24,La Poutinerie—New!,EPCOT,Montréal: Viande Fumée,Entrées,Lunch And Dinner,"French Fries, Cheese Curds, Smoked Meat, Pickles, Mustard Gravy",12.49,epcot/la-poutinerie
+2026-11-24,La Poutinerie—New!,EPCOT,Assorted Coca-Cola® Fountain Beverages,Beverages,Lunch And Dinner,,4.99,epcot/la-poutinerie
+2026-11-24,La Poutinerie—New!,EPCOT,DASANI® Bottled Water,Beverages,Lunch And Dinner,,4.25,epcot/la-poutinerie
+2026-11-24,La Poutinerie—New!,EPCOT,smartwater®,Beverages,Lunch And Dinner,,6.25,epcot/la-poutinerie
+2026-11-24,La Poutinerie—New!,EPCOT,Unibroue La Fin du Monde Belgian-style Tripel Ale,Alcoholic Beverages,Lunch And Dinner,,14.00,epcot/la-poutinerie
+2026-11-24,La Poutinerie—New!,EPCOT,Molson Canadian Lager,Alcoholic Beverages,Lunch And Dinner,,11.50,epcot/la-poutinerie
+2026-11-24,La Poutinerie—New!,EPCOT,"Domaine Ste. Michelle Brut, Columbia Valley",Alcoholic Beverages,Lunch And Dinner,,7.50,epcot/la-poutinerie
+2026-11-24,La Poutinerie—New!,EPCOT,Jackson-Triggs Reserve Red Blend,Alcoholic Beverages,Lunch And Dinner,,12.00,epcot/la-poutinerie
+2026-11-24,La Poutinerie—New!,EPCOT,"London, England: The English Pub Poutine",Festival of the Holidays Food Offering - Available Starting 11/27,Lunch And Dinner,"Chips, Cheese Curds, and Bangers topped with Caramelized Onion Gravy",11.99,epcot/la-poutinerie
+2026-11-24,La Poutinerie—New!,EPCOT,Northern Crimson Slushy,Festival of the Holidays Beverage Offering - Available Starting 11/27,Lunch And Dinner,Frozen Ginger Beer blended with Lively Lime and Tart Cranberry,6.29,epcot/la-poutinerie
+2026-11-24,La Poutinerie—New!,EPCOT,Northern Crimson Mule,Festival of the Holidays Alcoholic Beverage Offering - Available Starting 11/27,Lunch And Dinner,Frozen Ginger Beer blended with Lively Lime and Tart Cranberry with Vodka,15.00,epcot/la-poutinerie
+2026-11-24,Monsieur Paul,EPCOT,Dinner Price per Adult,Prix Fixe Menu Dégustation ,Dinner,"$195 per adult, plus tax and gratuity",195.00,epcot/monsieur-paul
+2026-11-24,Oasis Sweets & Sips,EPCOT,Pastry Assortment (per each),Pastries,Bar – Lounge,"Saragli, Almond Ghriba, Pistachio Baklava, Almond Crescent Cookie, Flogeres, Ergolavos, Kataifi, Almond Briouat, Basbousa, Coconut-Pistachio Ghriba, Kourabiedes Crescent, Mosaic Cookie",3.79,epcot/oasis-sweets-sips
+2026-11-24,Oasis Sweets & Sips,EPCOT,Pastry Assortment (Pick 3),Pastries,Bar – Lounge,"Saragli, Almond Ghriba, Pistachio Baklava, Almond Crescent Cookie, Flogeres, Ergolavos, Kataifi, Almond Briouat, Basbousa, Coconut-Pistachio Ghriba, Kourabiedes Crescent, Mosaic Cookie",6.79,epcot/oasis-sweets-sips
+2026-11-24,Oasis Sweets & Sips,EPCOT,Pastry Assortment (Pick 5),Pastries,Bar – Lounge,"Saragli, Almond Ghriba, Pistachio Baklava, Almond Crescent Cookie, Flogeres, Ergolavos, Kataifi, Almond Briouat, Basbousa, Coconut-Pistachio Ghriba, Kourabiedes Crescent, Mosaic Cookie",11.49,epcot/oasis-sweets-sips
+2026-11-24,Oasis Sweets & Sips,EPCOT,Pastry Assortment (Pick 7),Pastries,Bar – Lounge,"Saragli, Almond Ghriba, Pistachio Baklava, Almond Crescent Cookie, Flogeres, Ergolavos, Kataifi, Almond Briouat, Basbousa, Coconut-Pistachio Ghriba, Kourabiedes Crescent, Mosaic Cookie",15.79,epcot/oasis-sweets-sips
+2026-11-24,Oasis Sweets & Sips,EPCOT,Frozen Mint Tea,Non-Alcoholic Beverages,Bar – Lounge,,6.29,epcot/oasis-sweets-sips
+2026-11-24,Oasis Sweets & Sips,EPCOT,Frozen Citrus-Pomegranate Slushy,Non-Alcoholic Beverages,Bar – Lounge,,6.29,epcot/oasis-sweets-sips
+2026-11-24,Oasis Sweets & Sips,EPCOT,"Coca-Cola®, Diet Coke®, Sprite®",Non-Alcoholic Beverages,Bar – Lounge,,5.50,epcot/oasis-sweets-sips
+2026-11-24,Oasis Sweets & Sips,EPCOT,POWERADE®,Non-Alcoholic Beverages,Bar – Lounge,,5.50,epcot/oasis-sweets-sips
+2026-11-24,Oasis Sweets & Sips,EPCOT,smartwater®,Non-Alcoholic Beverages,Bar – Lounge,,6.25,epcot/oasis-sweets-sips
+2026-11-24,Oasis Sweets & Sips,EPCOT,DASANI® Bottled Water,Non-Alcoholic Beverages,Bar – Lounge,,4.25,epcot/oasis-sweets-sips
+2026-11-24,Oasis Sweets & Sips,EPCOT,Frozen Mint Tea,Specialty Beverages,Bar – Lounge,Served with Bombay Sapphire Gin,17.50,epcot/oasis-sweets-sips
+2026-11-24,Oasis Sweets & Sips,EPCOT,House-made Sangria,Specialty Beverages,Bar – Lounge,Red or White,16.00,epcot/oasis-sweets-sips
+2026-11-24,Oasis Sweets & Sips,EPCOT,Blood Orange Mimosa,Specialty Beverages,Bar – Lounge,,16.00,epcot/oasis-sweets-sips
+2026-11-24,Oasis Sweets & Sips,EPCOT,Frozen Citrus-Pomegranate Slushy Served with Grey Goose Vodka,Specialty Beverages,Bar – Lounge,Served with Absolut Mandarin Vodka,20.00,epcot/oasis-sweets-sips
+2026-11-24,Holiday Kitchen - Holiday Hearth Desserts,EPCOT,Milk Chocolate Minnie Bows and Mickey-shaped Nonpareils,Festival of the Holidays Food Offerings,Snack,,7.29,epcot/odyssey
+2026-11-24,Holiday Kitchen - Holiday Hearth Desserts,EPCOT,Peppermint Bark,Festival of the Holidays Food Offerings,Snack,,9.99,epcot/odyssey
+2026-11-24,Holiday Kitchen - Holiday Hearth Desserts,EPCOT,Apple-Caramel Crumb Cake,Festival of the Holidays Food Offerings,Snack,,5.19,epcot/odyssey
+2026-11-24,Holiday Kitchen - Holiday Hearth Desserts,EPCOT,Christmas Sugar Cookie - Holiday Cookie Stroll,Festival of the Holidays Food Offerings,Snack,Featuring M&M’S® Milk Chocolate Candies Holiday Blend,3.79,epcot/odyssey
+2026-11-24,Holiday Kitchen - Holiday Hearth Desserts,EPCOT,Hot Chocolate Mousse Cup,Festival of the Holidays Food Offerings,Snack,,5.79,epcot/odyssey
+2026-11-24,Holiday Kitchen - Holiday Hearth Desserts,EPCOT,Hot Cocoa by Joffrey’s Coffee™,Festival of the Holidays Beverage Offerings,Snack,,4.19,epcot/odyssey
+2026-11-24,Holiday Kitchen - Holiday Hearth Desserts,EPCOT,Frozen Caramel Hot Cocoa,Festival of the Holidays Beverage Offerings,Snack,featuring TWIX® Bits and Whipped Cream,5.59,epcot/odyssey
+2026-11-24,Holiday Kitchen - Holiday Hearth Desserts,EPCOT,"Wicked Weed Brewing Jack Frost IPA, Asheville, NC",Festival of the Holidays Beverages with Alcohol Offerings,Snack,,6.25,epcot/odyssey
+2026-11-24,Holiday Kitchen - Holiday Hearth Desserts,EPCOT,"Keel Farms Strawberry Snowflake Hard Cider, Plant City, FL",Festival of the Holidays Beverages with Alcohol Offerings,Snack,,6.25,epcot/odyssey
+2026-11-24,Holiday Kitchen - Holiday Hearth Desserts,EPCOT,"Central 28 Beer Company No Snowsuit Required S’mores Inspired Brown Ale, DeBary, FL",Festival of the Holidays Beverages with Alcohol Offerings,Snack,,6.25,epcot/odyssey
+2026-11-24,Holiday Kitchen - Holiday Hearth Desserts,EPCOT,"Blake’s Hard Cider Co. Nocturna Hard Cider, Armada, MI",Festival of the Holidays Beverages with Alcohol Offerings,Snack,,6.25,epcot/odyssey
+2026-11-24,Holiday Kitchen - Holiday Hearth Desserts,EPCOT,"Crooked Can Brewing Company Christmas Cookie Ale, Winter Garden, FL",Festival of the Holidays Beverages with Alcohol Offerings,Snack,,6.25,epcot/odyssey
+2026-11-24,Holiday Kitchen - Holiday Hearth Desserts,EPCOT,"3 Daughters Brewing Jingle Juice Hard Cider, St. Petersburg, FL",Festival of the Holidays Beverages with Alcohol Offerings,Snack,,6.25,epcot/odyssey
+2026-11-24,Holiday Kitchen - Holiday Hearth Desserts,EPCOT,Beer Flight also available,Festival of the Holidays Beverages with Alcohol Offerings,Snack,,13.50,epcot/odyssey
+2026-11-24,Holiday Kitchen - Holiday Hearth Desserts,EPCOT,Hard Cider Flight also available,Festival of the Holidays Beverages with Alcohol Offerings,Snack,,13.50,epcot/odyssey
+2026-11-24,Holiday Kitchen - Holiday Hearth Desserts,EPCOT,Hot Cocoa by Joffrey’s Coffee™,Festival of the Holidays Beverages with Alcohol Offerings,Snack,with DeKuyper Peppermint Schnapps Liqueur,12.50,epcot/odyssey
+2026-11-24,Pizza al Taglio,EPCOT,Pizza Pepperoni,Traditional,Lunch And Dinner,Pepperoni Pizza with Tomato Sauce and Mozzarella,9.25,epcot/pizza-taglio
+2026-11-24,Pizza al Taglio,EPCOT,Pizza Margherita,Traditional,Lunch And Dinner,Cheese Pizza with Tomato Sauce and Mozzarella,9.00,epcot/pizza-taglio
+2026-11-24,Pizza al Taglio,EPCOT,Seasonal Tiramisú,Traditional,Lunch And Dinner,,8.00,epcot/pizza-taglio
+2026-11-24,Pizza al Taglio,EPCOT,Italian Mineral Water,Cold Beverages,Lunch And Dinner,,4.50,epcot/pizza-taglio
+2026-11-24,Pizza al Taglio,EPCOT,Assorted Fountain Beverages,Cold Beverages,Lunch And Dinner,"Coke®, Diet Coke®, Sprite®",5.50,epcot/pizza-taglio
+2026-11-24,Pizza al Taglio,EPCOT,Frozen Wild Blueberry,Cold Beverages,Lunch And Dinner,Non-alcoholic Pina Colada and Strawberry Juice,8.50,epcot/pizza-taglio
+2026-11-24,Pizza al Taglio,EPCOT,Italian Seasonal Bottled Beer,Beer,Lunch And Dinner,11.2oz,14.00,epcot/pizza-taglio
+2026-11-24,Pizza al Taglio,EPCOT,Peroni Draft,Beer,Lunch And Dinner,12oz,12.00,epcot/pizza-taglio
+2026-11-24,Pizza al Taglio,EPCOT,Michelob Ultra Draft,Beer,Lunch And Dinner,12oz,13.00,epcot/pizza-taglio
+2026-11-24,Pizza al Taglio,EPCOT,Bud Light Draft,Beer,Lunch And Dinner,12oz,11.00,epcot/pizza-taglio
+2026-11-24,Pizza al Taglio,EPCOT,"Chianti, Terre di Bacco",Wines,Lunch And Dinner,,12.00,epcot/pizza-taglio
+2026-11-24,Pizza al Taglio,EPCOT,Langhe Terre di Bacco,Wines,Lunch And Dinner,,13.00,epcot/pizza-taglio
+2026-11-24,Pizza al Taglio,EPCOT,Sauvignon Terre di Bacco,Wines,Lunch And Dinner,,13.00,epcot/pizza-taglio
+2026-11-24,Pizza al Taglio,EPCOT,"Gavi, Batasiolo",Wines,Lunch And Dinner,,12.50,epcot/pizza-taglio
+2026-11-24,Pizza al Taglio,EPCOT,"Moscato, Saracco",Wines,Lunch And Dinner,,12.50,epcot/pizza-taglio
+2026-11-24,Pizza al Taglio,EPCOT,"Prosecco, Terre di Bacco",Wines,Lunch And Dinner,,12.00,epcot/pizza-taglio
+2026-11-24,Pizza al Taglio,EPCOT,Limoncello Mule,Cocktails,Lunch And Dinner,"Wild Sardinia vodka, Limoncello, Orange Juice, Pineapple Juice, Peach Purée, Lime Juice and Ginger Beer",19.00,epcot/pizza-taglio
+2026-11-24,Pizza al Taglio,EPCOT,Bellini,Cocktails,Lunch And Dinner,"Prosecco, Sparkling Wine and Peach Purée",15.00,epcot/pizza-taglio
+2026-11-24,Pizza al Taglio,EPCOT,Prosecco Frozen White Sangria,Cocktails,Lunch And Dinner,,12.50,epcot/pizza-taglio
+2026-11-24,Pizza al Taglio,EPCOT,Langhe Frozen Red Sangria,Cocktails,Lunch And Dinner,,12.50,epcot/pizza-taglio
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,Stitch Christmas Tree Sipper,Holiday Exclusive Souvenirs,Lunch And Dinner,"Includes any Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. Available while supplies last.",22.99,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,Holiday Chip 'n Dale Candy Cane Straw Clip,Holiday Exclusive Souvenirs,Lunch And Dinner,"Includes any Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. Available while supplies last.",13.48,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,Annual Passholder Tumbler,Annual Passholder Exclusive,Lunch And Dinner,Served with choice of Fountain Beverage. Not valid for refills.,14.79,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,BBQ Platter,Entrées,Lunch And Dinner,"Memphis Dry-rubbed Pork Ribs, North Carolina Chopped Smoked Pork Butt, and Smoked Sausage served with Cornbread and choice of Side",18.49,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,BBQ Burger,Entrées,Lunch And Dinner,"1/3 lb Angus Burger on Garlic Toast topped with BBQ Pork, Lettuce, Tomato, Garlic Aïoli, and Fried Onion Ring served with your choice of Side",16.49,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,Sliced Texas Beef Brisket Sandwich,Entrées,Lunch And Dinner,House-smoked Beef Brisket Sandwich on Garlic Toast served with choice of Side,15.99,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,Kansas City Smoked Half Chicken,Entrées,Lunch And Dinner,Served with Cornbread and choice of Side,16.49,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,North Carolina Chopped Smoked Pork Butt Platter,Entrées,Lunch And Dinner,Cornbread and choice of Side,13.99,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,House Wedge Salad with Smoked Chicken,Entrées,Lunch And Dinner,"Hearts of Romaine, Tomato, Red Onions, Smokey Ranch, and Cornbread Croutons with Smoked Chicken",12.99,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,House Wedge Salad with Pulled BBQ Pork,Entrées,Lunch And Dinner,"Hearts of Romaine, Tomato, Red Onions, Smokey Ranch, and Cornbread Croutons with Pulled BBQ Pork",12.99,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,Plant-based Chili Baked Potato,Plant-based,Lunch And Dinner,"Topped with Plant-based Cheese, Plant-based Sour Cream, Benne Seed-Herb Sauce, and Scallions with choice of Side",13.49,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,Brewmaster's Fries,Sides,Lunch And Dinner,Seasoned Fries topped with Beer Cheese Sauce,6.99,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,Macaroni & Cheese,Sides,Lunch And Dinner,,5.49,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,Beer-battered Onion Rings,Sides,Lunch And Dinner,,5.49,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,Seasoned French Fries,Sides,Lunch And Dinner,,5.49,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,Baked Beans with Burnt Ends,Sides,Lunch And Dinner,,5.49,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,Cornbread,Sides,Lunch And Dinner,,5.49,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,Coleslaw,Sides,Lunch And Dinner,,4.99,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,Apple Pie Gelato Shake with Moonshine,Specialty Cocktail,Lunch And Dinner,Apple Pie Gelato and Ole Smoky Apple Pie Moonshine topped with Whipped Cream and Cinnamon,18.00,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,Tennessee Lemonade,Specialty Cocktail,Lunch And Dinner,Jack Daniel's Tennessee Whiskey with Minute Maid® Premium Lemonade and Peach,18.00,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,"Samuel Adams Boston Lager - Boston, MA",Beer,Lunch And Dinner,"20-oz Draft - Golden-colored with flavors that are dry, clean, crisp, and refreshing with subtle bitterness",13.25,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,"Cigar City Jai Alai IPA - Tampa, FL",Beer,Lunch And Dinner,20-oz Draft - This bigger brother to the Pale Ale employs a significant amount of hops with high bitterness and citrus and floral aromas,13.25,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,"Angry Orchard Crisp Apple Hard Cider – Cincinnati, OH",Beer,Lunch And Dinner,16-oz Can - Sweet and refreshing. A favorite since Colonial times,11.00,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,"Bell’s Seasonal Wheat Ale - Comstock, MI",Beer,Lunch And Dinner,"20-oz Draft - wheat ale, mixing a spicy hop character with mildly fruity aromas",13.25,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,Apple Pie Gelato Shake,Beverages,Lunch And Dinner,Apple Pie Gelato topped with Whipped Cream and Cinnamon,6.49,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,Berry Punch,Beverages,Lunch And Dinner,"White Grape Juice with Strawberry, Peach, and Blackberry",5.79,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,Large Freshly Brewed Joffrey's Coffee™ Decaf,Beverages,Lunch And Dinner,,5.29,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,Large Freshly Brewed Joffrey's Coffee™ Regular,Beverages,Lunch And Dinner,,5.29,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,Large Hot Cocoa,Beverages,Lunch And Dinner,,5.19,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,Large Twinings® Hot Tea,Beverages,Lunch And Dinner,,5.29,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,Assorted Coca-Cola® Fountain Beverages,Beverages,Lunch And Dinner,Assorted Coca-Cola® Offerings,4.99,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,Freshly Brewed Joffrey's Coffee™ Decaf,Beverages,Lunch And Dinner,,4.99,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,Freshly Brewed Joffrey's Coffee™ Regular,Beverages,Lunch And Dinner,,4.99,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,Hot Cocoa by Joffrey's Coffee™,Beverages,Lunch And Dinner,,4.79,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,Twinings® Hot Tea,Beverages,Lunch And Dinner,,4.99,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,DASANI® Bottled Water,Beverages,Lunch And Dinner,,4.25,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,Chocolate Milk,Beverages,Lunch And Dinner,,2.59,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,Lowfat Milk,Beverages,Lunch And Dinner,,2.59,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,Banana Pudding,Dessert,Lunch And Dinner,,5.49,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,S’mores Bar,Dessert,Lunch And Dinner,"Fudge Brownie, Dark Chocolate, Toasted Meringue, and Smoked Graham Cracker",5.49,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,Seasonal Fruit,Dessert,Lunch And Dinner,,4.99,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,Cheeseburger,Kid's Disney Check Meal,Lunch And Dinner,Grilled Angus Burger topped with American Cheese served with two (2) Sides of Seasonal Fruit and choice of Small Lowfat Milk or Small DASANI® Bottled Water,9.49,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,Salad with Chicken,Kid's Disney Check Meal,Lunch And Dinner,"Chopped Romaine with Chilled Pulled Chicken, Tomato, Cucumber, and a choice of Small Lowfat Milk or Small DASANI® Bottled Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions.",8.29,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,Chicken Strips,Kid's Meal,Lunch And Dinner,"Served with Coleslaw, Seasonal Fruit, and choice of Small Lowfat Milk or Small DASANI® Bottled Water",9.49,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,Macaroni & Cheese,Kid's Meal,Lunch And Dinner,Oven-baked Macaroni and White Cheddar served with two (2) Sides of Seasonal Fruit and choice of Small Lowfat Milk or Small DASANI® Bottled Water,7.49,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,PB&J Uncrustables,Kid's Meal,Lunch And Dinner,Served with two (2) Sides of Seasonal Fruit and choice of Small Lowfat Milk or Small DASANI® Bottled Water,7.29,epcot/regal-eagle-smokehouse
+2026-11-24,Regal Eagle Smokehouse: Craft Drafts & Barbecue,EPCOT,Chocolate-covered Cherry Shake,Festival of the Holidays Beverage Offerings - Available Starting 11/27,Lunch And Dinner,topped with Whipped Cream (non-alcoholic),6.79,epcot/regal-eagle-smokehouse
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Tuna*,Nigiri,Lunch; Dinner,,8.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Bluefin Tuna Akami*,Nigiri,Lunch; Dinner,Fresh from Japan,16.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Bluefin Tuna Chutoro*,Nigiri,Lunch; Dinner,Fresh from Japan,22.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Bluefin Tuna Toro*,Nigiri,Lunch; Dinner,Fresh from Japan,26.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Hamachi*,Nigiri,Lunch; Dinner,Yellowtail,9.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Madai*,Nigiri,Lunch; Dinner,Japanese Sea Bream,9.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Salmon*,Nigiri,Lunch; Dinner,,8.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Shime Saba*,Nigiri,Lunch; Dinner,Mackerel,7.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Amaebi*,Nigiri,Lunch; Dinner,Sweet Shrimp,16.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Hotate*,Nigiri,Lunch; Dinner,Scallops,12.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Tako,Nigiri,Lunch; Dinner,Octopus,7.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Tamago,Nigiri,Lunch; Dinner,Egg,7.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Unagi,Nigiri,Lunch; Dinner,Freshwater Eel,8.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Ikura*,Nigiri,Lunch; Dinner,Salmon Roe,18.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Masago*,Nigiri,Lunch; Dinner,Smelt Roe,7.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Negitoro*,Nigiri,Lunch; Dinner,Green onions & Minced Bluefin Tuna,14.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Ebi,Nigiri,Lunch; Dinner,Cooked Shrimp,10.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Uni*,Nigiri,Lunch; Dinner,Sea Urchin 1 piece,24.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Yari Ika*,Nigiri,Lunch; Dinner,Squid spear,10.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Aji*,Nigiri,Lunch; Dinner,Japanese Horse Mackerel,9.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Aji Combo*,Sashimi,Lunch; Dinner,Japanese Horse Mackerel Nigiri and Sashimi,38.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Tuna*,Sashimi,Lunch; Dinner,,18.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Salmon*,Sashimi,Lunch; Dinner,,18.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Sashimi Moriawase A*,Sashimi,Lunch; Dinner,,50.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Sashimi Moriawase B*,Sashimi,Lunch; Dinner,,100.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Temaki Sushi Set A*,Sashimi,Lunch; Dinner,"""Create your own"" handrolled sushi with a variety of proteins and fillings",18.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Temaki Sushi Set B*,Sashimi,Lunch; Dinner,"""Create your own"" handrolled sushi with a variety of proteins and fillings",38.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Ume*,Sushi Combination,Lunch; Dinner,,25.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Take*,Sushi Combination,Lunch; Dinner,,50.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Matsu*,Sushi Combination,Lunch; Dinner,,100.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Hashi - Bridge*,Sushi Combination,Lunch; Dinner,"""Bridge presentation"" featuring an assortment of sushi and sashimi",100.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Fune - Boat*,Sushi Combination,Lunch; Dinner,"""Boat presentation"" showcasing a premium assortment of sushi and sashimi",300.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Kobore Sushi*,Special Roll,Lunch; Dinner,"""Overflowing sushi."" Negi toro, tuna, and salmon roe with green onion",30.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Dragon Roll*,Special Roll,Lunch; Dinner,"Barbecued freshwater eel, avocado, cucumber, and shrimp tempura",29.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Tokyo Negi Roll*,Special Roll,Lunch; Dinner,"Green onion tempura rolled with tuna tataki and topped with jalapeño aïoli, shredded carrot, and sliced jalapeño",20.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Spicy Crunch Roll*,Special Roll,Lunch; Dinner,"Spicy tuna & avocado topped with smelt roe, tempura crunch, and volcano sauce",18.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Grilled Eel Roll,Special Roll,Lunch; Dinner,"Sushi roll with eel inside, surface grilled, then topped with mayonnaise, eel sauce, and aonori seaweed",20.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Grilled Seafood Roll,Special Roll,Lunch; Dinner,"California roll cooked on a hot griddle, sauteed with shrimp and squid, and topped with volcano sauce and green onions",26.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Vegetable Roll,Special Roll,Lunch; Dinner,"Vegetable sushi roll with avocado, carrot, cucumber, kanpyo (dried gourd) and ginger inside",8.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Rainbow Roll*,Special Roll,Lunch; Dinner,"California roll topped with cucumber, tuna, salmon and hamachi in a rainbow of color",24.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Philadelphia Roll*,Rolls,Lunch; Dinner,Cream cheese and salmon,16.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Snow Crab California Roll*,Rolls,Lunch; Dinner,"Snow crab, mayo, avocado, masago, and cucumber",18.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Spicy Tuna Roll*,Rolls,Lunch; Dinner,Spicy tuna mix and avocado,16.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Shrimp Tempura Roll,Rolls,Lunch; Dinner,"Shrimp tempura, cucumber, and eel sauce",18.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Avocado Roll,Rolls,Lunch; Dinner,,8.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Salmon Roll*,Rolls,Lunch; Dinner,,13.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Maguro Tataki*,Izakaya Classics,Lunch; Dinner,Seared tuna with zesty citrus ponzu sauce,24.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Takoyaki,Izakaya Classics,Lunch; Dinner,"Fried batter filled with octopus, topped with spicy mayo and tonkatsu sauce",10.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Kara-Age Chicken,Izakaya Classics,Lunch; Dinner,Japanese-style fried chicken flavored with garlic and ginger and served with lemon,12.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Miso Soup,Izakaya Classics,Lunch; Dinner,"With wakame, tofu, and scallions",6.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Clam Miso Soup,Izakaya Classics,Lunch; Dinner,Miso soup enhanced with clams,10.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Tsukemono,Izakaya Classics,Lunch; Dinner,Pickled crispy Japanese vegetables,7.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Edamame,Izakaya Classics,Lunch; Dinner,"Steamed soybeans seasoned with your choice of seasoning (Maldon Sea Salt, Spicy Garlic, Wasabi)",8.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Eggplant,Izakaya Classics,Lunch; Dinner,Topped with miso sauce,9.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,House-Made Salad*,Izakaya Classics,Lunch; Dinner,"A salad of lettuce, carrots, tomatoes, wakame seaweed, masago, and tenkasu prepared at the table",9.90,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Sakamushi Clam,Izakaya Classics,Lunch; Dinner,Steamed clams in a sake-infused broth,18.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Rock Shrimp Tempura,Izakaya Classics,Lunch; Dinner,Crispy shrimp tossed in creamy yuzu sauce,24.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Ika Geso,Izakaya Classics,Lunch; Dinner,Fried squid tentacles served with spicy aioli,18.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Fish Tempura,Izakaya Classics,Lunch; Dinner,Seasonal fish in light batter,18.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Grilled Wagyu Gyoza,Izakaya Classics,Lunch; Dinner,Pan fried dumplings filled with smoky American wagyu beef,21.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Agedashi Tofu,Izakaya Classics,Lunch; Dinner,Deep-fried tofu with shimeji mushrooms in a flavorful broth,14.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Vegetable Tempura,Izakaya Classics,Lunch; Dinner,Battered and fried seasonal vegetables,15.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Chicken Nanban,Izakaya Classics,Lunch; Dinner,"Deep-fried, tossed in soy sauce and served with tartar sauce",16.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Salmon Miso Yaki,Izakaya Classics,Lunch; Dinner,Grilled and miso-glazed,22.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Kushi Assorted,Izakaya Classics,Lunch; Dinner,"Six of our signature skewers featuring two each of beef, chicken, and shrimp",30.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Vegetable Kushi Assorted,Izakaya Classics,Lunch; Dinner,"6 types, set of 8",30.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Wagyu Steak*,Wagyu,Lunch; Dinner,Grilled steak with potatoes and shishito peppers,88.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Wagyu Nigiri*,Wagyu,Lunch; Dinner,Lightly seared wagyu nigiri with a spicy touch,79.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Wagyu Tataki*,Wagyu,Lunch; Dinner,Lightly seared wagyu with ponzu sauce.,77.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Wagyu Don*,Wagyu,Lunch; Dinner,Grilled wagyu steak over rice with savory gravy,79.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Oyakodon (Chicken & Egg Rice Bowl),Rice & Noodles,Lunch; Dinner,A bowl of chicken and onions simmered in dashi broth with egg. Topped with seven spice chili and green onions,28.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Tendon (Tempura Rice Bowl),Rice & Noodles,Lunch; Dinner,A bowl of rice topped with tempura and teriyaki sauce.,28.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Okonomiyaki,Rice & Noodles,Lunch; Dinner,Japanese savory pancake filled with bacon,28.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Vegetable Okonomiyaki,Rice & Noodles,Lunch; Dinner,Veggie-filled okonomiyaki,25.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Beef Yaki Udon,Rice & Noodles,Lunch; Dinner,Stir-fried udo noodles tossed with beef and vegetables,28.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Beef Omu Udon,Rice & Noodles,Lunch; Dinner,Yaki-udon folded into an omelet,28.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Vegetable Udon,Rice & Noodles,Lunch; Dinner,"Udon soup with mushroom, yuba, and spinach",24.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Kamo Udon*,Rice & Noodles,Lunch; Dinner,Udon noodles topped with slices of braised duck,30.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Unagi Don A,Rice & Noodles,Lunch; Dinner,Grilled freshwater eel served over KINSITAMAGO(thin egg strips) on a bed of steamed rice. Drizzled with a savory sauce,24.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Unagi Don B,Rice & Noodles,Lunch; Dinner,Grilled freshwater eel served over KINSITAMAGO(thin egg strips) on a bed of steamed rice. Drizzled with a savory sauce,43.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Kaisen Don*,Rice & Noodles,Lunch; Dinner,Chef's choice fish served over rice,38.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Spicy Tuna Don*,Rice & Noodles,Lunch; Dinner,Sliced tuna over a bowl of rice (Gluten-free),28.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Kids Bento*,Kids' Menu,Lunch; Dinner,A balanced meal set with a variety of proteins and sides,20.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Kids' Plate,Kids' Menu,Lunch; Dinner,"A set of salad, fruits, and proteins across other specialties arranged on a super cool bullet train!",14.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Ichigo Parfait,Dessert,Lunch; Dinner,"Layers of luscious strawberries, cheesecake, and vanilla ice cream",18.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Mango Mousse Cake,Dessert,Lunch; Dinner,Mango mousse finished with a sweet mango glaze,10.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Yuzu Cheese Cake,Dessert,Lunch; Dinner,Creamy delight with a hint of tangy citrus zest,10.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Mochi Ice Cream,Dessert,Lunch; Dinner,Ice cream rolled in gyuhi with a mochi texture,10.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Soft-Serve Ice Cream,Dessert,Lunch; Dinner,Vanilla / Green Tea / Swirl,6.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Green Tea,Soft Drink,Lunch; Dinner,,5.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Ramune,Soft Drink,Lunch; Dinner,Japanese soda in its distinctive bottle with a marble seal,8.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Coca-Cola Products,Soft Drink,Lunch; Dinner,,5.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Milk,Soft Drink,Lunch; Dinner,,5.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Violet Yuzu Lemonade,Mocktail,Lunch; Dinner,"Yuzu juice, lemonade, blue butterfly pea flower",12.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Melon Ball,Mocktail,Lunch; Dinner,A sweet honeydew drink with delicious strawberry popping boba,12.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Okinawa Wave,Mocktail,Lunch; Dinner,Blue curacao and Calpico flavored mocktail the color of the Okinawan ocean,12.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Calpico Dragon,Mocktail,Lunch; Dinner,Pink ombre-colored mocktail with dragon fruit and Calpico,12.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Sapporo Draft,Beer,Lunch; Dinner,,14.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Kirin Draft,Beer,Lunch; Dinner,,14.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Kirin Light,Beer,Lunch; Dinner,,12.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Shiki-Sai Seasonal Draft,Beer,Lunch; Dinner,A rotating selection of seasonal craft beers. Please inquire with your server about our current selection,15.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Beer Flight,Beer,Lunch; Dinner,"A sampling of 6oz Kirin, Sapporo, and our seasonal craft beer for your tasting pleasure",25.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Dassai Blue 35 - Otter Festival,Sake,Lunch; Dinner,,25.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Tensei - Infinite Summer,Sake,Lunch; Dinner,,20.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Sho-Une,Sake,Lunch; Dinner,,20.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Karatamba,Sake,Lunch; Dinner,,12.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Moon on the Water,Sake,Lunch; Dinner,,20.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Hana Kohaku Cherry,Sake,Lunch; Dinner,,14.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Hakutsuru Plum Wine,Sake,Lunch; Dinner,,14.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Sho Chiku Bai Nigori Sake,Sake,Lunch; Dinner,,11.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Pineapple Nigori,Sake,Lunch; Dinner,,14.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Sake Flight,Sake,Lunch; Dinner,,30.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Deep Blue Sea,Cocktail,Lunch; Dinner,"A slightly sour cocktail made with Haku Vodka, cranberry juice, lemon juice, and blue curaçao",18.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Lychee Martini,Cocktail,Lunch; Dinner,A sweet lychee cocktail that offers a refreshing taste made with Haku Vodka,18.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Toki Highball (Sweet),Cocktail,Lunch; Dinner,A sweet whiskey seltzer combining cherry with Suntory Toki Whiskey,18.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Toki Highball (Bitter),Cocktail,Lunch; Dinner,A refreshing whiskey seltzer made with Suntory Toki Whiskey,18.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Mt. Fuji,Cocktail,Lunch; Dinner,Refreshing sake cocktail with blue curacao and pineapple,16.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Tokyo Sunset,Cocktail,Lunch; Dinner,"Sunset-colored cocktail with pineapple, coconut rum with a splash of grenadine",16.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Violet Sake,Cocktail,Lunch; Dinner,Popular violet-colored sake cocktail,16.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Sake Sangria,Cocktail,Lunch; Dinner,Fruit-infused sake cocktail,16.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Summer's End,Cocktail,Lunch; Dinner,"Summery, refreshing sake cocktail with strawberry, sake, apple juice, and a splash of citrus juice",16.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Cocktail Flight,Cocktail,Lunch; Dinner,"A 6oz of our popular Shiki-Sai sampling set featuring Violet Sake, Tokyo Sunset, and Mt. Fuji - curated for your tasting pleasure",25.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Toki,Japanese Craft Spirits,Lunch; Dinner,,15.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Roku,Japanese Craft Spirits,Lunch; Dinner,,15.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Haku,Japanese Craft Spirits,Lunch; Dinner,,15.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Ginza Suzume,Japanese Craft Spirits,Lunch; Dinner,,10.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Legent,Japanese Craft Spirits,Lunch; Dinner,,15.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Bacardi,Spirits,Lunch; Dinner,,12.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Ketel One,Spirits,Lunch; Dinner,,12.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,Jose Cuervo Gold,Spirits,Lunch; Dinner,,12.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,"Munn Napa Prestige Brut, Napa, CA",Wine,Lunch; Dinner,,80.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,"Zenato Pino Grigio delle Venezie, Veneto, Italy",Wine,Lunch; Dinner,,52.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Shiki-Sai: Sushi Izakaya,EPCOT,"Rainstorm Pinot Noir, Willamette Valley, OR",Wine,Lunch; Dinner,,52.00,epcot/shiki-sai-izakaya-and-sushi
+2026-11-24,Space 220 Restaurant,EPCOT,Adult Lunch Pricing,Space 220 Adult Pricing,Lunch,Select one of each: Star Course (Entrée) + Supernova Sweets (Desserts),55.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,Starry Calamari,Lift-Offs,Lunch,"Fried Calamari, Italian Cherry Peppers, Spicy Marinara, Roasted Pepper Citrus Aioli",19.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,Blue Moon Cauliflower,Lift-Offs,Lunch,"Tempura Fried Cauliflower, Housemade Hot Sauce, Blue Cheese Dust",17.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,Centauri Caesar Salad,Lift-Offs,Lunch,"Caesar salad with blackened sliced beef tenderloin. Substitute chicken, salmon or shrimp upon request",14.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,Phantom Galaxy Beets,Lift-Offs,Lunch,"Petite Rosette Lettuce, Herb Pesto, Hazelnuts, Caramelized Goat Cheese",14.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,Big Bang Bocconcini,Lift-Offs,Lunch,"Mozzarella, Watermelon, Heirloom Tomatoes, Avocado, Basil Cream",15.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,Apollo 16 Shrimp Tacos*,Lift-Offs,Lunch,"Marinated Shrimp, Tomato, Shallots, Crispy Wonton Shell",18.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,Roasted Fingerling Potatoes,Satellite Sides,Lunch; Dinner,,9.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,Truffled Herb Parmesan Thin-Cut Fries,Satellite Sides,Lunch; Dinner,,9.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,Roasted Carrots,Satellite Sides,Lunch; Dinner,,9.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,Chili-Garlic Broccolini,Satellite Sides,Lunch; Dinner,,9.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,Caramelized Brussels Sprouts with Balsamic and Parmesan,Satellite Sides,Lunch; Dinner,,9.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,Children's Lunch Pricing,Kids' Space 220 Pricing,Lunch,Select one of each: Star Course (Entrée) + Supernova Sweets (Dessert) + Celestial Beverages (Drink),29.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,Moon Rocks,Kids' Zero-Proof Sippers,Lunch; Dinner,"Lemonade, Blue Cotton Candy Syrup, Coconut, served in a special Space 220 collectible cup with collectible cards",13.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,Starship Lemonade,Kids' Zero-Proof Sippers,Lunch; Dinner,"Strawberry, Watermelon, Lemonade, Glow Cube, served in a special Space 220 collectible cup with collectible cards",16.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,Up All Night,Dessert Drinks,Lunch; Dinner,"Absolute Vanilla, Chilled Espresso, Kahlúa, Crème de Cacao",18.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,Coffee,Dessert Drinks,Lunch; Dinner,,4.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,Espresso,Dessert Drinks,Lunch; Dinner,,4.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,Double Espresso,Dessert Drinks,Lunch; Dinner,,6.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,Cappuccino,Dessert Drinks,Lunch; Dinner,,7.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,Latte,Dessert Drinks,Lunch; Dinner,,7.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,Galaxy Spritz,Atmospheric Spirits,Lunch; Dinner,"Lagoon Bay Aperitif, Lychee Liqueur, Lemon Juice, Prosecco",18.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,Black Hole Fashioned,Atmospheric Spirits,Lunch; Dinner,"Buffalo Trace bourbon, Demerara, Whiskey-Barrel-Aged Bitters",20.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,Illumination,Atmospheric Spirits,Lunch; Dinner,"Bacardi rum, Malibu rum, Passion Fruit, Blood Orange, Pineapple, Lime Sour, Passion Fruit Boba",18.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,M4RG4R1TA,Atmospheric Spirits,Lunch; Dinner,"Blanco Tequila, Watermelon Lime, Organic Agave, Salted Lime Foam",18.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,Ligo-rita,Atmospheric Spirits,Lunch; Dinner,"Chrome Horse Blanco Tequila, Grand Marnier, Lime, Agave (clarified)",24.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,Command Center,Atmospheric Spirits,Lunch; Dinner,"Conniption Kinship Gin, St-Germain Elderflower Liqueur, Lemon Juice, Freeze-dried Raspberries",17.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,Space Age Mule,Atmospheric Spirits,Lunch; Dinner,"Wheatley Vodka, key lime pie liqueur, Lime Juice, Ginger Beer",18.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,Shuttle Crew,Atmospheric Spirits,Lunch; Dinner,"Kettle One Peach and Orange Blossom Vodka, Vanilla, Tangerine, Red Bull and Tang Foam",18.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,Gamma Burst,Atmospheric Spirits,Lunch; Dinner,"Grey Goose Strawberry and Lemongrass vodka, Midori Melon Liqueur, Strawberry Popping Pearls",19.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,Moon Shot,Atmospheric Spirits,Lunch; Dinner,"WhistlePig 10-Year Rye, Angostura Amaro, Demerara, mole bitters",36.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,Up All Night,Atmospheric Spirits,Lunch; Dinner,"Absolute Vanilla, Chilled Espresso, Kahlúa, Crème de Cacao",18.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,Michelob Ultra Draft,Crew Brews,Lunch; Dinner,,10.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,Stevens Point Centauri Amber Lager Draft,Crew Brews,Lunch; Dinner,,12.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,Blue Moon Draft,Crew Brews,Lunch; Dinner,,11.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,Sierra Nevada Hazy Little IPA Draft,Crew Brews,Lunch; Dinner,,11.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,Stella Artois,Crew Brews,Lunch; Dinner,,10.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,Bud Light,Crew Brews,Lunch; Dinner,,9.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,Corona,Crew Brews,Lunch; Dinner,,10.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,Modelo Especial,Crew Brews,Lunch; Dinner,,9.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,Heineken 0.0,Crew Brews,Lunch; Dinner,,10.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,Rotating Space Beer,Crew Brews,Lunch; Dinner,,12.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,"Prosecco Terre Di Bacco, Treviso, Italy",Sparkling Worldly Wines,Lunch; Dinner,,16.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,"Sparkling Scharffenberger, Mendocino County, CA",Sparkling Worldly Wines,Lunch; Dinner,,17.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,"Moscato Batasiolo Moscato d’Asti, Italy",White/Rosé Worldly Wines,Lunch; Dinner,,15.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,"Pinot Grigio Santa Margherita, Alto Adige, Italy",White/Rosé Worldly Wines,Lunch; Dinner,,17.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,"Sauvignon Blanc Kim Crawford, Marlborough, NZ",White/Rosé Worldly Wines,Lunch; Dinner,,17.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,"Chardonnay Talbott Kali Hart, Monterey, CA",White/Rosé Worldly Wines,Lunch; Dinner,,17.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,"Rosé BY.OTT, Cotes de Provence, French Riviera, France",White/Rosé Worldly Wines,Lunch; Dinner,,18.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,"Pinot Noir Böen, Russian River, CA",Red Worldly Wines,Lunch; Dinner,,19.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,"Merlot Decoy, Sonoma, CA",Red Worldly Wines,Lunch; Dinner,,16.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,"Red Blend The Prisoner, Napa Valley, CA",Red Worldly Wines,Lunch; Dinner,,27.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,"Malbec Uno, Mendoza, Argentina",Red Worldly Wines,Lunch; Dinner,,16.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,"Cabernet Sauvignon Zero Gravity, Lodi, CA",Red Worldly Wines,Lunch; Dinner,,17.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,Moon Rocks,Zero-Proof Cocktails,Lunch; Dinner,"Lemonade, Blue Cotton Candy syrup, Coconut, Pineapple Juice, and includes Collectible Cards",13.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,Starship Lemonade,Zero-Proof Cocktails,Lunch; Dinner,"Strawberry, Watermelon, Lemonade, Glow Cube, and includes Collectible Cards",16.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,Adult Dinner Pricing,Space 220 Adult Pricing,Dinner,Select one of each: Lift-Offs (Appetizer) + Star Course (Entrée) + Supernova Sweets (Dessert),84.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,1.5 lbs Stuffed Baked Whole Lobster*,Space Station Supplementals,Dinner,"Roasted Corn, Crab, Mornay Sauce, Broccolini. Supplemental to the Prix fixe menu.",22.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,24 oz. Bone-in Rib Eye*,Space Station Supplementals,Dinner,"Montreal steak seasoned, Fingerling Potatoes, Asparagus, Cippolini Onion. Supplemental to the Prix fixe menu.",20.00,epcot/space-220
+2026-11-24,Space 220 Restaurant,EPCOT,Children's Dinner Pricing,Kids' Space 220 Pricing,Dinner,Select one of each: Lift-offs (Appetizer) + Star Course (Entrée) + Supernova Sweets (Dessert) + Celestial Beverages (Drink),35.00,epcot/space-220
+2026-11-24,Space 220 Lounge,EPCOT,Starry Calamari,Flight Bites,Lunch; Dinner,"Fried Calamari, Italian Cherry Peppers, Spicy Marinara, Roasted Pepper Citrus Aioli",19.00,epcot/space-220-lounge
+2026-11-24,Space 220 Lounge,EPCOT,Apollo 16 Shrimp Tacos*,Flight Bites,Lunch; Dinner,"Marinated Shrimp, Tomato, Shallots, Crispy Wonton Shell",18.00,epcot/space-220-lounge
+2026-11-24,Space 220 Lounge,EPCOT,Blue Moon Cauliflower,Flight Bites,Lunch; Dinner,"Tempura Fried Cauliflower, Housemade Hot Sauce, Blue Cheese Dust",17.00,epcot/space-220-lounge
+2026-11-24,Space 220 Lounge,EPCOT,Saturn Reuben Sandwich,Flight Bites,Lunch; Dinner,"Corned Beef, Swiss cheese, Sauerkraut, Russian dressing, Rye Bread",20.00,epcot/space-220-lounge
+2026-11-24,Space 220 Lounge,EPCOT,Astro Cluck and Comet Crisp,Flight Bites,Lunch; Dinner,"Buttermilk-Fried Chicken, Waffle with Spicy Maple Syrup, Spicy Pickles",20.00,epcot/space-220-lounge
+2026-11-24,Space 220 Lounge,EPCOT,DLR Curry Wurst,Flight Bites,Lunch; Dinner,"Bratwurst, Curry Ketchup, Fries",18.00,epcot/space-220-lounge
+2026-11-24,Space 220 Lounge,EPCOT,Cosmic Lobster Bao,Flight Bites,Lunch; Dinner,"Lobster, celery, tobiko, lime-mayo, crispy bao bun",24.00,epcot/space-220-lounge
+2026-11-24,Space 220 Lounge,EPCOT,Short Rib Sliders,Flight Bites,Lunch; Dinner,"White Cheddar Cheese, Red Pepper Citrus Aioli, Lettuce, Tomato, Butter Pickles",18.00,epcot/space-220-lounge
+2026-11-24,Space 220 Lounge,EPCOT,Solar Flare Pork Belly,Flight Bites,Lunch; Dinner,"Slow-Roasted Pork Belly, Spiced Apple Sauce, Pickled Radish",18.00,epcot/space-220-lounge
+2026-11-24,Space 220 Lounge,EPCOT,Moon Rocks,Zero-Proof Cocktails,Lunch; Dinner,"Lemonade, Blue Cotton Candy syrup, Coconut, Pineapple Juice, and includes Collectible Cards",13.00,epcot/space-220-lounge
+2026-11-24,Space 220 Lounge,EPCOT,Starship Lemonade,Zero-Proof Cocktails,Lunch; Dinner,"Strawberry, Watermelon, Lemonade, Glow Cube, and includes Collectible Cards",16.00,epcot/space-220-lounge
+2026-11-24,Space 220 Lounge,EPCOT,Galaxy Spritz,Atmospheric Spirits,Lunch; Dinner,"Lagoon Bay Aperitif, Lychee Liqueur, Lemon Juice, Prosecco",18.00,epcot/space-220-lounge
+2026-11-24,Space 220 Lounge,EPCOT,Black Hole Fashioned,Atmospheric Spirits,Lunch; Dinner,"Buffalo Trace bourbon, Demerara, Whiskey-Barrel-Aged Bitters",20.00,epcot/space-220-lounge
+2026-11-24,Space 220 Lounge,EPCOT,Illumination,Atmospheric Spirits,Lunch; Dinner,"Bacardi rum, Malibu rum, Passion Fruit, Blood Orange, Pineapple, Lime Sour, Passion Fruit Boba",18.00,epcot/space-220-lounge
+2026-11-24,Space 220 Lounge,EPCOT,M4RG4R1TA,Atmospheric Spirits,Lunch; Dinner,"Blanco Tequila, Watermelon Lime, Organic Agave, Salted Lime Foam",18.00,epcot/space-220-lounge
+2026-11-24,Space 220 Lounge,EPCOT,Ligo-rita,Atmospheric Spirits,Lunch; Dinner,"Chrome Horse Blanco Tequila, Grand Marnier, Lime, Agave (clarified)",24.00,epcot/space-220-lounge
+2026-11-24,Space 220 Lounge,EPCOT,Command Center,Atmospheric Spirits,Lunch; Dinner,"Conniption Kinship Gin, St-Germain Elderflower Liqueur, Lemon Juice, Freeze-dried Raspberries",17.00,epcot/space-220-lounge
+2026-11-24,Space 220 Lounge,EPCOT,Space Age Mule,Atmospheric Spirits,Lunch; Dinner,"Wheatley Vodka, key lime pie liqueur, Lime Juice, Ginger Beer",18.00,epcot/space-220-lounge
+2026-11-24,Space 220 Lounge,EPCOT,Shuttle Crew,Atmospheric Spirits,Lunch; Dinner,"Kettle One Peach and Orange Blossom Vodka, Vanilla, Tangerine, Red Bull and Tang Foam",18.00,epcot/space-220-lounge
+2026-11-24,Space 220 Lounge,EPCOT,Gamma Burst,Atmospheric Spirits,Lunch; Dinner,"Grey Goose Strawberry and Lemongrass vodka, Midori Melon Liqueur, Strawberry Popping Pearls",19.00,epcot/space-220-lounge
+2026-11-24,Space 220 Lounge,EPCOT,Moon Shot,Atmospheric Spirits,Lunch; Dinner,"WhistlePig 10-Year Rye, Angostura Amaro, Demerara, mole bitters",36.00,epcot/space-220-lounge
+2026-11-24,Space 220 Lounge,EPCOT,Up All Night,Atmospheric Spirits,Lunch; Dinner,"Absolute Vanilla, Chilled Espresso, Kahlúa, Crème de Cacao",18.00,epcot/space-220-lounge
+2026-11-24,Space 220 Lounge,EPCOT,"Prosecco Terre Di Bacco, Treviso, Italy",Sparkling Worldly Wines,Lunch; Dinner,,16.00,epcot/space-220-lounge
+2026-11-24,Space 220 Lounge,EPCOT,"Sparkling Scharffenberger, Mendocino County, CA",Sparkling Worldly Wines,Lunch; Dinner,,17.00,epcot/space-220-lounge
+2026-11-24,Space 220 Lounge,EPCOT,"Moscato Batasiolo Moscato d’Asti, Italy",White/Rosé Worldly Wines,Lunch; Dinner,,15.00,epcot/space-220-lounge
+2026-11-24,Space 220 Lounge,EPCOT,"Pinot Grigio Santa Margherita, Alto Adige, Italy",White/Rosé Worldly Wines,Lunch; Dinner,,17.00,epcot/space-220-lounge
+2026-11-24,Space 220 Lounge,EPCOT,"Sauvignon Blanc Kim Crawford, Marlborough, NZ",White/Rosé Worldly Wines,Lunch; Dinner,,17.00,epcot/space-220-lounge
+2026-11-24,Space 220 Lounge,EPCOT,"Chardonnay Talbott Kali Hart, Monterey, CA",White/Rosé Worldly Wines,Lunch; Dinner,,17.00,epcot/space-220-lounge
+2026-11-24,Space 220 Lounge,EPCOT,"Rosé BY.OTT, Cotes de Provence, French Riviera, France",White/Rosé Worldly Wines,Lunch; Dinner,,18.00,epcot/space-220-lounge
+2026-11-24,Space 220 Lounge,EPCOT,"Pinot Noir Böen, Russian River, CA",Red Worldly Wines,Lunch; Dinner,,19.00,epcot/space-220-lounge
+2026-11-24,Space 220 Lounge,EPCOT,"Merlot Decoy, Sonoma, CA",Red Worldly Wines,Lunch; Dinner,,16.00,epcot/space-220-lounge
+2026-11-24,Space 220 Lounge,EPCOT,"Red Blend The Prisoner, Napa Valley, CA",Red Worldly Wines,Lunch; Dinner,,27.00,epcot/space-220-lounge
+2026-11-24,Space 220 Lounge,EPCOT,"Malbec Uno, Mendoza, Argentina",Red Worldly Wines,Lunch; Dinner,,16.00,epcot/space-220-lounge
+2026-11-24,Space 220 Lounge,EPCOT,"Cabernet Sauvignon Zero Gravity, Lodi, CA",Red Worldly Wines,Lunch; Dinner,,17.00,epcot/space-220-lounge
+2026-11-24,Space 220 Lounge,EPCOT,Michelob Ultra Draft,Crew Brews,Lunch; Dinner,,10.00,epcot/space-220-lounge
+2026-11-24,Space 220 Lounge,EPCOT,Stevens Point Centauri Amber Lager Draft,Crew Brews,Lunch; Dinner,,12.00,epcot/space-220-lounge
+2026-11-24,Space 220 Lounge,EPCOT,Blue Moon Draft,Crew Brews,Lunch; Dinner,,11.00,epcot/space-220-lounge
+2026-11-24,Space 220 Lounge,EPCOT,Sierra Nevada Hazy Little IPA Draft,Crew Brews,Lunch; Dinner,,11.00,epcot/space-220-lounge
+2026-11-24,Space 220 Lounge,EPCOT,Stella Artois,Crew Brews,Lunch; Dinner,,10.00,epcot/space-220-lounge
+2026-11-24,Space 220 Lounge,EPCOT,Bud Light,Crew Brews,Lunch; Dinner,,9.00,epcot/space-220-lounge
+2026-11-24,Space 220 Lounge,EPCOT,Corona,Crew Brews,Lunch; Dinner,,10.00,epcot/space-220-lounge
+2026-11-24,Space 220 Lounge,EPCOT,Modelo Especial,Crew Brews,Lunch; Dinner,,9.00,epcot/space-220-lounge
+2026-11-24,Space 220 Lounge,EPCOT,Heineken 0.0,Crew Brews,Lunch; Dinner,,10.00,epcot/space-220-lounge
+2026-11-24,Space 220 Lounge,EPCOT,Rotating Space Beer,Crew Brews,Lunch; Dinner,,12.00,epcot/space-220-lounge
+2026-11-24,Spice Road Table Bar,EPCOT,Mediterranean Beer,Beer & Cider,Bar – Lounge,,11.00,epcot/spice-road-table-bar
+2026-11-24,Spice Road Table Bar,EPCOT,Moroccan Blonde Ale,Beer & Cider,Bar – Lounge,,12.75,epcot/spice-road-table-bar
+2026-11-24,Spice Road Table Bar,EPCOT,"Paul Cheneau 'Lady of Spain' Cava Brut, Spain",Wine and Sangria,Bar – Lounge,,14.00,epcot/spice-road-table-bar
+2026-11-24,Spice Road Table Bar,EPCOT,"Mas Fi Cava Brut, Spain",Wine and Sangria,Bar – Lounge,,12.00,epcot/spice-road-table-bar
+2026-11-24,Spice Road Table Bar,EPCOT,"Domaine Sigalas Assyrtiko, Santorini",Wine and Sangria,Bar – Lounge,,20.00,epcot/spice-road-table-bar
+2026-11-24,Spice Road Table Bar,EPCOT,"Burgáns Albariño, Spain",Wine and Sangria,Bar – Lounge,,12.00,epcot/spice-road-table-bar
+2026-11-24,Spice Road Table Bar,EPCOT,Bodegas Juan Gil 'Silver Label' Monastrell,Wine and Sangria,Bar – Lounge,,14.00,epcot/spice-road-table-bar
+2026-11-24,Spice Road Table Bar,EPCOT,Bodegas Nekeas 'Vega Sindoa' Chardonnay,Wine and Sangria,Bar – Lounge,,11.00,epcot/spice-road-table-bar
+2026-11-24,Spice Road Table Bar,EPCOT,"Bodegas Marqués de Cáceres Excellens Rosé, Spain",Wine and Sangria,Bar – Lounge,,11.00,epcot/spice-road-table-bar
+2026-11-24,Spice Road Table Bar,EPCOT,"CVNE ‘Cune’ Rioja Crianza, Spain",Wine and Sangria,Bar – Lounge,,11.00,epcot/spice-road-table-bar
+2026-11-24,Spice Road Table Bar,EPCOT,House-made Sangria,Wine and Sangria,Bar – Lounge,"Red, White, Rosé, or Sparkling",17.00,epcot/spice-road-table-bar
+2026-11-24,Spice Road Table Bar,EPCOT,Tangier Old Fashioned,Specialty Beverages,Bar – Lounge,"Disney Select Mansas African Whiskey, Spiced Brown Sugar, and Aromatic Bitters - inspired by the Land of the Setting Sun.",18.00,epcot/spice-road-table-bar
+2026-11-24,Spice Road Table Bar,EPCOT,Frozen Marrakech Mango Margarita,Specialty Beverages,Bar – Lounge,"Sango African Agave Spirit, Cointreau Liqueur, Mango, and Lime",19.00,epcot/spice-road-table-bar
+2026-11-24,Spice Road Table Bar,EPCOT,Moroccan Mule,Specialty Beverages,Bar – Lounge,"Figenza Fig Vodka, Ginger Beer, Agave, and Lime",18.00,epcot/spice-road-table-bar
+2026-11-24,Spice Road Table Bar,EPCOT,Blood Orange Mimosa,Specialty Beverages,Bar – Lounge,,16.00,epcot/spice-road-table-bar
+2026-11-24,Spice Road Table Bar,EPCOT,Pomegranate Açaí,Specialty Beverages,Bar – Lounge,"vitaminwater® açai blueberry pomegranate, Bacardí Dragonberry Rum, Lime Juice, Agave, and Soda Water",16.00,epcot/spice-road-table-bar
+2026-11-24,Spice Road Table Bar,EPCOT,Iced Mint Tea,Specialty Beverages,Bar – Lounge,with Bombay Sapphire Gin,17.00,epcot/spice-road-table-bar
+2026-11-24,Spice Road Table Bar,EPCOT,Enchanted Grove Lime Splash,Non-Alcoholic Beverages,Bar – Lounge,Minute Maid® Limeade paired with the revitalizing flavors of Cucumber and Mint,6.29,epcot/spice-road-table-bar
+2026-11-24,Spice Road Table Bar,EPCOT,Moroccan Hot Tea Service,Non-Alcoholic Beverages,Bar – Lounge,,5.29,epcot/spice-road-table-bar
+2026-11-24,Spice Road Table Bar,EPCOT,Iced Mint Tea,Non-Alcoholic Beverages,Bar – Lounge,,5.29,epcot/spice-road-table-bar
+2026-11-24,Spice Road Table Bar,EPCOT,Premium Sparkling Water,Non-Alcoholic Beverages,Bar – Lounge,,5.50,epcot/spice-road-table-bar
+2026-11-24,Spice Road Table Bar,EPCOT,smartwater®,Non-Alcoholic Beverages,Bar – Lounge,,6.25,epcot/spice-road-table-bar
+2026-11-24,Spice Road Table Bar,EPCOT,Assorted Fountain Beverages,Non-Alcoholic Beverages,Bar – Lounge,"Coca-Cola®, Diet Coke®, Sprite®, Minute Maid® Zero Sugar Lemonade",4.99,epcot/spice-road-table-bar
+2026-11-24,Takumi-Tei,EPCOT,Dinner Price per Adult,Takumi Tei Dinner Pricing,Dinner,"$250 per adult, plus tax and gratuity (Full Course)",250.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,Dinner Price per Adult,Takumi Tei Dinner Pricing,Dinner,"$150 per adult, plus tax and gratuity (Semi Course)",150.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,IWA,Sake - Junmai Daiginjo,Dinner,,492.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,"Dassai 23 - Yamaguchi, Japan",Sake - Junmai Daiginjo,Dinner,,260.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,"Dassai  39 - Yamaguchi, Japan",Sake - Junmai Daiginjo,Dinner,,138.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,"Dassai 45 - Yamaguchi, Japan",Sake - Junmai Daiginjo,Dinner,,75.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,Junmai Daiginjo - Kubota Manju - Niigata,Sake - Junmai Daiginjo,Dinner,,236.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,"Kubota - Niigata, Japan",Sake - Junmai Daiginjo,Dinner,,110.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,"Hakkaisan 45 - Niigata, Japan",Sake - Junmai Daiginjo,Dinner,,110.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,"KEN - Fukushima, Japan",Sake - Junmai Daiginjo,Dinner,,244.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,"Tomoju - Ibaragi, Japan",Sake - Junmai Ginjo,Dinner,,93.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,"Fukuju - Hyogo, Japan",Sake - Junmai Ginjo,Dinner,,119.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,"Kuroushi - Wakayama, Japan",Sake - Junmai Ginjo,Dinner,,213.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,"Moon on the Water - Hiroshima, Japan",Sake - Junmai Ginjo,Dinner,,105.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,"Kubota Senju - Niigata, Japan",Sake - Junmai Ginjo,Dinner,,81.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,"Suijin - Iwate, Japan",Sake - Junmai ,Dinner,,89.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,"Shichida - Saga, Japan",Sake - Junmai ,Dinner,,110.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,"DAN - Yamanashi, Japan",Sake - Junmai ,Dinner,,105.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,"Hakkaisan Tokubetsu - Niigata, Japan",Sake - Junmai ,Dinner,,81.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,"Charles Heidsieck Champagne Brut Reserve - Champagne, France",Sake - Sparkling,Dinner,,230.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,"Hakkaisan Tokubetsu - Niigata, Japan",Sake - Honjozo,Dinner,,75.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,"Nigori ""Sacred Mist"" - Okayama, Japan",Sake - Honjozo,Dinner,,80.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,"Plum Liqueur Mito no Kairaku Enultra premium 5 year - Ibaragi, Japan",Sake - Plum,Dinner,,178.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,Hakushu 12 Single Malt,Japanese Whiskies (Single),Dinner,,54.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,Yamazaki 12 Single Malt,Japanese Whiskies (Single),Dinner,,44.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,Ichiro Malt and Grain,Japanese Whiskies (Single),Dinner,,25.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,Hibiki Harmony,Japanese Whiskies (Single),Dinner,,22.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,Nikka Coffey,Japanese Whiskies (Single),Dinner,,20.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,Blood Orange Spritzer,Non-Alcoholic Cocktails,Dinner,"Blood Orange Monin, Falernum, Sparkling Water",8.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,Ginger Mimosa,Non-Alcoholic Cocktails,Dinner,"Orange Juice, Falernum, Ginger Ale",8.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,Okinawa Sunshine,Non-Alcoholic Cocktails,Dinner,"Calpico, Pineapple Juice, Orange Juice, Yuzu Juice, Sprite",8.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,Kochi,Specialty Cocktails,Dinner,"Suijin Sake, Rum, Fresh Mint, Orange, Yuzu Liqueur, Yuzu Juice",18.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,Yogan,Specialty Cocktails,Dinner,"Haku Japanese Vodka, Lime Juice, Ginger Beer, Lime",15.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,Sakurajima,Specialty Cocktails,Dinner,"Iwai Whisky, Lemon Juice, Smoked Cherrywood",16.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,Kami,Specialty Cocktails,Dinner,"KI NO BI Gin, Nigori ""Sacred Mist"" Sake, Lychee Calpico, Lychee",15.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,Dassai Flight,Specialty Cocktails,Dinner,"Dassai 45 Junmai Daiginjo, Dassai 39 Junmai Daiginjo, Dassai 23 Junmai Daiginjo",55.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,Kubota Flight,Specialty Cocktails,Dinner,"Kubota Senju Ginjo, Kubota Junmai Daiginjo, Kubota Manju Junmai Daiginjo",50.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,Hakkaisan Flight,Specialty Cocktails,Dinner,"Hakkaisan Tokubetsu Junmai, Hakkaisan Tokubetsu Honjozo, Hakkaisan Junamai Daiginjo",30.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,Coedo Ruri Draft,Japanese Beer,Dinner,,14.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,Koshihikari Rice Beer,Japanese Beer,Dinner,,20.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,"Rockblock Sauvignon Blanc 2022 - Washington, USA",Wine,Dinner,,150.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,"Pahlmeyer Jason Chardonnay 2021 - Napa Valley, CA",Wine,Dinner,,230.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,"Kenzo Estate ""Asatsuyu"" Sauvignon Blanc 2019 - Napa Valley, USA",Wine,Dinner,,240.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,"Domaine Faiveley Mercurey 1er Cru Clos Des Myglands Monopole Pinot Noir 2021 - Burgundy, France",Wine,Dinner,,270.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,"Grgich Hills Estates, Cabernet Sauvignon 2018 - Napa Valley, USA",Wine,Dinner,,280.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,"Kenzo Estate ""Rindo"" Flagship Red 2019 - Napa Valley, USA",Wine,Dinner,,610.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,"Kenzo Estate ""Murasaki"" Proprietary Red 2019 - Napa Valley, CA",Wine,Dinner,,990.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,"Chateau Malherbe, Cotes de Provence Rose 2021	- Provence, France",Wine,Dinner,,180.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,"Chateau Climents, Cypres de Climens Barsac 20 - Provence, France",Wine,Dinner,,190.00,epcot/takumi-tei-restaurant

@@ -737,6 +737,8 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-24,Tiffins Restaurant,Disney's Animal Kingdom,Grilled Shrimp,Allergy-Friendly Kids' Create-Your-Own Entrées (choose one),Lunch; Dinner,"Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Bottled Water, or Small Minute Maid® Apple Juice (For Gluten/Wheat, Egg, Milk, Peanut/Tree Nut, Sesame, and Soy Allergies)",20.00,animal-kingdom/tiffins
 2026-11-24,Tiffins Restaurant,Disney's Animal Kingdom,Grilled Steak,Allergy-Friendly Kids' Create-Your-Own Entrées (choose one),Lunch; Dinner,"Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Bottled Water, or Small Minute Maid® Apple Juice (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, and Soy Allergies)",20.00,animal-kingdom/tiffins
 2026-11-24,Tiffins Restaurant,Disney's Animal Kingdom,Plant-based Korean Meatballs,Allergy-Friendly Kids' Create-Your-Own Entrées (choose one),Lunch; Dinner,"Featuring Impossible® Beef Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Bottled Water, or Small Minute Maid® Apple Juice (For Egg, Fish/Shellfish, Milk, Peanut/Tree Nut Allergies)",16.00,animal-kingdom/tiffins
+2026-11-24,Tusker House Restaurant,Disney's Animal Kingdom,Breakfast Price per Adult,Tusker House Restaurant Breakfast Pricing,Breakfast,"$55 per adult, plus tax and gratuity",55.00,animal-kingdom/tusker-house-restaurant
+2026-11-24,Tusker House Restaurant,Disney's Animal Kingdom,Breakfast Price per Child,Tusker House Restaurant Breakfast Pricing,Breakfast,"$38 per child, plus tax and gratuity",38.00,animal-kingdom/tusker-house-restaurant
 2026-11-24,Tusker House Restaurant,Disney's Animal Kingdom,African Bloody Mary,Breakfast Cocktails,Breakfast,Tito’s Handmade Vodka and Bloody Mary Mix with Berbere Spice and Candied Bacon,15.50,animal-kingdom/tusker-house-restaurant
 2026-11-24,Tusker House Restaurant,Disney's Animal Kingdom,Blackberry-Orange Spritz,Breakfast Cocktails,Breakfast,"Ketel One Botanical Peach & Orange Blossom Vodka, Rockey’s Botanical Liqueur, Kim Crawford Sauvignon Blanc, and Blackberry Purée",18.00,animal-kingdom/tusker-house-restaurant
 2026-11-24,Tusker House Restaurant,Disney's Animal Kingdom,Island Fusion Punch,Breakfast Cocktails,Breakfast,"Mount Gay Eclipse Rum, Minute Maid® Passion Fruit Orange Guava Juice, Pineapple and Lime Juices",17.00,animal-kingdom/tusker-house-restaurant
@@ -764,6 +766,10 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-24,Tusker House Restaurant,Disney's Animal Kingdom,"Spice Route Chakalaka Shiraz Blend, South Africa",Wine Selections,Breakfast; Lunch; Dinner,,74.00,animal-kingdom/tusker-house-restaurant
 2026-11-24,Tusker House Restaurant,Disney's Animal Kingdom,"Excelsior Cabernet Sauvignon, South Africa",Wine Selections,Breakfast; Lunch; Dinner,,56.00,animal-kingdom/tusker-house-restaurant
 2026-11-24,Tusker House Restaurant,Disney's Animal Kingdom,Kara Tara Chardonnay Glass,Wine Selections,Breakfast; Lunch; Dinner,,56.00,animal-kingdom/tusker-house-restaurant
+2026-11-24,Tusker House Restaurant,Disney's Animal Kingdom,Lunch Price per Adult,Tusker House Restaurant Lunch Pricing,Lunch,"$64 per adult, plus tax and gratuity",64.00,animal-kingdom/tusker-house-restaurant
+2026-11-24,Tusker House Restaurant,Disney's Animal Kingdom,Lunch Price per Child,Tusker House Restaurant Lunch Pricing,Lunch,"$43 per child, plus tax and gratuity",43.00,animal-kingdom/tusker-house-restaurant
+2026-11-24,Tusker House Restaurant,Disney's Animal Kingdom,Dinner Price per Adult,Tusker House Restaurant Dinner Pricing,Dinner,"$64 per adult, plus tax and gratuity",64.00,animal-kingdom/tusker-house-restaurant
+2026-11-24,Tusker House Restaurant,Disney's Animal Kingdom,Dinner Price per Child,Tusker House Restaurant Dinner Pricing,Dinner,"$43 per child, plus tax and gratuity",43.00,animal-kingdom/tusker-house-restaurant
 2026-11-24,Warung Outpost,Disney's Animal Kingdom,DOLE Whip® Pineapple with Chili-Lime and Churro Sundae,Snacks,Bar – Lounge,"DOLE Whip® Pineapple layered with Chili-Lime-marinated DOLE® Pineapple, Coconut, and a Classic Churro Half",8.29,animal-kingdom/warung-outpost
 2026-11-24,Warung Outpost,Disney's Animal Kingdom,Rafiki Wildberry and DOLE Whip® Orange Float,Snacks,Bar – Lounge,DOLE Whip® Orange swirled into Fanta® Orange with Wildberry Syrup topped with a White Chocolate Character Medallion,6.99,animal-kingdom/warung-outpost
 2026-11-24,Warung Outpost,Disney's Animal Kingdom,DOLE Whip® Pineapple Juice Float,Snacks,Bar – Lounge,,6.79,animal-kingdom/warung-outpost
@@ -890,3 +896,25 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-24,Yak & Yeti™ Restaurant,Disney's Animal Kingdom,Sho Chiku Bai Mio Sparkling Sake,Wine and Sake,Lunch; Dinner,300ml Bottle,20.00,animal-kingdom/yak-and-yeti-restaurant
 2026-11-24,Yak & Yeti™ Restaurant,Disney's Animal Kingdom,Hana Fuji Apple Flavored Sake - 6oz,Wine and Sake,Lunch; Dinner,Fresh aromas that fulfills the palate with crisp tartness of the fruit,9.00,animal-kingdom/yak-and-yeti-restaurant
 2026-11-24,Yak & Yeti™ Restaurant,Disney's Animal Kingdom,Sho Chiku Bai Junmai Nigori Sake - 300 mL,Wine and Sake,Lunch; Dinner,"Unfiltered and sweetest of all sakes. Its name translates to ""cloudy"" due to its appearance",19.00,animal-kingdom/yak-and-yeti-restaurant
+2026-11-24,Trek Snacks,Disney's Animal Kingdom,Popcorn Served in a Souvenir Popcorn Bucket,Trek Snacks - Snacks,Snack,,14.29,animal-kingdom/trek-snacks
+2026-11-24,Trek Snacks,Disney's Animal Kingdom,Popcorn Bucket Refill,Trek Snacks - Snacks,Snack,Valid for length of stay,2.79,animal-kingdom/trek-snacks
+2026-11-24,Trek Snacks,Disney's Animal Kingdom,Popcorn,Trek Snacks - Snacks,Snack,,6.29,animal-kingdom/trek-snacks
+2026-11-24,Trek Snacks,Disney's Animal Kingdom,Popcorn in a Pumbaa Popcorn Bucket,Trek Snacks - Snacks,Snack,,23.00,animal-kingdom/trek-snacks
+2026-11-24,Trek Snacks,Disney's Animal Kingdom,Mickey-shaped Pretzel,Trek Snacks - Snacks,Snack,with Cheese Sauce,8.49,animal-kingdom/trek-snacks
+2026-11-24,Trek Snacks,Disney's Animal Kingdom,Assorted Chips,Trek Snacks - Snacks,Snack,,3.49,animal-kingdom/trek-snacks
+2026-11-24,Trek Snacks,Disney's Animal Kingdom,PB&J Uncrustable,Trek Snacks - Snacks,Snack,,5.29,animal-kingdom/trek-snacks
+2026-11-24,Trek Snacks,Disney's Animal Kingdom,Mickey's Premium Ice Cream Bar,Trek Snacks - Desserts,Snack,,6.49,animal-kingdom/trek-snacks
+2026-11-24,Trek Snacks,Disney's Animal Kingdom,Mickey's Premium Ice Cream Sandwich,Trek Snacks - Desserts,Snack,,6.49,animal-kingdom/trek-snacks
+2026-11-24,Trek Snacks,Disney's Animal Kingdom,Outshine® Strawberry Fruit Bar,Trek Snacks - Desserts,Snack,,5.99,animal-kingdom/trek-snacks
+2026-11-24,Trek Snacks,Disney's Animal Kingdom,Frozen Lemonade Cup,Trek Snacks - Desserts,Snack,,6.29,animal-kingdom/trek-snacks
+2026-11-24,Trek Snacks,Disney's Animal Kingdom,Frozen Strawberry-Lemonade Cup,Trek Snacks - Desserts,Snack,,6.29,animal-kingdom/trek-snacks
+2026-11-24,Trek Snacks,Disney's Animal Kingdom,Frozen Banana,Trek Snacks - Desserts,Snack,Chocolate-covered with Nuts,6.29,animal-kingdom/trek-snacks
+2026-11-24,Trek Snacks,Disney's Animal Kingdom,Assorted Beverages,Trek Snacks - All Day Beverages,Snack,,4.99,animal-kingdom/trek-snacks
+2026-11-24,Trek Snacks,Disney's Animal Kingdom,DASANI® Bottled Water,Trek Snacks - All Day Beverages,Snack,,4.25,animal-kingdom/trek-snacks
+2026-11-24,Trek Snacks,Disney's Animal Kingdom,Minute Maid® Apple Juice,Trek Snacks - All Day Beverages,Snack,,4.59,animal-kingdom/trek-snacks
+2026-11-24,Trek Snacks,Disney's Animal Kingdom,Simply® Orange,Trek Snacks - All Day Beverages,Snack,,5.59,animal-kingdom/trek-snacks
+2026-11-24,Trek Snacks,Disney's Animal Kingdom,Chocolate Milk,Trek Snacks - All Day Beverages,Snack,,4.49,animal-kingdom/trek-snacks
+2026-11-24,Trek Snacks,Disney's Animal Kingdom,Freshly Brewed Joffrey's Coffee™,Trek Snacks - All Day Beverages,Snack,regular or decaf,4.29,animal-kingdom/trek-snacks
+2026-11-24,Trek Snacks,Disney's Animal Kingdom,Hot Cocoa,Trek Snacks - All Day Beverages,Snack,,4.29,animal-kingdom/trek-snacks
+2026-11-24,Trek Snacks,Disney's Animal Kingdom,Kona Longboard Island Lager,Thirsty River Bar - Beverages with Alcohol,Snack,,12.50,animal-kingdom/trek-snacks
+2026-11-24,Trek Snacks,Disney's Animal Kingdom,Tiger Eye Gold Ale,Thirsty River Bar - Beverages with Alcohol,Snack,Tropical Fruit Malt with spicy Hops,12.50,animal-kingdom/trek-snacks

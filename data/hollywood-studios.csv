@@ -384,6 +384,8 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-24,Fairfax Fare,Disney's Hollywood Studios,Mistletoe Martini,Disney Jollywood Nights Exclusive Beverage Offerings,Special Ticketed Event,"Tito’s Handmade Vodka, St-Germain Elderflower Liqueur, and Cranberry Juice topped with Fresh Cranberries and Mint Leaves",11.00,hollywood-studios/fairfax-fare
 2026-11-24,Fairfax Fare,Disney's Hollywood Studios,Eggnog with Whisky,Disney Jollywood Nights Exclusive Beverage Offerings,Special Ticketed Event,Traditional Eggnog with Fireball Cinnamon Whisky and Caramel Swirl,9.50,hollywood-studios/fairfax-fare
 2026-11-24,Fairfax Fare,Disney's Hollywood Studios,Eggnog,Disney Jollywood Nights Exclusive Beverage Offerings,Special Ticketed Event,Traditional Eggnog with Caramel Swirl (non-alcoholic),5.29,hollywood-studios/fairfax-fare
+2026-11-24,Hollywood & Vine,Disney's Hollywood Studios,Breakfast Price per Adult,Hollywood & Vine Breakfast Pricing,Breakfast,"$49 per adult, plus tax and gratuity",49.00,hollywood-studios/hollywood-and-vine
+2026-11-24,Hollywood & Vine,Disney's Hollywood Studios,Breakfast Price per Child,Hollywood & Vine Breakfast Pricing,Breakfast,"$34 per child (Ages 3-9), plus tax and gratuity",34.00,hollywood-studios/hollywood-and-vine
 2026-11-24,Hollywood & Vine,Disney's Hollywood Studios,Enchanted Grove Lime Splash,Non-Alcoholic Specialty Beverages,Breakfast,Minute Maid® Limeade paired with the revitalizing flavors of Cucumber and Mint,6.29,hollywood-studios/hollywood-and-vine
 2026-11-24,Hollywood & Vine,Disney's Hollywood Studios,Enchanting Ember Lemonade,Non-Alcoholic Specialty Beverages,Breakfast,"Minute Maid® Premium Lemonade, Strawberry, and Hot Honey",6.49,hollywood-studios/hollywood-and-vine
 2026-11-24,Hollywood & Vine,Disney's Hollywood Studios,So Many Wishes,Non-Alcoholic Specialty Beverages,Breakfast,"Pomegranate Green Tea, Hibiscus, Lemon, and a dash of Star Dust",6.79,hollywood-studios/hollywood-and-vine
@@ -392,6 +394,8 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-24,Hollywood & Vine,Disney's Hollywood Studios,Bloody Mary,Breakfast Cocktails,Breakfast,"Tito’s Handmade Vodka, House-made Bloody Mary Mix",17.50,hollywood-studios/hollywood-and-vine
 2026-11-24,Hollywood & Vine,Disney's Hollywood Studios,Cold Brew Martini,Breakfast Cocktails,Breakfast,"Kōloa Kauaʻi Cacao Rum, Tia Maria Liqueur, Joffrey’s™ Cold Brew Coffee",18.00,hollywood-studios/hollywood-and-vine
 2026-11-24,Hollywood & Vine,Disney's Hollywood Studios,"Marsuret Prosecco, Valdobbiadene Superior Brut NV",Breakfast Cocktails,Breakfast,"Dry and fresh, elegant and complex, golden apple and hints of wild flowers aroma",56.00,hollywood-studios/hollywood-and-vine
+2026-11-24,Hollywood & Vine,Disney's Hollywood Studios,Lunch Price per Adult,Hollywood & Vine Lunch and Dinner Buffet Pricing,Lunch,"$64 per adult, plus tax and gratuity",64.00,hollywood-studios/hollywood-and-vine
+2026-11-24,Hollywood & Vine,Disney's Hollywood Studios,Lunch Price per Child,Hollywood & Vine Lunch and Dinner Buffet Pricing,Lunch,"$45 per child (Ages 3-9), plus tax and gratuity",45.00,hollywood-studios/hollywood-and-vine
 2026-11-24,Hollywood & Vine,Disney's Hollywood Studios,Ultimate Long Island Iced Tea,Featured Beverages,Lunch; Dinner,"Bacardí Superior Rum, Tito’s Handmade Vodka, Hendrick’s Gin, Corazón Blanco Tequila, Cointreau Liqueur, and Sweet-and-Sour",19.00,hollywood-studios/hollywood-and-vine
 2026-11-24,Hollywood & Vine,Disney's Hollywood Studios,Celebrity Margarita,Featured Beverages,Lunch; Dinner,"Jose Cuervo Tradicional Tequila, Cointreau Liqueur, Lime Juice, and Sweet-and-Sour",16.50,hollywood-studios/hollywood-and-vine
 2026-11-24,Hollywood & Vine,Disney's Hollywood Studios,Enchanted Grove Lime Splash,Featured Beverages,Lunch; Dinner,Minute Maid® Limeade paired with the revitalizing flavors of Cucumber and Mint,6.29,hollywood-studios/hollywood-and-vine
@@ -407,6 +411,8 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-24,Hollywood & Vine,Disney's Hollywood Studios,"MacMurray Estate Vineyards Pinot Noir, Central Coast",Red Wine,Lunch; Dinner,,74.00,hollywood-studios/hollywood-and-vine
 2026-11-24,Hollywood & Vine,Disney's Hollywood Studios,"Decoy by Duckhorn Merlot, Sonoma County",Red Wine,Lunch; Dinner,,67.00,hollywood-studios/hollywood-and-vine
 2026-11-24,Hollywood & Vine,Disney's Hollywood Studios,"Louis M. Martini Cabernet Sauvignon, Sonoma County",Red Wine,Lunch; Dinner,,98.00,hollywood-studios/hollywood-and-vine
+2026-11-24,Hollywood & Vine,Disney's Hollywood Studios,Dinner Price per Adult,Hollywood & Vine Lunch and Dinner Buffet Pricing,Dinner,"$64 per adult, plus tax and gratuity",64.00,hollywood-studios/hollywood-and-vine
+2026-11-24,Hollywood & Vine,Disney's Hollywood Studios,Dinner Price per Child,Hollywood & Vine Lunch and Dinner Buffet Pricing,Dinner,"$45 per child (Ages 3-9), plus tax and gratuity",45.00,hollywood-studios/hollywood-and-vine
 2026-11-24,The Hollywood Brown Derby,Disney's Hollywood Studios,Beet and Seasonal Greens Salad,Appetizers,Lunch; Dinner,"Spinach, Warm Bacon Vinaigrette, Goat Cheese Cream, Beet Purée, Candied Walnut",13.00,hollywood-studios/hollywood-brown-derby
 2026-11-24,The Hollywood Brown Derby,Disney's Hollywood Studios,Roasted Butternut Squash Soup,Appetizers,Lunch; Dinner,"Butternut Squash Velouté, Roasted Bell Pepper, Coconut-Hazelnut Emulsion, Sherry Gastrique, Toasted Pumpkin Seed, Chili Oil, Micro Cilantro",15.00,hollywood-studios/hollywood-brown-derby
 2026-11-24,The Hollywood Brown Derby,Disney's Hollywood Studios,Veal Cheek Agnolotti,Appetizers,Lunch; Dinner,"Red Wine Reduction, Horseradish Crème, Fine Herb Gremolata",19.00,hollywood-studios/hollywood-brown-derby
@@ -912,3 +918,125 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-24,Woody's Lunch Box,Disney's Hollywood Studios,"Blue Moon Belgian White Ale - Golden, CO",Beverages with Alcohol,Breakfast; Lunch And Dinner; Special Ticketed Event,Draft Beer 20 oz - easy and refreshing with light notes of Citrus and Spice with low bitterness,11.25,hollywood-studios/woodys-lunchbox
 2026-11-24,Woody's Lunch Box,Disney's Hollywood Studios,"Bud Light Lager - St. Louis, MO",Beverages with Alcohol,Breakfast; Lunch And Dinner; Special Ticketed Event,"Draft Beer 20 oz - golden colored with flavors that are dry, clean, crisp and refreshing with subtle bitterness",10.75,hollywood-studios/woodys-lunchbox
 2026-11-24,Woody's Lunch Box,Disney's Hollywood Studios,"Angry Orchard Crisp Apple Hard Cider - Cincinnati, OH",Beverages with Alcohol,Breakfast; Lunch And Dinner; Special Ticketed Event,"Draft 20 oz - sweet and refreshing, a favorite since Colonial times",11.50,hollywood-studios/woodys-lunchbox
+2026-11-24,Epic Eats,Disney's Hollywood Studios,Strawberry Funnel Cake,Dessert,All Day,Strawberry Topping and Vanilla Soft-serve,8.99,hollywood-studios/epic-eats
+2026-11-24,Epic Eats,Disney's Hollywood Studios,Cookies 'n Cream Funnel Cake,Dessert,All Day,Cookies 'n Cream Topping and Vanilla Soft-serve,8.99,hollywood-studios/epic-eats
+2026-11-24,Epic Eats,Disney's Hollywood Studios,Caramel-Apple Pie Funnel Cake,Dessert,All Day,"Funnel Cake with Apple Pie Topping, Caramel Drizzle, and Vanilla Soft-serve",8.99,hollywood-studios/epic-eats
+2026-11-24,Epic Eats,Disney's Hollywood Studios,Funnel Cake,Dessert,All Day,with Powdered Sugar,7.29,hollywood-studios/epic-eats
+2026-11-24,Epic Eats,Disney's Hollywood Studios,Soft-Serve Waffle Cone,Dessert,All Day,"Vanilla, Chocolate, or Swirl",6.29,hollywood-studios/epic-eats
+2026-11-24,Epic Eats,Disney's Hollywood Studios,Epic Cold Brew Spectacular!,Dessert,All Day,Vanilla-flavored Joffrey's™ Cold Brew Coffee with Cookie Butter Cold Foam and Your Share of the Treasure!,7.29,hollywood-studios/epic-eats
+2026-11-24,Epic Eats,Disney's Hollywood Studios,Barq's® Root Beer Float,Alcoholic Beverages,All Day,with Stoli Vanilla Vodka,18.00,hollywood-studios/epic-eats
+2026-11-24,Epic Eats,Disney's Hollywood Studios,Barq's® Root Beer Float,Beverages,All Day,,6.79,hollywood-studios/epic-eats
+2026-11-24,Epic Eats,Disney's Hollywood Studios,Cold Brew Float,Beverages,All Day,Joffrey's™ Cold Brew Coffee Flavored with Madagascar Vanilla Served with Vanilla Soft-serve,7.29,hollywood-studios/epic-eats
+2026-11-24,Epic Eats,Disney's Hollywood Studios,Vanilla Cold Brew,Beverages,All Day,Joffrey's™ Cold Brew Coffee Flavored with Madagascar Vanilla,5.49,hollywood-studios/epic-eats
+2026-11-24,Epic Eats,Disney's Hollywood Studios,Assorted Fountain Beverages,Beverages,All Day,,5.59,hollywood-studios/epic-eats
+2026-11-24,Epic Eats,Disney's Hollywood Studios,DASANI® Bottled Water,Beverages,All Day,,4.25,hollywood-studios/epic-eats
+2026-11-24,Epic Eats,Disney's Hollywood Studios,Cookie Butter Croissant Beignets,Disney Jollywood Nights Exclusive Food Offerings,Special Ticketed Event,Croissant Beignet filled with Cookie Butter Cream topped with Powdered Sugar,5.79,hollywood-studios/epic-eats
+2026-11-24,Epic Eats,Disney's Hollywood Studios,Warm Spiced Chai Cocktail,Disney Jollywood Nights Exclusive Beverage Offerings,Special Ticketed Event,"Twinings® Chai Tea, RumChata Cream Liqueur, Vanilla, and Cinnamon",9.50,hollywood-studios/epic-eats
+2026-11-24,FØØD by Swedish Chef,Disney's Hollywood Studios,Wocka Wocking Nachos,Snacks,All Day,"Corn Chips with Queso Blanco, Tomatoes, and Guacamole",7.49,hollywood-studios/food-by-swedish-chef
+2026-11-24,FØØD by Swedish Chef,Disney's Hollywood Studios,Churro Drumstick,Snacks,All Day,"Twisted Churro tossed in Mixed Berry Sugar, topped with Raspberry Sauce and Assorted Sprinkles and served with Chocolate Sauce",7.99,hollywood-studios/food-by-swedish-chef
+2026-11-24,FØØD by Swedish Chef,Disney's Hollywood Studios,Mini Corn Dogs,Snacks,All Day,Served with Chips,11.49,hollywood-studios/food-by-swedish-chef
+2026-11-24,FØØD by Swedish Chef,Disney's Hollywood Studios,Assorted Chips,Snacks,All Day,,3.49,hollywood-studios/food-by-swedish-chef
+2026-11-24,FØØD by Swedish Chef,Disney's Hollywood Studios,Chocolate Chip Cookie,Snacks,All Day,,4.79,hollywood-studios/food-by-swedish-chef
+2026-11-24,FØØD by Swedish Chef,Disney's Hollywood Studios,Mayhem Soft-Serve Float,Frozen Treats,All Day,Frozen Fanta® Blue Raspberry and Vanilla Soft-serve topped with Pink Cotton Candy,7.49,hollywood-studios/food-by-swedish-chef
+2026-11-24,FØØD by Swedish Chef,Disney's Hollywood Studios,Frozen Fanta® Blue Raspberry Slushy,Frozen Treats,All Day,,6.29,hollywood-studios/food-by-swedish-chef
+2026-11-24,FØØD by Swedish Chef,Disney's Hollywood Studios,Float,Frozen Treats,All Day,Vanilla Soft-serve with choice of Coca-Cola® or Barq’s® Root Beer,6.79,hollywood-studios/food-by-swedish-chef
+2026-11-24,FØØD by Swedish Chef,Disney's Hollywood Studios,Waffle Cone,Frozen Treats,All Day,"Vanilla, Chocolate, or Swirl",6.29,hollywood-studios/food-by-swedish-chef
+2026-11-24,FØØD by Swedish Chef,Disney's Hollywood Studios,Pink Le-moi-nade,Beverages,All Day,Minute Maid® Premium Lemonade and Guava made glamorous with a Sprinkle of Pink Shimmer,6.49,hollywood-studios/food-by-swedish-chef
+2026-11-24,FØØD by Swedish Chef,Disney's Hollywood Studios,Pond Water Limeade,Beverages,All Day,"Minute Maid® Limeade, Green Apple, and Fruit Juice-filled Pearls",6.79,hollywood-studios/food-by-swedish-chef
+2026-11-24,FØØD by Swedish Chef,Disney's Hollywood Studios,Assorted Fountain Beverages,Beverages,All Day,,5.59,hollywood-studios/food-by-swedish-chef
+2026-11-24,FØØD by Swedish Chef,Disney's Hollywood Studios,DASANI® Bottled Water,Beverages,All Day,,4.25,hollywood-studios/food-by-swedish-chef
+2026-11-24,FØØD by Swedish Chef,Disney's Hollywood Studios,smartwater®,Beverages,All Day,,6.25,hollywood-studios/food-by-swedish-chef
+2026-11-24,FØØD by Swedish Chef,Disney's Hollywood Studios,RAMONA Blood Orange Wine Spritz,Beverages with Alcohol,All Day,,12.00,hollywood-studios/food-by-swedish-chef
+2026-11-24,FØØD by Swedish Chef,Disney's Hollywood Studios,High Noon Pineapple Vodka Hard Seltzer,Beverages with Alcohol,All Day,,12.75,hollywood-studios/food-by-swedish-chef
+2026-11-24,FØØD by Swedish Chef,Disney's Hollywood Studios,Frozen Fanta® Blue Raspberry Slushy,Beverages with Alcohol,All Day,with Bacardí Superior Rum or Tito’s Handmade Vodka,18.00,hollywood-studios/food-by-swedish-chef
+2026-11-24,Ice Cold Hydraulics,Disney's Hollywood Studios,Bouncin' Mini Churros,Snacks,All Day,"savory Churros topped with Coca-Cola® and Bourbon Candied Bacon, Sriracha Aïoli and Scallions",9.29,hollywood-studios/ice-cold-hydraulics
+2026-11-24,Ice Cold Hydraulics,Disney's Hollywood Studios,Candy Painted Cinnamon Rolls,Snacks,All Day,Mini Cinnamon Rolls topped with Coca-Cola®-infused glaze and Toasted Nuts,9.79,hollywood-studios/ice-cold-hydraulics
+2026-11-24,Ice Cold Hydraulics,Disney's Hollywood Studios,Cookie Butter Mini Churros,Snacks,All Day,with Cookie Butter Cream and Crushed Cookies,8.29,hollywood-studios/ice-cold-hydraulics
+2026-11-24,Ice Cold Hydraulics,Disney's Hollywood Studios,Cotton Candy,Snacks,All Day,,5.49,hollywood-studios/ice-cold-hydraulics
+2026-11-24,Ice Cold Hydraulics,Disney's Hollywood Studios,Frozen Lemonade Cup,Snacks,All Day,,6.29,hollywood-studios/ice-cold-hydraulics
+2026-11-24,Ice Cold Hydraulics,Disney's Hollywood Studios,Frozen Lemonade Strawberry Cup,Snacks,All Day,,6.29,hollywood-studios/ice-cold-hydraulics
+2026-11-24,Ice Cold Hydraulics,Disney's Hollywood Studios,Hand-dipped Mickey's Premium Ice Cream Bar,Snacks,All Day,with M&M’S® Milk Chocolate Minis,7.99,hollywood-studios/ice-cold-hydraulics
+2026-11-24,Ice Cold Hydraulics,Disney's Hollywood Studios,Mini Churros,Snacks,All Day,with Chocolate Sauce,7.99,hollywood-studios/ice-cold-hydraulics
+2026-11-24,Ice Cold Hydraulics,Disney's Hollywood Studios,Mickey's Premium Ice Cream Sandwich,Snacks,All Day,,6.49,hollywood-studios/ice-cold-hydraulics
+2026-11-24,Ice Cold Hydraulics,Disney's Hollywood Studios,Mickey-shaped Pretzel,Snacks,All Day,with Cheese Sauce,8.49,hollywood-studios/ice-cold-hydraulics
+2026-11-24,Ice Cold Hydraulics,Disney's Hollywood Studios,Popcorn served in a Souvenir Bucket,Snacks,All Day,Popcorn Bucket Refill 2.49 valid for length of stay,14.29,hollywood-studios/ice-cold-hydraulics
+2026-11-24,Ice Cold Hydraulics,Disney's Hollywood Studios,Popcorn,Snacks,All Day,,6.29,hollywood-studios/ice-cold-hydraulics
+2026-11-24,Ice Cold Hydraulics,Disney's Hollywood Studios,Assorted Fountain Beverages,Beverages,All Day,,5.59,hollywood-studios/ice-cold-hydraulics
+2026-11-24,Ice Cold Hydraulics,Disney's Hollywood Studios,DASANI® Bottle Water,Beverages,All Day,,4.25,hollywood-studios/ice-cold-hydraulics
+2026-11-24,Ice Cold Hydraulics,Disney's Hollywood Studios,smartwater®,Beverages,All Day,,6.25,hollywood-studios/ice-cold-hydraulics
+2026-11-24,Ice Cold Hydraulics,Disney's Hollywood Studios,Coca-Cola®,Frozen Slushies,All Day,,6.29,hollywood-studios/ice-cold-hydraulics
+2026-11-24,Ice Cold Hydraulics,Disney's Hollywood Studios,Minute Maid® Lemonade,Frozen Slushies,All Day,,6.29,hollywood-studios/ice-cold-hydraulics
+2026-11-24,Ice Cold Hydraulics,Disney's Hollywood Studios,Fanta® Blue Raspberry,Frozen Slushies,All Day,,6.29,hollywood-studios/ice-cold-hydraulics
+2026-11-24,Ice Cold Hydraulics,Disney's Hollywood Studios,Jack Daniel's Whiskey with Coke®,Frozen Slushies with Alcohol,All Day,,17.00,hollywood-studios/ice-cold-hydraulics
+2026-11-24,Ice Cold Hydraulics,Disney's Hollywood Studios,BACARDÍ Superior Rum with Coke®,Frozen Slushies with Alcohol,All Day,,17.00,hollywood-studios/ice-cold-hydraulics
+2026-11-24,Ice Cold Hydraulics,Disney's Hollywood Studios,Stoli Vanilla Vodka with Coke®,Frozen Slushies with Alcohol,All Day,,17.00,hollywood-studios/ice-cold-hydraulics
+2026-11-24,Ice Cold Hydraulics,Disney's Hollywood Studios,Bud Light Lager,Draft Beer,All Day,,10.75,hollywood-studios/ice-cold-hydraulics
+2026-11-24,Ice Cold Hydraulics,Disney's Hollywood Studios,Yuengling Traditional Lager,Draft Beer,All Day,,11.25,hollywood-studios/ice-cold-hydraulics
+2026-11-24,Ice Cold Hydraulics,Disney's Hollywood Studios,Cabernet Sauvignon,Wine,All Day,,12.00,hollywood-studios/ice-cold-hydraulics
+2026-11-24,Ice Cold Hydraulics,Disney's Hollywood Studios,Chardonnay,Wine,All Day,,12.00,hollywood-studios/ice-cold-hydraulics
+2026-11-24,Ice Cold Hydraulics,Disney's Hollywood Studios,Moscato,Wine,All Day,,12.00,hollywood-studios/ice-cold-hydraulics
+2026-11-24,Ice Cold Hydraulics,Disney's Hollywood Studios,Pinot Grigio,Wine,All Day,,12.00,hollywood-studios/ice-cold-hydraulics
+2026-11-24,Ice Cold Hydraulics,Disney's Hollywood Studios,Salted Caramel Mini Churros​,Disney Jollywood Nights Exclusive Food Offerings,Special Ticketed Event,"Chocolate-filled Mini Churros, Cinnamon Sugar, Salted Caramel Sauce, and Sprinkles",6.29,hollywood-studios/ice-cold-hydraulics
+2026-11-24,Ice Cold Hydraulics,Disney's Hollywood Studios,Churro Crafted Soda,Disney Jollywood Nights Exclusive Beverage Offerings,Special Ticketed Event,Churro-flavored Oat Milk over Coca-Cola® with Gingerbread Syrup topped with a Mini Churro (non-alcoholic),5.29,hollywood-studios/ice-cold-hydraulics
+2026-11-24,Ice Cold Hydraulics,Disney's Hollywood Studios,Popcorn Crafted Soda,Disney Jollywood Nights Exclusive Beverage Offerings,Special Ticketed Event,Popcorn-flavored Oat Milk over Coca-Cola® Zero Sugar topped with Freshly Popped Popcorn (non-alcoholic),5.29,hollywood-studios/ice-cold-hydraulics
+2026-11-24,Market,Disney's Hollywood Studios,Jack-Jack's Num Num Cookie,Snacks,All Day,,6.99,hollywood-studios/market
+2026-11-24,Market,Disney's Hollywood Studios,Nacho Chips with Cheese,Snacks,All Day,,6.29,hollywood-studios/market
+2026-11-24,Market,Disney's Hollywood Studios,Sweet Cream Cheese Pretzel,Snacks,All Day,,8.49,hollywood-studios/market
+2026-11-24,Market,Disney's Hollywood Studios,Cheddar-Jalapeño Pretzel,Snacks,All Day,,8.49,hollywood-studios/market
+2026-11-24,Market,Disney's Hollywood Studios,Chocolate-filled Mini Churros,Snacks,All Day,,7.49,hollywood-studios/market
+2026-11-24,Market,Disney's Hollywood Studios,Hot Dog with Chips,Snacks,All Day,,11.29,hollywood-studios/market
+2026-11-24,Market,Disney's Hollywood Studios,Banana,Snacks,All Day,,2.79,hollywood-studios/market
+2026-11-24,Market,Disney's Hollywood Studios,Assorted Fountain Beverages,Beverages,All Day,assorted Coca-Cola® Offerings,5.59,hollywood-studios/market
+2026-11-24,Market,Disney's Hollywood Studios,DASANI® Bottled Water,Beverages,All Day,,4.25,hollywood-studios/market
+2026-11-24,Market,Disney's Hollywood Studios,Pineapple-Coconut Slushy,Specialty Non-Alcoholic Beverages,All Day,,6.59,hollywood-studios/market
+2026-11-24,Market,Disney's Hollywood Studios,Strawberry Lemonade Slushy,Specialty Non-Alcoholic Beverages,All Day,,6.59,hollywood-studios/market
+2026-11-24,Market,Disney's Hollywood Studios,Bud Light Lager,Beverages with Alcohol,All Day,,10.75,hollywood-studios/market
+2026-11-24,Market,Disney's Hollywood Studios,Yuengling Traditional Lager,Beverages with Alcohol,All Day,,11.25,hollywood-studios/market
+2026-11-24,Market,Disney's Hollywood Studios,Cigar City Jai Alai IPA,Beverages with Alcohol,All Day,,13.25,hollywood-studios/market
+2026-11-24,Market,Disney's Hollywood Studios,Copa Di Vino,Beverages with Alcohol,All Day,"Cabernet Sauvignon, Chardonnay, Pinot Grigio, or Moscato",12.00,hollywood-studios/market
+2026-11-24,Market,Disney's Hollywood Studios,Strawberry Lemonade with Bacardi Dragonberry,Beverages with Alcohol,All Day,,17.00,hollywood-studios/market
+2026-11-24,Market,Disney's Hollywood Studios,Sunshine Margarita,Specialty Beverages with Alcohol,All Day,,17.00,hollywood-studios/market
+2026-11-24,Market,Disney's Hollywood Studios,Classic Piña Colada,Specialty Beverages with Alcohol,All Day,,17.00,hollywood-studios/market
+2026-11-24,Market,Disney's Hollywood Studios,Teriyaki Chicken Potstickers,Disney Jollywood Nights Exclusive Food Offerings,Special Ticketed Event,with Sweet Chili Aioli,6.49,hollywood-studios/market
+2026-11-24,Market,Disney's Hollywood Studios,Partysaurous Rex Brookie,Disney Jollywood Nights Exclusive Food Offerings,Special Ticketed Event,"Chocolate Chip Cookie Brownie topped with White Chocolate Ganache, Rainbow Sprinkles, and a Sugar Cookie",5.79,hollywood-studios/market
+2026-11-24,Market,Disney's Hollywood Studios,Caramel-Apple Cider,Disney Jollywood Nights Exclusive Beverage Offerings,Special Ticketed Event,"Werther’s® Original® Caramel, Apple Cider, and Cinnamon topped with Werther’s® Original® Caramel Popcorn. Served warm. (non-alcoholic)",5.29,hollywood-studios/market
+2026-11-24,Market,Disney's Hollywood Studios,Caramel-Apple Cider with Moonshine,Disney Jollywood Nights Exclusive Beverage Offerings,Special Ticketed Event,"Werther’s® Original® Caramel, Apple Cider, Cinnamon, and Ole Smoky Apple Pie Moonshine topped with Werther’s® Original® Caramel Popcorn. Served warm.",9.50,hollywood-studios/market
+2026-11-24,Market,Disney's Hollywood Studios,Bing Bong Candy Lemonade,Disney Jollywood Nights Exclusive Beverage Offerings,Special Ticketed Event,Frozen Strawberry Lemonade Slushy and Butterfly Pea Flower Tea topped with Pink Cotton Candy and Freeze-dried Candy (non-alcoholic),6.79,hollywood-studios/market
+2026-11-24,Neighborhood Bakery,Disney's Hollywood Studios,Jack-Jack's Num Num Cookie,Snacks,Snack,"Warm, Crunchy-but-Gooey Chocolate-Chip Cookie Tart",6.99,hollywood-studios/neighborhood-bakery
+2026-11-24,Neighborhood Bakery,Disney's Hollywood Studios,Popcorn in a Souvenir Bucket,Snacks,Snack,Popcorn Bucket Refill 2.49. Valid for Length of Stay.,14.29,hollywood-studios/neighborhood-bakery
+2026-11-24,Neighborhood Bakery,Disney's Hollywood Studios,Popcorn Box,Snacks,Snack,,7.29,hollywood-studios/neighborhood-bakery
+2026-11-24,Neighborhood Bakery,Disney's Hollywood Studios,Blue Raspberry Slushy,Beverages,Snack,,6.29,hollywood-studios/neighborhood-bakery
+2026-11-24,Neighborhood Bakery,Disney's Hollywood Studios,Wild Cherry Slushy,Beverages,Snack,,6.29,hollywood-studios/neighborhood-bakery
+2026-11-24,Neighborhood Bakery,Disney's Hollywood Studios,Assorted Bottled Beverages,Beverages,Snack,,5.50,hollywood-studios/neighborhood-bakery
+2026-11-24,Neighborhood Bakery,Disney's Hollywood Studios,DASANI® Bottled Water,Beverages,Snack,,4.25,hollywood-studios/neighborhood-bakery
+2026-11-24,Neighborhood Bakery,Disney's Hollywood Studios,smartwater®,Beverages,Snack,,6.25,hollywood-studios/neighborhood-bakery
+2026-11-24,Roundup Rodeo BBQ,Disney's Hollywood Studios,Lunch Price per Adult,Roundup Rodeo BBQ Pricing,Lunch,"$52 per adult, plus tax and gratuity",52.00,hollywood-studios/roundup-rodeo-bbq
+2026-11-24,Roundup Rodeo BBQ,Disney's Hollywood Studios,Lunch Price per Child,Roundup Rodeo BBQ Pricing,Lunch,"$32 per child (Ages 3-9), plus tax and gratuity",32.00,hollywood-studios/roundup-rodeo-bbq
+2026-11-24,Roundup Rodeo BBQ,Disney's Hollywood Studios,Molly's Frozen Berry Splash,Lil' Rider Refreshments,Lunch; Dinner,"Blueberry, Raspberry, and Strawberry Syrups with Lemon Juice and SKITTLES® POP’d Original Freeze Dried Candy",7.25,hollywood-studios/roundup-rodeo-bbq
+2026-11-24,Roundup Rodeo BBQ,Disney's Hollywood Studios,Partysaurus Tex,Lil' Rider Refreshments,Lunch; Dinner,"Minute Maid® Premium Lemonade and Strawberry Puree, garnished with Gummy Candy",7.25,hollywood-studios/roundup-rodeo-bbq
+2026-11-24,Roundup Rodeo BBQ,Disney's Hollywood Studios,Grown-up’s Peanut Butter & Jelly,Grown-up Drinks with Alcohol,Lunch; Dinner,"Frozen Skrewball Peanut Butter Whiskey, Minute Maid® Vanilla Smoothie Mix, Grape Jelly",19.00,hollywood-studios/roundup-rodeo-bbq
+2026-11-24,Roundup Rodeo BBQ,Disney's Hollywood Studios,Snake Eye Margarita,Grown-up Drinks with Alcohol,Lunch; Dinner,"Teremana Blanco Tequila, Watermelon Juice, Lime Juice, Agave, Smoked Chili Bitters",17.00,hollywood-studios/roundup-rodeo-bbq
+2026-11-24,Roundup Rodeo BBQ,Disney's Hollywood Studios,Prickly Spur,Grown-up Drinks with Alcohol,Lunch; Dinner,"Tito’s Handmade Vodka, Bacardí Superior Rum, Bombay Sapphire Gin, El Jimador Silver 100% de Agave Tequila, Triple Sec, Desert Pear Syrup, Lemon Juice, Sprite®",19.00,hollywood-studios/roundup-rodeo-bbq
+2026-11-24,Roundup Rodeo BBQ,Disney's Hollywood Studios,Coal'd Fashioned,Grown-up Drinks with Alcohol,Lunch; Dinner,"Buffalo Trace Kentucky Straight Bourbon, Mr Black Cold Brew Coffee Liqueur, Cinnamon Syrup, Orange Bitters, Angostura Bitters, Orange Wheel",19.00,hollywood-studios/roundup-rodeo-bbq
+2026-11-24,Roundup Rodeo BBQ,Disney's Hollywood Studios,Whinnyin’ Whiskey Lemonade,Grown-up Drinks with Alcohol,Lunch; Dinner,"Jack Daniel’s Tennessee Whiskey, Aperol Liqueur, Strawberry Puree, Lemonade, Basil",18.00,hollywood-studios/roundup-rodeo-bbq
+2026-11-24,Roundup Rodeo BBQ,Disney's Hollywood Studios,Rattler Rum Punch,Grown-up Drinks with Alcohol,Lunch; Dinner,"Bacardi Superior Rum, Orange-Pineapple Juice, Lime, and Passion Fruit, garnished with a Sweet-and-Spicy Rim",17.00,hollywood-studios/roundup-rodeo-bbq
+2026-11-24,Roundup Rodeo BBQ,Disney's Hollywood Studios,Strawberry Saloon Collins,Grown-up Drinks with Alcohol,Lunch; Dinner,"Bombay Sapphire Gin, Lemon Juice, Minute Maid® Strawberry Concentrate, Simple Syrup topped with Soda Water",16.00,hollywood-studios/roundup-rodeo-bbq
+2026-11-24,Roundup Rodeo BBQ,Disney's Hollywood Studios,"Bud Light Lager – St. Louis, MO",Beer & Hard Cider,Lunch; Dinner,"DRAFT 16-oz, (4.2%)",9.75,hollywood-studios/roundup-rodeo-bbq
+2026-11-24,Roundup Rodeo BBQ,Disney's Hollywood Studios,"Yuengling Traditional Lager – Pottsville, PA",Beer & Hard Cider,Lunch; Dinner,"DRAFT 16-oz, (4.5%)",10.25,hollywood-studios/roundup-rodeo-bbq
+2026-11-24,Roundup Rodeo BBQ,Disney's Hollywood Studios,"Cigar City Jai Alai IPA – Tampa, FL",Beer & Hard Cider,Lunch; Dinner,"DRAFT 16-oz, (7.5%)",12.50,hollywood-studios/roundup-rodeo-bbq
+2026-11-24,Roundup Rodeo BBQ,Disney's Hollywood Studios,"Abita Purple Haze Raspberry Lager - Covington, LA",Beer & Hard Cider,Lunch; Dinner,DRAFT 16-oz (4.2%),12.50,hollywood-studios/roundup-rodeo-bbq
+2026-11-24,Roundup Rodeo BBQ,Disney's Hollywood Studios,"Bell’s Seasonal Wheat Beer – Comstock, MI",Beer & Hard Cider,Lunch; Dinner,CAN 16-oz,12.50,hollywood-studios/roundup-rodeo-bbq
+2026-11-24,Roundup Rodeo BBQ,Disney's Hollywood Studios,"Sierra Nevada Pale Ale – Chico, CA",Beer & Hard Cider,Lunch; Dinner,"CAN 16-oz, (5.6%)",12.50,hollywood-studios/roundup-rodeo-bbq
+2026-11-24,Roundup Rodeo BBQ,Disney's Hollywood Studios,"Angry Orchard Crisp Apple Hard Cider – Cincinnati, OH",Beer & Hard Cider,Lunch; Dinner,"CAN 16-oz, (5.0%)",11.00,hollywood-studios/roundup-rodeo-bbq
+2026-11-24,Roundup Rodeo BBQ,Disney's Hollywood Studios,"Nino Franco Prosecco – Veneto, Italy",Wine By The Glass,Lunch; Dinner,,14.00,hollywood-studios/roundup-rodeo-bbq
+2026-11-24,Roundup Rodeo BBQ,Disney's Hollywood Studios,"Pacific Rim Riesling – Columbia Valley, WA",Wine By The Glass,Lunch; Dinner,,14.00,hollywood-studios/roundup-rodeo-bbq
+2026-11-24,Roundup Rodeo BBQ,Disney's Hollywood Studios,"Hess Shirtail Creek Chardonnay – Monterey, CA",Wine By The Glass,Lunch; Dinner,,14.00,hollywood-studios/roundup-rodeo-bbq
+2026-11-24,Roundup Rodeo BBQ,Disney's Hollywood Studios,"Imagery Pinot Noir – Sonoma, CA",Wine By The Glass,Lunch; Dinner,,13.00,hollywood-studios/roundup-rodeo-bbq
+2026-11-24,Roundup Rodeo BBQ,Disney's Hollywood Studios,"Line 39 Cabernet Sauvignon – Central Coast, CA",Wine By The Glass,Lunch; Dinner,,13.00,hollywood-studios/roundup-rodeo-bbq
+2026-11-24,Roundup Rodeo BBQ,Disney's Hollywood Studios,Dinner Price per Adult,Roundup Rodeo BBQ Pricing,Dinner,"$52 per adult, plus tax and gratuity",52.00,hollywood-studios/roundup-rodeo-bbq
+2026-11-24,Roundup Rodeo BBQ,Disney's Hollywood Studios,Dinner Price per Child,Roundup Rodeo BBQ Pricing,Dinner,"$32 per child (Ages 3-9), plus tax and gratuity",32.00,hollywood-studios/roundup-rodeo-bbq
+2026-11-24,Sunshine Day Bar,Disney's Hollywood Studios,Frozen Strawberry Daiquiri,Alcoholic Beverages,Snack,Don Q Cristal Rum blended with Strawberry Purée,16.00,hollywood-studios/sunshine-day-bar
+2026-11-24,Sunshine Day Bar,Disney's Hollywood Studios,Blackberry Moonshine Lemonade,Alcoholic Beverages,Snack,"Ole Smoky Blackberry Moonshine, Lemonade, Lemon Juice, and Blackberry Syrup",18.00,hollywood-studios/sunshine-day-bar
+2026-11-24,Sunshine Day Bar,Disney's Hollywood Studios,Southside Fizz,Alcoholic Beverages,Snack,"Hendrick's Gin, Pure Cane Sugar, and Lemon Juice topped with Soda Water",18.00,hollywood-studios/sunshine-day-bar
+2026-11-24,Sunshine Day Bar,Disney's Hollywood Studios,Cherry Blossom,Alcoholic Beverages,Snack,"Bacardí Superior Rum, Luxardo Maraschino Liqueur, Pineapple Juice, and Grenadine",19.00,hollywood-studios/sunshine-day-bar
+2026-11-24,Sunshine Day Bar,Disney's Hollywood Studios,Assorted Beers,Alcoholic Beverages,Snack,Draft Beer,10.75,hollywood-studios/sunshine-day-bar

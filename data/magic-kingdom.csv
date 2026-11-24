@@ -23,6 +23,8 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-24,Auntie Gravity's Galactic Goodies,Magic Kingdom,Joffrey’s™ Cold Brew Coffee,Beverages,Snack; Special Ticketed Event,with Sweet Cream. Large Joffrey’s™ Cold Brew Coffee 6.79,5.99,magic-kingdom/auntie-gravitys-galactic-goodies
 2026-11-24,Auntie Gravity's Galactic Goodies,Magic Kingdom,Nice List Shake,Mickey's Very Merry Christmas Party Exclusives,Special Ticketed Event,"Vanilla Shake with Caramel, Festive Cookies, and Chocolate Chip Cookie Dough topped with Whipped Cream and Holiday Sprinkles",9.49,magic-kingdom/auntie-gravitys-galactic-goodies
 2026-11-24,Auntie Gravity's Galactic Goodies,Magic Kingdom,Cherry Cordial Cold Brew,Holiday Features,Special Ticketed Event,"Joffrey’s™ Cold Brew Coffee topped with Cherry Whipped Cream, Chocolate Sauce, and Chocolate Curls",6.79,magic-kingdom/auntie-gravitys-galactic-goodies
+2026-11-24,Be Our Guest Restaurant,Magic Kingdom,Lunch Price per Adult,Be Our Guest Restaurant Lunch Pricing,Lunch,"$72 per adult (ages 10 and up), plus tax and gratuity",72.00,magic-kingdom/be-our-guest-restaurant
+2026-11-24,Be Our Guest Restaurant,Magic Kingdom,Lunch Price per Child,Be Our Guest Restaurant Lunch Pricing,Lunch,"$43 per child (ages 3-9), plus tax and gratuity",43.00,magic-kingdom/be-our-guest-restaurant
 2026-11-24,Be Our Guest Restaurant,Magic Kingdom,Lobster Macaroni au Gratin,Enhancements,Lunch; Dinner,with Sauce Mornay,14.00,magic-kingdom/be-our-guest-restaurant
 2026-11-24,Be Our Guest Restaurant,Magic Kingdom,House-cut French Fries,Enhancements,Lunch; Dinner,Black Garlic-Truffle Aïoli and Parmesan,10.00,magic-kingdom/be-our-guest-restaurant
 2026-11-24,Be Our Guest Restaurant,Magic Kingdom,Caramelized Blue Cheese,Enhancements,Lunch; Dinner,,6.00,magic-kingdom/be-our-guest-restaurant
@@ -58,6 +60,8 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-24,Be Our Guest Restaurant,Magic Kingdom,"Cigar City Jai Alai IPA, Tampa, Florida",Beer and Cider,Lunch; Dinner,Bold orange peel and hop flavors with a hint of caramel and a rich malt character on the finish,11.50,magic-kingdom/be-our-guest-restaurant
 2026-11-24,Be Our Guest Restaurant,Magic Kingdom,"Chimay Grand Reserve Ale, Belgium",Beer and Cider,Lunch; Dinner,"Dark Belgian Strong Ale brewed by Trappist monks. Aromas of spice and dried fruit with light caramel notes. Body is smooth and luscious with hoppy, sourdough flavors. Fresh yeast provides a rosy, floral touch",14.00,magic-kingdom/be-our-guest-restaurant
 2026-11-24,Be Our Guest Restaurant,Magic Kingdom,"Schöfferhofer Grapefruit Hefeweizen, Germany",Beer and Cider,Lunch; Dinner,A crisp and refreshing blend of Schöfferhofer Hefeweizen beer and natural carbonated grapefruit flavor for a zesty and fizzy taste experience,12.00,magic-kingdom/be-our-guest-restaurant
+2026-11-24,Be Our Guest Restaurant,Magic Kingdom,Dinner Price per Adult,Be Our Guest Restaurant Dinner Pricing,Dinner,"$72 per adult (ages 10 and up), plus tax and gratuity",72.00,magic-kingdom/be-our-guest-restaurant
+2026-11-24,Be Our Guest Restaurant,Magic Kingdom,Dinner Price per Child,Be Our Guest Restaurant Dinner Pricing,Dinner,"$43 per child (ages 3-9), plus tax and gratuity",43.00,magic-kingdom/be-our-guest-restaurant
 2026-11-24,Be Our Guest Restaurant,Magic Kingdom,Jolly Holly Cocktail (Party Exclusive),Specialty Cocktails ,Special,"Grainger's Deluxe Organic Vanilla Vodka, Myers's Original Dark Rum, Speculoos Syrup, Apple Cider garnished with a Sugared Graham Cracker Rim",17.00,magic-kingdom/be-our-guest-restaurant
 2026-11-24,Be Our Guest Restaurant,Magic Kingdom,Mistletoe Margarita (Party Exclusive),Specialty Cocktails ,Special,"Teremana Blanco Tequila, Grand Marnier Liqueur, Cranberry Juice, and Lime Juice garnished with a Sugared Rim and Cranberries",19.00,magic-kingdom/be-our-guest-restaurant
 2026-11-24,Be Our Guest Restaurant,Magic Kingdom,Sautéed Shrimp,Enhancements,Special,with Citrus Butter,10.00,magic-kingdom/be-our-guest-restaurant
@@ -129,6 +133,8 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-24,Cheshire Café,Magic Kingdom,Monster™ Energy,Beverages,Snack,,5.79,magic-kingdom/cheshire-cafe
 2026-11-24,Cheshire Café,Magic Kingdom,Simply® Orange,Beverages,Snack,,5.59,magic-kingdom/cheshire-cafe
 2026-11-24,Cheshire Café,Magic Kingdom,DASANI® Bottled Water,Beverages,Snack,,4.25,magic-kingdom/cheshire-cafe
+2026-11-24,Cinderella's Royal Table,Magic Kingdom,Breakfast Price per Adult,Cinderella's Royal Table Breakfast Pricing,Breakfast,"$79 per adult, plus tax and gratuity",79.00,magic-kingdom/cinderella-royal-table
+2026-11-24,Cinderella's Royal Table,Magic Kingdom,Breakfast Price per Child,Cinderella's Royal Table Breakfast Pricing,Breakfast,"$49 per child (Ages 3-9), plus tax and gratuity",49.00,magic-kingdom/cinderella-royal-table
 2026-11-24,Cinderella's Royal Table,Magic Kingdom,So Many Wishes,Beverages of the Court,Breakfast; Lunch; Special,"Pomegranate Green Tea, Hibiscus, Lemon, and a dash of Star Dust",6.79,magic-kingdom/cinderella-royal-table
 2026-11-24,Cinderella's Royal Table,Magic Kingdom,Royal Berry Spritzer,Beverages of the Court,Breakfast; Lunch; Special,"Blackberry, Pomegranate, and Lime blended with Topo Chico® Blueberry Hibiscus Sparkling Water",6.59,magic-kingdom/cinderella-royal-table
 2026-11-24,Cinderella's Royal Table,Magic Kingdom,Cappuccino,Beverages of the Court,Breakfast; Lunch; Special,,5.79,magic-kingdom/cinderella-royal-table
@@ -141,6 +147,8 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-24,Cinderella's Royal Table,Magic Kingdom,Blackberry-Orange Spritz,Specialty Cocktails,Breakfast; Lunch; Dinner,"Ketel One Botanical Peach & Orange Blossom Vodka, Rockey’s Botanical Liqueur, Kim Crawford Sauvignon Blanc, and Blackberry Purée",18.00,magic-kingdom/cinderella-royal-table
 2026-11-24,Cinderella's Royal Table,Magic Kingdom,Legacy Mimosa,Specialty Cocktails,Breakfast,"Uncle Nearest 1884 Small Batch Tennessee Whiskey, Grand Marnier Liqueur, Chateau Ste. Michelle Sparkling Wine, and Minute Maid® Orange Juice",21.00,magic-kingdom/cinderella-royal-table
 2026-11-24,Cinderella's Royal Table,Magic Kingdom,Bloody Mary,Specialty Cocktails,Breakfast,"Tito’s Handmade Vodka, House-made Bloody Mary Mix",18.00,magic-kingdom/cinderella-royal-table
+2026-11-24,Cinderella's Royal Table,Magic Kingdom,Lunch Price per Adult,Fairytale Dining Lunch Pricing at Cinderella's Royal Table,Lunch,"$92 per adult, plus tax and gratuity",92.00,magic-kingdom/cinderella-royal-table
+2026-11-24,Cinderella's Royal Table,Magic Kingdom,Lunch Price per Child,Fairytale Dining Lunch Pricing at Cinderella's Royal Table,Lunch,"$57 per child (Ages 3-9), plus tax and gratuity",57.00,magic-kingdom/cinderella-royal-table
 2026-11-24,Cinderella's Royal Table,Magic Kingdom,Sunset Margarita,Specialty Cocktails,Lunch; Dinner,"Teremana Blanco Tequila, Grand Marnier Liqueur, Smoked Chili Bitters, Lime, and Agave",19.00,magic-kingdom/cinderella-royal-table
 2026-11-24,Cinderella's Royal Table,Magic Kingdom,Roses & Rhubarb,Specialty Cocktails,Lunch; Dinner,"Four Roses Small Batch Bourbon, Tempus Fugit Crème de Noyaux, Demerara Syrup, and Rhubarb & Cardamom Bitters",20.00,magic-kingdom/cinderella-royal-table
 2026-11-24,Cinderella's Royal Table,Magic Kingdom,"McBride Sisters Sparkling Brut Rosé, Hawke's Bay",Champagne & Sparkling Wine,Lunch; Dinner; Special,,62.00,magic-kingdom/cinderella-royal-table
@@ -170,6 +178,8 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-24,Cinderella's Royal Table,Magic Kingdom,"Unibroue La Fin du Monde Belgian-style Strong Ale, Canada",Beer,Lunch; Dinner; Special,,12.25,magic-kingdom/cinderella-royal-table
 2026-11-24,Cinderella's Royal Table,Magic Kingdom,"Saison Dupont Belgian Farmhouse Ale, Belgium",Beer,Lunch; Dinner; Special,"Refreshing farmhouse ale with flavors of orange peel, clove, allspice, and citrus with a wonderfully fresh hop bouquet",12.75,magic-kingdom/cinderella-royal-table
 2026-11-24,Cinderella's Royal Table,Magic Kingdom,"Heineken 0.0 (Non-Alcoholic) Zoeterwoude, Netherlands",Beer,Lunch; Dinner; Special,,10.00,magic-kingdom/cinderella-royal-table
+2026-11-24,Cinderella's Royal Table,Magic Kingdom,Dinner Price per Adult,Fairytale Dining Dinner Pricing at Cinderella's Royal Table,Dinner,"$92 per adult, plus tax and gratuity",92.00,magic-kingdom/cinderella-royal-table
+2026-11-24,Cinderella's Royal Table,Magic Kingdom,Dinner Price per Child,Fairytale Dining Dinner Pricing at Cinderella's Royal Table,Dinner,"$57 per child (Ages 3-9), plus tax and gratuity",57.00,magic-kingdom/cinderella-royal-table
 2026-11-24,Cinderella's Royal Table,Magic Kingdom,Blackberry-Orange Spritz,Specialty Cocktails,Special,"Ketel One Peach & Orange Blossom Vodka, Rockey’s Botanical Liqueur, Kim Crawford Sauvignon Blanc, Blackberry",17.50,magic-kingdom/cinderella-royal-table
 2026-11-24,Cinderella's Royal Table,Magic Kingdom,Cranberry Christmas Cocktail (Party Exclusive),Specialty Cocktails,Special,"Fords Gin, Cane Syrup, Cranberry Juice, and Minute Maid® Orange Juice garnished with Cranberries and Rosemary",18.00,magic-kingdom/cinderella-royal-table
 2026-11-24,Cinderella's Royal Table,Magic Kingdom,Cranberry Sparkling Cocktail (Party Exclusive),Specialty Cocktails,Special,"Grand Marnier Liqueur, Cranberry Juice, and Nicolas Feuillatte Enchantée Champagne Brut",21.00,magic-kingdom/cinderella-royal-table
@@ -251,6 +261,8 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-24,Cosmic Ray's Starlight Café,Magic Kingdom,Snow Cheese Chicken Strips,Mickey's Very Merry Christmas Party Exclusives,Special Ticketed Event,Dusted with a Sweet-and-Savory White Cheddar Powder served with a side of Kimchi Aïoli and French Fries,13.99,magic-kingdom/cosmic-ray-starlight-cafe
 2026-11-24,Cosmic Ray's Starlight Café,Magic Kingdom,Mickey the Elf,Mickey's Very Merry Christmas Party Exclusives,Special Ticketed Event,"Vanilla Mousse with Festive Sprinkles, Sugar Cookie, and Chocolate Ears",7.99,magic-kingdom/cosmic-ray-starlight-cafe
 2026-11-24,Cosmic Ray's Starlight Café,Magic Kingdom,Cranberry Cider Punch,Mickey's Very Merry Christmas Party Exclusives,Special Ticketed Event,"Cranberry Juice, Apple Cider, and Sprite® with Sugared Cranberries and a Rosemary Sprig",5.79,magic-kingdom/cosmic-ray-starlight-cafe
+2026-11-24,The Crystal Palace,Magic Kingdom,Breakfast Price per Adult,Crystal Palace Pricing,Breakfast,"$57 per adult, plus tax and gratuity",57.00,magic-kingdom/crystal-palace
+2026-11-24,The Crystal Palace,Magic Kingdom,Breakfast Price per Child,Crystal Palace Pricing,Breakfast,"$37 per child (3-9), plus tax and gratuity",37.00,magic-kingdom/crystal-palace
 2026-11-24,The Crystal Palace,Magic Kingdom,So Many Wishes,Non-Alcoholic Specialty Beverages,Breakfast,"Pomegranate Green Tea, Hibiscus, Lemon, and a dash of Star Dust",6.79,magic-kingdom/crystal-palace
 2026-11-24,The Crystal Palace,Magic Kingdom,Joffrey's™ Cold Brew Coffee,Non-Alcoholic Specialty Beverages,Breakfast,Additional Flavors Available,5.29,magic-kingdom/crystal-palace
 2026-11-24,The Crystal Palace,Magic Kingdom,Bud Light Lager,Beer & Hard Cider,Breakfast; Lunch; Dinner,,9.75,magic-kingdom/crystal-palace
@@ -269,8 +281,12 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-24,The Crystal Palace,Magic Kingdom,Blackberry-Orange Spritz,Specialty Cocktails,Breakfast,"Ketel One Botanical Peach & Orange Blossom Vodka, Rockey's Botanical Liqueur, Indaba Sauvignon Blanc, Blackberry",17.50,magic-kingdom/crystal-palace
 2026-11-24,The Crystal Palace,Magic Kingdom,Sunrise Margarita,Specialty Cocktails,Breakfast; Lunch; Dinner,"Teremana Blanco Tequila, Grand Marnier Liqueur, Agave, Lime, Hella Cocktail Co. Smoked Chili Bitters",19.00,magic-kingdom/crystal-palace
 2026-11-24,The Crystal Palace,Magic Kingdom,Island Fusion Punch,Specialty Cocktails,Breakfast; Lunch; Dinner,"Mount Gay Eclipse Rum, Minute Maid® Passion Fruit Orange Guava Juice, Pineapple and Lime Juices",17.00,magic-kingdom/crystal-palace
+2026-11-24,The Crystal Palace,Magic Kingdom,Lunch Price per Adult,Crystal Palace Pricing,Lunch,"$64 per adult, plus tax and gratuity",64.00,magic-kingdom/crystal-palace
+2026-11-24,The Crystal Palace,Magic Kingdom,Lunch Price per Child,Crystal Palace Pricing,Lunch,"$46 per child (3-9), plus tax and gratuity",46.00,magic-kingdom/crystal-palace
 2026-11-24,The Crystal Palace,Magic Kingdom,So Many Wishes,Beverages,Lunch; Dinner,"Pomegranate Green Tea, Hibiscus, Lemon, and a dash of Star Dust",6.59,magic-kingdom/crystal-palace
 2026-11-24,The Crystal Palace,Magic Kingdom,Enchanted Grove Lime Splash,Non-Alcoholic Specialty Beverages,Lunch; Dinner,Minute Maid® Limeade paired with the revitalizing flavors of Cucumber and Mint,6.29,magic-kingdom/crystal-palace
+2026-11-24,The Crystal Palace,Magic Kingdom,Dinner Price per Adult,Crystal Palace Pricing,Dinner,"$64 per adult, plus tax and gratuity",64.00,magic-kingdom/crystal-palace
+2026-11-24,The Crystal Palace,Magic Kingdom,Dinner Price per Child,Crystal Palace Pricing,Dinner,"$46 per child (3-9), plus tax and gratuity",46.00,magic-kingdom/crystal-palace
 2026-11-24,The Diamond Horseshoe,Magic Kingdom,Glazed Sticky Ribs,Fixin's,Special,Glazed in Barq’s® Root Beer served with Cowboy Beans and Jalapeño Crisps,16.00,magic-kingdom/diamond-horseshoe
 2026-11-24,The Diamond Horseshoe,Magic Kingdom,Queso Fundido with Barbecue Burnt Ends,Fixin's,Special,with Warm Tortilla Chips,15.00,magic-kingdom/diamond-horseshoe
 2026-11-24,The Diamond Horseshoe,Magic Kingdom,Sweet Golden Corn Fritters,Fixin's,Special,with Red Chile Honey,12.00,magic-kingdom/diamond-horseshoe
@@ -447,6 +463,8 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-24,Liberty Square Market,Magic Kingdom,smartwater®,Beverages,Snack,,6.25,magic-kingdom/liberty-square-market
 2026-11-24,Liberty Square Market,Magic Kingdom,Gold Peak® Sweet Tea,Beverages,Snack,,5.49,magic-kingdom/liberty-square-market
 2026-11-24,Liberty Square Market,Magic Kingdom,Minute Maid® Apple Juice,Beverages,Snack,,4.59,magic-kingdom/liberty-square-market
+2026-11-24,Liberty Tree Tavern,Magic Kingdom,Lunch Price per Adult,Liberty Tree Tavern Lunch Pricing,Lunch,"$45 per adult, plus tax and gratuity",45.00,magic-kingdom/liberty-tree-tavern
+2026-11-24,Liberty Tree Tavern,Magic Kingdom,Lunch Price per Child,Liberty Tree Tavern Lunch Pricing,Lunch,"$24 per child, plus tax and gratuity",24.00,magic-kingdom/liberty-tree-tavern
 2026-11-24,Liberty Tree Tavern,Magic Kingdom,Tavern Punch,Beverages,Lunch; Dinner,Frozen DOLE Whip® Lemon and Sprite®,9.75,magic-kingdom/liberty-tree-tavern
 2026-11-24,Liberty Tree Tavern,Magic Kingdom,Gold Rush,Specialty Cocktails,Lunch; Dinner,"Elijah Craig Small Batch Kentucky Straight Bourbon, Lemon Juice, and Honey garnished with Crystalized Ginger",19.00,magic-kingdom/liberty-tree-tavern
 2026-11-24,Liberty Tree Tavern,Magic Kingdom,Legacy Mimosa,Specialty Cocktails,Lunch; Dinner,"Uncle Nearest 1884 Small Batch Tennessee Whiskey, Grand Marnier Liqueur, Chateau Ste. Michelle Sparkling Wine, and Minute Maid® Orange Juice",21.00,magic-kingdom/liberty-tree-tavern
@@ -468,6 +486,8 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-24,Liberty Tree Tavern,Magic Kingdom,"Meiomi Pinot Noir, Coastal, CA",Wines by the Glass or Bottle,Lunch; Dinner,,74.00,magic-kingdom/liberty-tree-tavern
 2026-11-24,Liberty Tree Tavern,Magic Kingdom,"The Federalist Zinfandel, Lodi, California",Wines by the Glass or Bottle,Lunch; Dinner,,56.00,magic-kingdom/liberty-tree-tavern
 2026-11-24,Liberty Tree Tavern,Magic Kingdom,"The Federalist Cabernet Sauvignon, Lodi, California",Wines by the Glass or Bottle,Lunch; Dinner,,56.00,magic-kingdom/liberty-tree-tavern
+2026-11-24,Liberty Tree Tavern,Magic Kingdom,Dinner Price per Adult,Liberty Tree Tavern Dinner Pricing,Dinner,"$45 per adult, plus tax and gratuity",45.00,magic-kingdom/liberty-tree-tavern
+2026-11-24,Liberty Tree Tavern,Magic Kingdom,Dinner Price per Child,Liberty Tree Tavern Dinner Pricing,Dinner,"$24 per child, plus tax and gratuity",24.00,magic-kingdom/liberty-tree-tavern
 2026-11-24,The Lunching Pad,Magic Kingdom,Ghoulish Blue Raspberry Slushy,Halloween Exclusives,Special Ticketed Event,Fanta® Blue Raspberry Slushy with Black Vanilla drizzle,6.79,magic-kingdom/lunching-pad
 2026-11-24,The Lunching Pad,Magic Kingdom,All-Beef Hot Dog,Entrées,Special Ticketed Event; Lunch And Dinner,All-Beef Hot Dog served with choice of Side,11.79,magic-kingdom/lunching-pad
 2026-11-24,The Lunching Pad,Magic Kingdom,Cream Cheese Pretzel,Snacks,Special Ticketed Event; Breakfast; Lunch And Dinner,Warm Stuffed Pretzel filled with Sweet Cream Cheese,8.49,magic-kingdom/lunching-pad
@@ -842,3 +862,27 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-24,Tortuga Tavern,Magic Kingdom,Assorted Coca-Cola® Fountain Beverages,Beverages,Lunch And Dinner,,4.79,magic-kingdom/tortuga-tavern
 2026-11-24,Tortuga Tavern,Magic Kingdom,DASANI® Bottled Water,Beverages,Lunch And Dinner,,4.00,magic-kingdom/tortuga-tavern
 2026-11-24,Tortuga Tavern,Magic Kingdom,Desert Pear Lemonade Pirate Slushy,Beverages,Lunch And Dinner,with Minute Maid® Premium Lemonade,6.49,magic-kingdom/tortuga-tavern
+2026-11-24,Astrofizz,Magic Kingdom,Toy Story Gingerbread House Bucket, Holiday Souvenir Exclusives,Snack; Special,"Additional refills are available for purchase at the Register. Limit two (2) per person, per transaction. Available while supplies last.",31.99,magic-kingdom/astrofizz
+2026-11-24,Astrofizz,Magic Kingdom,Orange Slushy Float,Featured Offerings,Snack; Special,Frozen Fanta® Orange and Rainbow Ice Pearls,7.49,magic-kingdom/astrofizz
+2026-11-24,Astrofizz,Magic Kingdom,Popcorn in a refillable Souvenir Bucket,Snacks,Snack; Special,Additional refills are available for purchase at the Register,14.29,magic-kingdom/astrofizz
+2026-11-24,Astrofizz,Magic Kingdom,Popcorn,Snacks,Snack; Special,,6.29,magic-kingdom/astrofizz
+2026-11-24,Astrofizz,Magic Kingdom,Cotton Candy,Snacks,Snack; Special,,5.49,magic-kingdom/astrofizz
+2026-11-24,Astrofizz,Magic Kingdom,Assorted Fountain Beverages,Beverages,Snack; Special,"Coca-Cola®, Diet Coke®, Sprite®, Coca-Cola® Zero Sugar, Fanta® Orange, POWERADE® Blue Mountain Blast, Minute Maid® Zero Sugar Lemonade",4.99,magic-kingdom/astrofizz
+2026-11-24,Astrofizz,Magic Kingdom,DASANI® Bottled Water,Beverages,Snack; Special,,4.25,magic-kingdom/astrofizz
+2026-11-24,Astrofizz,Magic Kingdom,smartwater®,Beverages,Snack; Special,,6.25,magic-kingdom/astrofizz
+2026-11-24,Astrofizz,Magic Kingdom,Frozen Coca-Cola® Slushy,Frozen Beverages,Snack; Special,,7.49,magic-kingdom/astrofizz
+2026-11-24,Astrofizz,Magic Kingdom,Frozen Fanta® Blue Raspberry Slushy,Frozen Beverages,Snack; Special,,7.49,magic-kingdom/astrofizz
+2026-11-24,Astrofizz,Magic Kingdom,Frozen Fanta® Orange Slushy,Frozen Beverages,Snack; Special,,7.49,magic-kingdom/astrofizz
+2026-11-24,Astrofizz,Magic Kingdom,Frozen Fanta® Wild Cherry Slushy,Frozen Beverages,Snack; Special,,7.49,magic-kingdom/astrofizz
+2026-11-24,Astrofizz,Magic Kingdom,Mickey’s Premium Ice Cream Bar,Ice Cream Novelties,Snack; Special,,6.49,magic-kingdom/astrofizz
+2026-11-24,Astrofizz,Magic Kingdom,Mickey’s Premium Ice Cream Sandwich,Ice Cream Novelties,Snack; Special,,6.49,magic-kingdom/astrofizz
+2026-11-24,Astrofizz,Magic Kingdom,Frozen Lemonade Cup,Ice Cream Novelties,Snack; Special,,6.29,magic-kingdom/astrofizz
+2026-11-24,Astrofizz,Magic Kingdom,Outshine® Strawberry Fruit Bar,Ice Cream Novelties,Snack; Special,,5.99,magic-kingdom/astrofizz
+2026-11-24,Astrofizz,Magic Kingdom,Peppermint Bark Cola Slushy,Mickey's Very Merry Christmas Party Exclusives,Special,"Frozen Coca-Cola (R), Chocolate-Peppermint Swirl and Sweet Cream, with Chocolate Curls",6.99,magic-kingdom/astrofizz
+2026-11-24,Energy Bytes,Magic Kingdom,Blue Coconut Slushy,End of Line,Snack,"Featuring flavors of Coconut, Lemon, and Lime",6.59,magic-kingdom/energy-bytes
+2026-11-24,Energy Bytes,Magic Kingdom,Mango Heat Wave,End of Line,Snack,Frozen Mango Beverage blended with Chili-Lime Sauce,6.59,magic-kingdom/energy-bytes
+2026-11-24,Energy Bytes,Magic Kingdom,Churro Overdrive,Power Cycle,Snack,"Cookies and Cream Mini Churros, Blue Sugar, and Marshmallow",8.49,magic-kingdom/energy-bytes
+2026-11-24,Energy Bytes,Magic Kingdom,Micro Bits,Power Cycle,Snack,Mixed Blue Raspberry and Orange Ice Pearls,5.99,magic-kingdom/energy-bytes
+2026-11-24,Energy Bytes,Magic Kingdom,Monster™ Energy,Sip Protocol,Snack,,5.79,magic-kingdom/energy-bytes
+2026-11-24,Energy Bytes,Magic Kingdom,Assorted Fountain Beverages,Sip Protocol,Snack,,5.50,magic-kingdom/energy-bytes
+2026-11-24,Energy Bytes,Magic Kingdom,DASANI® Bottled Water,Sip Protocol,Snack,,4.25,magic-kingdom/energy-bytes
