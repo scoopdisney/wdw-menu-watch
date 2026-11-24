@@ -9,5 +9,9 @@ export function fixedPrice(title, period) {
   const m = RE.exec(String(title || ''));
   if (!m) return null;
   const who = m[2][0].toUpperCase() + m[2].slice(1).toLowerCase();
-  return { price: Number(m[1]).toFixed(2), item: `${period || 'Meal'} Price per ${who}` };
+  // A closing label such as "(Full Course)" separates two menus sold at the same
+  // meal. Age notes such as "(Ages 3-9)" are not labels and are left out.
+  const tail = /\(([^()]*)\)\s*$/.exec(String(title));
+  const label = tail && !/\d|\bages?\b/i.test(tail[1]) ? ` (${tail[1].trim()})` : '';
+  return { price: Number(m[1]).toFixed(2), item: `${period || 'Meal'} Price per ${who}${label}` };
 }
