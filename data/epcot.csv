@@ -2016,8 +2016,8 @@ Pulled,Restaurant,Park,Item,Category,MealPeriods,Description,Price,Source
 2026-11-24,Spice Road Table Bar,EPCOT,Premium Sparkling Water,Non-Alcoholic Beverages,Bar – Lounge,,5.50,epcot/spice-road-table-bar
 2026-11-24,Spice Road Table Bar,EPCOT,smartwater®,Non-Alcoholic Beverages,Bar – Lounge,,6.25,epcot/spice-road-table-bar
 2026-11-24,Spice Road Table Bar,EPCOT,Assorted Fountain Beverages,Non-Alcoholic Beverages,Bar – Lounge,"Coca-Cola®, Diet Coke®, Sprite®, Minute Maid® Zero Sugar Lemonade",4.99,epcot/spice-road-table-bar
-2026-11-24,Takumi-Tei,EPCOT,Dinner Price per Adult,Takumi Tei Dinner Pricing,Dinner,"$250 per adult, plus tax and gratuity (Full Course)",250.00,epcot/takumi-tei-restaurant
-2026-11-24,Takumi-Tei,EPCOT,Dinner Price per Adult,Takumi Tei Dinner Pricing,Dinner,"$150 per adult, plus tax and gratuity (Semi Course)",150.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,Dinner Price per Adult (Full Course),Takumi Tei Dinner Pricing,Dinner,"$250 per adult, plus tax and gratuity (Full Course)",250.00,epcot/takumi-tei-restaurant
+2026-11-24,Takumi-Tei,EPCOT,Dinner Price per Adult (Semi Course),Takumi Tei Dinner Pricing,Dinner,"$150 per adult, plus tax and gratuity (Semi Course)",150.00,epcot/takumi-tei-restaurant
 2026-11-24,Takumi-Tei,EPCOT,IWA,Sake - Junmai Daiginjo,Dinner,,492.00,epcot/takumi-tei-restaurant
 2026-11-24,Takumi-Tei,EPCOT,"Dassai 23 - Yamaguchi, Japan",Sake - Junmai Daiginjo,Dinner,,260.00,epcot/takumi-tei-restaurant
 2026-11-24,Takumi-Tei,EPCOT,"Dassai  39 - Yamaguchi, Japan",Sake - Junmai Daiginjo,Dinner,,138.00,epcot/takumi-tei-restaurant
